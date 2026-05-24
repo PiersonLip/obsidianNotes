@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spherical cow.md",
+                "file": "node_modules/typescript/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spherical cow"
+              "title": "README"
             }
           },
           {
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -259,6 +258,7 @@
   },
   "active": "e859b709ca4c52b9",
   "lastOpenFiles": [
+    "spherical cow.md",
     "public/spherical-cow.html",
     "public/pulsar-timing-arrays.html",
     "public/index.html",
@@ -269,7 +269,6 @@
     "public/Physics-of-Binary-Star-Evolution/Formation-and-Evolution-of-LMXBs.html",
     "public/Physics-of-Binary-Star-Evolution/Evolution-of-single-stars.html",
     "public/Paper-Notes/Elusive-hot-stripped-helium-stars-(Yungelson).html",
-    "public/Paper-Notes/An-upper-limit-on-short-period-BH-companions-(greenUpper).html",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",

@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { indexPageBody } from "./quartz.layout"
 
 /**
  * Quartz 4 — Astro Notes vault
@@ -94,7 +95,7 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
+      Plugin.ContentPage({ pageBody: indexPageBody }),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({

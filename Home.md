@@ -18,7 +18,7 @@ Migrated from [[LaTeX astro-notes]] (`/home/pierson/school/Notes/astro-notes`). 
 ### General Notes
 - [[WD SNe]]
 - [[Pauli Exclusion Principle]]
-- [[Relativistic Beaming]]
+- [[General Notes/Relativistic Beaming]]
 - [[Ellipsoidal Modulation]]
 - [[General Notes/Gravitational Waves]]
 

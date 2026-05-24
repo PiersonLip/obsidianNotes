@@ -87,7 +87,7 @@ Time it takes for a star to use all of its available fuel
 - Not very well is known about evolution in this range
 - Generally, the carbon in the ore will ignite and leave a degenerate [[ONeMg]] core
 - This happens after they eject their hydrogen envelope, but in binaries this envelope is lost through mass transfer
-- This means that the ONeMg core will grow to the [[chandrasekhar-limit]], at which point it will then collapse, creating NS and SN explosion
+- This means that the ONeMg core will grow to the [[Chandrasekhar Limit]], at which point it will then collapse, creating NS and SN explosion
 - Might also result in [[TI-SNe]]
 
 ## Effects of wind mass loss, metallicity, and rotation
@@ -107,4 +107,4 @@ Time it takes for a star to use all of its available fuel
 
 ### Between 8 and $∼ 10 -12$
 
-- When the core approaches the [[chandrasekhar-limit]] thus begins the onset of core collapse
+- When the core approaches the [[Chandrasekhar Limit]] thus begins the onset of core collapse

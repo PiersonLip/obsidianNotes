@@ -2,7 +2,7 @@
 aliases:
   - Mass loss from a circumbinary disk
 tags:
-  - glossary
+  - astro-notes/generalNotes
 ---
 
 # Mass loss from a circumbinary disk

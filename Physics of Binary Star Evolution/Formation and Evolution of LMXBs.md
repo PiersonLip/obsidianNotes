@@ -26,7 +26,7 @@ tags:
 
 ## Possible formation channels
 
-- [[AIC]] of a massive WD reaching [[chandrasekhar-limit]] [[#sec:LMXBAICFormation]]
+- [[AIC]] of a massive WD reaching [[Chandrasekhar Limit]] [[#sec:LMXBAICFormation]]
 - Formation Via Common Envelope Evolution [[#sec:LMXBFormViaCE]]
 
 ### Formation Via Common Envelope Evolution
@@ -42,6 +42,6 @@ Deduced by looking at the Her x-1 system
 **Evolutionary Steps**
 In this config the initial system consists of a relatively massive star ($∼ 12 \text{to} 15 M_\odot$) together with a $2M_\odot$ star in a wide orbit ($P_{orb} > 1yr$) 
 
-### [[AIC]] of a massive WD reaching [[chandrasekhar-limit]]
+### [[AIC]] of a massive WD reaching [[Chandrasekhar Limit]]
 
 ### Origin from a HMXB with a much lower mass companion (triple star system)

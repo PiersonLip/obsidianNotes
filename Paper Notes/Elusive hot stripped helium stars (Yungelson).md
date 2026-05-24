@@ -10,7 +10,7 @@ tags:
 
 ## Stripped Helium Star Properties
 
-- non[[Degenerate-matter]] He-cores of which retained a $≲ 1 M_\odot$ hydrogen-helium envelope.  This chemical abundance is formed by numerous aspects
+- non[[Degenerate Matter]] He-cores of which retained a $≲ 1 M_\odot$ hydrogen-helium envelope.  This chemical abundance is formed by numerous aspects
 \begin{list}{-}{}
 - the retreat of an H-burning convective core in MS
 - Mixing!

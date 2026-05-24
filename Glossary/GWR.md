@@ -7,5 +7,6 @@ tags:
 
 # GWR
 
-gravitnal wave radiation.
- Process of stars losing angular momentum through the radiation of gravitnal waves
+[[gravitational wave]] radiation.
+
+Process of stars losing angular momentum through the radiation of gravitational waves

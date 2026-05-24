@@ -2,7 +2,8 @@
 aliases:
   - Case B RLO
 tags:
-  - glossary
+  - astro-notes/generalNotes
+  - astro-notes/RLO
 ---
 
 # Case-B-RLO

@@ -3,6 +3,8 @@ category: general
 section: Pauli Exclusion Principle
 tags:
   - astro-notes/generalNotes
+aliases:
+  - Pauli-Exclusion-Principle
 ---
 <a id="pauli-exclusion-principle"></a>
 ---

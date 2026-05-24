@@ -8,90 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd66566f7dce6597",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Glossary.base",
-                "viewName": "Glossary"
-              },
-              "icon": "lucide-table",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "7afe45ff658fa160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Mass loss from a circumbinary disk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mass loss from a circumbinary disk"
-            }
-          },
-          {
-            "id": "4ed1b8244d102e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Degenerate-matter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Degenerate-matter"
-            }
-          },
-          {
-            "id": "f32c22a396ea7c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Comptonization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comptonization"
-            }
-          },
-          {
-            "id": "b67af89feca1e669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Case-B-RLO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case-B-RLO"
-            }
-          },
-          {
             "id": "f6c1822af5eff976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/chandrasekhar-limit.md",
+                "file": "General Notes/RLO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chandrasekhar-limit"
+              "title": "RLO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:glossary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -298,53 +227,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7afe45ff658fa160",
+  "active": "f6c1822af5eff976",
   "lastOpenFiles": [
-    "Glossary/Recycled Pulsar.md",
-    "Glossary/stellar streams.md",
-    "Bases/Glossary.base",
-    "Glossary/Mass loss from a circumbinary disk.md",
-    "Glossary/Degenerate-matter.md",
-    "Glossary/Comptonization.md",
-    "Glossary/Case-B-RLO.md",
-    "Glossary/chandrasekhar-limit.md",
-    "Glossary/Magnetic Breaking.md",
-    "NS.md",
-    "Glossary/Eddington Luminosity Limit.md",
-    "Glossary/Case A RLO.md",
-    "Glossary/Blue-stragglers.md",
-    "Glossary/Barium-stars.md",
-    "Glossary/Even Modes.md",
-    "Glossary/Eddington Limit.md",
-    "WD.md",
-    "Glossary/Edge Limit Detonation.md",
-    "Glossary/Hierarchical Merger.md",
-    "blackhole.md",
-    "Black hole.md",
-    "BH.md",
-    "Glossary/collapser.md",
-    "Glossary/kilonova.md",
-    "Glossary/odd modes.md",
-    "Glossary/Proper Motion.md",
-    "Bases/Class Notes.base",
-    "Bases/Papers.base",
-    "Bases/Astro210.base",
-    "Bases/Physics of Binary Star Evolution.base",
-    "Bases/Astrobites.base",
-    "Attachments/bhPertubation.png",
-    "Attachments/ManyMerger.png",
-    "Attachments/mainNotes-figure0.png",
-    "Attachments/mainNotes-figure1.png",
-    "Attachments/mainNotes-figure2.png",
-    "public/Bases/Astrobites.base",
-    "public/Bases",
-    "public/deploy/vps-build.sh",
-    "public/deploy",
+    "public/accretion.html",
+    "white dwarf.md",
+    "accreted.md",
+    "public/accreted.html",
+    "General Notes/RLO.md",
+    "public/RLOF.html",
+    "winds.md",
+    "public/stellar-wind.html",
+    "public/winds.html",
+    "General Notes/Edge Limit Detonation.md",
+    "General Notes/Mass loss from a circumbinary disk.md",
+    "CMB.md",
+    "public/cosmic-microwave-background.html",
+    "public/CMB.html",
+    "pauli-exclusion-principle.md",
+    "[SNe.md",
+    "public/[SNe.html",
+    "General Notes/Pauli Exclusion Principle.md",
+    "public/Pauli-Exclusion-Principle.html",
+    "public/pauli-exclusion-principle.html",
+    "Glossary/GWR.md",
+    "General Notes/photon-gas.md",
+    "public/General-Notes/consv-RLO.html",
+    "Glossary/ZTF.md",
+    "General Notes/LVB.md",
+    "General Notes/GW.md",
+    "General Notes/natal-kick.md",
+    "General Notes/antibiotic-index.md",
+    "General Notes/thermal-timescale.md",
+    "General Notes/Even Modes.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
     "public/Attachments/bhPertubation.png",
     "public/Attachments/ManyMerger.png",
+    "public/Pasted-image-20260524010657.png",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "Glossary/AIC.md",
+    "Glossary/DNS.md",
+    "General Notes/Hierarchical Merger.md",
+    "General Notes/collapser.md",
+    "General Notes/kilonova.md",
+    "General Notes/odd modes.md",
+    "Attachments/bhPertubation.png",
+    "Attachments/ManyMerger.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -46,7 +46,7 @@ tags:
 - more likely to detect it if the mass transfer is stable
 - orbit always expands for $q < 1 $ and always shrinks when $q = 1.28$
 - Depends on whether the donor contracts or swells upon starting to transfer mass
-- Donors with radiative envelopes ([[Case A RLO]]) or slightly convective envelopes (early [[Case-B-RLO]]) will typically either shrink or stay the same radius
+- Donors with radiative envelopes ([[Case A RLO]]) or slightly convective envelopes (early [[Case B RLO]]) will typically either shrink or stay the same radius
 
 ## Tidal Evo
 

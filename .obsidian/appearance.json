@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "equationSnip"
+    "equationSnip",
+    "dashboard"
   ],
   "cssTheme": "Minimal"
 }

@@ -1,0 +1,29 @@
+{
+  "widgets": [
+    {
+      "id": "ticktick",
+      "title": "TickTick — today",
+      "view": "Dashboard/views/ticktick",
+      "span": 2
+    },
+    {
+      "id": "daily",
+      "title": "Daily check-in",
+      "view": "Dashboard/views/daily-checkin",
+      "span": 1
+    },
+    {
+      "id": "broken-links",
+      "title": "Notes to write",
+      "subtitle": "Linked but no page yet",
+      "view": "Dashboard/views/broken-links",
+      "span": 1
+    },
+    {
+      "id": "apod",
+      "title": "NASA APOD",
+      "view": "Dashboard/views/apod",
+      "span": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ticktick": {
+    "tokenPath": "/home/pierson/.config/ticktick/token"
+  },
+  "apod": {
+    "apiKey": "DEMO_KEY"
+  },
+  "daily": {
+    "folder": "Dashboard/Daily"
+  }
+}

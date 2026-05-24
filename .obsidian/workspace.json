@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "490d747fbd0acefe",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "524cf5d7f72553d6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c1822af5eff976",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/RLO.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RLO"
+              "title": "Home"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "notebook-navigator:Notebook Navigator": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,31 +228,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c1822af5eff976",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "public/accretion.html",
+    "General Notes/RLO.md",
+    "public/Dashboard/Daily.gitkeep",
+    "Dashboard/Daily",
+    "public/Home.html",
+    "Home.md",
+    "public/tags/dashboard.html",
+    "public/tags/astro-notes/index.html",
+    "public/Dashboard/index.html",
+    "public/Dashboard/Home.html",
+    "Dashboard/Home.md",
+    "public/Dashboard/views/daily-checkin.js",
+    "Dashboard/views/daily-checkin.js",
+    "public/Dashboard/views/apod.js",
     "white dwarf.md",
     "accreted.md",
-    "public/accreted.html",
-    "General Notes/RLO.md",
-    "public/RLOF.html",
     "winds.md",
-    "public/stellar-wind.html",
-    "public/winds.html",
     "General Notes/Edge Limit Detonation.md",
     "General Notes/Mass loss from a circumbinary disk.md",
     "CMB.md",
-    "public/cosmic-microwave-background.html",
-    "public/CMB.html",
     "pauli-exclusion-principle.md",
     "[SNe.md",
-    "public/[SNe.html",
     "General Notes/Pauli Exclusion Principle.md",
-    "public/Pauli-Exclusion-Principle.html",
-    "public/pauli-exclusion-principle.html",
     "Glossary/GWR.md",
     "General Notes/photon-gas.md",
-    "public/General-Notes/consv-RLO.html",
     "Glossary/ZTF.md",
     "General Notes/LVB.md",
     "General Notes/GW.md",
@@ -271,8 +273,6 @@
     "Glossary/DNS.md",
     "General Notes/Hierarchical Merger.md",
     "General Notes/collapser.md",
-    "General Notes/kilonova.md",
-    "General Notes/odd modes.md",
     "Attachments/bhPertubation.png",
     "Attachments/ManyMerger.png",
     "Untitled.canvas",

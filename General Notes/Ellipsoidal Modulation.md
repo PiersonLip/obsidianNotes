@@ -8,4 +8,4 @@ tags:
 
 ---
 
-See <https://agn.caltech.edu/~srk/Ay215/Presentations/ellipsoidal_mod.pdf>!!!
+See <https://agn.caltech.edu/~srk/Ay215/Presentations/ellipsoidal_mod.pdf>

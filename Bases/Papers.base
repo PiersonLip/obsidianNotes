@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder.startsWith("Paper Notes")
+    - category == "paper"
+formulas:
+  category: category
+properties:
+  file.name:
+    displayName: Note
+  citekey:
+    displayName: Cite key
+views:
+  - type: table
+    name: Paper notes
+    order:
+      - file.name
+      - citekey

@@ -1,0 +1,257 @@
+{
+  "choices": [
+    {
+      "id": "6681661f-1069-4ef0-8def-5678905232be",
+      "name": "New Astrobite Note",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "9a6373c7-e16e-4cfc-a3bc-4f6e2846a961",
+        "name": "New Astrobite Note",
+        "commands": [
+          {
+            "id": "92e7148e-e67c-4ba7-b5af-87199a8d8821",
+            "name": "Create from Astrobites URL",
+            "type": "UserScript",
+            "path": "Scripts/new-astrobite.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d6f28ae9-6342-4aaf-b6e1-681ef6448ba9",
+      "name": "New Glossary Term",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "102e6b6d-577e-4c51-962c-18276ed1d35c",
+        "name": "New Glossary Term",
+        "commands": [
+          {
+            "id": "50240f22-eed4-4ae5-a906-d321c750d8ee",
+            "name": "Create glossary note",
+            "type": "UserScript",
+            "path": "Scripts/new-glossary.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "4cd863d9-19a4-4a9f-87de-0d1a7b1e7869",
+      "name": "Refresh Astrobites Index",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "f4a8dd5f-60cc-4a7b-b570-3b677723a81c",
+        "name": "Refresh Astrobites Index",
+        "commands": [
+          {
+            "id": "2aca9534-86fd-4c87-b4c3-6f2643a8a522",
+            "name": "Rebuild Astrobites.md",
+            "type": "UserScript",
+            "path": "Scripts/refresh-astrobites-index.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a576e9c-dacc-465c-a556-496b3ff7bb72",
+      "name": "Refresh All Indices",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "adae790b-c0b5-4d14-b3ea-5bed9444cc29",
+        "name": "Refresh All Indices",
+        "commands": [
+          {
+            "id": "a8b6e118-8a7d-4b94-851c-8ca720ee785e",
+            "name": "Rebuild every hub index",
+            "type": "UserScript",
+            "path": "Scripts/refresh-vault-indices.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e195ef7d-f1d1-4203-b8e4-26ea19a8c60a",
+      "name": "Refresh Binary Book Index",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "10968792-c087-47ec-b257-651ef618bfc1",
+        "name": "Refresh Binary Book Index",
+        "commands": [
+          {
+            "id": "40a16a42-dc88-4869-8e96-f2737c899c20",
+            "name": "Rebuild book hub",
+            "type": "UserScript",
+            "path": "Scripts/refresh-binary-book-index.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a77270d2-aabf-4c8a-b707-0d782fd05474",
+      "name": "Refresh Astro210 Index",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "359bd704-8867-42ad-b354-ac54b6b8d5e6",
+        "name": "Refresh Astro210 Index",
+        "commands": [
+          {
+            "id": "8207bf1e-9156-4338-af35-f204b4d8ccd1",
+            "name": "Rebuild Astro210 hub",
+            "type": "UserScript",
+            "path": "Scripts/refresh-astro210-index.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a97e7ecd-eeff-4163-9181-8cbb2da9c801",
+      "name": "Refresh Class Notes Index",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "740bc029-5668-4362-bf5f-065b4ace1ce2",
+        "name": "Refresh Class Notes Index",
+        "commands": [
+          {
+            "id": "379084be-5896-4ddb-881f-6cd9e30405e3",
+            "name": "Rebuild class hub",
+            "type": "UserScript",
+            "path": "Scripts/refresh-class-notes-index.js",
+            "settings": {}
+          }
+        ]
+      }
+    }
+  ],
+  "inputPrompt": "single-line",
+  "persistInputPromptDrafts": true,
+  "useSelectionAsCaptureValue": true,
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": "major",
+  "version": "2.12.2",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": false,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "dateAliases": {
+    "t": "today",
+    "tm": "tomorrow",
+    "yd": "yesterday",
+    "nw": "next week",
+    "nm": "next month",
+    "ny": "next year",
+    "lw": "last week",
+    "lm": "last month",
+    "ly": "last year"
+  },
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\\text{new}}:=w_{ij}^{\\text{current}}+\\eta\\cdot\\delta_j\\cdot x_{ij}$$ on a separate line, but you can write \"($\\eta$ = learning rate, $\\delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ],
+        "autoSyncModels": false,
+        "modelSource": "modelsDev"
+      },
+      {
+        "name": "Gemini",
+        "endpoint": "https://generativelanguage.googleapis.com",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gemini-1.5-pro",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash-8b",
+            "maxTokens": 1000000
+          }
+        ],
+        "autoSyncModels": false,
+        "modelSource": "modelsDev"
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "consolidateFileExistsBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "backfillFileOpeningDefaults": true,
+    "setProviderModelDiscoveryMode": true,
+    "migrateProviderApiKeysToSecretStorage": true
+  }
+}

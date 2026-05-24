@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "490d747fbd0acefe",
+    "type": "split",
+    "children": [
+      {
+        "id": "524cf5d7f72553d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd66566f7dce6597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/Astro210/Early Astronomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Early Astronomy"
+            }
+          },
+          {
+            "id": "e859b709ca4c52b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spherical cow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spherical cow"
+            }
+          },
+          {
+            "id": "87d637e44a29c314",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f1a18b0f430e47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e034839163d892c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a5c85be322c636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78580b72e6475576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15df8c02a4aa1c87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e274252abaa79d0a",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 879.5078125,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1bcd45af517f7612",
+    "type": "split",
+    "children": [
+      {
+        "id": "337fbce2680ff62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb1d57cd32aaa4d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83923be3ac208b67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d79230c9c5832957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c7e9d8e88e7b86a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a094992b848a9de9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "07f7cd487180601a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "f04dc871931d245a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "notebook-navigator:Notebook Navigator": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false
+    }
+  },
+  "active": "87d637e44a29c314",
+  "lastOpenFiles": [
+    "pulsar timing arrays.md",
+    "spherical cow.md",
+    "Class Notes/Astro210/Early Astronomy.md",
+    "Glossary/GW.md",
+    "AstroBites/We’re Going to Steal the Moon (For Gravitational Waves).md",
+    "AstroBites/A Wandering SMBH Eating a Star.md",
+    "AstroBites/Live Fast Die Immediately.md",
+    "AstroBites/What happens when you poke a black hole.md",
+    "AstroBites/Astrobites.md",
+    "AstroBites/Many Mergers Might Fill the Mass Gap.md",
+    "General Notes/Ellipsoidal Modulation.md",
+    "General Notes/Gravitational Waves.md",
+    "Bases/Class Notes.base",
+    "Bases/Astro210.base",
+    "Bases/Physics of Binary Star Evolution.base",
+    "Bases/Glossary.base",
+    "Bases/Papers.base",
+    "Bases/Astrobites.base",
+    "Untitled.canvas",
+    "Untitled.md",
+    "2026-05-23.md",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+    "Glossary/odd_modes.md",
+    "Glossary/example.md",
+    "Excalidraw/Drawing 2026-05-23 19.34.11.excalidraw.md",
+    "Glossary/consv-RLO.md",
+    "Glossary/collapser.md",
+    "Glossary/LVB.md",
+    "Glossary/Degenerate-matter.md",
+    "Glossary/ZTF.md",
+    "Glossary/Case-B-RLO.md",
+    "Glossary/Comptonization.md",
+    "Glossary/Case-A-RLO.md",
+    "Scripts/refresh-class-notes-index.js",
+    "Scripts/refresh-astro210-index.js",
+    "Scripts/refresh-binary-book-index.js",
+    "Scripts/refresh-vault-indices.js",
+    "Attachments/mainNotes-figure2.png",
+    "Attachments/mainNotes-figure1.png",
+    "Attachments/mainNotes-figure0.png",
+    "Attachments/bhPertubation.png",
+    "Attachments/ManyMerger.png",
+    "Attachments/fig_many_merger.png",
+    "Attachments/fig_bh_perturbation.png",
+    "Attachments/fig_spacetime_curvature.png",
+    "Attachments/fig_bohr_model.png",
+    "Attachments/fig_roche_limit.png",
+    "Untitled 1.canvas"
+  ]
+}

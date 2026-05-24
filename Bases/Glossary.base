@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder.startsWith("Glossary")
+    - file.tags.contains("glossary")
+properties:
+  file.name:
+    displayName: Term
+  aliases:
+    displayName: Aliases
+views:
+  - type: table
+    name: Glossary
+    order:
+      - file.name
+      - aliases

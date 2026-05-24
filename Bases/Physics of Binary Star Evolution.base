@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("Physics of Binary Star Evolution")
+    - file.name != "Physics of Binary Star Evolution.md"
+properties:
+  file.name:
+    displayName: Chapter
+  note.chapter:
+    displayName: Chapter (property)
+views:
+  - type: list
+    name: All chapters
+    order:
+      - file.name
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - chapter

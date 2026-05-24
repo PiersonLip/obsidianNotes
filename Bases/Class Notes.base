@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.path == "Class Notes/Astro210/Astro210.md"
+properties:
+  file.name:
+    displayName: Course hub
+views:
+  - type: list
+    name: Courses
+    order:
+      - file.name

@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("Class Notes/Astro210")
+    - file.name != "Astro210.md"
+properties:
+  file.name:
+    displayName: Topic
+  note.section:
+    displayName: Section
+views:
+  - type: list
+    name: All topics
+    order:
+      - file.name
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - section

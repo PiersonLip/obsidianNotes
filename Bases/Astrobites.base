@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("AstroBites")
+    - file.name != "Astrobites"
+formulas:
+  citekey: note.citekey
+properties:
+  file.name:
+    displayName: Note
+  note.citekey:
+    displayName: Cite key
+  note.astrobites-url:
+    displayName: URL
+views:
+  - type: list
+    name: All Astrobites
+    order:
+      - file.name
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - citekey

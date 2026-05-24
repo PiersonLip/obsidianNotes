@@ -1,0 +1,14 @@
+.callout[data-callout="equation"] {
+    --callout-color: 61, 124, 222;
+    --callout-icon: lucide-function-square;
+    background-color: rgba(20, 20, 30, 0.8);
+    border-left: 3px solid rgb(61, 124, 222);
+}
+
+.callout[data-callout="equation"] .callout-title {
+    color: rgb(61, 124, 222);
+}
+
+.callout[data-callout="equation"] .callout-content {
+    color: #e0e0e0;
+}

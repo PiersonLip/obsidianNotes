@@ -1,0 +1,17 @@
+[Unit]
+Description=Rebuild Astro Notes Quartz site from GitHub
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=www-data
+Group=www-data
+Environment=REPO_DIR=/var/www/obsidianNotes
+Environment=BRANCH=master
+WorkingDirectory=/var/www/obsidianNotes
+ExecStart=/var/www/obsidianNotes/deploy/vps-build.sh
+Nice=10
+
+[Install]
+WantedBy=multi-user.target

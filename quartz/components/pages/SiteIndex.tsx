@@ -17,14 +17,14 @@ const HUB_EXCLUDE_TAGS = [
 
 export type SiteIndexSection =
   | { title: string; folder: string; hubsOnly?: boolean; hideHub?: boolean }
-  | { title: string; tag: string }
+  | { title: string; tag: string; hideHub?: boolean }
 
 export const defaultSiteIndexSections: SiteIndexSection[] = [
   { title: "Class Notes", folder: "Class Notes", hubsOnly: true },
   { title: "General Notes", tag: "astro-notes/generalNotes" },
   { title: "Paper Notes", folder: "Paper Notes" },
   { title: "Wikipedia", folder: "Wikipedia", hideHub: true },
-  { title: "AstroBites", folder: "AstroBites", hideHub: true },
+  { title: "AstroBites", tag: "astro-notes/astrobite", hideHub: true },
   {
     title: "Physics of Binary Star Evolution",
     folder: "Physics of Binary Star Evolution",
@@ -109,7 +109,12 @@ function pagesInFolder(
   return pages
 }
 
-function pagesWithTag(allFiles: QuartzPluginData[], tag: string): QuartzPluginData[] {
+function pagesWithTag(
+  allFiles: QuartzPluginData[],
+  tag: string,
+  hideHub?: boolean,
+  hubTitle?: string,
+): QuartzPluginData[] {
   return allFiles.filter((page) => {
     const tags = page.frontmatter?.tags ?? []
     if (!tags.includes(tag) || tags.includes("glossary")) {
@@ -120,6 +125,12 @@ function pagesWithTag(allFiles: QuartzPluginData[], tag: string): QuartzPluginDa
       return false
     }
     if (slug.startsWith("Glossary/")) {
+      return false
+    }
+    if (hideHub && hubTitle && page.frontmatter?.title === hubTitle) {
+      return false
+    }
+    if (hideHub && slug.endsWith("/Astrobites")) {
       return false
     }
     return true
@@ -133,7 +144,7 @@ function sectionPages(
 ): QuartzPluginData[] {
   const sort = byDateAndAlphabeticalFolderFirst(cfg)
   if ("tag" in section) {
-    return pagesWithTag(allFiles, section.tag).sort(sort)
+    return pagesWithTag(allFiles, section.tag, section.hideHub, section.title).sort(sort)
   }
   return pagesInFolder(
     allFiles,

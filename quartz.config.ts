@@ -93,11 +93,11 @@ const config: QuartzConfig = {
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
-      Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage({ pageBody: indexPageBody }),
       Plugin.FolderPage(),
       Plugin.TagPage(),
+      Plugin.AliasRedirects(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("AstroBites")
+    - file.tags.contains("astro-notes/astrobite")
     - file.name != "Astrobites"
 formulas:
   citekey: note.citekey
@@ -20,4 +20,4 @@ views:
     name: Table
     order:
       - file.name
-      - citekey
+      - note.citekey

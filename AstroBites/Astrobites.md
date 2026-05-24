@@ -8,7 +8,7 @@ tags:
 ```base
 filters:
   and:
-    - file.inFolder("AstroBites")
+    - file.tags.contains("astro-notes/astrobite")
     - file.name != "Astrobites.md"
 views:
   - type: list

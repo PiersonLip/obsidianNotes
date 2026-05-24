@@ -16,14 +16,14 @@ const HUB_EXCLUDE_TAGS = [
 ]
 
 export type SiteIndexSection =
-  | { title: string; folder: string; hubsOnly?: boolean }
+  | { title: string; folder: string; hubsOnly?: boolean; hideHub?: boolean }
   | { title: string; tag: string }
 
 export const defaultSiteIndexSections: SiteIndexSection[] = [
   { title: "Class Notes", folder: "Class Notes", hubsOnly: true },
   { title: "General Notes", tag: "astro-notes/generalNotes" },
   { title: "Paper Notes", folder: "Paper Notes" },
-  { title: "AstroBites", folder: "AstroBites", hubsOnly: true },
+  { title: "AstroBites", folder: "AstroBites", hideHub: true },
   {
     title: "Physics of Binary Star Evolution",
     folder: "Physics of Binary Star Evolution",
@@ -78,6 +78,7 @@ function pagesInFolder(
   allFiles: QuartzPluginData[],
   folder: string,
   hubsOnly: boolean,
+  hideHub: boolean,
 ): QuartzPluginData[] {
   const trie = trieFromAllFiles(allFiles)
   const node = trie.findNode(folderToSegments(folder))
@@ -89,6 +90,9 @@ function pagesInFolder(
   for (const child of node.children) {
     const page = trieChildToPage(child)
     if (!page) {
+      continue
+    }
+    if (hideHub && isFolderHub(page, folder)) {
       continue
     }
     if (
@@ -130,7 +134,12 @@ function sectionPages(
   if ("tag" in section) {
     return pagesWithTag(allFiles, section.tag).sort(sort)
   }
-  return pagesInFolder(allFiles, section.folder, section.hubsOnly ?? false).sort(sort)
+  return pagesInFolder(
+    allFiles,
+    section.folder,
+    section.hubsOnly ?? false,
+    section.hideHub ?? false,
+  ).sort(sort)
 }
 
 export default (() => {

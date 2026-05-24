@@ -16,10 +16,10 @@ Migrated from [[LaTeX astro-notes]] (`/home/pierson/school/Notes/astro-notes`). 
 - [[Class Notes/Astro210/Astro210]]
 
 ### General Notes
-- [[General Notes/WD SNe]]
-- [[General Notes/Pauli Exclusion Principle]]
-- [[General Notes/Relativistic Beaming]]
-- [[General Notes/Ellipsoidal Modulation]]
+- [[WD SNe]]
+- [[Pauli Exclusion Principle]]
+- [[Relativistic Beaming]]
+- [[Ellipsoidal Modulation]]
 - [[General Notes/Gravitational Waves]]
 
 ### Paper Notes

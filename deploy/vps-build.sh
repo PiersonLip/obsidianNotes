@@ -16,6 +16,9 @@ fi
 
 cd "$REPO_DIR"
 
+# Required when repo is owned by www-data but script runs as root
+git config --global --add safe.directory "$REPO_DIR" 2>/dev/null || true
+
 BEFORE="$(git rev-parse HEAD)"
 git fetch origin "$BRANCH"
 git reset --hard "origin/$BRANCH"
@@ -32,6 +35,10 @@ if ! command -v node >/dev/null; then
   log "ERROR: Node.js is required (Quartz needs Node >= 22)"
   exit 1
 fi
+
+export HOME="${HOME:-$REPO_DIR}"
+export npm_config_cache="${npm_config_cache:-$REPO_DIR/.npm-cache}"
+mkdir -p "$npm_config_cache"
 
 npm ci --prefer-offline --no-audit --no-fund
 npm run build

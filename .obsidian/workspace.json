@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/typescript/README.md",
+                "file": "Pauli Exclusion Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pauli Exclusion Principle"
             }
           },
           {
@@ -258,17 +258,18 @@
   },
   "active": "e859b709ca4c52b9",
   "lastOpenFiles": [
-    "spherical cow.md",
+    "Ellipsoidal Modulation.md",
+    "pulsar timing arrays.md",
     "public/spherical-cow.html",
     "public/pulsar-timing-arrays.html",
     "public/index.html",
-    "public/Physics-of-Binary-Star-Evolution/Visual-binaries-and-the-universal-validity-of-the-laws-of-physics.html",
-    "public/Physics-of-Binary-Star-Evolution/Roche-equipotential.html",
-    "public/Physics-of-Binary-Star-Evolution/Physics-of-Binary-Star-Evolution.html",
-    "public/Physics-of-Binary-Star-Evolution/Orbits-and-masses-of-spectroscopic-binaries.html",
-    "public/Physics-of-Binary-Star-Evolution/Formation-and-Evolution-of-LMXBs.html",
-    "public/Physics-of-Binary-Star-Evolution/Evolution-of-single-stars.html",
+    "public/WD-SNe.html",
+    "public/Relativistic-Beaming.html",
+    "public/Pauli-Exclusion-Principle.html",
     "public/Paper-Notes/Elusive-hot-stripped-helium-stars-(Yungelson).html",
+    "public/Paper-Notes/An-upper-limit-on-short-period-BH-companions-(greenUpper).html",
+    "public/Paper-Notes/A-Sun-like-star-orbiting-a-black-hole-(el-badry).html",
+    "public/POSYDON/POSYDON-Notes.html",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
@@ -276,6 +277,11 @@
     "public/Attachments/ManyMerger.png",
     "public/static/og-image.png",
     "public/static/icon.png",
+    "Untitled.canvas",
+    "WD SNe.md",
+    "spherical cow.md",
+    "memory.md",
+    "node_modules/typescript/README.md",
     "node_modules/@img/sharp-libvips-linux-x64/README.md",
     "node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
     "node_modules/mathjax-full/README.md",
@@ -296,15 +302,9 @@
     "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
     "node_modules/hast-util-raw/node_modules/@types/unist/README.md",
     "node_modules/hast-util-to-jsx-runtime/node_modules/property-information/readme.md",
-    "node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
-    "node_modules/linebreak/node_modules/base64-js/README.md",
-    "node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
-    "node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
-    "node_modules/hast-util-to-jsx-runtime/node_modules/vfile-message/readme.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

@@ -218,14 +218,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "ebe4b0aee4cca989",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,7 +247,9 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "87d637e44a29c314",

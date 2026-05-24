@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Blue stragglers
 tags:
-  - glossary
+  - astro-notes/generalNotes
+  - astro-notes/starType
 ---
 
 # Blue stragglers

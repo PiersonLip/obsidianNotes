@@ -28,11 +28,11 @@ tags:
 ## Types of RLO
 
 - [[consv-RLO]]
-- [[ML-CircumDisk]]
+- [[Mass loss from a circumbinary disk]]
 
 ## General Notes
 
-- Mass transfer onto NS and BH are limited by the [[eddington-limit]]
+- Mass transfer onto NS and BH are limited by the [[Eddington Limit]]
 - However, mass transferred off of the donor is at the rate of the evolution of its envelope. ([[thermal-timescale]])
 - mass transfer off of the donor is much greater (2 to 4 orders of magnitude) then the maximum accretion rate thus, the bulk of the mass will be ``blown away''
 - if more than half of the total mass of the binary system is lost in a SN, the system will become unbounded
@@ -46,7 +46,7 @@ tags:
 - more likely to detect it if the mass transfer is stable
 - orbit always expands for $q < 1 $ and always shrinks when $q = 1.28$
 - Depends on whether the donor contracts or swells upon starting to transfer mass
-- Donors with radiative envelopes ([[Case-A-RLO]]) or slightly convective envelopes (early [[Case-B-RLO]]) will typically either shrink or stay the same radius
+- Donors with radiative envelopes ([[Case A RLO]]) or slightly convective envelopes (early [[Case-B-RLO]]) will typically either shrink or stay the same radius
 
 ## Tidal Evo
 

@@ -34,7 +34,7 @@ tags:
 - This applies to the star from the moment it is a gas to the end of its life as BH, NS, WD, etc
 - These equations work well for [[antibiotic-index]] of  $\gamma = C_p/C_V = 5/3$, which is great for globes of ionized hydrogen and helium. However, generalized forms can be found with eqs 8.6-8.8
 - if $\gamma \leq 4/3$, the star **cannot** reach HSEq, and thus must collapse or explode
-- Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[eddington-lum-limit]]
+- Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[Eddington Luminosity Limit]]
 
 ## Stellar Timescales
 
@@ -79,7 +79,7 @@ Time it takes for a star to use all of its available fuel
 ### Mass limit at $∼ 1.5 M_\odot$
 
 - Masses less than $∼ 1.5 M_\odot$ have convective outer envelope and ones higher are radiative.
-- This convective envelope creates a magnetic field, this magnetic field can cause [[magnetic-breaking]], leading to stars of this mass range having slower spins
+- This convective envelope creates a magnetic field, this magnetic field can cause [[Magnetic Breaking]], leading to stars of this mass range having slower spins
 
 ## Stars in the range of $8-12 M_\odot$
 

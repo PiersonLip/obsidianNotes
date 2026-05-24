@@ -20,4 +20,4 @@ views:
     name: Table
     order:
       - file.name
-      - note.citekey
+      - citekey

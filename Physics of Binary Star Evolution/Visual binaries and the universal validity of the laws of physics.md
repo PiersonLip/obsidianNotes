@@ -27,7 +27,7 @@ tags:
 
 **\large Wide binaries** 
 - Binaries where one of the stars is too faint to directly observe
-- Can still be detected by the following [[proper-motion]] of the visible component
+- Can still be detected by the following [[Proper Motion]] of the visible component
 - Center of mass moves along, star orbits this center, showing a periodic wiggle in its apparent motion (I wonder how this can be muddled with and/or separated from parallax. I'm guessing they are in different planes?? (next graphic helped(it wiggles slightly due to yearly parallax, however, the proper motion is much greater and over a much longer duration, so it sort of just becomes ``noise'' relative)))
 
 ## Spectroscopic Binaries
@@ -106,7 +106,7 @@ Binaries where one star passes in front of the other at some point during its pe
 - Systems with [[MSP]]s generally have WD partners
 - Mass-transfer through evolution, or through orbital momentum loss through or GWR
 - The NS is greatly accelerated through accretion
-- Old NSs which evolved through this process are called *[[Recylced-Pulsar]]s*
+- Old NSs which evolved through this process are called *[[Recycled Pulsar]]s*
 
 ## Results of evolution in binaries
 

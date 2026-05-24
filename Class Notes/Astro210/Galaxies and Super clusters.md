@@ -10,7 +10,7 @@ tags:
 
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
-[[stellar-streams]]
+[[stellar streams]]
 
 - Galaxies (r $∼ 10 $ kpc)
 - Groups (r $∼ $ 1Mpc)

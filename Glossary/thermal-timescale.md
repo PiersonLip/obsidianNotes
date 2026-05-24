@@ -2,7 +2,7 @@
 aliases:
   - Thermal Timescale
 tags:
-  - glossary
+  - astro-notes/generalNotes
 ---
 
 # Thermal Timescale

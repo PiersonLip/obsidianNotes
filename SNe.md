@@ -1,0 +1,6 @@
+---
+aliases:
+  - SN
+  - supernova
+  - supernovae
+---

@@ -15,7 +15,7 @@ tags:
 
 ---
 
-What happens when you perturb the perfect shape of a blackhole (or any other object of symmetrically and spherically distorting spacetime)?
+What happens when you perturb the perfect shape of a [[blackhole]] (or any other object of symmetrically and spherically distorting spacetime)?
 
 In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacetimes outside spherical masses. Note that this was being done *before* BHs were known.  
 
@@ -23,7 +23,7 @@ In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacet
 
 ---
 
-To `poke` a BH One can disturb the shape of its spacetime. Regge and Wheeler did this by utilizing spherical harmonics. They used two types of perturbations, [[odd_modes]] and [[even_modes]]. Even those these don't necessarily completely represent real physical distortions in spacetime, this simplified version became the Regge-Wheeler gauge, which serves as a modern benchmark for how these calculations are done.
+To `poke` a BH One can disturb the shape of its spacetime. Regge and Wheeler did this by utilizing spherical harmonics. They used two types of perturbations, [[odd modes]] and [[Even Modes]]. Even those these don't necessarily completely represent real physical distortions in spacetime, this simplified version became the Regge-Wheeler gauge, which serves as a modern benchmark for how these calculations are done.
 
 ## The Regge-Wheeler Equation
 
@@ -31,7 +31,7 @@ To `poke` a BH One can disturb the shape of its spacetime. Regge and Wheeler did
 
 > [!equation] Regge-Wheeler Equation
 > <a id="eq:ReggeWheeler"></a>
-> Q measures the size of a perturbation, $r^*$ is the Turtle Coordinate [[#eq:turtleCoordinate]], $\omega$ is the frequency of the perturbation, and $V_{RW}$ is an effective potential for the BHs sensitivity to perturbations. *Note that this is for [[odd_modes]]!!*
+> Q measures the size of a perturbation, $r^*$ is the Turtle Coordinate [[#eq:turtleCoordinate]], $\omega$ is the frequency of the perturbation, and $V_{RW}$ is an effective potential for the BHs sensitivity to perturbations. *Note that this is for [[odd modes]]!!*
 
 $$
 \frac{d^2}{dr^{*2}} + \left[\omega^2 V_{RW} (r)\right]Q = 0

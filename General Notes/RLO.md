@@ -12,6 +12,6 @@ The process of mass transfer in a binary system between a `donor` and `accretor`
 
 Types include 
 [[consv-RLO]]
-[[Case-A-RLO]]
+[[Case A RLO]]
 [[Case-B-RLO]]
 [[consv-RLO|Conservative Roche lobe overflow]]

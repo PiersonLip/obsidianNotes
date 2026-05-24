@@ -11,42 +11,83 @@
             "id": "bd66566f7dce6597",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Class Notes/Astro210/Early Astronomy.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Glossary.base",
+                "viewName": "Glossary"
               },
-              "icon": "lucide-file",
-              "title": "Early Astronomy"
+              "icon": "lucide-table",
+              "title": "Glossary"
             }
           },
           {
-            "id": "e859b709ca4c52b9",
+            "id": "7afe45ff658fa160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Ellipsoidal Modulation.md",
+                "file": "Glossary/Mass loss from a circumbinary disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellipsoidal Modulation"
+              "title": "Mass loss from a circumbinary disk"
             }
           },
           {
-            "id": "87d637e44a29c314",
+            "id": "4ed1b8244d102e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/surf-of-last-scatterting.md",
+                "file": "Glossary/Degenerate-matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "surf-of-last-scatterting"
+              "title": "Degenerate-matter"
+            }
+          },
+          {
+            "id": "f32c22a396ea7c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Comptonization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comptonization"
+            }
+          },
+          {
+            "id": "b67af89feca1e669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Case-B-RLO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Case-B-RLO"
+            }
+          },
+          {
+            "id": "f6c1822af5eff976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/chandrasekhar-limit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chandrasekhar-limit"
             }
           }
         ],
@@ -118,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -256,54 +298,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e859b709ca4c52b9",
+  "active": "7afe45ff658fa160",
   "lastOpenFiles": [
-    "General Notes/spherical cow.md",
-    "Pasted image 20260524010657.png",
-    "SETUP.md",
-    "public/quartz/components/pages/SiteIndex.tsx",
-    "public/quartz/components/pages",
-    "public/quartz/components",
-    "public/quartz",
-    "public/index.html",
-    "public/Paper-Notes/Elusive-hot-stripped-helium-stars-(Yungelson).html",
-    "public/Paper-Notes/An-upper-limit-on-short-period-BH-companions-(greenUpper).html",
-    "public/Paper-Notes/A-Sun-like-star-orbiting-a-black-hole-(el-badry).html",
-    "public/POSYDON/POSYDON-Notes.html",
-    "public/Home.html",
+    "Glossary/Recycled Pulsar.md",
+    "Glossary/stellar streams.md",
+    "Bases/Glossary.base",
+    "Glossary/Mass loss from a circumbinary disk.md",
+    "Glossary/Degenerate-matter.md",
+    "Glossary/Comptonization.md",
+    "Glossary/Case-B-RLO.md",
+    "Glossary/chandrasekhar-limit.md",
+    "Glossary/Magnetic Breaking.md",
+    "NS.md",
+    "Glossary/Eddington Luminosity Limit.md",
+    "Glossary/Case A RLO.md",
+    "Glossary/Blue-stragglers.md",
+    "Glossary/Barium-stars.md",
+    "Glossary/Even Modes.md",
+    "Glossary/Eddington Limit.md",
+    "WD.md",
+    "Glossary/Edge Limit Detonation.md",
+    "Glossary/Hierarchical Merger.md",
+    "blackhole.md",
+    "Black hole.md",
+    "BH.md",
+    "Glossary/collapser.md",
+    "Glossary/kilonova.md",
+    "Glossary/odd modes.md",
+    "Glossary/Proper Motion.md",
+    "Bases/Class Notes.base",
+    "Bases/Papers.base",
+    "Bases/Astro210.base",
+    "Bases/Physics of Binary Star Evolution.base",
+    "Bases/Astrobites.base",
+    "Attachments/bhPertubation.png",
+    "Attachments/ManyMerger.png",
+    "Attachments/mainNotes-figure0.png",
+    "Attachments/mainNotes-figure1.png",
+    "Attachments/mainNotes-figure2.png",
+    "public/Bases/Astrobites.base",
+    "public/Bases",
+    "public/deploy/vps-build.sh",
+    "public/deploy",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
     "public/Attachments/bhPertubation.png",
     "public/Attachments/ManyMerger.png",
-    "public/static/og-image.png",
-    "public/static/icon.png",
-    "index.md",
-    "memory.md",
-    "General Notes/WD SNe.md",
-    "General Notes/Pauli Exclusion Principle.md",
-    "General Notes/Ellipsoidal Modulation.md",
-    "General Notes/pulsar timing arrays.md",
     "Untitled.canvas",
-    "node_modules/typescript/README.md",
-    "node_modules/@img/sharp-libvips-linux-x64/README.md",
-    "node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/@esbuild/linux-x64/README.md",
-    "node_modules/gifuct-js/README.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
-    "node_modules/extend-shallow/README.md",
-    "node_modules/gray-matter/node_modules/js-yaml/README.md",
-    "node_modules/gray-matter/node_modules/js-yaml/CHANGELOG.md",
-    "node_modules/is-extendable/README.md",
-    "node_modules/hast-util-to-html/node_modules/property-information/readme.md",
-    "node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
-    "node_modules/cli-spinner/img/spinner.gif",
-    "node_modules/gifuct-js/demo/jblack.gif",
     "Untitled 1.canvas"
   ]
 }

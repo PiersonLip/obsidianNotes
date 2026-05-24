@@ -13,7 +13,7 @@ tags:
 
 - Stars of mass between 130-250 $M_\odot$ are thought to end their lives in [[PISN]]
 - Many BHs in the mass range of 45-120 are still observed
-- The paper proposes that the BHs in this mass range are actually formed via BBH mergers, including [[hierarchical-merger]]s.
+- The paper proposes that the BHs in this mass range are actually formed via BBH mergers, including [[Hierarchical Merger]]s.
 - Looking to establish this theory via [[GW]] observation of hierarchical mergers.
 - 1G + 1G mergers have the same spin axis's and similar masses, as they evolved together. Whereas hierarchical mergers have differing properties
 - They created a model for both non-hierarchical and hierarchical mergers, and then combined said models with a ``mixture fraction'' to create a ``mixture model'' *(look into this more and add a full section or something about it :))* Fitting to this model allows for the population to filter itself into its respective subpopulations without enforcing the existence of said subpop.

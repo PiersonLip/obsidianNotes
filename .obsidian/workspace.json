@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -230,6 +231,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "General Notes/RLO.md",
     "public/Dashboard/Daily.gitkeep",
     "Dashboard/Daily",
@@ -239,7 +241,6 @@
     "public/tags/astro-notes/index.html",
     "public/Dashboard/index.html",
     "public/Dashboard/Home.html",
-    "Dashboard/Home.md",
     "public/Dashboard/views/daily-checkin.js",
     "Dashboard/views/daily-checkin.js",
     "public/Dashboard/views/apod.js",

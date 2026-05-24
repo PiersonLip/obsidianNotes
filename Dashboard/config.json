@@ -7,5 +7,13 @@
   },
   "daily": {
     "folder": "Dashboard/Daily"
+  },
+  "brokenLinks": {
+    "excludePaths": [
+      "node_modules/",
+      "quartz/",
+      "public/",
+      ".quartz-cache/"
+    ]
   }
 }

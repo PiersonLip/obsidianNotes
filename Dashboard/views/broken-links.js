@@ -1,13 +1,40 @@
 const container = input?.container || dv.container;
 
+let config = {};
+try {
+  config = JSON.parse(await dv.io.load("Dashboard/config.json"));
+} catch {
+  /* defaults */
+}
+
+const excludePaths = config?.brokenLinks?.excludePaths ?? [
+  "node_modules/",
+  "quartz/",
+  "public/",
+  ".quartz-cache/",
+];
+
+function isExcludedPath(filePath) {
+  const norm = filePath.replace(/\\/g, "/");
+  return excludePaths.some((prefix) => norm.startsWith(prefix) || norm.includes(`/${prefix}`));
+}
+
+function isRealMissingNote(linkTarget) {
+  if (!linkTarget || linkTarget.startsWith("#")) return false;
+  if (/^[a-z]+:\/\//i.test(linkTarget)) return false;
+  return true;
+}
+
 function unresolvedLinkTargets() {
   const counts = new Map();
   const sources = new Map();
 
   for (const file of app.vault.getMarkdownFiles()) {
+    if (isExcludedPath(file.path)) continue;
     const cache = app.metadataCache.getFileCache(file);
     if (!cache?.links?.length) continue;
     for (const link of cache.links) {
+      if (!isRealMissingNote(link.link)) continue;
       const dest = app.metadataCache.getFirstLinkpathDest(link.link, file.path);
       if (dest) continue;
       const key = link.link;

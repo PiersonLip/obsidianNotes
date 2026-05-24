@@ -27,7 +27,7 @@ export const defaultSiteIndexSections: SiteIndexSection[] = [
   {
     title: "Physics of Binary Star Evolution",
     folder: "Physics of Binary Star Evolution",
-    hubsOnly: true,
+    hideHub: true,
   },
   { title: "Tools", folder: "POSYDON" },
 ]

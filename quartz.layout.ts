@@ -49,8 +49,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.ConditionalRender({
       component: Component.Graph({
-        localGraph: { showTags: false, depth: 2 },
-        globalGraph: { showTags: false },
+        localGraph: { showTags: false, depth: 2, excludePrefixes: ["Glossary/", "Home"] },
+        globalGraph: { showTags: false, excludePrefixes: ["Glossary/", "Home"] },
       }),
       condition: (page) => page.fileData.slug !== "index",
     }),

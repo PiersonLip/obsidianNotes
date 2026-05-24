@@ -24,12 +24,17 @@ git fetch origin "$BRANCH"
 git reset --hard "origin/$BRANCH"
 AFTER="$(git rev-parse HEAD)"
 
-if [[ "$BEFORE" == "$AFTER" ]]; then
+NEEDS_BUILD=false
+if [[ "$BEFORE" != "$AFTER" ]]; then
+  log "Updated $BEFORE -> $AFTER"
+  NEEDS_BUILD=true
+elif [[ ! -f public/index.html ]]; then
+  log "public/index.html missing — rebuilding"
+  NEEDS_BUILD=true
+else
   log "No changes on $BRANCH ($AFTER)"
   exit 0
 fi
-
-log "Updated $BEFORE -> $AFTER"
 
 if ! command -v node >/dev/null; then
   log "ERROR: Node.js is required (Quartz needs Node >= 22)"
@@ -38,9 +43,12 @@ fi
 
 export HOME="${HOME:-$REPO_DIR}"
 export npm_config_cache="${npm_config_cache:-$REPO_DIR/.npm-cache}"
+export NODE_OPTIONS="${NODE_OPTIONS:---max-old-space-size=512}"
 mkdir -p "$npm_config_cache"
 
-npm ci --prefer-offline --no-audit --no-fund
+if [[ ! -d node_modules ]] || [[ ! -f node_modules/.package-lock.json ]] || [[ package-lock.json -nt node_modules/.package-lock.json ]]; then
+  npm ci --prefer-offline --no-audit --no-fund
+fi
 npm run build
 
 log "Build complete -> $REPO_DIR/public"

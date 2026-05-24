@@ -1,41 +1,37 @@
 {
   "choices": [
     {
-      "id": "6681661f-1069-4ef0-8def-5678905232be",
+      "id": "choice-new-astrobite",
       "name": "New Astrobite Note",
       "type": "Macro",
       "command": true,
-      "runOnStartup": false,
       "macro": {
-        "id": "9a6373c7-e16e-4cfc-a3bc-4f6e2846a961",
+        "id": "macro-new-astrobite",
         "name": "New Astrobite Note",
         "commands": [
           {
-            "id": "92e7148e-e67c-4ba7-b5af-87199a8d8821",
+            "id": "cmd-new-astrobite-script",
             "name": "Create from Astrobites URL",
             "type": "UserScript",
-            "path": "Scripts/new-astrobite.js",
-            "settings": {}
+            "path": "Scripts/new-astrobite.js"
           }
         ]
       }
     },
     {
-      "id": "d6f28ae9-6342-4aaf-b6e1-681ef6448ba9",
-      "name": "New Glossary Term",
+      "id": "choice-new-wikipedia",
+      "name": "New Wikipedia Note",
       "type": "Macro",
       "command": true,
-      "runOnStartup": false,
       "macro": {
-        "id": "102e6b6d-577e-4c51-962c-18276ed1d35c",
-        "name": "New Glossary Term",
+        "id": "macro-new-wikipedia",
+        "name": "New Wikipedia Note",
         "commands": [
           {
-            "id": "50240f22-eed4-4ae5-a906-d321c750d8ee",
-            "name": "Create glossary note",
+            "id": "cmd-new-wikipedia-script",
+            "name": "Create from Wikipedia URL",
             "type": "UserScript",
-            "path": "Scripts/new-glossary.js",
-            "settings": {}
+            "path": "Scripts/new-wikipedia.js"
           }
         ]
       }

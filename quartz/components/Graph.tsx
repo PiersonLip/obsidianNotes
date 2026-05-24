@@ -17,6 +17,8 @@ export interface D3Config {
   opacityScale: number
   removeTags: string[]
   showTags: boolean
+  /** Slug prefixes omitted from graph nodes and links (e.g. Glossary/) */
+  excludePrefixes?: string[]
   focusOnHover?: boolean
   enableRadial?: boolean
 }
@@ -39,6 +41,7 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    excludePrefixes: [],
     focusOnHover: false,
     enableRadial: false,
   },
@@ -54,6 +57,7 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    excludePrefixes: [],
     focusOnHover: true,
     enableRadial: true,
   },

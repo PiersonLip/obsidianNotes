@@ -85,16 +85,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     opacityScale,
     removeTags,
     showTags,
+    excludePrefixes = [],
     focusOnHover,
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
-  const data: Map<SimpleSlug, ContentDetails> = new Map(
+  const shouldExclude = (id: SimpleSlug) =>
+    excludePrefixes.some((prefix) => id === prefix.replace(/\/$/, "") || id.startsWith(prefix))
+
+  const rawData: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),
   )
+  const data = new Map([...rawData.entries()].filter(([id]) => !shouldExclude(id)))
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())
@@ -104,7 +109,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      if (validLinks.has(dest) && !shouldExclude(dest)) {
         links.push({ source: source, target: dest })
       }
     }

@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { trieFromAllFiles } from "../../util/ctx"
 import { FileTrieNode } from "../../util/fileTrie"
 import { BuildTimeTrieData } from "../../util/ctx"
-import { FullSlug, resolveRelative } from "../../util/path"
+import { FilePath, FullSlug, resolveRelative, slugifyFilePath } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { byDateAndAlphabeticalFolderFirst } from "../PageList"
 import { concatenateResources } from "../../util/resources"
@@ -37,6 +37,13 @@ function hasExcludedTag(page: QuartzPluginData, excludeTags: string[]): boolean 
   return tags.some((t) => excludeTags.includes(t))
 }
 
+/** Hub/index note for a folder (e.g. AstroBites/Astrobites, Class Notes/Class-Notes). */
+function isFolderHub(page: QuartzPluginData, folder: string): boolean {
+  const hubSlug = slugifyFilePath(folder.split("/").pop()! as FilePath, true)
+  const fileSlug = (page.slug ?? "").split("/").pop() ?? ""
+  return fileSlug.toLowerCase() === hubSlug.toLowerCase()
+}
+
 function trieChildToPage(
   node: FileTrieNode<BuildTimeTrieData>,
 ): QuartzPluginData | undefined {
@@ -60,13 +67,20 @@ function trieChildToPage(
   }
 }
 
+function folderToSegments(folder: string): string[] {
+  return folder
+    .split("/")
+    .filter(Boolean)
+    .map((seg) => slugifyFilePath(seg as FilePath, true))
+}
+
 function pagesInFolder(
   allFiles: QuartzPluginData[],
   folder: string,
   hubsOnly: boolean,
 ): QuartzPluginData[] {
   const trie = trieFromAllFiles(allFiles)
-  const node = trie.findNode(folder.split("/").filter(Boolean))
+  const node = trie.findNode(folderToSegments(folder))
   if (!node) {
     return []
   }
@@ -77,7 +91,12 @@ function pagesInFolder(
     if (!page) {
       continue
     }
-    if (hubsOnly && !child.isFolder && hasExcludedTag(page, HUB_EXCLUDE_TAGS)) {
+    if (
+      hubsOnly &&
+      !child.isFolder &&
+      hasExcludedTag(page, HUB_EXCLUDE_TAGS) &&
+      !isFolderHub(page, folder)
+    ) {
       continue
     }
     pages.push(page)
@@ -88,14 +107,17 @@ function pagesInFolder(
 function pagesWithTag(allFiles: QuartzPluginData[], tag: string): QuartzPluginData[] {
   return allFiles.filter((page) => {
     const tags = page.frontmatter?.tags ?? []
-    if (!tags.includes(tag)) {
+    if (!tags.includes(tag) || tags.includes("glossary")) {
       return false
     }
     const slug = page.slug ?? ""
     if (slug === "index" || slug === "Home" || slug === "memory" || slug === "SETUP") {
       return false
     }
-    return !slug.includes("/")
+    if (slug.startsWith("Glossary/")) {
+      return false
+    }
+    return true
   })
 }
 

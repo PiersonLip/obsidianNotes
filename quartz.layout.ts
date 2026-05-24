@@ -1,16 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { QuartzComponent } from "./quartz/components/types"
+import IndexOrContent from "./quartz/components/pages/IndexOrContent"
 
-/** Home page TOC; all other notes use normal Content. */
-export const indexPageBody = (() => {
-  const Index = Component.SiteIndex()
-  const Main = Component.Content()
-  const Body: QuartzComponent = (props) =>
-    props.fileData.slug === "index" ? <Index {...props} /> : <Main {...props} />
-  Body.css = [Index.css, Main.css].filter(Boolean).join("\n")
-  return Body
-})()
+export const indexPageBody = IndexOrContent()
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),

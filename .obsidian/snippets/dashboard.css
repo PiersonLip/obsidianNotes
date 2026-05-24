@@ -1,12 +1,38 @@
 /* Obsidian dashboard boxes — enable via Settings → Appearance → CSS snippets */
 
+/* Override Minimal (and similar themes) readable line width on the homepage */
+.dashboard-home {
+  --line-width: 100%;
+  --max-width: 100%;
+  --content-line-width: 100%;
+  --container-dataview-table-width: 100%;
+}
+
+.dashboard-home .markdown-preview-view,
+.dashboard-home .markdown-preview-view .markdown-preview-sizer,
+.dashboard-home .markdown-source-view.mod-cm6 .cm-content,
+.dashboard-home .markdown-source-view.mod-cm6 .cm-sizer,
+.dashboard-home .markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div,
+.dashboard-home .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer.cm-contentContainer > .cm-content > div,
+.dashboard-home .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .inline-title,
+.dashboard-home .block-language-dataviewjs,
+.dashboard-home .markdown-preview-view.is-readable-line-width .markdown-preview-sizer .block-language-dataviewjs {
+  max-width: none !important;
+  width: 100% !important;
+}
+
 .dashboard-home .markdown-preview-view,
 .dashboard-home .markdown-source-view.mod-cm6 .cm-content {
-  max-width: 1100px;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 .dash-root {
-  margin: 0.5rem 0 2rem;
+  margin: 0.5rem auto 2rem;
+  width: 100%;
+  max-width: 1180px;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
 }
 
 .dash-header {
@@ -16,8 +42,19 @@
 .dash-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  gap: 1.25rem;
   align-items: start;
+  width: 100%;
+}
+
+@media (min-width: 1500px) {
+  .dash-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .dash-span-2 {
+    grid-column: span 2;
+  }
 }
 
 .dash-box {
@@ -96,6 +133,22 @@
 
 .dash-broken-links code {
   font-size: 0.92em;
+}
+
+.dash-broken-link {
+  border: none;
+  background: none;
+  padding: 0;
+  font: inherit;
+  font-family: var(--font-monospace);
+  font-size: 0.92em;
+  color: var(--text-accent);
+  cursor: pointer;
+  text-align: left;
+}
+
+.dash-broken-link:hover {
+  text-decoration: underline;
 }
 
 .dash-link-sources {

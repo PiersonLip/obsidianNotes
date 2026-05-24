@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fa431864c2b7ac4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "96b4fc45399caf8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,28 +238,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fa431864c2b7ac4e",
   "lastOpenFiles": [
+    "General Notes/collapser.md",
     "Dashboard/Home.md",
+    "General Notes/blackhole.md",
+    "General Notes/BH.md",
+    "public/General-Notes/winds.html",
+    "public/General-Notes/white-dwarf.html",
+    "public/General-Notes/WD.html",
+    "public/General-Notes/pauli-exclusion-principle.html",
+    "public/General-Notes/NS.html",
+    "public/General-Notes/CMB.html",
+    "public/General-Notes/blackhole.html",
+    "Black hole.md",
     "General Notes/RLO.md",
+    "public/General-Notes/BH.html",
     "public/Dashboard/Daily.gitkeep",
     "Dashboard/Daily",
-    "public/Home.html",
     "Home.md",
-    "public/tags/dashboard.html",
-    "public/tags/astro-notes/index.html",
-    "public/Dashboard/index.html",
-    "public/Dashboard/Home.html",
-    "public/Dashboard/views/daily-checkin.js",
-    "Dashboard/views/daily-checkin.js",
-    "public/Dashboard/views/apod.js",
-    "white dwarf.md",
+    "General Notes/white dwarf.md",
     "accreted.md",
-    "winds.md",
+    "General Notes/winds.md",
     "General Notes/Edge Limit Detonation.md",
     "General Notes/Mass loss from a circumbinary disk.md",
-    "CMB.md",
-    "pauli-exclusion-principle.md",
+    "General Notes/CMB.md",
+    "General Notes/pauli-exclusion-principle.md",
     "[SNe.md",
     "General Notes/Pauli Exclusion Principle.md",
     "Glossary/GWR.md",
@@ -271,9 +284,6 @@
     "public/static/og-image.png",
     "public/static/icon.png",
     "Glossary/AIC.md",
-    "Glossary/DNS.md",
-    "General Notes/Hierarchical Merger.md",
-    "General Notes/collapser.md",
     "Attachments/bhPertubation.png",
     "Attachments/ManyMerger.png",
     "Untitled.canvas",

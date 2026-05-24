@@ -13,6 +13,7 @@ const excludePaths = config?.brokenLinks?.excludePaths ?? [
   "public/",
   ".quartz-cache/",
 ];
+const createFolder = config?.brokenLinks?.createFolder ?? "General Notes";
 
 function isExcludedPath(filePath) {
   const norm = filePath.replace(/\\/g, "/");
@@ -23,6 +24,45 @@ function isRealMissingNote(linkTarget) {
   if (!linkTarget || linkTarget.startsWith("#")) return false;
   if (/^[a-z]+:\/\//i.test(linkTarget)) return false;
   return true;
+}
+
+function titleFromTarget(target) {
+  return target.split("/").pop().trim();
+}
+
+function pathFromTarget(target) {
+  const title = titleFromTarget(target).replace(/[\\/:*?"<>|]/g, "").trim();
+  return `${createFolder}/${title}.md`;
+}
+
+async function openOrCreateNote(target) {
+  const title = titleFromTarget(target);
+  const notePath = pathFromTarget(target);
+
+  let file = app.vault.getAbstractFileByPath(notePath);
+  if (!file) {
+    const existing = app.metadataCache.getFirstLinkpathDest(target, "/");
+    if (existing) {
+      file = existing;
+    } else {
+      file = await app.vault.create(
+        notePath,
+        `---
+category: general
+tags:
+  - astro-notes/generalNotes
+---
+
+# ${title}
+
+
+`
+      );
+      new Notice(`Created ${notePath}`);
+    }
+  }
+
+  await app.workspace.openLinkText(file.path, "", false);
 }
 
 function unresolvedLinkTargets() {
@@ -59,7 +99,7 @@ if (items.length === 0) {
 
 container.createEl("p", {
   cls: "dash-muted dash-summary-note",
-  text: `${items.length} link target(s) referenced but no note exists yet`,
+  text: `${items.length} link target(s) referenced but no note exists yet · click to create in ${createFolder}/`,
 });
 
 const list = container.createEl("ul", { cls: "dash-list dash-broken-links" });
@@ -67,7 +107,12 @@ for (const item of items.slice(0, 20)) {
   const li = list.createEl("li");
   li.createSpan({ cls: "dash-pill", text: String(item.count) });
   li.createSpan({ text: " " });
-  li.createEl("code", { text: item.target });
+  const link = li.createEl("button", {
+    cls: "dash-broken-link",
+    text: item.target,
+    attr: { type: "button", title: `Create ${pathFromTarget(item.target)}` },
+  });
+  link.onclick = () => openOrCreateNote(item.target);
   if (item.sources.length) {
     li.createEl("div", {
       cls: "dash-muted dash-link-sources",

@@ -31,8 +31,7 @@
               "title": "2026-05-25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d9e834ea4f076f7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2026-05-25.md",
     "Dashboard/Home.md",
     "index.md",
-    "2026-05-25.md",
     "memory.md",
     "Attachments/Pasted image 20260524010657.png"
   ]

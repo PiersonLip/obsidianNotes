@@ -44,3 +44,4 @@ for (const widget of registry.widgets) {
   await mountWidget(widget, parent);
 }
 ```
+

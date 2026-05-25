@@ -11,6 +11,34 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "ce8798d9bff5a273",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Home.md",
+                "bFile": "Home.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Home  (Working Tree)"
+            }
+          },
+          {
+            "id": "e0e9d89ca6dd9756",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard/Home.md",
@@ -21,7 +49,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,44 +257,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e0e9d89ca6dd9756",
   "lastOpenFiles": [
     "Dashboard/Home.md",
+    "Home.md",
+    "Dashboard/_cache/apod-2026-05-25.json",
+    "Dashboard/_cache",
+    "Attachments/Pasted image 20260524010657.png",
+    "2026-05-25.md",
+    "Bases/Astro210.base",
+    "Bases/Class Notes.base",
     "Bases/Glossary.base",
-    "Bases/Papers.base",
+    "Bases/Astrobites.base",
     "Bases/Physics of Binary Star Evolution.base",
+    "memory.md",
+    "Dashboard/Daily/2026-05-25.md",
+    "Personal/2026-05-25.md",
+    "Class Notes/Astro210/Astro210.md",
+    "Academic",
+    "Personal",
+    "AstroNotes",
     "Pasted image 20260524010657.png",
     "index.md",
-    "memory.md",
     "neutron stars.md",
     "blackhole.md",
     "General Notes/RLO.md",
     "General Notes/collapser.md",
     "General Notes/Degenerate Matter.md",
     "General Notes/NS.md",
-    "Bases/Astrobites.base",
-    "Bases/Astro210.base",
-    "Bases/Class Notes.base",
     "conflict-files-obsidian-git.md",
     "General Notes/BH.md",
     "AstroBites/What happens when you poke a black hole.md",
-    "Home.md",
     "General Notes/GW.md",
     "General Notes/runaway-RLOF.md",
     "Glossary/GWR.md",
     "gravitational wave.md",
-    "deploy/quartz-custom/quartz/components/styles/siteIndex.scss",
-    "deploy/quartz-custom/quartz/components/scripts/graph.inline.ts",
-    "deploy/quartz-custom/quartz/components/pages/IndexOrContent.tsx",
-    "deploy/quartz-custom/quartz/components/pages/SiteIndex.tsx",
-    "Dashboard/Daily/2026-05-25.md",
     "General Notes/blackhole.md",
     "Black hole.md",
     "General Notes/white dwarf.md",
     "accreted.md",
-    "General Notes/winds.md",
-    "General Notes/Edge Limit Detonation.md",
-    "General Notes/Mass loss from a circumbinary disk.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
@@ -274,7 +304,6 @@
     "public/Pasted-image-20260524010657.png",
     "public/static/og-image.png",
     "public/static/icon.png",
-    "Attachments/bhPertubation.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

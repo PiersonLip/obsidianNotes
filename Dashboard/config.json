@@ -5,6 +5,9 @@
   "apod": {
     "apiKey": "DEMO_KEY"
   },
+  "wikipedia": {
+    "lang": "en"
+  },
   "daily": {
     "folder": "Dashboard/Daily"
   },

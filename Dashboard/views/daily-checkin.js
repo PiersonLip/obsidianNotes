@@ -21,27 +21,8 @@ openBtn.onclick = async () => {
     await app.vault.createFolder(folder).catch(() => {});
     await app.vault.create(
       notePath,
-      `---\ntags:\n  - dashboard/daily\n---\n\n# ${today}\n\n## Check-in\n\n- [ ] \n\n## Focus\n\n\n## Notes\n\n`
+      `---\ntags:\n  - dashboard/daily\n---\n\n# ${today}\n\n## Notes\n\n`
     );
   }
   await app.workspace.openLinkText(notePath, "", false);
 };
-
-const prompts = container.createDiv({ cls: "dash-section" });
-prompts.createEl("h4", { text: "Today" });
-const checks = [
-  "Review TickTick / inbox",
-  "Skim [[Home]] or active project",
-  "One thing to finish before noon",
-];
-const ul = prompts.createEl("ul", { cls: "dash-list dash-checkin-list" });
-for (const label of checks) {
-  const li = ul.createEl("li");
-  li.createEl("input", { type: "checkbox", cls: "dash-checkbox" });
-  li.createSpan({ text: ` ${label}` });
-}
-
-container.createEl("p", {
-  cls: "dash-muted",
-  text: "Checkboxes are session-only; use the daily note for persistence.",
-});

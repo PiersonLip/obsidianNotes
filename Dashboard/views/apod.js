@@ -36,20 +36,16 @@ try {
   }
 
   if (data.explanation) {
-    const excerpt =
-      data.explanation.length > 420
-        ? `${data.explanation.slice(0, 417)}…`
-        : data.explanation;
-    container.createEl("p", { cls: "dash-apod-caption", text: excerpt });
+    container.createEl("p", { cls: "dash-apod-caption", text: data.explanation });
   }
 
+  const links = container.createDiv({ cls: "dash-feed-links" });
   if (data.hdurl) {
-    const hd = container.createEl("a", {
-      href: data.hdurl,
-      text: "HD image",
-      cls: "dash-muted",
-    });
+    const hd = links.createEl("a", { href: data.hdurl, text: "HD image", cls: "dash-muted" });
     hd.target = "_blank";
+  }
+  if (data.copyright) {
+    links.createEl("span", { cls: "dash-muted", text: ` · © ${data.copyright}` });
   }
 } catch (err) {
   container.createEl("p", { cls: "dash-error", text: String(err.message || err) });

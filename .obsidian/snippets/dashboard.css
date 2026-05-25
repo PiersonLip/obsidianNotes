@@ -226,9 +226,48 @@
   margin: 0.5rem 0;
 }
 
-.dash-apod-caption {
+.dash-apod-caption,
+.dash-wiki-caption {
   margin: 0.35rem 0 0;
-  line-height: 1.45;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.dash-feed-links {
+  margin-top: 0.5rem;
+}
+
+.dash-wiki-title h4 {
+  margin: 0;
+  display: inline;
+}
+
+.dash-wiki-title h4 a {
+  color: var(--text-normal);
+  text-decoration: none;
+}
+
+.dash-wiki-title h4 a:hover {
+  color: var(--text-accent);
+  text-decoration: underline;
+}
+
+.dash-wiki-image {
+  display: block;
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: var(--radius-m);
+  margin: 0.5rem 0;
+  float: right;
+  max-width: 42%;
+  margin-left: 0.75rem;
+}
+
+.dash-apod-title h4 {
+  margin: 0;
+  display: inline;
 }
 
 .dash-daily-header {

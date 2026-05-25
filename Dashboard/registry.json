@@ -8,8 +8,15 @@
     },
     {
       "id": "daily",
-      "title": "Daily check-in",
+      "title": "Daily note",
       "view": "Dashboard/views/daily-checkin",
+      "span": 1
+    },
+    {
+      "id": "wikipedia",
+      "title": "Wikipedia",
+      "subtitle": "Article of the day",
+      "view": "Dashboard/views/wikipedia",
       "span": 1
     },
     {

@@ -13,19 +13,18 @@ tags:
 
 ---
 
-## Visual binaries
+## [[Visual binaries]]
 
-- Visual binary $\rightarrow$ two in proximity through a telescope
-- Physical $\rightarrow$ gravitonalty bound orbits
-- Optical $\rightarrow$ happen to be close together in the sky
-
+- [[Visual binary]] $\rightarrow$ two in proximity through a telescope
+- [[Physical binary]] $\rightarrow$ Gravitationaly bound orbits
+- [[Optical binary]] $\rightarrow$ happen to be close together in the sky
 - Visual binaries have longer orbits
-- the proof of physical binaries (and not just coincidence) was proved in 1767 by John Michell
-- Shows that Newton's law of gravity applied outside just our solar system
+- the proof of physical binaries (and not just coincidence) was proved in 1767 by [[John Michell]]
+- Shows that [[Newton's]] law of gravity applied outside just our [[solar system]]
 
-## Astrometric Binaries
+## [[Astrometric Binaries]]
 
-**\large Wide binaries** 
+**\large [[Wide binaries]]** 
 - Binaries where one of the stars is too faint to directly observe
 - Can still be detected by the following [[Proper Motion]] of the visible component
 - Center of mass moves along, star orbits this center, showing a periodic wiggle in its apparent motion (I wonder how this can be muddled with and/or separated from parallax. I'm guessing they are in different planes?? (next graphic helped(it wiggles slightly due to yearly parallax, however, the proper motion is much greater and over a much longer duration, so it sort of just becomes ``noise'' relative)))

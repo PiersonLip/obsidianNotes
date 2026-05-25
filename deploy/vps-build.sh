@@ -78,5 +78,9 @@ if [[ ! -d node_modules ]] || [[ ! -f node_modules/.package-lock.json ]] || [[ p
   npm ci --prefer-offline --no-audit --no-fund
 fi
 
+if [[ -f "$CONTENT_DIR/Bibliography/AstroNotes.bib" ]] && [[ -f "$CONTENT_DIR/Bibliography/sources.bib" ]]; then
+  cat "$CONTENT_DIR/Bibliography/AstroNotes.bib" "$CONTENT_DIR/Bibliography/sources.bib" >"$CONTENT_DIR/Bibliography/all.bib"
+fi
+
 npx quartz build -d "$CONTENT_DIR"
 log "Build complete -> $PUBLIC_DIR"

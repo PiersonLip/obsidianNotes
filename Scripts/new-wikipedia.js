@@ -102,13 +102,27 @@ async function mergeAllBib(app) {
   }
 }
 
+function defaultAliases(title) {
+  const lines = [title.trim()];
+  const short = title.replace(/^(A|An|The)\s+/i, "").trim();
+  if (short && short.toLowerCase() !== title.trim().toLowerCase()) {
+    lines.push(short);
+  }
+  return lines;
+}
+
 function buildNoteContent(title, citeKey, url) {
   const citeLine = citeKey ? ` [@${citeKey}]` : "";
   const yamlCite = citeKey ? `citekey: ${citeKey}\n` : "";
+  const aliasLines = defaultAliases(title)
+    .map((a) => `  - ${a}`)
+    .join("\n");
   return `---
 wikipedia-url: "${url}"
 ${yamlCite}tags:
   - astro-notes/wikipedia
+aliases:
+${aliasLines}
 ---
 # ${title}${citeLine}
 ---

@@ -125,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wikipedia/Electron degeneracy pressure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Electron degeneracy pressure"
             }
           },
           {
@@ -230,24 +231,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Wikipedia/Electron degeneracy pressure.md",
+    "Wikipedia/Degenerate matter.md",
+    "Dashboard/Home.md",
+    "General Notes/compact object.md",
+    "General Notes/Degenerate Matter.md",
+    "X-ray Binary.md",
+    "degenerate mass.md",
+    "General Notes/degeneracy pressure.md",
+    "LMXB.md",
     "Common Envelope.md",
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
-    "LMXB.md",
     "Class Notes/Astro210/Orbital energetics.md",
     "Templates/ZOTERO-SETUP.md",
     "Bases/Papers.base",
     "Bases/Physics of Binary Star Evolution.base",
     "Bases/Astrobites.base",
     "Bases/Class Notes.base",
-    "Wikipedia/Degenerate matter.md",
     "Class Notes/Astro210/Waves.md",
-    "X-ray Binary.md",
-    "degenerate mass.md",
-    "Dashboard/Home.md",
-    "Wikipedia/Electron degeneracy pressure.md",
     "Wikipedia",
-    "General Notes/compact object.md",
     "General Notes/Case B RLO.md",
     "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
     "Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
@@ -262,8 +265,6 @@
     "General Notes/HMXB.md",
     "Zotero",
     "AstroNotes.bib",
-    "General Notes/donor.md",
-    "General Notes/accretor.md",
     "Dashboard/_cache/apod-2026-05-25.json",
     "Dashboard/_cache",
     "Attachments/Pasted image 20260524010657.png",

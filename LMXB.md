@@ -2,6 +2,8 @@
 aliases:
   - low mass x-ray binary
   - LMXBs
+tags:
+  - astro-notes/generalNotes
 ---
 ## LMXB
 --- 

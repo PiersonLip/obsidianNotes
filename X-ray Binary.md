@@ -1,6 +1,8 @@
 ---
 aliases:
   - XrB
+tags:
+  - astro-notes/generalNotes
 ---
 ## X-ray binary
 ---

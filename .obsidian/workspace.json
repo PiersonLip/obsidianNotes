@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "b41011c609631023",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
             "id": "7274ce128f471f8d",
             "type": "leaf",
             "state": {
@@ -73,7 +87,8 @@
               "title": "RLO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b41011c609631023",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "General Notes/BH.md",
     "AstroBites/What happens when you poke a black hole.md",
     "blackhole.md",
@@ -293,7 +309,6 @@
     "General Notes/Degenerate Matter.md",
     "neutron stars.md",
     "General Notes/NS.md",
-    "conflict-files-obsidian-git.md",
     "Glossary/GWR.md",
     "memory.md",
     "gravitational wave.md",

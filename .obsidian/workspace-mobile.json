@@ -153,6 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Dashboard/Home.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""

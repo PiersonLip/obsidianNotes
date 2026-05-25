@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4f47abcbea25c409",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "ce8798d9bff5a273",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Home.md",
-                "bFile": "Home.md",
+                "aFile": "Dashboard/Home.md",
+                "bFile": "Dashboard/Home.md",
                 "aRef": ""
               },
               "icon": "diff",
               "title": "Diff: Home  (Working Tree)"
             }
-          },
-          {
-            "id": "e0e9d89ca6dd9756",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "cd",
-                "bFile": "cd",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: cd  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d5fb97b01954d22",
+  "active": "4f47abcbea25c409",
   "lastOpenFiles": [
     "Dashboard/Home.md",
     "cd",

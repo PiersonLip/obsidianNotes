@@ -3,7 +3,6 @@ tags:
   - astro-notes
 aliases:
   - Roche Lobe Overflow
-  - RLO
   - RLOF
 ---
 

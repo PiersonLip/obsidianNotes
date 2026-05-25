@@ -15,9 +15,9 @@ tags:
 
 ---
 
-What happens when you perturb the perfect shape of a [[blackhole]] (or any other object of symmetrically and spherically distorting spacetime)?
+What happens when you perturb the perfect shape of a [[BH|black hole]] (or any other object of symmetrically and spherically distorting spacetime)?
 
-In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacetimes outside spherical masses. Note that this was being done *before* BHs were known.  
+In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacetimes outside spherical masses. Note that this was being done *before* [[BH]]s were known.  
 
 ## How do you poke a BH?
 
@@ -31,7 +31,7 @@ To `poke` a BH One can disturb the shape of its spacetime. Regge and Wheeler did
 
 > [!equation] Regge-Wheeler Equation
 > <a id="eq:ReggeWheeler"></a>
-> Q measures the size of a perturbation, $r^*$ is the Turtle Coordinate [[#eq:turtleCoordinate]], $\omega$ is the frequency of the perturbation, and $V_{RW}$ is an effective potential for the BHs sensitivity to perturbations. *Note that this is for [[odd modes]]!!*
+> Q measures the size of a perturbation, $r^*$ is the [[Turtle Coordinate]], $\omega$ is the frequency of the perturbation, and $V_{RW}$ is an effective potential for the BHs sensitivity to perturbations. *Note that this is for [[odd modes]]!!*
 
 $$
 \frac{d^2}{dr^{*2}} + \left[\omega^2 V_{RW} (r)\right]Q = 0
@@ -45,8 +45,8 @@ $$
 r^* = r + 2GM \ln\left|\frac{r}{2GM}-1\right|
 $$
 
-This equation ([[#eq:ReggeWheeler]]) looks very similar to the Schrödinger equation, allowing predictions of its behavior to be easily made. Because of this, it is easily predicted that the system will oscillate and then return to a low energy state. 
+This equation ([[#eq:ReggeWheeler]]) looks very similar to the [[Schrödinger equation]], allowing predictions of its behavior to be easily made. Because of this, it is easily predicted that the system will oscillate and then return to a low energy state. 
 
 ![[bhPertubation.png]]
 
-The `ring-down' phase detected with LIGO after a BH merger is described using this same method.
+The "ring-down" phase detected with [[LIGO]] after a BH merger is described using this same method.

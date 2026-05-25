@@ -10,14 +10,14 @@ tags:
 
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
-### Spectra (How do we know what the universe if made out of?)
+### [[Spectra]] (How do we know what the universe if made out of?)
 
-**\large Multi-messenger astronomy**
+**\large [[Multi-messenger astronomy]]**
 - Electromagnetic radiation
-- cosmic rays
+- [[cosmic rays]]
 - meteorites
-- neutrinos
-- gravitational waves
+- [[neutrinos]]
+- [[GW|Gravitational Waves]]
 
 ### Atoms and spectra
 
@@ -27,10 +27,6 @@ $$n = integer > 2$$
 
 ### Bohrs model
 
-% Preamble needs:
-% \usepackage{tikz}
-% \usetikzlibrary{arrows.meta,calc,positioning}
-
 ![[mainNotes-figure1.png]]
 
 Because orbital angular momentum is quantized, so is $r_n$ and $E_n$ $\rightarrow$ discrete orbtial levels
@@ -39,9 +35,9 @@ Because orbital angular momentum is quantized, so is $r_n$ and $E_n$ $\rightarro
 
 - Transitions to free unbounded states behave similarly, however, they have diff names
 - ionization and recombination
-- photoionization (electron is knocked free). photon knocks electron free
+- [[photoionization]] (electron is knocked free). photon knocks electron free
 - collisional ionization (electron becomes free). any other particle knocks electron free
-- a positively charged ion may combine with a free leectron, and atom emits radiation (photons) as the electrons drop to lower levels. called **recombination**
+- a positively charged ion may combine with a free electron, and atom emits radiation (photons) as the electrons drop to lower levels. called **recombination**
 
 ### Kirchoff's  Laws
 

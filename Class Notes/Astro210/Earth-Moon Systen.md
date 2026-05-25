@@ -20,7 +20,7 @@ tags:
 ### [[Precession]]
 
 - earth is an oblate spheroid with equatorial bulge of .3\% cause by separation
-- [[sun,]] [[moon]], and planets exert a torque $\tau$ on [[earth]]
+- [[sun]] [[moon]], and planets exert a torque $\tau$ on [[earth]]
 - $$\vec{\tau} = \vec{r} × \vec{F}$$
 - results in precession of spin axis of earth around ecliptic pole
 - [[NCP]] moves. [[Polaris]] will not always be at NCP

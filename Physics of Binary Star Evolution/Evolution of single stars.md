@@ -74,7 +74,7 @@ Time it takes for a star to use all of its available fuel
 
 ### Mass limit at $∼ 1.2M_\odot$
 
-- When hydrogen is exhausted in the star, the star contracts. This causes it to drift sharply left on the HR diagram, until the hydrogen-shell begins fusion causing it to have drift slowly upward and to the right on an HR diagram
+- When hydrogen is exhausted in the star, the star contracts. This causes it to drift sharply left on the [[HR diagram]], until the hydrogen-shell begins fusion causing it to have drift slowly upward and to the right on an HR diagram
 
 ### Mass limit at $∼ 1.5 M_\odot$
 
@@ -94,7 +94,6 @@ Time it takes for a star to use all of its available fuel
 
 - If a star has very fast spin, the helium in the core can get mixed into the whole star, preventing the star from becoming a giant, instead leading it towards becoming a [[WR-star]] *(This is cool as shit. Blender star my beloved)*. This can happen with stars with of low of mass as $15M_\odot$, as compared to the typical progenitor mass of $∼25M_\odot$
 - Non-rotating stars can become much more massive
-%
 - [[RSG]]s are much more common which stars of higher (sun-like) metallicities
 
 ## Final Evo of stars in the range of $1- 8 M_\odot$
@@ -107,4 +106,4 @@ Time it takes for a star to use all of its available fuel
 
 ### Between 8 and $∼ 10 -12$
 
-- When the core approaches the [[Chandrasekhar Limit]] thus begins the onset of core collapse
+- When the core approaches the [[Chandrasekhar Limit]] thus begins the onset of ![[core collapse]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ea61f1cadb09c540",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "38b2694d1c27719b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -228,10 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "38b2694d1c27719b",
   "lastOpenFiles": [
-    "General Notes/collapser.md",
+    "Dashboard/Daily/2026-05-25.md",
     "Dashboard/Home.md",
+    "General Notes/collapser.md",
     "General Notes/blackhole.md",
     "General Notes/BH.md",
     "public/General-Notes/winds.html",
@@ -273,7 +274,6 @@
     "public/Pasted-image-20260524010657.png",
     "public/static/og-image.png",
     "public/static/icon.png",
-    "Glossary/AIC.md",
     "Attachments/bhPertubation.png",
     "Attachments/ManyMerger.png",
     "Untitled.canvas",

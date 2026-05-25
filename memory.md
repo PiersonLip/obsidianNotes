@@ -240,6 +240,69 @@ Papers and class notes: duplicate an existing note or add a QuickAdd script late
 
 ---
 
+## Publishing (Quartz on VPS)
+
+The public site is **not** built inside this vault folder. Obsidian only syncs markdown; the VPS holds the Quartz engine and runs the build.
+
+| Piece | Location |
+|-------|----------|
+| Vault (Obsidian Git) | This folder → GitHub `PiersonLip/obsidianNotes` (`master`) |
+| Live site | https://obsidiannotes.piersonl.com |
+| VPS content clone | `/var/www/obsidianNotes` |
+| VPS Quartz engine | `/var/www/obsidianNotes-quartz` (`node_modules`, `public/`, full `quartz/` tree) |
+| Custom Quartz files (in git) | `deploy/quartz-custom/` — synced onto the engine on each build |
+| Deploy scripts | `deploy/vps-build.sh`, `deploy/nginx.conf`, `deploy/quartz-deploy.*` |
+
+### Flow
+
+1. **Obsidian Git** pushes the vault to GitHub every ~5 minutes (`autoPushInterval: 5` in `.obsidian/plugins/obsidian-git/data.json`).
+2. **systemd timer** on the VPS (`quartz-deploy.timer`, every 5 min) runs `deploy/vps-build.sh` as `www-data`.
+3. **vps-build.sh** hard-resets `/var/www/obsidianNotes` to `origin/master`, `rsync`s `deploy/quartz-custom/` → `/var/www/obsidianNotes-quartz/`, then `npx quartz build -d /var/www/obsidianNotes`.
+4. **nginx** serves `/var/www/obsidianNotes-quartz/public` (see `deploy/nginx.conf`).
+
+First deploy on a combined checkout: the script **moves** `quartz/`, `package.json`, and `node_modules` from the content dir into `obsidianNotes-quartz` automatically.
+
+### Site homepage & index
+
+- Quartz content root is the vault root (`-d` = content dir).
+- `index.md` at vault root is the site homepage (minimal frontmatter); body is replaced by **SiteIndex** (`quartz/components/pages/SiteIndex.tsx` in `deploy/quartz-custom`).
+- Obsidian entry remains [[Home]]; the published index is the auto-generated section list (Class Notes, General Notes, papers, Wikipedia folder, Astrobites by tag, book chapters, Tools).
+
+### Graph & tags on the site
+
+- Sidebar graph: tags off, `excludePrefixes: ["Glossary/", "Home"]`, hidden on `index` slug (`quartz.layout.ts`).
+- Tag chips: `astro-notes/astrobite` links to [[AstroBites/Astrobites]] hub, not `/tags/…` (`TagList.tsx`).
+- Astrobites hub **Bases** filter: `file.tags.contains("astro-notes/astrobite")` (not folder-only).
+
+### Citations build
+
+Quartz needs a merged bib at build time:
+
+```bash
+# On VPS after content pull (or locally if you ever build elsewhere):
+cat Bibliography/AstroNotes.bib Bibliography/sources.bib > Bibliography/all.bib
+```
+
+`quartz.config.ts` points `Plugin.Citations` at `Bibliography/all.bib`. Regenerate `all.bib` when bibs change (add to vps-build if builds fail on missing cites).
+
+### Obsidian vs Quartz clutter
+
+- **Obsidian graph** (`.obsidian/graph.json`): filters out `quartz`, `node_modules`, `public`, `deploy`, etc.
+- **Vault `.gitignore`**: `quartz/`, `node_modules/`, `public/` so Quartz never lands in Obsidian Git again.
+- Edit site behavior in **`deploy/quartz-custom/`** only; push vault → VPS overlay picks it up on next timer run.
+
+### Manual VPS rebuild
+
+```bash
+ssh rack 'sudo -u www-data CONTENT_DIR=/var/www/obsidianNotes QUARTZ_DIR=/var/www/obsidianNotes-quartz /var/www/obsidianNotes/deploy/vps-build.sh'
+```
+
+### Local preview (optional)
+
+Quartz is intentionally not kept in the vault working tree. To preview locally, copy `deploy/quartz-custom` to a separate directory, clone or copy the full upstream `quartz/` engine once, then `npx quartz build -d "/path/to/Astro Notes"`.
+
+---
+
 ## Conventions
 
 - **Links:** `[[Note title]]` or `[[path/to/note|label]]` for hubs

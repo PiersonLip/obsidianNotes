@@ -1,4 +1,4 @@
-import { FullSlug, resolveRelative } from "../util/path"
+import { FullSlug, joinSegments, simplifySlug } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
@@ -15,8 +15,8 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
         {tags.map((tag) => {
           const hub = TAG_HUBS[tag]
           const linkDest = hub
-            ? resolveRelative(fileData.slug!, hub)
-            : resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+            ? joinSegments("/", simplifySlug(hub))
+            : joinSegments("/", `tags/${tag}`)
           return (
             <li>
               <a href={linkDest} class="internal tag-link">

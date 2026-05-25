@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { trieFromAllFiles } from "../../util/ctx"
 import { FileTrieNode } from "../../util/fileTrie"
 import { BuildTimeTrieData } from "../../util/ctx"
-import { FilePath, FullSlug, resolveRelative, slugifyFilePath } from "../../util/path"
+import { FilePath, FullSlug, joinSegments, simplifySlug, slugifyFilePath } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { byDateAndAlphabeticalFolderFirst } from "../PageList"
 import { concatenateResources } from "../../util/resources"
@@ -175,7 +175,7 @@ export default (() => {
                 {pages.map((page) => (
                   <li>
                     <a
-                      href={resolveRelative(fileData.slug!, page.slug!)}
+                      href={joinSegments("/", simplifySlug(page.slug!))}
                       class="internal"
                     >
                       {page.frontmatter?.title}

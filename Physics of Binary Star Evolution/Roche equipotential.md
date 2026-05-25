@@ -21,7 +21,7 @@ tags:
 
 ## Mass transfer Galore
 
-- [[Mass transfer]] through $L_1$ does not majority effect angular momentum, however, transfer through $L_2$ does, causing a shrinkage in separation, and typically mergers
+- [[mass transfer]] through $L_1$ does not majority effect angular momentum, however, transfer through $L_2$ does, causing a shrinkage in separation, and typically mergers
 - Different ways of modeling the transfer, depending on how you treat angular momentum with respect to the transfer
 - Orbit widens if the donor is less massive then accretor, and shrinks if the donor is more
 

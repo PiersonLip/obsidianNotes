@@ -4,76 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c32da5b6a85a4cff",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "997ed441e547f9fa",
+            "id": "d0d01ccd10b507e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/LIGO.md",
+                "file": "Class Notes/Astro210/Early Astronomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LIGO"
-            }
-          },
-          {
-            "id": "3d9e834ea4f076f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-05-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-25"
-            }
-          },
-          {
-            "id": "d5ac0c34997207bb",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Glossary.base",
-                "viewName": "Glossary"
-              },
-              "icon": "lucide-table",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "ab6819fc6185c74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Notes/Astro210/Earth-Moon Systen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Earth-Moon Systen"
+              "title": "Early Astronomy"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Class Notes/Astro210/Earth-Moon Systen.md",
+            "file": "Class Notes/Astro210/Early Astronomy.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -245,21 +193,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab6819fc6185c74a",
+  "active": "d0d01ccd10b507e0",
   "lastOpenFiles": [
+    "solstice.md",
+    "Class Notes/Astro210/Early Astronomy.md",
+    "Wip.md",
+    "photoeletric effect[[.md",
+    "Aristotle.md",
+    "Class Notes/Astro210/Earth-Moon Systen.md",
     "Class Notes/Astro210/Galaxies and Super clusters.md",
     "Class Notes/Astro210/Orbital energetics.md",
     "Class Notes/Astro210/Orbital Mechanics I.md",
     "Class Notes/Astro210/Solar system in perspective.md",
     "Class Notes/Astro210/Telescopes.md",
-    "photoeletric effect[[.md",
     "Class Notes/Astro210/The planets.md",
     "Class Notes/Astro210/Cosmology.md",
     "Class Notes/Astro210/Astro210.md",
     "Class Notes/Astro210/Waves.md",
     "Dashboard/Home.md",
     "Bases/Glossary.base",
-    "Wip.md",
     "General Notes/LIGO.md",
     "2026-05-25.md",
     "index.md",

@@ -10,25 +10,25 @@ tags:
 
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
-### Motion of the moon
+### Motion of the [[moon]]
 
-- 27.3 sidereal orbit
-- 29.5 synodic orbit
+- 27.3 [[sidereal orbit]]
+- 29.5 [[synodic orbit]]
 - rises in east and sets in west diurnally, but moves eastwards by about 12 deg per day rel to stars
 - rises hour later per night
 
-### Precession
+### [[Precession]]
 
 - earth is an oblate spheroid with equatorial bulge of .3\% cause by separation
-- sun, moon, and planets exert a torque $\tau$ on earth
+- [[sun,]] [[moon]], and planets exert a torque $\tau$ on [[earth]]
 - $$\vec{\tau} = \vec{r} × \vec{F}$$
 - results in precession of spin axis of earth around ecliptic pole
-- NCP moves. Polaris will not always be at NCP
+- [[NCP]] moves. [[Polaris]] will not always be at NCP
 - moves through stars with $P ≈ 28500 yr$
 - opening angle
 - $$47° (=2×23.5°)$$
 
-### Tidal Forces
+### [[Tidal Forces]]
 
 - Moon exerts diff tidal forces on matter on earth
 - esp noticeable on earths ocean surface as tides
@@ -46,7 +46,6 @@ tags:
 
 - tidal bulges produced on earths by the moon rotate at the same angular rate as the moons orbit around earth
 - but the earth is rotating faster at once per sidereal day by 4 minutes. Drags the tides forward from where they would otherwise be by about $10°$ by friction
-\begin{list}{-}{}
 - therefore high tides occur shortly after upper transit of moon
 - the misalignment drives angular momentum transfer between earth and Moon
 \begin{list}{-}{}
@@ -64,7 +63,7 @@ tags:
 - spin of the earth causes an oblate deformation
 - oblate is much greater the prolate def
 
-### Roche Limit
+### [[Roche Limit]]
 
 - object get too close, forces on one side much greater then other, rip object apart
 - approx a planet as two spheres 2m
@@ -76,7 +75,7 @@ tags:
 
 ![[mainNotes-figure0.png]]
 
-### Hill radius
+### [[Hill radius]]
 
 - Tidal forces of sun on earth-moon systems means that there is a maximum orbital distance for the moon, if it is to remain bound to the earth
 
@@ -94,7 +93,7 @@ tags:
 - $$\Delta g_{earth \rightarrow moon } = ∝ \frac{M_{Earth}{R_{Moon}}} {r^3}$$
 - $$\frac{\Delta g_{moon \rightarrow earth }}{\Delta g_{earth \rightarrow moon }} \frac{M_{moon}R_{earth}}{M_{earth} r_{moon}} ≈ \frac{1}{20}$$
 
-### lunar librations
+### [[lunar librations]]
 
 - E-w and n-s nodding motions of the moon seen from earth, caused by parallax
 - tidal locking is not perfect, so the libration happens in longitude

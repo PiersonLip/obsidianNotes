@@ -64,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Astro210/Cosmology.md",
+                "file": "Class Notes/Astro210/Telescopes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Telescopes"
             }
           }
         ],
@@ -205,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Class Notes/Astro210/Cosmology.md",
+            "file": "Class Notes/Astro210/Telescopes.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -247,6 +247,8 @@
   },
   "active": "ab6819fc6185c74a",
   "lastOpenFiles": [
+    "Class Notes/Astro210/The planets.md",
+    "Class Notes/Astro210/Cosmology.md",
     "Class Notes/Astro210/Astro210.md",
     "Class Notes/Astro210/Waves.md",
     "Dashboard/Home.md",

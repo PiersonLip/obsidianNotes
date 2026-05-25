@@ -13,7 +13,6 @@ tags:
 ### photoeletric effect
 
 - Photoemission emisison of a electron from a material in response to a incident photon
-\begin{list}{-}{}
 - photoemissive material (underlying material)
 - work function (min energy requried to produce light)
 - photoeletric effect (photoemission from atoms in certain materials)

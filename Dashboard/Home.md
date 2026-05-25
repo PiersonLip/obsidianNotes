@@ -7,10 +7,6 @@ cssclasses:
   - dashboard-home
 properties: false
 ---
-
-# Home
-
-
 ```dataviewjs
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));
 const root = dv.container.createDiv({ cls: "dash-root" });

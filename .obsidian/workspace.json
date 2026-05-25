@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -85,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -225,6 +230,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/_cache/apod-2026-05-25.json",
+    "Dashboard/_cache",
     "Bases/Astro210.base",
     "Bases/Class Notes.base",
     "Bases/Glossary.base",
@@ -256,7 +263,6 @@
     "General Notes/runaway-RLOF.md",
     "Glossary/GWR.md",
     "gravitational wave.md",
-    "deploy/quartz-custom/quartz/components/styles/siteIndex.scss",
     "General Notes/blackhole.md",
     "Black hole.md",
     "General Notes/white dwarf.md",

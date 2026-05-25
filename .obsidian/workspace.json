@@ -30,9 +30,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "92a5c24fd92b5016",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "General Notes/NS.md",
+                "bFile": "General Notes/NS.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: NS  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,8 +253,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7274ce128f471f8d",
+  "active": "92a5c24fd92b5016",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Glossary/GWR.md",
     "memory.md",
     "gravitational wave.md",
@@ -276,7 +292,6 @@
     "Glossary/ZTF.md",
     "General Notes/LVB.md",
     "General Notes/natal-kick.md",
-    "General Notes/antibiotic-index.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",

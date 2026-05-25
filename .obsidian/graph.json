@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:quartz -path:node_modules -path:public -path:deploy -path:.quartz-cache",
+  "search": "NS",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.7377879531533454,
+=======
+  "scale": 0.8259917797531661,
+>>>>>>> obsidianNotes/master
   "close": true
 }

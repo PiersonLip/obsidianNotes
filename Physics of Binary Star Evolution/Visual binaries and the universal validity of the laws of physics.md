@@ -77,7 +77,7 @@ Binaries where one star passes in front of the other at some point during its pe
 
 ## 
 
-- The first [[NS]] star [[XrB]]
+- The first [[NS]] star [[X-ray Binary]]
 - Regular periodicity of with increase of x-ray emission
 - Caused by the NS being obscured by the larger star
 

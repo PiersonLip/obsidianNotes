@@ -8,5 +8,5 @@ sources: https://astronomy.swin.edu.au/cosmos/h/High-mass+X-ray+Binaries,
 ---
 
 # [[HMXB]]
-High mass [[XrB|x-ray binary]]. This means that the [[donor]] star is *more* massive then the [[accretor]]. 
+High mass [[X-ray Binary|x-ray binary]]. This means that the [[donor]] star is *more* massive then the [[accretor]]. 
 

@@ -43,6 +43,7 @@ function buildNoteContent(heading, alias, definition) {
   lines.push("---");
   lines.push("");
   lines.push(`# ${heading}`);
+  lines.push("---");
   lines.push("");
   if (definition) {
     lines.push(definition.trim());

@@ -6,6 +6,8 @@
 
 const NOTES_DIR = "Wikipedia";
 const BIB_FILE = "Bibliography/sources.bib";
+const ZOTERO_BIB = "Bibliography/AstroNotes.bib";
+const MERGED_BIB = "Bibliography/all.bib";
 
 function notePathFromTitle(title) {
   const safe = title.replace(/[\\/:*?"<>|]/g, "").trim();
@@ -83,6 +85,23 @@ function buildBibEntry(key, title, url) {
 `;
 }
 
+/** Rebuild all.bib so Pandoc Reference List / Quartz see new sources.bib entries. */
+async function mergeAllBib(app) {
+  const zotero = app.vault.getAbstractFileByPath(ZOTERO_BIB);
+  const sources = app.vault.getAbstractFileByPath(BIB_FILE);
+  if (!sources) return;
+  const parts = [];
+  if (zotero) parts.push(await app.vault.read(zotero));
+  parts.push(await app.vault.read(sources));
+  const merged = parts.join("\n").trim() + "\n";
+  const out = app.vault.getAbstractFileByPath(MERGED_BIB);
+  if (out) await app.vault.modify(out, merged);
+  else {
+    await app.vault.adapter.mkdir("Bibliography").catch(() => {});
+    await app.vault.create(MERGED_BIB, merged);
+  }
+}
+
 function buildNoteContent(title, citeKey, url) {
   const citeLine = citeKey ? ` [@${citeKey}]` : "";
   const yamlCite = citeKey ? `citekey: ${citeKey}\n` : "";
@@ -92,6 +111,7 @@ ${yamlCite}tags:
   - astro-notes/wikipedia
 ---
 # ${title}${citeLine}
+---
 
 [Wikipedia article](${url})
 
@@ -176,6 +196,9 @@ module.exports = async (params) => {
     }
     bibNote = `Bib: added @online{${citeKey}}`;
   }
+
+  await mergeAllBib(app);
+  if (citeKey) bibNote += ` · ${MERGED_BIB} updated`;
 
   await app.vault.adapter.mkdir(NOTES_DIR).catch(() => {});
   const content = buildNoteContent(title, citeKey, url);

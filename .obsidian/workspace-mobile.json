@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20260524010657.png"
+                "file": "memory.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260524010657"
+              "icon": "lucide-file",
+              "title": "memory"
             }
           }
         ]
@@ -148,19 +150,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "df9a09b4dcde4226",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +171,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "acc6502982719f13",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260524010657.png",
     "memory.md",
     "Dashboard/Home.md"
   ]

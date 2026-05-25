@@ -44,9 +44,22 @@
               "icon": "lucide-file",
               "title": "2026-05-25"
             }
+          },
+          {
+            "id": "d5ac0c34997207bb",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Glossary.base",
+                "viewName": "Glossary"
+              },
+              "icon": "lucide-table",
+              "title": "Glossary"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:astro-notes",
+            "query": "Home",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -220,8 +233,9 @@
   },
   "active": "04d3e4da7f1c7943",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
+    "Wip.md",
     "General Notes/LIGO.md",
+    "Dashboard/Home.md",
     "2026-05-25.md",
     "index.md",
     "memory.md",

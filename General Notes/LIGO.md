@@ -9,5 +9,5 @@ aliases:
 
 # LIGO
 ---
-Two arrays in 
+Two arrays in two parts of the country used to detect gravitational waves
 

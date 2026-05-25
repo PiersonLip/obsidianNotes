@@ -12,13 +12,13 @@ tags:
 
 ---
 
-### CMB
+### [[CMB]]
 
 - $ct ⇒$ theoretical size of the universe
 - Does not account for expansion of the uni while the light is travelling
 - [[surface of last scattering]], point where the universe becomes opaque, also the CMB
 
-#### olbers paradox
+#### Olbers paradox
 
 - We do not see a galaxy everywhere we look
 - this is because the universe is finite, not infinitly large
@@ -56,13 +56,13 @@ $$
 ### General relativity
 
 - Space and time bind together to form curved spacetime
-- `free-fall' is motion in a straight line in 4d spacetime (this is grav acceleration)
+- free-fall is motion in a straight line in 4d spacetime (this is grav acceleration)
 - Matter (Mass-energy) tells spacetime how to curve
 - Curved spacetime tells matter how to move
 
-#### Predictions of GR
+#### Predictions of [[GR]]
 
-- Gravtional field sdeflect light (grav lensing)
+- Gravtional fields deflect light (grav lensing)
 - more accurate orbit for Mercury
 - grav fields slow clocks
 - moving objects will produce gravitational waves
@@ -74,7 +74,7 @@ $$
 
 \end{center}
 
-### Surface of spacetime
+### Surface of [[spacetime]]
 
 - How do we know the curvature and angles?
 - If we draw a triangle what do the angles add up to?

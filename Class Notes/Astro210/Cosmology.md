@@ -18,7 +18,7 @@ tags:
 - Does not account for expansion of the uni while the light is travelling
 - [[surface of last scattering]], point where the universe becomes opaque, also the CMB
 
-#### Olbers paradox
+#### [[Olbers paradox]]
 
 - We do not see a galaxy everywhere we look
 - this is because the universe is finite, not infinitly large
@@ -53,7 +53,7 @@ $$
 
 - In a small volume of space the downward pull of gravity cannot be distinguished from an upward acceleration of the observer
 
-### General relativity
+### [[General relativity]]
 
 - Space and time bind together to form curved spacetime
 - free-fall is motion in a straight line in 4d spacetime (this is grav acceleration)

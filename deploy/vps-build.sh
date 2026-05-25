@@ -45,7 +45,8 @@ if [[ ! -d "$CONTENT_DIR/deploy/quartz-custom" ]]; then
   exit 1
 fi
 
-rsync -a --delete \
+# Overlay config + customized components only (keep full quartz/ engine on VPS)
+rsync -a \
   --exclude node_modules \
   --exclude public \
   --exclude .quartz-cache \

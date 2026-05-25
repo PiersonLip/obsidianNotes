@@ -5,7 +5,12 @@
       "name": "Default",
       "fileVisibility": "supported",
       "propertyKeys": [],
-      "hiddenFolders": [],
+      "hiddenFolders": [
+        "/deploy",
+        "/public",
+        "/quartz",
+        "/node_modules"
+      ],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],

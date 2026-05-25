@@ -16,79 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "b41011c609631023",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "7274ce128f471f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/NS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NS"
-            }
-          },
-          {
-            "id": "c710c78ea71841f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Degenerate Matter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Degenerate Matter"
-            }
-          },
-          {
-            "id": "80f9f07edb056bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/collapser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "collapser"
-            }
-          },
-          {
-            "id": "dc7cf5738033dd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/RLO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RLO"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -295,20 +223,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b41011c609631023",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "General Notes/RLO.md",
+    "General Notes/collapser.md",
+    "General Notes/Degenerate Matter.md",
+    "General Notes/NS.md",
+    "Bases/Astrobites.base",
+    "Bases/Papers.base",
+    "Bases/Glossary.base",
+    "Bases/Physics of Binary Star Evolution.base",
+    "Bases/Astro210.base",
+    "Bases/Class Notes.base",
     "conflict-files-obsidian-git.md",
     "General Notes/BH.md",
     "AstroBites/What happens when you poke a black hole.md",
     "blackhole.md",
     "Home.md",
     "General Notes/GW.md",
-    "General Notes/RLO.md",
     "General Notes/runaway-RLOF.md",
-    "General Notes/collapser.md",
-    "General Notes/Degenerate Matter.md",
     "neutron stars.md",
-    "General Notes/NS.md",
     "Glossary/GWR.md",
     "memory.md",
     "gravitational wave.md",
@@ -318,12 +252,6 @@
     "deploy/quartz-custom/quartz/components/scripts/graph.inline.ts",
     "deploy/quartz-custom/quartz/components/pages/IndexOrContent.tsx",
     "deploy/quartz-custom/quartz/components/pages/SiteIndex.tsx",
-    "deploy/quartz-custom/quartz/components/index.ts",
-    "deploy/quartz-custom/quartz/components/Graph.tsx",
-    "deploy/quartz-custom/quartz/components/TagList.tsx",
-    "deploy/quartz-custom/package-lock.json",
-    "deploy/quartz-custom/package.json",
-    "deploy/quartz-custom/index.d.ts",
     "Dashboard/Daily/2026-05-25.md",
     "General Notes/blackhole.md",
     "Black hole.md",
@@ -333,7 +261,6 @@
     "General Notes/Edge Limit Detonation.md",
     "General Notes/Mass loss from a circumbinary disk.md",
     "General Notes/CMB.md",
-    "General Notes/pauli-exclusion-principle.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",

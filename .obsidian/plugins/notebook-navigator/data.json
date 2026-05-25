@@ -459,7 +459,7 @@
       }
     ]
   },
-  "customVaultName": "",
+  "customVaultName": "Notes",
   "pinnedNotes": {},
   "collapsedPinnedContexts": {},
   "fileIcons": {},
@@ -508,7 +508,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "",
+  "lastShownVersion": "3.0.0",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []

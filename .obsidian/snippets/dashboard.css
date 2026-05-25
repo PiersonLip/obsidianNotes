@@ -27,6 +27,12 @@
   padding-right: 3rem;
 }
 
+/* Hide Properties block on the dashboard note */
+.dashboard-home .metadata-container,
+.dashboard-home .metadata-properties-heading {
+  display: none !important;
+}
+
 .dash-root {
   margin: 0.5rem auto 2rem;
   width: 100%;

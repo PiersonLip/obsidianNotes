@@ -292,6 +292,10 @@ cat Bibliography/AstroNotes.bib Bibliography/sources.bib > Bibliography/all.bib
 - **Vault `.gitignore`**: `quartz/`, `node_modules/`, `public/` so Quartz never lands in Obsidian Git again.
 - Edit site behavior in **`deploy/quartz-custom/`** only; push vault → VPS overlay picks it up on next timer run.
 
+### Homepage files
+
+Quartz requires **`index.md`** at the vault root (minimal frontmatter); it becomes `public/index.html`. **`Home.md`** is the Obsidian entry point only. If either is deleted (e.g. mobile sync), the site returns **403** until they are restored and rebuilt.
+
 ### Manual VPS rebuild
 
 ```bash

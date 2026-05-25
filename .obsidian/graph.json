@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:quartz -path:node_modules -path:public -path:deploy -path:.quartz-cache",
+  "search": "NS",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7761451828356745,
+  "scale": 0.8259917797531661,
   "close": true
 }

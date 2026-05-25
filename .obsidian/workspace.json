@@ -11,10 +11,10 @@
             "id": "2f107cdf51d73105",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -224,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebe4b0aee4cca989",
+  "active": "2f107cdf51d73105",
   "lastOpenFiles": [
+    "General Notes/NS.md",
     "Dashboard/views/wikipedia.js",
     "Dashboard/Home.md",
     "Dashboard/Daily/2026-05-25.md",
@@ -243,7 +244,6 @@
     "General Notes/RLO.md",
     "public/General-Notes/BH.html",
     "public/Dashboard/Daily.gitkeep",
-    "Dashboard/Daily",
     "Home.md",
     "General Notes/white dwarf.md",
     "accreted.md",

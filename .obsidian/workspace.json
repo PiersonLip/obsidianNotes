@@ -26,9 +26,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "75a85d1c1e2afbea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -234,10 +245,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47b40d8fcdcb142e",
+  "active": "75a85d1c1e2afbea",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
     "Home.md",
+    "Dashboard/Home.md",
     "cd",
     "index.md",
     "Dashboard/_cache/apod-2026-05-25.json",

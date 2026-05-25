@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:quartz -path:node_modules -path:public -path:deploy -path:.quartz-cache",
+  "search": "LMXBs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6794109376879045,
-  "close": true
+  "scale": 0.9451088295136251,
+  "close": false
 }

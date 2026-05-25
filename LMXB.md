@@ -1,9 +1,9 @@
 ---
+tags:
+  - astro-notes/generalNotes
 aliases:
   - low mass x-ray binary
   - LMXBs
-tags:
-  - astro-notes/generalNotes
 ---
 ## LMXB
 --- 

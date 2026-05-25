@@ -4,6 +4,7 @@ tags:
   - astro-notes/generalNotes
 aliases:
   - High Mass X-ray Binary
+  - HMXBs
 sources: https://astronomy.swin.edu.au/cosmos/h/High-mass+X-ray+Binaries,
 ---
 

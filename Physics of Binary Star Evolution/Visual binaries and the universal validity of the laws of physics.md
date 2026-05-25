@@ -85,15 +85,15 @@ Binaries where one star passes in front of the other at some point during its pe
 
 - Discovered x-ray source with nearby [[supergiant]]
 - Falls into two classes
-- [[HMXBs]] and [[LMXBs]]
-- determined by the mass of the acceptor with respect to the donor
+- [[HMXB|HMXBs]] and [[LMXB|LMXBs]]
+- determined by the mass of the [[accretor]] with respect to the donor
 - x-ray emission called by infalling matter
 - $\frac{GMm}{R} = .01mc^2$ *(Shockingly simple eq)*
 - much much much more efficient than any fusion reactor on earth
 - values as high as $.42mc^2$
 - Common in [[Globular clusters]]
 
-## Double NSs \& BHs
+## Double [[NS]]s \& [[BH]]s
 
 - Proved by [[GW]] detection
 - Detections are dominated by [[DBHs]]

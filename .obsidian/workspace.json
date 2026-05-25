@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a58c54c383752969",
         "type": "tabs",
         "children": [
           {
-            "id": "4f47abcbea25c409",
+            "id": "cc9f5e0fca1b7786",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Dashboard/Home.md",
-                "bFile": "Dashboard/Home.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Home  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "47b40d8fcdcb142e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -228,12 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f47abcbea25c409",
+  "active": "47b40d8fcdcb142e",
   "lastOpenFiles": [
     "Dashboard/Home.md",
+    "Home.md",
     "cd",
     "index.md",
-    "Home.md",
     "Dashboard/_cache/apod-2026-05-25.json",
     "Dashboard/_cache",
     "Attachments/Pasted image 20260524010657.png",

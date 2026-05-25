@@ -5,15 +5,7 @@
       "name": "Default",
       "fileVisibility": "supported",
       "propertyKeys": [],
-      "hiddenFolders": [
-        "/Scripts",
-        "/templates",
-        "/node_modules",
-        "/Class Notes",
-        "/quartz",
-        "/deploy",
-        "/Dashboard"
-      ],
+      "hiddenFolders": [],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
@@ -511,7 +503,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.0.0",
+  "lastShownVersion": "",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []

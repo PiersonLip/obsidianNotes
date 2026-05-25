@@ -18,12 +18,8 @@ fi
 git config --global --add safe.directory "$CONTENT_DIR" 2>/dev/null || true
 
 cd "$CONTENT_DIR"
-BEFORE="$(git rev-parse HEAD)"
-git fetch origin "$BRANCH"
-git reset --hard "origin/$BRANCH"
-AFTER="$(git rev-parse HEAD)"
 
-# One-time migration: combined repo -> split content + quartz dirs
+# One-time migration: move engine off content dir *before* pull drops tracked Quartz files
 if [[ ! -f "$QUARTZ_DIR/package.json" ]] && [[ -f "$CONTENT_DIR/package.json" ]]; then
   log "Migrating Quartz from $CONTENT_DIR to $QUARTZ_DIR"
   mkdir -p "$QUARTZ_DIR"
@@ -33,6 +29,11 @@ if [[ ! -f "$QUARTZ_DIR/package.json" ]] && [[ -f "$CONTENT_DIR/package.json" ]]
     fi
   done
 fi
+
+BEFORE="$(git rev-parse HEAD)"
+git fetch origin "$BRANCH"
+git reset --hard "origin/$BRANCH"
+AFTER="$(git rev-parse HEAD)"
 
 if [[ ! -f "$QUARTZ_DIR/quartz/bootstrap-cli.mjs" ]]; then
   log "ERROR: Quartz not installed at $QUARTZ_DIR (run bootstrap or copy engine first)"

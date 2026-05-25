@@ -34,7 +34,7 @@ tags:
 
 ### Large Scale Structure
 
-- Cosmic web structure
+- [[Cosmic web]] structure
 - Sloan great wall
 - Few galaxies measured far away, simply because they're hard to measure
 

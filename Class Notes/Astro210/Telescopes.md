@@ -26,7 +26,7 @@ tags:
 - very hot gas, emission spectra by Kirchhoff laws
 - easily seen during total eclipse or with an H$\alpha$ filter
 
-#### Corona
+#### [[Corona]]
 - Low density out layer of suns atmosphere. Most easily visible during total eclipse
 - T = $2×10^6$
 - Emission lines from highly ionized atoms
@@ -35,7 +35,7 @@ tags:
 - scattered by free electrons in coronal plasma
 - coronal streamers show how plasma follows magnetic field lines
 
-#### Solar Wind
+#### [[Solar Wind]]
 
 - Bunch of protons and other various particles ejected from the sun
 - Speed of protons in the corona
@@ -57,7 +57,7 @@ tags:
 - Magnetic field energy
 - $$P_B = \varepsilon_B = \frac{B^2}{2\mu_0}$$
 
-#### Sunspots
+#### [[Sunspots]]
 
 - Cooler than surroundings because the magnetic field is enhanced in the spot
 - Pressure due to a magnetic field
@@ -65,11 +65,11 @@ tags:
 - pressure due to ideal gas
 - $$P_{gas} = nkT$$
 
-**\large Pressure balance in sunspots**
+**Pressure balance in sunspots**
 - gas and magnetic pressure inside sunspot must equal surrounding gas pressure
 - $$\frac{\rho kT_s}{m_p} + \frac{B^2}{2\mu_0} = \frac{\rho kT_P}{m_p}$$
 - $B ≈ .1 T$
 
-**\large Sunspot Cycle**
+**[[Sunspot Cycle]]**
 - Star near 30$°$ N/S, migrate towards solar equator
 - more numerous every 11 years

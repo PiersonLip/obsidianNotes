@@ -11,24 +11,22 @@ tags:
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
 - total energy e is conserved 
- \begin{list}{-}{}
 - sum of K and U
 - $$E = K+U$$
 - $$= \frac{1}{2} mv^2 - \frac{GMm}{r}$$
 
-\item total E is conserved 
-\item $$E = (\frac{GMm}{L})^2 \frac{m}{2}(e^2-1)$$
-\item [[Hyperbolic orbit]]: $e >1, E>0, K> |U|$
+ total E is conserved 
+ $$E = (\frac{GMm}{L})^2 \frac{m}{2}(e^2-1)$$
+ [[Hyperbolic orbit]]: $e >1, E>0, K> |U|$
 - open orbit, unbound;, single perihelion passage at $\theta = 0$
 
-\item [[Parabolic orbit]]: $e = 1, E = 0, K=|U|$
+ [[Parabolic orbit]]: $e = 1, E = 0, K=|U|$
 - marginally unbound; velocity approach zero at infinite time
 
-\item [[elliptical orbit]]: $e<1, E<0, K = |U|$
-\item objects originating outside our solar system are easily identified by their total energy 
+ [[elliptical orbit]]: $e<1, E<0, K = |U|$
+ objects originating outside our solar system are easily identified by their total energy 
 - measure total energy (how far away it is, how fast is it moving)
 
-\end{list}
 
 ### Checking energy in circular orbits
 
@@ -49,7 +47,7 @@ tags:
 - $$\frac{1}{2}mv^2 = \frac{GMm}{r}$$
 - $$v_{esc} = \sqrt{\frac{2GM}{r}}$$
 
-### [[Hohmann transfer orbit]]
+### [[Hofhmann transfer orbit]]
 
 - Elliptical transfer orbit from earth to superior planet
  \begin{list}{-}{}
@@ -57,6 +55,5 @@ tags:
 - inserted into superior planet orbit at aphelion. This constrains launch windows
 - theoretically requires only two burns: at launch and aphelion insertion point
 
-\item semimajor axis os transfer orbit 
-\item $$a_{to} = \frac{a + a_{sup}}{2}; Earth$$
-\end{list}
+ semimajor axis os transfer orbit 
+ $$a_{to} = \frac{a + a_{sup}}{2}; Earth$$

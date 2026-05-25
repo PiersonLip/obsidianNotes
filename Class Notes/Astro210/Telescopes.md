@@ -10,7 +10,7 @@ tags:
 
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
-### photoeletric effect
+### [[photoeletric effect[[]]]]
 
 - Photoemission emisison of a electron from a material in response to a incident photon
 - photoemissive material (underlying material)

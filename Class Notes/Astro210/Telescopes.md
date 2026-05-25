@@ -10,20 +10,17 @@ tags:
 
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
-### [[photoeletric effect[[]]]]
+### [[photoelectric effect]]
 
-- Photoemission emisison of a electron from a material in response to a incident photon
+- Photoemission emission of a electron from a material in response to a incident photon
 - photoemissive material (underlying material)
-- work function (min energy requried to produce light)
+- work function (min energy required to produce light)
 - photoeletric effect (photoemission from atoms in certain materials)
 - photoelectron (release electron)
 
-\item particle energy of EM radiation 
-\end{list}
-
 ### Sun
 
-#### Chromosphere
+#### [[Chromosphere]]
 
 - Very sparse layer of gas above the photosphere
 - very hot gas, emission spectra by Kirchhoff laws

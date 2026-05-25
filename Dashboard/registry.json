@@ -4,33 +4,33 @@
       "id": "ticktick",
       "title": "TickTick — today",
       "view": "Dashboard/views/ticktick",
-      "span": 2
+      "column": "left"
     },
     {
       "id": "daily",
       "title": "Daily note",
       "view": "Dashboard/views/daily-checkin",
-      "span": 1
+      "column": "right"
     },
     {
       "id": "wikipedia",
       "title": "Wikipedia",
       "subtitle": "Article of the day",
       "view": "Dashboard/views/wikipedia",
-      "span": 1
+      "column": "left"
     },
     {
       "id": "broken-links",
       "title": "Notes to write",
       "subtitle": "Linked but no page yet",
       "view": "Dashboard/views/broken-links",
-      "span": 1
+      "column": "right"
     },
     {
       "id": "apod",
       "title": "NASA APOD",
       "view": "Dashboard/views/apod",
-      "span": 2
+      "column": "left"
     }
   ]
 }

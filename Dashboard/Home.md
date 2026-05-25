@@ -20,12 +20,12 @@ header.createEl("p", {
   text: `${window.moment().format("dddd, MMMM D · h:mm A")} · [[Home|Astro Notes index]]`,
 });
 
-const grid = root.createDiv({ cls: "dash-grid" });
+const layout = root.createDiv({ cls: "dash-layout" });
+const leftCol = layout.createDiv({ cls: "dash-col dash-col-left" });
+const rightCol = layout.createDiv({ cls: "dash-col dash-col-right" });
 
-for (const widget of registry.widgets) {
-  const box = grid.createDiv({
-    cls: `dash-box${widget.span ? ` dash-span-${widget.span}` : ""}`,
-  });
+async function mountWidget(widget, parent) {
+  const box = parent.createDiv({ cls: "dash-box" });
   const titleRow = box.createDiv({ cls: "dash-box-title" });
   titleRow.createEl("h3", { text: widget.title });
   if (widget.subtitle) {
@@ -41,10 +41,15 @@ for (const widget of registry.widgets) {
     });
   }
 }
+
+for (const widget of registry.widgets) {
+  const parent = widget.column === "right" ? rightCol : leftCol;
+  await mountWidget(widget, parent);
+}
 ```
 
 ---
 
-**Add a widget:** create `Dashboard/views/your-widget.js`, then add an entry to `Dashboard/registry.json`.
+**Add a widget:** create `Dashboard/views/your-widget.js`, then add an entry to `Dashboard/registry.json` with `"column": "left"` or `"column": "right"`.
 
 **Shared TickTick logic:** `~/.config/ticktick/lib.py` (Waybar) · `Dashboard/lib/ticktick.js` (Obsidian).

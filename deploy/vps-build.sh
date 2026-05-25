@@ -36,7 +36,7 @@ git reset --hard "origin/$BRANCH"
 AFTER="$(git rev-parse HEAD)"
 
 if [[ ! -f "$QUARTZ_DIR/quartz/bootstrap-cli.mjs" ]]; then
-  log "ERROR: Quartz not installed at $QUARTZ_DIR (run bootstrap or copy engine first)"
+  log "ERROR: Quartz not installed at $QUARTZ_DIR (restore quartz/ from git history)"
   exit 1
 fi
 
@@ -51,6 +51,9 @@ rsync -a \
   --exclude public \
   --exclude .quartz-cache \
   "$CONTENT_DIR/deploy/quartz-custom/" "$QUARTZ_DIR/"
+
+# rehype-citation resolves Bibliography relative to the Quartz project cwd
+ln -sfn "$CONTENT_DIR/Bibliography" "$QUARTZ_DIR/Bibliography"
 
 PUBLIC_DIR="$QUARTZ_DIR/public"
 NEEDS_BUILD=false
@@ -84,5 +87,5 @@ if [[ -f "$CONTENT_DIR/Bibliography/AstroNotes.bib" ]] && [[ -f "$CONTENT_DIR/Bi
   cat "$CONTENT_DIR/Bibliography/AstroNotes.bib" "$CONTENT_DIR/Bibliography/sources.bib" >"$CONTENT_DIR/Bibliography/all.bib"
 fi
 
-npx quartz build -d "$CONTENT_DIR"
+node ./quartz/bootstrap-cli.mjs build -d "$CONTENT_DIR" -o "$PUBLIC_DIR"
 log "Build complete -> $PUBLIC_DIR"

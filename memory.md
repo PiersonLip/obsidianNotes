@@ -249,7 +249,8 @@ The public site is **not** built inside this vault folder. Obsidian only syncs m
 | Vault (Obsidian Git) | This folder → GitHub `PiersonLip/obsidianNotes` (`master`) |
 | Live site | https://obsidiannotes.piersonl.com |
 | VPS content clone | `/var/www/obsidianNotes` |
-| VPS Quartz engine | `/var/www/obsidianNotes-quartz` (`node_modules`, `public/`, full `quartz/` tree) |
+| VPS Quartz engine | `/var/www/obsidianNotes-quartz` (`node_modules`, `public/`, full `quartz/` tree — not in Obsidian Git) |
+| Built HTML | `/var/www/obsidianNotes-quartz/public` (nginx `root`) |
 | Custom Quartz files (in git) | `deploy/quartz-custom/` — synced onto the engine on each build |
 | Deploy scripts | `deploy/vps-build.sh`, `deploy/nginx.conf`, `deploy/quartz-deploy.*` |
 
@@ -257,7 +258,7 @@ The public site is **not** built inside this vault folder. Obsidian only syncs m
 
 1. **Obsidian Git** pushes the vault to GitHub every ~5 minutes (`autoPushInterval: 5` in `.obsidian/plugins/obsidian-git/data.json`).
 2. **systemd timer** on the VPS (`quartz-deploy.timer`, every 5 min) runs `deploy/vps-build.sh` as `www-data`.
-3. **vps-build.sh** hard-resets `/var/www/obsidianNotes` to `origin/master`, `rsync`s `deploy/quartz-custom/` → `/var/www/obsidianNotes-quartz/`, then `npx quartz build -d /var/www/obsidianNotes`.
+3. **vps-build.sh** hard-resets `/var/www/obsidianNotes` to `origin/master`, `rsync`s `deploy/quartz-custom/` → `/var/www/obsidianNotes-quartz/`, symlinks `Bibliography/` into the engine dir (for citations), merges bibs → `all.bib`, then `node quartz/bootstrap-cli.mjs build -d … -o …/public`.
 4. **nginx** serves `/var/www/obsidianNotes-quartz/public` (see `deploy/nginx.conf`).
 
 First deploy on a combined checkout: the script **moves** `quartz/`, `package.json`, and `node_modules` from the content dir into `obsidianNotes-quartz` automatically.

@@ -13,40 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "General Notes/GW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "GW"
             }
           },
           {
-            "id": "453d981d6187128f",
+            "id": "7274ce128f471f8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "92a5c24fd92b5016",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "aFile": "General Notes/NS.md",
+                "bFile": "General Notes/NS.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "c10b960441b7f646",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "title": "Diff: NS  (Index)"
             }
           }
         ],
@@ -118,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -219,8 +215,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -250,28 +246,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c10b960441b7f646",
+  "active": "92a5c24fd92b5016",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Glossary/GWR.md",
+    "memory.md",
+    "gravitational wave.md",
     "Dashboard/Home.md",
+    "General Notes/GW.md",
+    "Pasted image 20260524010657.png",
     "deploy/quartz-custom/quartz/components/styles/siteIndex.scss",
-    "deploy/quartz-custom/quartz/components/pages/SiteIndex.tsx",
-    "deploy/quartz-custom/quartz/components/pages/IndexOrContent.tsx",
     "deploy/quartz-custom/quartz/components/scripts/graph.inline.ts",
-    "deploy/quartz-custom/quartz/components/styles",
-    "deploy/quartz-custom/quartz/components/pages",
-    "deploy/quartz-custom/quartz/components/scripts",
+    "deploy/quartz-custom/quartz/components/pages/IndexOrContent.tsx",
+    "deploy/quartz-custom/quartz/components/pages/SiteIndex.tsx",
     "deploy/quartz-custom/quartz/components/index.ts",
-    "deploy/quartz-custom/quartz/components/TagList.tsx",
     "deploy/quartz-custom/quartz/components/Graph.tsx",
-    "General Notes/NS.md",
+    "deploy/quartz-custom/quartz/components/TagList.tsx",
+    "deploy/quartz-custom/package-lock.json",
+    "deploy/quartz-custom/package.json",
+    "deploy/quartz-custom/index.d.ts",
     "Dashboard/Daily/2026-05-25.md",
     "General Notes/collapser.md",
     "General Notes/blackhole.md",
@@ -288,13 +288,10 @@
     "General Notes/pauli-exclusion-principle.md",
     "[SNe.md",
     "General Notes/Pauli Exclusion Principle.md",
-    "Glossary/GWR.md",
     "General Notes/photon-gas.md",
     "Glossary/ZTF.md",
     "General Notes/LVB.md",
-    "General Notes/GW.md",
     "General Notes/natal-kick.md",
-    "General Notes/antibiotic-index.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
@@ -304,7 +301,6 @@
     "public/static/og-image.png",
     "public/static/icon.png",
     "Attachments/bhPertubation.png",
-    "Attachments/ManyMerger.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

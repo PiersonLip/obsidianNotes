@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gravitational Waves
+  - GWs
 tags:
   - glossary
   - astro-notes/generalNotes
@@ -9,9 +10,9 @@ tags:
 <a id="sec:Gravitational-Waves"></a>
 ---
 
-- Ripples in spacetime created by relative acceleration of massive objects.
+- Ripples in [[spacetime]] created by relative acceleration of massive objects.
 
-### Observational Properties in BBHs
+### Observational Properties in [[BBHs]]
 
 ---
 

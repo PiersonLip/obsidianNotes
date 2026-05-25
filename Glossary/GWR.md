@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Gravitnal Wave Radiation
+  - Gravitational Wave Radiation
 tags:
   - glossary
 ---
 
 # GWR
 
-[[gravitational wave]] radiation.
+[[GW|Gravitational Waves]] radiation.
 
 Process of stars losing angular momentum through the radiation of gravitational waves

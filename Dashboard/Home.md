@@ -5,11 +5,8 @@ tags:
   - dashboard
 cssclasses:
   - dashboard-home
+properties: false
 ---
-
-# Home
-
-
 ```dataviewjs
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));
 const root = dv.container.createDiv({ cls: "dash-root" });
@@ -47,9 +44,3 @@ for (const widget of registry.widgets) {
   await mountWidget(widget, parent);
 }
 ```
-
----
-
-**Add a widget:** create `Dashboard/views/your-widget.js`, then add an entry to `Dashboard/registry.json` with `"column": "left"` or `"column": "right"`.
-
-**Shared TickTick logic:** `~/.config/ticktick/lib.py` (Waybar) · `Dashboard/lib/ticktick.js` (Obsidian).

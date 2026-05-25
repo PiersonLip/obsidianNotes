@@ -46,11 +46,17 @@ if [[ ! -d "$CONTENT_DIR/deploy/quartz-custom" ]]; then
 fi
 
 # Overlay config + customized components only (keep full quartz/ engine on VPS)
+CUSTOM_STAMP="$QUARTZ_DIR/.quartz-custom-stamp"
+CUSTOM_HASH="$(find "$CONTENT_DIR/deploy/quartz-custom" -type f -print0 | sort -z | xargs -0 sha256sum | sha256sum | awk '{print $1}')"
+PREV_CUSTOM_HASH=""
+[[ -f "$CUSTOM_STAMP" ]] && PREV_CUSTOM_HASH="$(cat "$CUSTOM_STAMP")"
+
 rsync -a \
   --exclude node_modules \
   --exclude public \
   --exclude .quartz-cache \
   "$CONTENT_DIR/deploy/quartz-custom/" "$QUARTZ_DIR/"
+echo "$CUSTOM_HASH" >"$CUSTOM_STAMP"
 
 # rehype-citation resolves Bibliography relative to the Quartz project cwd
 ln -sfn "$CONTENT_DIR/Bibliography" "$QUARTZ_DIR/Bibliography"
@@ -59,6 +65,9 @@ PUBLIC_DIR="$QUARTZ_DIR/public"
 NEEDS_BUILD=false
 if [[ "$BEFORE" != "$AFTER" ]]; then
   log "Content updated $BEFORE -> $AFTER"
+  NEEDS_BUILD=true
+elif [[ "$CUSTOM_HASH" != "$PREV_CUSTOM_HASH" ]]; then
+  log "deploy/quartz-custom changed — rebuilding"
   NEEDS_BUILD=true
 elif [[ ! -f "$PUBLIC_DIR/index.html" ]]; then
   log "$PUBLIC_DIR/index.html missing — rebuilding"

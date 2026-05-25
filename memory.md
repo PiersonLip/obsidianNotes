@@ -269,6 +269,11 @@ First deploy on a combined checkout: the script **moves** `quartz/`, `package.js
 - `index.md` at vault root is the site homepage (minimal frontmatter); body is replaced by **SiteIndex** (`quartz/components/pages/SiteIndex.tsx` in `deploy/quartz-custom`).
 - Obsidian entry remains [[Home]]; the published index is the auto-generated section list (Class Notes, General Notes, papers, Wikipedia folder, Astrobites by tag, book chapters, Tools).
 
+### Internal links
+
+- Quartz config uses `markdownLinkResolution: "absolute"` (vault-root paths, not `./` shortest paths).
+- **SiteIndex** and **TagList** use root-absolute hrefs (`/General-Notes/…`) so SPA navigation does not stack folders (e.g. `Glossary/General-Notes/General-Notes/…`).
+
 ### Graph & tags on the site
 
 - Sidebar graph: tags off, `excludePrefixes: ["Glossary/", "Home"]`, hidden on `index` slug (`quartz.layout.ts`).

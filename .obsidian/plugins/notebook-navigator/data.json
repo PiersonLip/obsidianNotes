@@ -10,7 +10,9 @@
         "/templates",
         "/node_modules",
         "/Class Notes",
-        "/quartz"
+        "/quartz",
+        "/deploy",
+        "/Dashboard"
       ],
       "hiddenTags": [],
       "hiddenFileNames": [],

@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notebook-navigator:Notebook Navigator": false,
@@ -182,8 +183,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2026-05-25.md",
     "Dashboard/Home.md",
+    "2026-05-25.md",
     "memory.md",
     "Attachments/Pasted image 20260524010657.png"
   ]

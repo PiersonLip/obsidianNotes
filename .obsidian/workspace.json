@@ -39,14 +39,14 @@
             "id": "e0e9d89ca6dd9756",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dashboard/Home.md",
-                "mode": "source",
-                "source": false
+                "aFile": "cd",
+                "bFile": "cd",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "diff",
+              "title": "Diff: cd  (Working Tree)"
             }
           }
         ],
@@ -257,9 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0e9d89ca6dd9756",
+  "active": "9d5fb97b01954d22",
   "lastOpenFiles": [
     "Dashboard/Home.md",
+    "cd",
+    "index.md",
     "Home.md",
     "Dashboard/_cache/apod-2026-05-25.json",
     "Dashboard/_cache",
@@ -276,9 +278,7 @@
     "Class Notes/Astro210/Astro210.md",
     "Academic",
     "Personal",
-    "AstroNotes",
     "Pasted image 20260524010657.png",
-    "index.md",
     "neutron stars.md",
     "blackhole.md",
     "General Notes/RLO.md",

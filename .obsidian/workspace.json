@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa431864c2b7ac4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "96b4fc45399caf8a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -238,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa431864c2b7ac4e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "General Notes/collapser.md",
     "Dashboard/Home.md",

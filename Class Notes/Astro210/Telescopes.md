@@ -18,7 +18,7 @@ tags:
 - photoeletric effect (photoemission from atoms in certain materials)
 - photoelectron (release electron)
 
-### Sun
+### [[Sun]]
 
 #### [[Chromosphere]]
 

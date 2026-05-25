@@ -57,9 +57,23 @@
               "icon": "lucide-table",
               "title": "Glossary"
             }
+          },
+          {
+            "id": "ab6819fc6185c74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/Astro210/Waves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waves"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Home",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -148,7 +162,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 5
   },
   "right": {
     "id": "4620a2dd794fd631",
@@ -191,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard/Home.md",
+            "file": "Class Notes/Astro210/Waves.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -231,11 +245,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "04d3e4da7f1c7943",
+  "active": "ab6819fc6185c74a",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "Bases/Glossary.base",
     "Wip.md",
     "General Notes/LIGO.md",
-    "Dashboard/Home.md",
     "2026-05-25.md",
     "index.md",
     "memory.md",

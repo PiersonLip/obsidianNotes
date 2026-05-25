@@ -7,7 +7,7 @@ tags:
   - astro-notes/book-chapter
   - astro-notes/physics-of-binary-star-evolution
 ---
-# Formation and Evolution of LMXBs [@TaurisvandenHeuvel+2023]
+# Formation and Evolution of [[LMXB]]s [@TaurisvandenHeuvel+2023]
 
 [[Physics of Binary Star Evolution/Physics of Binary Star Evolution|← Physics of Binary Star Evolution]]
 
@@ -29,7 +29,7 @@ tags:
 - [[AIC]] of a massive WD reaching [[Chandrasekhar Limit]] [[#sec:LMXBAICFormation]]
 - Formation Via Common Envelope Evolution [[#sec:LMXBFormViaCE]]
 
-### Formation Via Common Envelope Evolution
+### Formation Via [[Common Envelope]] Evolution
 
 ---
 
@@ -44,4 +44,4 @@ In this config the initial system consists of a relatively massive star ($∼ 12
 
 ### [[AIC]] of a massive WD reaching [[Chandrasekhar Limit]]
 
-### Origin from a HMXB with a much lower mass companion (triple star system)
+### Origin from a [[HMXB]] with a much lower mass companion (triple star system)

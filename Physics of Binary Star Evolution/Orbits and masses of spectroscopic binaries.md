@@ -30,7 +30,7 @@ $$\frac{L}{L_\odot} = \frac{M}{M_\odot}^{3.5}, M > 1.3M_\odot$$
 - Rad Vel curve must be off due to a difference in eccentricity values derived from the rad curve and the light curve
 - Rotation effect
 \begin{list}{-}{}
-- when the stars are eclipsing the rotational Doppler shift can be added (if the half spinning away from us is obscured) or subtracted to the shift, leading to different rad velocity measurements. This is called the Rossiter-McLaughlin effect.  *(This is actually a super neat and intuitive process which i feel like the book just sorta skips and doesnt explain, maybe wanna write out/make some graphics bout this sometime)*
+- when the stars are eclipsing the rotational [[Doppler shift]] can be added (if the half spinning away from us is obscured) or subtracted to the shift, leading to different rad velocity measurements. This is called the [[Rossiter-McLaughlin effect]].  *(This is actually a super neat and intuitive process which i feel like the book just sorta skips and doesnt explain, maybe wanna write out/make some graphics bout this sometime)*
 
 \item presence of gas streams
 - wow they could have said literally anything about what a gas stream is in this case
@@ -43,10 +43,10 @@ $$\frac{L}{L_\odot} = \frac{M}{M_\odot}^{3.5}, M > 1.3M_\odot$$
 \item deformation effect
 - the above effects cause the curve to be shifted from the c.m., leading to wonky radial vel curves
 
-\item  this is actually pretty important when it comes to HMXBs and properly measuring NS and BH masses
+\item  this is actually pretty important when it comes to [[HMXB]]s and properly measuring [[NS]] and [[BH]] masses
 \end{list}
 
-## Interacting binaries
+## [[Interacting binaries]]
 
 - $> 70\%$ of massive o-type stars are members of binaries so close that they'll exchange mass or merge before either star explode as a SN
 

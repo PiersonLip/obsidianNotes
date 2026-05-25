@@ -33,7 +33,7 @@ tags:
 - This means as the star (or cloud of gas) radius heat away, it actually gets hotter, leading to more radiation, and thus more shrinking
 - This applies to the star from the moment it is a gas to the end of its life as BH, NS, WD, etc
 - These equations work well for [[antibiotic-index]] of  $\gamma = C_p/C_V = 5/3$, which is great for globes of ionized hydrogen and helium. However, generalized forms can be found with eqs 8.6-8.8
-- if $\gamma \leq 4/3$, the star **cannot** reach HSEq, and thus must collapse or explode
+- if $\gamma \leq 4/3$, the star **cannot** reach [[HSEq]], and thus must collapse or explode
 - Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[Eddington Luminosity Limit]]
 
 ## Stellar Timescales
@@ -56,17 +56,17 @@ Timescale of how long it takes for the star to react to fusion rate not being eq
 
 Time it takes for a star to use all of its available fuel
 
-## High mass evolution$M \geq 12M_\odot$
+## [[High mass evolution]] $M \geq 12M_\odot$
 
-- Leave behind a collapsing iron core, which creates a NS or BH
+- Leave behind a collapsing iron core, which creates a [[NS]] or [[BH]]
 
-## Low mass stellar evolution $M\leq 8M_\odot$
+## [[Low mass stellar evolution]] $M\leq 8M_\odot$
 
-- The degenerate mass in the core of the star heavily effects fusion
-- For electron degenerate gas, the pressure only depends on the density (and not on the temperature)
+- The [[degenerate mass]] in the core of the star heavily effects fusion
+- For [[electron degenerate]] gas, the pressure only depends on the density (and not on the temperature)
 - This means that this degenerate gas ignites, it has no way of stabilizing itself, leading to a `flash', where it all ignites rapidly.
 - This will only stop when the temp reaches a point where the ideal gas is able to also do fusion, at which point the star can actually expand and cool
-- ``In stars with $M < 2.3 M_\odot$, the core becomes degenerate during hydrogen shell burning, and when $M_{he} ≈ .47M_\odot$, the helium ignites with a flash, the temp rises to $≈10^9$K, and the degeneracy is removed''
+- In stars with $M < 2.3 M_\odot$, the core becomes degenerate during hydrogen shell burning, and when $M_{he} ≈ .47M_\odot$, the helium ignites with a flash, the temp rises to $≈10^9$K, and the degeneracy is removed
 - This is not violent to actually disrupt the star
 - In stars with mass $2.3m_\odot < M ≲ 8M_\odot$ they instead ignite carbon in a flash. This is strong enough to disrupt the star (albeit rarely)
 - However, it is more likely for the star to eject its helium envelope due to helium-shell burning as well as the instability of the [[RSG]] stage, leaving behind a CO WD.

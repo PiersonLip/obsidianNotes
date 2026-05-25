@@ -16,16 +16,16 @@ tags:
 ---
 
 - This is some black magic mathmathmatic reasoning
-- Co-rotating binaries with have a tidal bulge that can be `easily' calculated
+- Co-rotating binaries with have a [[tidal bulge]] that can be `easily' calculated
 - also love the seemingly kinda personal rant about how the RL diagram is actually wrong, then provides a diagram which is way less intuitive
 
 ## Mass transfer Galore
 
-- Mass transfer through $L_1$ does not majority effect angular momentum, however, transfer through $L_2$ does, causing a shrinkage in separation, and typically mergers
+- [[Mass transfer]] through $L_1$ does not majority effect angular momentum, however, transfer through $L_2$ does, causing a shrinkage in separation, and typically mergers
 - Different ways of modeling the transfer, depending on how you treat angular momentum with respect to the transfer
 - Orbit widens if the donor is less massive then accretor, and shrinks if the donor is more
 
-## Types of RLO
+## Types of [[RLO]]
 
 - [[consv-RLO]]
 - [[Mass loss from a circumbinary disk]]
@@ -46,7 +46,7 @@ tags:
 - more likely to detect it if the mass transfer is stable
 - orbit always expands for $q < 1 $ and always shrinks when $q = 1.28$
 - Depends on whether the donor contracts or swells upon starting to transfer mass
-- Donors with radiative envelopes ([[Case A RLO]]) or slightly convective envelopes (early [[Case B RLO]]) will typically either shrink or stay the same radius
+- Donors with [[radiative envelopes]] ([[Case A RLO]]) or slightly [[convective envelopes]] (early [[Case B RLO]]) will typically either shrink or stay the same radius
 
 ## Tidal Evo
 
@@ -55,17 +55,17 @@ tags:
 - If the orbit is eccentric, the effect is greater in magnitude
 - This leads to the orbit becoming perfectly circular
 - Happens faster in systems with closer separations
-- Tempature can heavily effect orbtial eccentrictiy based on convection rates
+- Temperature can heavily effect orbital eccentricity based on convection rates
 
-## CE
+## [[CE]]
 
 - Trigged by unstable runaway mass transfer
-- companion star is engulfed in the envelope of the donor
+- companion star is engulfed in the [[envelope]] of the donor
 - the companion moving through this envelope causing friction, thus reducing angular moment, thus shrinking orbit
 - In some cases the envelope is ejected, and if it isnt, it leads to merger
-- Likely progenitor of some planetary nebulae
+- Likely [[progenitor]] of some [[planetary nebulae]]
 - Very hard to predict due to unstable nature
-- Onset is caused by runaway RLO, Darwin instability, or the expansion of the accreting star
+- Onset is caused by runaway RLO, [[Darwin instability]], or the expansion of the accreting star
 
 ### Stages of CE
 
@@ -82,6 +82,6 @@ tags:
 - Ability to eject a CE depends heavily on the evolutionary status of the donor at the onset of CE
 - Separation post CE ejection is about 100-1000x smaller than at Onset
 - $$E_{bind} \equiv -\frac{GM_{donor} M_{env}}{\lambda R_{donor}}$$
-- $\lambda$ various heavily on stealer mass and evolutionary status
+- $\lambda$ various heavily on stellar mass and evolutionary status
 - For low max systems the envelopes of the donors are typically ejected, as $|E_{bind}|$ is typically quite small
-- Many HMXBs with NSs will not survive CE and hence DNS mergers are rare, although these do theoretically form Thorne-Zytkov objects
+- Many [[HMXB]]s with NSs will not survive CE and hence DNS mergers are rare, although these do theoretically form [[Thorne-Zytkov objects]]

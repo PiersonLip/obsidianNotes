@@ -3,10 +3,13 @@
     "tokenPath": "/home/pierson/.config/ticktick/token"
   },
   "apod": {
-    "apiKey": "HcNzFDlEFRDJzEnlYuFcBl9dG6KLGbgjxrGYrhhW"
+    "apiKey": "DEMO_KEY"
   },
   "wikipedia": {
     "lang": "en"
+  },
+  "daily": {
+    "folder": "Dashboard/Daily"
   },
   "brokenLinks": {
     "excludePaths": [

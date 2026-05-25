@@ -1,3 +1,10 @@
 node_modules/
 public/
 .quartz-cache/
+quartz/
+package.json
+package-lock.json
+quartz.config.ts
+quartz.layout.ts
+globals.d.ts
+index.d.ts

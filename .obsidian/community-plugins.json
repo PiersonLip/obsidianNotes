@@ -11,5 +11,6 @@
   "dataview",
   "homepage",
   "obsidian-pandoc-reference-list",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code"
 ]

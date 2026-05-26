@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,18 +224,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e274252abaa79d0a",
   "lastOpenFiles": [
+    "codeTesting.md",
+    "GR.md",
+    "Glossary/BEER.md",
+    "Dashboard/Home.md",
+    "Class Notes/Astro210/Early Astronomy.md",
+    "templates/zotero-paper-note.md",
+    "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
     "Glossary/HeS.md",
     "Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
     "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
     "Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
-    "Dashboard/Home.md",
     "X-ray Binary.md",
     "node_modules/flexsearch/README.md",
     "conflict-files-obsidian-git.md",
-    "templates/zotero-paper-note.md",
     "templates/ZOTERO-SETUP.md",
     "degeneracy pressure.md",
     "Wip.md",
@@ -246,14 +253,8 @@
     "General Notes/donor.md",
     "General Notes/compact object.md",
     "General Notes/accretor.md",
-    "General Notes/LIGO.md",
-    "General Notes/HMXB.md",
-    "Common Envelope.md",
-    "BEaming.md",
     "AstroNotes.bib",
-    "Home.md",
     "cd",
-    "index.md",
     "Dashboard/_cache/apod-2026-05-25.json",
     "Dashboard/_cache",
     "Attachments/Pasted image 20260524010657.png",

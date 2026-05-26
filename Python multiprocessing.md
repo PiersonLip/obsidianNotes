@@ -12,7 +12,7 @@ Notes on Python [[multiprocessing]] module
 - **doesn't work in notebooks** [^1]
 
 
-[^1]: sorta, if the function is it's own file (i.e. `func.py` and its imported, )
+[^1]: sorta, if the function is it's own file (i.e. `func.py` and its imported and used properly, it then will work. Sorta defeats some of the niceness of a notebook tho)
 
 
 ## Implementation consists of...

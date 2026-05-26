@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python multiprocessing.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Python multiprocessing.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Python multiprocessing"
             }
           },
           {
@@ -217,9 +219,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9baeb65b88e38b9e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Python multiprocessing.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -243,14 +257,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bb2c421b2b88915",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "Python multiprocessing.md",
     "Obsidian Python .venv.md",
     "requirements.txt~",
     "Object.md",
     "Documenation.md",
-    "Dashboard/Home.md",
     "requirements.txt",
     "GR.md",
     "Glossary/BEER.md",

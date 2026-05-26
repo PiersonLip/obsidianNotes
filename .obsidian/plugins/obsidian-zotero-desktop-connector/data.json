@@ -1,11 +1,26 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "Paper Notes",
+  "noteImportFolder": "_zotero-raw-notes",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
-  "citeFormats": [],
-  "exportFormats": [],
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Paper note",
+      "outputPathTemplate": "Paper Notes/{{title | safe}} ({{citekey}}).md",
+      "imageOutputPathTemplate": "Attachments/Zotero/{{citekey}}",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/zotero-paper-note.md",
+      "cslStyle": "apa-7th-edition"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"

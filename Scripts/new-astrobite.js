@@ -88,6 +88,7 @@ ${yamlCite}tags:
   - astro-notes/astrobite
 ---
 # ${title}${citeLine}
+---
 
 [Astrobites post](${url})
 

@@ -17,8 +17,8 @@
       "outputPathTemplate": "Paper Notes/{{title | safe}} ({{citekey}}).md",
       "imageOutputPathTemplate": "Attachments/Zotero/{{citekey}}",
       "imageBaseNameTemplate": "image",
-      "templatePath": "Templates/zotero-paper-note.md",
-      "cslStyle": "apa-7th-edition"
+      "templatePath": "templates/zotero-paper-note.md",
+      "cslStyle": "apa"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

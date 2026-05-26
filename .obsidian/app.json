@@ -1,6 +1,12 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "deploy/"
+  ],
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",

@@ -5,8 +5,9 @@ tags:
 aliases:
   - black hole
   - BH
+  - BHs
 ---
 
 # BH
-
-
+---
+Black hole

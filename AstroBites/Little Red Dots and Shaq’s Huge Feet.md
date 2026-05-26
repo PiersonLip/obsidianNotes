@@ -16,3 +16,7 @@ They used a number of parameters, including...
 - $\delta_{V,compact}$ which measures the concentration of the candidates light
 ![[Pasted image 20260526000959.png]]
 Importantly this shows that the LRDs are *not* in a different distribution, instead, they simply lay on the more extreme end of the galaxies seen in the [[JWST]] surveys 
+
+## Largely Known
+--- 
+This points to the explanation that LRDs are simply [[AGN|AGNs]] that are being affected by [[dust reddening]]. Previously, [[ALMA]] had attempted to find dust in these LRDs, with no avail, however, this paper reconciles that with the fact that the quantity of dust is much too low for ALMA to resolve. 

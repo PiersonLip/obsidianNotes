@@ -3,9 +3,11 @@ aliases:
   - Transiting Expoplanet Survey Satelitte
 tags:
   - glossary
+  - astro-notes/satellite
 ---
 
 # TESS
 
-Transiting Expoplanet Survey Satelitte 
- satelitte dedicated to searching for exoplants via transit method, similar to kepler, albiet in a *much* larger region.
+Transiting Expoplanet Survey Satellite 
+
+dedicated to searching for [[exoplanets]] via [[transit method]], similar to the [[kepler mission]], albeit in a *much* larger region.

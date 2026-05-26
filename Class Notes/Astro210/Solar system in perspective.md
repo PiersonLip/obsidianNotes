@@ -18,7 +18,7 @@ tags:
 - planets all orbit in same direction
 - most planets rotate in the same direction as their orbital motion
 
-### Porotstellar Neb
+### [[Protostellar Nebula]]
 
 - Cloud of gas compressing and spinning
 
@@ -29,23 +29,20 @@ tags:
 
 ### Origin of the solar system
 
-- Giant jovian satellites are a mini version of the whole solar system
+- Giant [[jovian]] satellites are a mini version of the whole solar system
 - rings are temporary and provide evidence for a dynamic, evolving planetary system
-\begin{list}{-}{}
 - all Jovan planets have rings
 - produced by bodies that failed to form or were disrupted due to tidal forces
 - triton is scheduled to explode
-
-\end{list}
 
 ### Dynamic solar system
 
 - our moon, large satellite of a small planet
 - triton captured by Neptune
-- retrograde rotation of Venus
+- [[retrograde]] rotation of Venus
 - large impact craters
 
-### Detecting exoplanets
+### Detecting [[exoplanets]]
 
 #### Transit
 
@@ -56,19 +53,19 @@ tags:
 #### Indirect
 
 - Wobble due to the planet pulling on the star
-- They orbit their COM
+- They orbit their [[COM]]
 
 #### Doppler effect
 
 - Measure redshift and blue shift on the star
 
-### Unknown orbital inclination angle
+### Unknown orbital [[inclination]] angle
  
 - We do not know the inclination of the plane of the system relative to our line of sight
-- Doppler can only measure velocities projected onto the line of sight
+- [[Doppler]] can only measure velocities projected onto the line of sight
 - if $i=90°$, the plane is viewed edge on, and we measure true veloicty. Otherwise, we measure a smaller velocity, giving a lower limit of planet masses.
 
-### Radial Velocity method
+### [[Radial Velocity method]]
 
 - we need the complete more accurate version of Kepler III
 - $$p^2 = \frac{4\pi^2(a_A+a_B)^3}{G(M_A+M_B)}$$
@@ -78,7 +75,7 @@ tags:
 - $$\frac{a_A}{a_B} = \frac{M_B}{M_A}$$
 - $$M_B = (\frac{4\pi^2M_A^2}{GP^2}a_A^3)^{1/3}$$
 
-### Transit method
+### [[Transit method]]
 
 - Detected by planet passing in front of the star, causing a dip in the brightness
 - find mind transit flux reduction

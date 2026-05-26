@@ -7,6 +7,7 @@ cssclasses:
   - dashboard-home
 properties: false
 ---
+
 ```dataviewjs
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));
 const root = dv.container.createDiv({ cls: "dash-root" });
@@ -44,5 +45,4 @@ for (const widget of registry.widgets) {
   await mountWidget(widget, parent);
 }
 ```
-
 

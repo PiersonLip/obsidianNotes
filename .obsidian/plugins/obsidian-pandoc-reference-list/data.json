@@ -1,0 +1,14 @@
+{
+  "pathToPandoc": "/usr/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "Bibliography/all.bib",
+  "pullFromZotero": false,
+  "zoteroPort": 23119,
+  "showCitekeyTooltips": true,
+  "enableCiteKeyCompletion": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/ieee.csl"
+}

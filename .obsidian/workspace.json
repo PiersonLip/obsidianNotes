@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -195,8 +199,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -204,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +227,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e274252abaa79d0a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "templates/zotero-paper-note.md",
+    "templates/ZOTERO-SETUP.md",
+    "degeneracy pressure.md",
+    "X-ray Binary.md",
+    "Wip.md",
+    "Wikipedia/Electron degeneracy pressure.md",
+    "Wikipedia/Degenerate matter.md",
+    "Wikipedia",
+    "LMXB.md",
+    "General Notes/mass transfer.md",
+    "General Notes/donor.md",
+    "General Notes/compact object.md",
+    "General Notes/accretor.md",
+    "General Notes/LIGO.md",
+    "General Notes/HMXB.md",
+    "Common Envelope.md",
+    "BEaming.md",
+    "AstroNotes.bib",
     "Dashboard/Home.md",
     "Home.md",
     "cd",
@@ -243,26 +265,8 @@
     "Dashboard/Daily/2026-05-25.md",
     "Personal/2026-05-25.md",
     "Class Notes/Astro210/Astro210.md",
-    "Academic",
-    "Personal",
     "Pasted image 20260524010657.png",
     "neutron stars.md",
-    "blackhole.md",
-    "General Notes/RLO.md",
-    "General Notes/collapser.md",
-    "General Notes/Degenerate Matter.md",
-    "General Notes/NS.md",
-    "conflict-files-obsidian-git.md",
-    "General Notes/BH.md",
-    "AstroBites/What happens when you poke a black hole.md",
-    "General Notes/GW.md",
-    "General Notes/runaway-RLOF.md",
-    "Glossary/GWR.md",
-    "gravitational wave.md",
-    "General Notes/blackhole.md",
-    "Black hole.md",
-    "General Notes/white dwarf.md",
-    "accreted.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",

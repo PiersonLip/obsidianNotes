@@ -7,5 +7,5 @@ tags:
 
 # BEER
 
-BEaming, Ellipsoidal, and Reflection/Emission modulation 
- Method for detecing exoplants or blackholes based on variations in an observed star. See [[Relativistic Beaming]]
+[[Relativistic Beaming|Beaming]], Ellipsoidal, and Reflection/Emission modulation 
+ Method for detecting exoplanets or [[black holes]] based on variations in an observed star. See [[Relativistic Beaming]]

@@ -73,6 +73,6 @@ tags:
 
 ### rings
 
-- all Jovian planets have rings; Saturn are the most prominent
-- tidally disrupted satellite inside Roche limit
-- internal structures caused by orbital resonances
+- all [[Jovian planets]] have rings; Saturn are the most prominent
+- tidally disrupted satellite inside [[Roche limit]]
+- internal structures caused by [[orbital resonances]]

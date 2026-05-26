@@ -12,33 +12,33 @@ tags:
 
 #### Greek
 
-- Aristotle 
+- [[Aristotle]] 
 - earth is spherical
-- partial lunar eclipses
+- partial lunar [[eclipses]]
 - some stars visible from southern locations but not northern and vice versa
-- had ideas regarding perfect geo influenced by Pythagoras and Plato
+- had ideas regarding perfect geo influenced by [[Pythagoras]] and [[Plato]]
 
-\item Aristarchus (310-230 BC):
-- unpreceded heliocentric framework
+\item [[Aristarchus]] (310-230 BC):
+- unpreceded [[heliocentric]] framework
 - trig distances earth-moon-sun system
 - angular diameters $\theta_{sun} ≈ \theta_{moon} \therefore \frac{A}{C} = \frac{D_{moon}}{D_{moon}}$
 - diameters from lunar eclipses $D_{moon} < D_{earth}$
  
-\item Eratoshs (176-195 BC):
+\item [[Eratoshs]] (176-195 BC):
 - Determined radius of spherical earth $R_{E}$
-- Sun at zenith at noon on summer solstice at Aswan
+- Sun at [[zenith]] at noon on summer [[solstice]] at Aswan
 - But further north in Alexandria, Egypt, the sun is south of the zenith by angle $\alpha$
 
-\item Hipparchus (190-120 BC):
-- Discover precession of the equinoxes from examination of star catalogs over centuries
-- established the magnitude system
+\item [[Hipparchus]] (190-120 BC):
+- Discover [[precession]] of the [[equinoxes]] from examination of star catalogs over centuries
+- established the [[magnitude]] system
 
-\item Copernicus (1473-1543):
-- heliocentric
+\item [[Copernicus]] (1473-1543):
+- [[heliocentric]]
 - earth rotates
 - still assumed uniform circular celestial motion
-- inferior planets: orbit smaller than earths
-- superior planets: orbits larger than earths
+- [[inferior planet]]s: orbit smaller than earths
+- [[superior planets]]: orbits larger than earths
 
 \end{list}
 
@@ -65,17 +65,17 @@ tags:
 
 \item def publication of early results 1610 *"starry messenger"*
 \item - Moon is cratered; not a perfect Sphere
-- milkyway is made out of stars
-- Jupiter has moons (or as he thought, stars)
-- measured phases of Venus
+- [[milkyway]] is made out of stars
+- [[Jupiter]] has moons (or as he thought, stars)
+- measured phases of [[Venus]]
 
 \end{list}
 
-**\large Phases of Venus**
-- direct confrontation with Ptolemaic geocentric models
+**\large Phases of [[Venus]]**
+- direct confrontation with [[Ptolemaic]] geocentric models
 - in Ptolemaic models you only see crescent phases
 
-**\large Tycho Brahe (1546-1601)**
+**\large [[Tycho Brahe]] (1546-1601)**
 - Denmark, later Prague
 - Given island by king Fredrick (and staff)
 - made a accurate and vast database of celestial motion
@@ -83,7 +83,7 @@ tags:
 - Threw giant ragers
 - supernova named after him
 
-**\large Johannes Kepler (1571–1630, Prague)**
+**\large [[Johannes Kepler]] (1571–1630, Prague)**
 - 'Inherited' (maybe stole) Brahe's data
 - also has a SN
 - Kepler fit a new empirical model of heliocentric orbits, abandoning perfect circles 
@@ -125,7 +125,7 @@ $$p^2 = Ka^3$$
 - aberration of starlight
 - Coriolis effect
 
-**\large Parallax**
+**\large [[Parallax]]**
 - annual parallax: change in the apparent position when seen from two diff locations due to earth revolving around the sun. First measured by Bessel in 1838
 
 **\large Aberration of starlight**
@@ -134,7 +134,7 @@ $$p^2 = Ka^3$$
 - detected (Picard, 1680); explained (Bradley, 1729)
 - telescope is moving along orbital vector around the sun; translation along orbit cannot exceed transit time of light through telescope
 
-**\large Coriolis effect: evidence of earth rotation**
+**\large [[Coriolis effect]]: evidence of earth rotation**
 - Coriolis acceleration is perp to the direction of motion
 - $$\vec{a_{cor}}= s\vec{v} × \vec{\omega}$$
 - can be deduced from a pendulum

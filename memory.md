@@ -51,8 +51,9 @@ tags:
 Body pattern:
 
 - `# Title [@citekey]`
-- `[Astrobites post](url)` under the title
-- Body starts after the Astrobites link line; add your own sections as needed.
+- `---` (horizontal rule under the title)
+- `[Astrobites post](url)` below the rule
+- Body starts after the link line; add your own sections as needed.
 - Wikilinks to glossary: `[[TESS]]`, `[[PISN]]`
 
 **Index:** [[AstroBites/Astrobites]] — inline **Bases** list (updates automatically; new notes appear when you open the hub).
@@ -68,9 +69,20 @@ tags:
   - astro-notes/paper
 ```
 
-Body: `# Title [@citekey]`, `## Abstract`, bullet sections. Use **Zotero/BBT cite keys** in `citekey` and `[@…]` in text.
+Body: `# Title [@citekey]`, then `---`, then sections (`## Abstract`, bullets, …). Use **Zotero/BBT cite keys** in `citekey` and `[@…]` in text.
 
 **Create:** duplicate an existing paper note or add a row via **Bases → Papers**; add the reference to `Bibliography/AstroNotes.bib` (Zotero) or `sources.bib` if manual.
+
+### Wikipedia (`Wikipedia/<Article title>.md`)
+
+```yaml
+wikipedia-url: "https://en.wikipedia.org/wiki/..."
+citekey: Electrondegeneracy2026
+tags:
+  - astro-notes/wikipedia
+```
+
+Body: `# Title [@citekey]`, then `---`, then Wikipedia link. Bib: `@online{…}` in `sources.bib`; **QuickAdd → New Wikipedia Note** also rebuilds `Bibliography/all.bib` for Pandoc Reference List.
 
 ### General notes (`General Notes/<Topic>.md`)
 
@@ -219,7 +231,7 @@ Papers and class notes: duplicate an existing note or add a QuickAdd script late
 | Plugin | Role |
 |--------|------|
 | QuickAdd | New Astrobite, New Glossary Term |
-| Zotero Integration | `[@citekey]` |
+| Zotero Integration | `[@citekey]`; import via command **Paper note** (not **Import notes**) — see [[Templates/ZOTERO-SETUP]] |
 | Latex Suite | Math |
 | Notebook Navigator | Navigation |
 | Excalidraw | Diagrams (optional) |
@@ -316,6 +328,6 @@ Quartz is intentionally not kept in the vault working tree. To preview locally, 
 ## Conventions
 
 - **Links:** `[[Note title]]` or `[[path/to/note|label]]` for hubs
-- **Cites:** Zotero BBT keys everywhere (`greenUpperLimitFrequency2025`, not legacy `green_upper_2025`)
-- **Titles:** Astrobites use full article titles as filenames; papers often include a short parenthetical (`(greenUpper)`)
+- **Cites:** Zotero BBT keys `auth.lower + year` (e.g. `green2025`, `fragos2023`; clashes get `a`/`b` suffix). Refresh keys in Zotero after formula changes; update `citekey` + `[@…]` in notes.
+- **Titles:** Astrobites use full article titles as filenames; **Paper note** import uses `Paper Notes/<title> (<citekey>).md` (wikilink `[[citekey]]` via alias)
 - **Edit here:** this vault is the working notes system; keep `memory.md` in sync when structure changes

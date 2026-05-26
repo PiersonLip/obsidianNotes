@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Python multiprocessing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Python multiprocessing"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -230,9 +231,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "codeTesting.md",
-    "requirements.txt",
+    "Object.md",
+    "Python multiprocessing.md",
+    "Documenation.md",
     "Dashboard/Home.md",
+    "requirements.txt",
     "GR.md",
     "Glossary/BEER.md",
     "Class Notes/Astro210/Early Astronomy.md",
@@ -256,7 +259,6 @@
     "LMXB.md",
     "General Notes/mass transfer.md",
     "General Notes/donor.md",
-    "General Notes/compact object.md",
     "AstroNotes.bib",
     "cd",
     "Dashboard/_cache/apod-2026-05-25.json",

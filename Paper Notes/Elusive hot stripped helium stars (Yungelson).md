@@ -25,4 +25,4 @@ tags:
 
 ## [[Case B RLO]]
 <a id="Yungelson-case-b-rlo"></a>
-At solar [[metallicity]] $Z = Z_\odot$ this results in the formation of a system with a He [[white dwarf]] component, if the [[ZAMS]] donor mass is $≲ 2.5 M_\odot$ or a hot $(\log(T_{eff} ≲ 4.4))$ stripped helium star ([[HeS]]) component, if the donors [[ZAMS]] mass is higher and the mass-loss by its stellar wind does not prevent RLOF
+At solar [[metallicity]] $Z = Z_\odot$ this results in the formation of a system with a He [[White Dwarf]] component, if the [[ZAMS]] donor mass is $≲ 2.5 M_\odot$ or a hot $(\log(T_{eff} ≲ 4.4))$ stripped helium star ([[HeS]]) component, if the donors [[ZAMS]] mass is higher and the mass-loss by its stellar wind does not prevent RLOF

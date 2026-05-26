@@ -13,7 +13,7 @@ aliases:
 
 Degenerate matter occurs when the [[Pauli Exclusion Principle]] alters the state of matter in a low temperature environment.
 
-This is important with [[white dwarf|white dwarfs]] and [[NS|neutron stars]] as the effects of [[thermal pressure]] are not enough to prevent collapse due to the gravity.
+This is important with [[White Dwarf|white dwarfs]] and [[NS|neutron stars]] as the effects of [[thermal pressure]] are not enough to prevent collapse due to the gravity.
 
 This is typically modeled as a [[fermi gas]], which means that they are under the effects of the [[Pauli Exclusion Principle|Pauli-Exclusion-Principle]], and there is a limited number of low energy [[quantum states]]
 

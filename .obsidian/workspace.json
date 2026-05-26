@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "node_modules/flexsearch/README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/notebook-navigator/data.json",
+                "bFile": ".obsidian/plugins/notebook-navigator/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -229,11 +230,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "X-ray Binary.md",
+    "node_modules/flexsearch/README.md",
     "conflict-files-obsidian-git.md",
     "templates/zotero-paper-note.md",
     "templates/ZOTERO-SETUP.md",
     "degeneracy pressure.md",
-    "X-ray Binary.md",
     "Wip.md",
     "Wikipedia/Electron degeneracy pressure.md",
     "Wikipedia/Degenerate matter.md",
@@ -266,7 +268,6 @@
     "Personal/2026-05-25.md",
     "Class Notes/Astro210/Astro210.md",
     "Pasted image 20260524010657.png",
-    "neutron stars.md",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",

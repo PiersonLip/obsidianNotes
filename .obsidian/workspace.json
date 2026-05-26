@@ -230,6 +230,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "requirements.txt",
     "Dashboard/Home.md",
     "codeTesting.md",
     "GR.md",
@@ -256,7 +257,6 @@
     "General Notes/mass transfer.md",
     "General Notes/donor.md",
     "General Notes/compact object.md",
-    "General Notes/accretor.md",
     "AstroNotes.bib",
     "cd",
     "Dashboard/_cache/apod-2026-05-25.json",

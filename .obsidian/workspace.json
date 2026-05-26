@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a58c54c383752969",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9f5e0fca1b7786",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "47b40d8fcdcb142e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "75a85d1c1e2afbea",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -217,8 +195,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -226,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75a85d1c1e2afbea",
+  "active": "e274252abaa79d0a",
   "lastOpenFiles": [
-    "Home.md",
     "Dashboard/Home.md",
+    "Home.md",
     "cd",
     "index.md",
     "Dashboard/_cache/apod-2026-05-25.json",

@@ -11,14 +11,38 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f092e52678fc072c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "codeTesting.md",
+                "file": "Little Red Dots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "codeTesting"
+              "title": "Little Red Dots"
+            }
+          },
+          {
+            "id": "5db1a06fd3539954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGN"
             }
           }
         ]
@@ -89,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -202,14 +227,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9baeb65b88e38b9e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +264,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
+    "Pasted image 20260526000959.png",
+    "AGN.md",
+    "Little Red Dots.md",
+    "General Notes/BH.md",
+    "Dashboard/_cache/apod-2026-05-26.json",
     "Dashboard/Home.md",
-    "codeTesting.md",
+    "Pasted image 20260525235807.png",
+    "Pasted image 20260525235651.png",
+    "Python multiprocessing.md",
+    "Obsidian Python .venv.md",
+    "requirements.txt~",
+    "Object.md",
+    "Documenation.md",
+    "requirements.txt",
     "GR.md",
     "Glossary/BEER.md",
     "Class Notes/Astro210/Early Astronomy.md",
@@ -248,15 +295,7 @@
     "conflict-files-obsidian-git.md",
     "templates/ZOTERO-SETUP.md",
     "degeneracy pressure.md",
-    "Wip.md",
-    "Wikipedia/Electron degeneracy pressure.md",
-    "Wikipedia/Degenerate matter.md",
     "Wikipedia",
-    "LMXB.md",
-    "General Notes/mass transfer.md",
-    "General Notes/donor.md",
-    "General Notes/compact object.md",
-    "General Notes/accretor.md",
     "AstroNotes.bib",
     "cd",
     "Dashboard/_cache/apod-2026-05-25.json",
@@ -264,18 +303,12 @@
     "Attachments/Pasted image 20260524010657.png",
     "Bases/Astro210.base",
     "Bases/Class Notes.base",
-    "Bases/Glossary.base",
-    "Bases/Astrobites.base",
-    "Bases/Physics of Binary Star Evolution.base",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
     "public/Attachments/bhPertubation.png",
     "public/Attachments/ManyMerger.png",
-    "public/Pasted-image-20260524010657.png",
-    "public/static/og-image.png",
-    "public/static/icon.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

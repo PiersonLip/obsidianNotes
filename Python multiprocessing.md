@@ -3,9 +3,9 @@ aliases:
 tags:
   - python
 ---
-[Documenation](https://docs.python.org/3/library/multiprocessing.html)
+[Documentation](https://docs.python.org/3/library/multiprocessing.html)
 
-Notes on Python [[multiprocessing]] module 
+Notes on [[Python]] [[multiprocessing]] [[module]] 
 
 ## Caveats 
 ---

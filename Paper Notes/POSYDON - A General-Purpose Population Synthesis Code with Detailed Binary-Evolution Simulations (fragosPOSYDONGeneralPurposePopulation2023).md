@@ -1,17 +1,17 @@
 ---
 category: paper
-citekey: fragosPOSYDONGeneralPurposePopulation2023
+citekey: fragosPOSYDONGeneralPurposePopulation2023a
 aliases:
-  - fragosPOSYDONGeneralPurposePopulation2023
+  - fragosPOSYDONGeneralPurposePopulation2023a
 tags:
   - astro-notes/paper
 ---
-# POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations [@fragosPOSYDONGeneralPurposePopulation2023]
+# POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations [@fragosPOSYDONGeneralPurposePopulation2023a]
 
 ---
 
 > [!info] Metadata
-> **Citekey:** fragosPOSYDONGeneralPurposePopulation2023
+> **Citekey:** fragosPOSYDONGeneralPurposePopulation2023a
 > **Year:** 2023
 > **FirstAuthor:** Fragos, Tassos> **Author:** Andrews, Jeff J.> **Author:** Bavera, Simone S.> **Author:** Berry, Christopher P. L.> **Author:** Coughlin, Scott> **Author:** Dotter, Aaron> **Author:** Giri, Prabin> **Author:** Kalogera, Vicky> **Author:** Katsaggelos, Aggelos> **Author:** Kovlakas, Konstantinos> **Author:** Lalvani, Shamal> **Author:** Misra, Devina> **Author:** Srivastava, Philipp M.> **Author:** Qin, Ying> **Author:** Rocha, Kyle A.> **Author:** Roman-Garza, Jaime> **Author:** Serra, Juan Gabriel> **Author:** Stahle, Petter> **Author:** Sun, Meng> **Author:** Teng, Xu> **Author:** Trajcevski, Goce> **Author:** Tran, Nam Hai> **Author:** Xing, Zepei> **Author:** Zapartas, Emmanouil> **Author:** Zevin, Michael
 

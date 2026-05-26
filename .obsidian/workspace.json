@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "codeTesting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "codeTesting"
             }
           }
         ]
@@ -224,12 +228,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e274252abaa79d0a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "codeTesting.md",
     "GR.md",
     "Glossary/BEER.md",
-    "Dashboard/Home.md",
     "Class Notes/Astro210/Early Astronomy.md",
     "templates/zotero-paper-note.md",
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",

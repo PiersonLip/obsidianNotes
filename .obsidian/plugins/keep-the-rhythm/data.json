@@ -95,7 +95,13 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 159,
         "charCountStart": 1387,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 2
       },
       {

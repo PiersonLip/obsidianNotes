@@ -6,10 +6,7 @@ if (!plugin) {
   return;
 }
 
-const data = plugin.data;
-const settings = data?.settings ?? {};
-const stats = data?.stats ?? {};
-const activity = stats.dailyActivity ?? [];
+const settings = plugin.data?.settings ?? {};
 const goal = settings.dailyWritingGoal ?? 500;
 const heatmapCfg = settings.heatmapConfig ?? {};
 const colors = heatmapCfg.colors?.dark ?? {
@@ -19,55 +16,83 @@ const roundCells = heatmapCfg.roundCells !== false;
 const intensityStops = heatmapCfg.intensityStops ?? { low: 100, medium: 500, high: 1000 };
 const startOfWeek = (settings.startOfTheWeek === "SUNDAY") ? 0 : 1;
 const numWeeks = Math.min(heatmapCfg.numberOfWeeks ?? 52, 52);
+const slots = settings.sidebarConfig?.slots ?? [];
+const todayStr = window.moment().format("YYYY-MM-DD");
+const vaultName = app.vault.getName();
+const dbName = `KTRDatabase-${vaultName}`;
 
-// ── helpers ──────────────────────────────────────────────────────────────────
+// ── read from IndexedDB directly ──────────────────────────────────────────────
 
-function wordCountForDate(dateStr) {
-  let total = 0;
-  for (const entry of activity) {
-    if (entry.date !== dateStr) continue;
-    const changes = entry.changes ?? [];
-    if (changes.length === 0) continue;
-    const start = entry.wordCountStart ?? 0;
-    const last = changes[changes.length - 1].w ?? 0;
-    total += Math.max(0, last - start);
-  }
-  return total;
+function openKTRDB() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open(dbName);
+    req.onerror = () => reject(req.error);
+    req.onsuccess = () => resolve(req.result);
+  });
 }
+
+function getAllActivity(db) {
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction("dailyActivity", "readonly");
+    const store = tx.objectStore("dailyActivity");
+    const req = store.getAll();
+    req.onerror = () => reject(req.error);
+    req.onsuccess = () => resolve(req.result);
+  });
+}
+
+let activity = [];
+try {
+  const db = await openKTRDB();
+  activity = await getAllActivity(db);
+  db.close();
+} catch (err) {
+  // fall back to snapshot in plugin.data
+  activity = plugin.data?.stats?.dailyActivity ?? [];
+}
+
+// ── helpers ───────────────────────────────────────────────────────────────────
+
+function entryDiff(entry) {
+  const changes = entry.changes ?? [];
+  if (changes.length === 0) return 0;
+  const last = changes[changes.length - 1].w ?? 0;
+  return Math.max(0, last - (entry.wordCountStart ?? 0));
+}
+
+function dayTotalMap() {
+  const map = new Map();
+  for (const e of activity) {
+    const diff = entryDiff(e);
+    if (diff > 0) map.set(e.date, (map.get(e.date) ?? 0) + diff);
+  }
+  return map;
+}
+
+const dayTotals = dayTotalMap();
 
 function wordCountThisWeek() {
   const now = window.moment();
-  const weekStart = now.clone().startOf("isoWeek");
-  if (startOfWeek === 0) weekStart.weekday(0);
+  const weekStart = now.clone().startOf(startOfWeek === 0 ? "week" : "isoWeek");
   let total = 0;
-  for (const entry of activity) {
-    const d = window.moment(entry.date);
-    if (!d.isBefore(weekStart) && !d.isAfter(now)) {
-      const changes = entry.changes ?? [];
-      if (changes.length === 0) continue;
-      const start = entry.wordCountStart ?? 0;
-      const last = changes[changes.length - 1].w ?? 0;
-      total += Math.max(0, last - start);
-    }
+  for (const [date, words] of dayTotals) {
+    const d = window.moment(date);
+    if (!d.isBefore(weekStart) && !d.isAfter(now)) total += words;
   }
   return total;
 }
 
-function wordCountDaysRange(days) {
-  const entries = new Map();
-  const cutoff = window.moment().subtract(days, "days").startOf("day");
-  for (const entry of activity) {
-    if (window.moment(entry.date).isBefore(cutoff)) continue;
-    const changes = entry.changes ?? [];
-    if (changes.length === 0) continue;
-    const start = entry.wordCountStart ?? 0;
-    const last = changes[changes.length - 1].w ?? 0;
-    const diff = Math.max(0, last - start);
-    entries.set(entry.date, (entries.get(entry.date) ?? 0) + diff);
-  }
+function wordCountLast30Days() {
+  const cutoff = window.moment().subtract(30, "days").startOf("day");
   let total = 0;
-  for (const v of entries.values()) total += v;
-  return { total, days: entries.size || 1 };
+  for (const [date, words] of dayTotals) {
+    if (!window.moment(date).isBefore(cutoff)) total += words;
+  }
+  return total;
+}
+
+function todayEntries() {
+  return activity.filter(e => e.date === todayStr && entryDiff(e) > 0);
 }
 
 function intensityColor(words) {
@@ -78,39 +103,32 @@ function intensityColor(words) {
   return colors["4"];
 }
 
-function todayKey() {
-  return window.moment().format("YYYY-MM-DD");
-}
-
 // ── stat slots ────────────────────────────────────────────────────────────────
-
-const slots = settings.sidebarConfig?.slots ?? [];
 
 const slotsDiv = container.createDiv({ cls: "ktr-slots" });
 
 for (const slot of slots) {
   const box = slotsDiv.createDiv({ cls: "ktr-slot" });
-  let label = "", value = 0, unit = slot.unit === "WORD" ? "words" : "chars";
+  let label = "", value = 0, unit = "words";
 
   switch (slot.option) {
     case "CURRENT_FILE":
       label = "This File";
-      value = wordCountForDate(todayKey());
+      value = dayTotals.get(todayStr) ?? 0;
       break;
     case "CURRENT_WEEK":
       label = "This Week";
       value = wordCountThisWeek();
       break;
     case "LAST_MONTH": {
-      const r = wordCountDaysRange(30);
+      const total = wordCountLast30Days();
       label = "Last 30 Days";
-      value = slot.calc === "AVG" ? Math.round(r.total / 30) : r.total;
-      unit += slot.calc === "AVG" ? "/day" : "";
+      value = slot.calc === "AVG" ? Math.round(total / 30) : total;
+      if (slot.calc === "AVG") unit = "words/day";
       break;
     }
     default:
       label = slot.option;
-      value = 0;
   }
 
   box.createEl("div", { cls: "ktr-slot-label", text: label });
@@ -118,45 +136,32 @@ for (const slot of slots) {
   valRow.createEl("span", { cls: "ktr-slot-number", text: value.toLocaleString() });
   valRow.createEl("span", { cls: "ktr-slot-unit", text: ` ${unit}` });
 
-  // goal progress bar for today
-  if (slot.option === "CURRENT_FILE" || slot.option === "CURRENT_WEEK") {
-    const pct = Math.min(100, Math.round((value / goal) * 100));
-    const bar = box.createDiv({ cls: "ktr-bar-track" });
-    const fill = bar.createDiv({ cls: "ktr-bar-fill" });
-    fill.style.width = `${pct}%`;
-  }
+  const pct = Math.min(100, Math.round((value / goal) * 100));
+  const bar = box.createDiv({ cls: "ktr-bar-track" });
+  const fill = bar.createDiv({ cls: "ktr-bar-fill" });
+  fill.style.width = `${pct}%`;
 }
 
 // ── streak ────────────────────────────────────────────────────────────────────
 
-const streak = stats.currentStreak ?? 0;
-const best = stats.highestStreak ?? 0;
+const streak = plugin.data?.stats?.currentStreak ?? 0;
+const best = plugin.data?.stats?.highestStreak ?? 0;
 if (streak > 0 || best > 0) {
-  const streakRow = container.createDiv({ cls: "ktr-streak-row" });
-  streakRow.createEl("span", { cls: "ktr-streak", text: `🔥 ${streak}-day streak` });
-  if (best > streak) {
-    streakRow.createEl("span", { cls: "dash-muted", text: ` · best ${best}` });
-  }
+  const row = container.createDiv({ cls: "ktr-streak-row" });
+  row.createEl("span", { cls: "ktr-streak", text: `🔥 ${streak}-day streak` });
+  if (best > streak) row.createEl("span", { cls: "dash-muted", text: ` · best ${best}` });
 }
 
 // ── entries today ─────────────────────────────────────────────────────────────
 
-const todayEntries = activity.filter(e => {
-  if (e.date !== todayKey()) return false;
-  const changes = e.changes ?? [];
-  if (changes.length === 0) return false;
-  const diff = Math.max(0, (changes[changes.length - 1].w ?? 0) - (e.wordCountStart ?? 0));
-  return diff > 0;
-});
-
-if (todayEntries.length > 0) {
+const entries = todayEntries();
+if (entries.length > 0) {
   const section = container.createDiv({ cls: "ktr-entries" });
   section.createEl("div", { cls: "ktr-entries-label", text: "ENTRIES TODAY" });
-  for (const entry of todayEntries) {
-    const row = section.createDiv({ cls: "ktr-entry-row" });
-    const changes = entry.changes ?? [];
-    const diff = Math.max(0, (changes[changes.length - 1].w ?? 0) - (entry.wordCountStart ?? 0));
+  for (const entry of entries) {
+    const diff = entryDiff(entry);
     const name = entry.filePath.split("/").pop().replace(/\.md$/, "");
+    const row = section.createDiv({ cls: "ktr-entry-row" });
     row.createEl("span", { cls: "ktr-entry-name", text: name });
     row.createEl("span", { cls: "ktr-entry-count", text: `+${diff.toLocaleString()} words` });
   }
@@ -164,78 +169,47 @@ if (todayEntries.length > 0) {
 
 // ── heatmap ───────────────────────────────────────────────────────────────────
 
-// Build per-day totals from activity
-const dayTotals = new Map();
-for (const entry of activity) {
-  const changes = entry.changes ?? [];
-  if (changes.length === 0) continue;
-  const diff = Math.max(0, (changes[changes.length - 1].w ?? 0) - (entry.wordCountStart ?? 0));
-  dayTotals.set(entry.date, (dayTotals.get(entry.date) ?? 0) + diff);
-}
-
 const heatmap = container.createDiv({ cls: "ktr-heatmap" });
-
-// Build grid: numWeeks columns, 7 rows (days), going back from today
 const today = window.moment();
-// Find the end of the current week (Saturday if Sun start, Sunday if Mon start)
-const endOfGrid = today.clone();
-// Align so we end at the last day of this week
-const startOfGrid = endOfGrid.clone().subtract(numWeeks - 1, "weeks").startOf("week");
-if (startOfWeek === 0) {
-  // Sunday start
-  while (startOfGrid.day() !== 0) startOfGrid.subtract(1, "day");
-} else {
-  while (startOfGrid.isoWeekday() !== 1) startOfGrid.subtract(1, "day");
-}
+const startOfGrid = today.clone().subtract(numWeeks - 1, "weeks");
+startOfGrid.startOf(startOfWeek === 0 ? "week" : "isoWeek");
 
-// Month labels row
+// month labels
 const monthRow = heatmap.createDiv({ cls: "ktr-month-row" });
-// Day label column header (blank)
 monthRow.createEl("div", { cls: "ktr-weekday-spacer" });
-
 let lastMonth = -1;
-let colCount = 0;
 for (let w = 0; w < numWeeks; w++) {
   const weekStart = startOfGrid.clone().add(w, "weeks");
   const month = weekStart.month();
-  const label = month !== lastMonth ? weekStart.format("MMM") : "";
-  monthRow.createEl("div", { cls: "ktr-month-label", text: label });
-  if (month !== lastMonth) lastMonth = month;
+  monthRow.createEl("div", {
+    cls: "ktr-month-label",
+    text: month !== lastMonth ? weekStart.format("MMM") : "",
+  });
+  lastMonth = month;
 }
-
-const gridBody = heatmap.createDiv({ cls: "ktr-grid-body" });
 
 const dayNames = startOfWeek === 0
   ? ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
   : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
+const gridBody = heatmap.createDiv({ cls: "ktr-grid-body" });
 for (let d = 0; d < 7; d++) {
   const row = gridBody.createDiv({ cls: "ktr-grid-row" });
-
-  // weekday label (alternate rows)
-  const lbl = d % 2 === 1 ? dayNames[d] : "";
-  row.createEl("div", { cls: "ktr-weekday-label", text: lbl });
+  row.createEl("div", { cls: "ktr-weekday-label", text: d % 2 === 1 ? dayNames[d] : "" });
 
   for (let w = 0; w < numWeeks; w++) {
-    const dayOffset = startOfWeek === 0 ? d : d;
     const cellDate = startOfGrid.clone().add(w, "weeks").add(d, "days");
     const dateStr = cellDate.format("YYYY-MM-DD");
     const isFuture = cellDate.isAfter(today, "day");
-
-    const cell = row.createDiv({ cls: "ktr-cell" });
-    if (roundCells) cell.addClass("ktr-cell-round");
+    const cell = row.createDiv({ cls: `ktr-cell${roundCells ? " ktr-cell-round" : ""}` });
 
     if (isFuture) {
       cell.style.background = "transparent";
     } else {
       const words = dayTotals.get(dateStr) ?? 0;
       cell.style.background = intensityColor(words);
-      if (words > 0) {
-        cell.title = `${dateStr}: ${words} words`;
-      }
-      if (dateStr === todayKey()) {
-        cell.addClass("ktr-cell-today");
-      }
+      if (words > 0) cell.title = `${dateStr}: ${words.toLocaleString()} words`;
+      if (dateStr === todayStr) cell.addClass("ktr-cell-today");
     }
   }
 }

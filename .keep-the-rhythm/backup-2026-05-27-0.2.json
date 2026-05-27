@@ -45,7 +45,7 @@
       "slots": [
         {
           "index": 0,
-          "option": "CURRENT_DAY",
+          "option": "CURRENT_FILE",
           "unit": "WORD",
           "calc": "TOTAL"
         },
@@ -75,6 +75,107 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [],
-    "dailyActivity": []
+    "dailyActivity": [
+      {
+        "date": "2026-05-27",
+        "filePath": "Common Envelope.md",
+        "wordCountStart": 280,
+        "charCountStart": 1777,
+        "changes": [
+          {
+            "timeKey": "00:35",
+            "w": 280,
+            "c": 1400
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 159,
+        "charCountStart": 1387,
+        "changes": [],
+        "id": 2
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/stellar streams.md",
+        "wordCountStart": 29,
+        "charCountStart": 211,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "test 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/Chandrasekhar Limit.md",
+        "wordCountStart": 25,
+        "charCountStart": 213,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/White Dwarf.md",
+        "wordCountStart": 5,
+        "charCountStart": 52,
+        "changes": [],
+        "id": 7
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/black hole.md",
+        "wordCountStart": 13,
+        "charCountStart": 120,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/HMXB.md",
+        "wordCountStart": 41,
+        "charCountStart": 312,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/LIGO.md",
+        "wordCountStart": 26,
+        "charCountStart": 229,
+        "changes": [],
+        "id": 10
+      }
+    ],
+    "wholeVaultWordCount": 17163,
+    "wholeVaultCharCount": 119186
   }
 }

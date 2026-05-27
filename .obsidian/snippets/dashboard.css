@@ -306,3 +306,166 @@
 .dash-checkin-list li {
   margin: 0.25rem 0;
 }
+
+/* ── Keep the Rhythm widget ───────────────────────────────────────── */
+
+.ktr-slots {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.ktr-slot {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  padding: 0.5rem 0.65rem;
+  background: var(--background-primary);
+}
+
+.ktr-slot-label {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.15rem;
+}
+
+.ktr-slot-value {
+  line-height: 1.2;
+}
+
+.ktr-slot-number {
+  font-size: 1.35em;
+  font-weight: 700;
+  color: var(--text-normal);
+}
+
+.ktr-slot-unit {
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+}
+
+.ktr-bar-track {
+  margin-top: 0.35rem;
+  height: 4px;
+  background: var(--background-modifier-border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.ktr-bar-fill {
+  height: 100%;
+  background: var(--interactive-accent);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.ktr-streak-row {
+  margin-bottom: 0.6rem;
+  font-size: var(--font-ui-small);
+}
+
+.ktr-streak {
+  font-weight: 600;
+}
+
+.ktr-entries {
+  margin-bottom: 0.75rem;
+}
+
+.ktr-entries-label {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+}
+
+.ktr-entry-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.2rem 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-size: var(--font-ui-small);
+}
+
+.ktr-entry-name {
+  color: var(--text-normal);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ktr-entry-count {
+  color: var(--text-accent);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* heatmap */
+.ktr-heatmap {
+  margin-top: 0.75rem;
+  overflow-x: auto;
+}
+
+.ktr-month-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  margin-bottom: 2px;
+}
+
+.ktr-weekday-spacer {
+  width: 2.5rem;
+  flex-shrink: 0;
+}
+
+.ktr-month-label {
+  width: 12px;
+  font-size: 9px;
+  color: var(--text-muted);
+  flex-shrink: 0;
+  overflow: visible;
+  white-space: nowrap;
+}
+
+.ktr-grid-body {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.ktr-grid-row {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.ktr-weekday-label {
+  width: 2.5rem;
+  flex-shrink: 0;
+  font-size: 9px;
+  color: var(--text-muted);
+  text-align: right;
+  padding-right: 4px;
+}
+
+.ktr-cell {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  background: #ebedf015;
+  cursor: default;
+}
+
+.ktr-cell-round {
+  border-radius: 2px;
+}
+
+.ktr-cell-today {
+  outline: 1px solid var(--interactive-accent);
+  outline-offset: 1px;
+}

@@ -11,33 +11,27 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dashboard/Home.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".keep-the-rhythm/backup-2026-05-27-0.2.json",
+                "bFile": ".keep-the-rhythm/backup-2026-05-27-0.2.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "diff",
+              "title": "Diff: backup-2026-05-27-0.2.json  (Working Tree)"
             }
           },
           {
-            "id": "1b24c5bcd4673df5",
+            "id": "ce79d12d0499d9ad",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Python multiprocessing.md",
-                "bFile": "Python multiprocessing.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Python multiprocessing  (Index)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,6 +223,16 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "3c989b71030e9881",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
           }
         ],
         "currentTab": 7
@@ -251,24 +255,32 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0233598bdb943976",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "General Notes/black hole.md",
+    "General Notes/LIGO.md",
+    "General Notes/HMXB.md",
+    "General Notes/White Dwarf.md",
+    "General Notes/Chandrasekhar Limit.md",
+    "General Notes/stellar streams.md",
+    "Common Envelope.md",
+    "test 1.md",
+    "test.md",
     "Pasted image 20260526161800.png",
     "conflict-files-obsidian-git.md",
-    "Dashboard/Home.md",
     "multiprocessing.md",
     "Solar BHs Research.md",
-    "General Notes/White Dwarf.md",
     "Confidence Bands.md",
     "Dashboard/_cache/apod-2026-05-27.json",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "Pasted image 20260526000959.png",
     "AGN.md",
     "Little Red Dots.md",
-    "General Notes/BH.md",
     "Dashboard/_cache/apod-2026-05-26.json",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
@@ -283,12 +295,6 @@
     "Class Notes/Astro210/Early Astronomy.md",
     "templates/zotero-paper-note.md",
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
-    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
-    "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
-    "Glossary/HeS.md",
-    "Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
-    "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
-    "Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
     "Wikipedia",
     "AstroNotes.bib",
     "cd",

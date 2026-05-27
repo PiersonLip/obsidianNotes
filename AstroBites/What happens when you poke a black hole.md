@@ -15,9 +15,9 @@ tags:
 
 ---
 
-What happens when you perturb the perfect shape of a [[BH|black hole]] (or any other object of symmetrically and spherically distorting spacetime)?
+What happens when you perturb the perfect shape of a [[black hole|black hole]] (or any other object of symmetrically and spherically distorting spacetime)?
 
-In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacetimes outside spherical masses. Note that this was being done *before* [[BH]]s were known.  
+In 1950 John Wheeler and Tullio Regge were studying spherically symmetric spacetimes outside spherical masses. Note that this was being done *before* [[black hole]]s were known.  
 
 ## How do you poke a BH?
 

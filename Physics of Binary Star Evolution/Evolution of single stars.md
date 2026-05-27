@@ -58,7 +58,7 @@ Time it takes for a star to use all of its available fuel
 
 ## [[High mass evolution]] $M \geq 12M_\odot$
 
-- Leave behind a collapsing iron core, which creates a [[NS]] or [[BH]]
+- Leave behind a collapsing iron core, which creates a [[NS]] or [[black hole]]
 
 ## [[Low mass stellar evolution]] $M\leq 8M_\odot$
 

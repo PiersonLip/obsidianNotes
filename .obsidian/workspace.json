@@ -221,14 +221,23 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
+          },
+          {
+            "id": "6417f18ee407a274",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,20 +254,26 @@
       "switcher:Open quick switcher": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "keep-the-rhythm:Keep the Rhythm": false
+      "keep-the-rhythm:Keep the Rhythm": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "personal/dailyTemplate.md",
+    "2026-05-27.md",
+    "2026-05-26.md",
+    "2026-05-25.md",
+    "2026/2026_05_27.md",
+    "2026/W22.md",
+    "2026/20260527.md",
+    "Dashboard/Home.md",
+    "2026",
     "personal/quartTemplate.md",
     "personal/weeklyTemplate.md",
     "Untitled.md",
     "personal/daily",
     "personal",
-    "2026-05-26.md",
-    "2026-05-25.md",
-    "Dashboard/Home.md",
     "Dashboard/views/keep-the-rhythm.js",
     "General Notes/black hole.md",
     "General Notes/LIGO.md",
@@ -278,18 +293,13 @@
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "Pasted image 20260526000959.png",
     "AGN.md",
-    "Little Red Dots.md",
     "Dashboard/_cache/apod-2026-05-26.json",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
-    "Python multiprocessing.md",
-    "Obsidian Python .venv.md",
     "requirements.txt~",
-    "Object.md",
     "requirements.txt",
     "Wikipedia",
     "AstroNotes.bib",
-    "cd",
     "Attachments/Pasted image 20260524010657.png",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",

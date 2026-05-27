@@ -100,6 +100,11 @@
             "timeKey": "00:45",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "01:05",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 2
@@ -236,6 +241,11 @@
             "timeKey": "01:00",
             "w": 16,
             "c": 112
+          },
+          {
+            "timeKey": "01:10",
+            "w": 5,
+            "c": 83
           }
         ],
         "id": 14
@@ -267,9 +277,65 @@
           }
         ],
         "id": 16
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026/W22.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026/20260527.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026/2026_05_27.md",
+        "wordCountStart": 19,
+        "charCountStart": 148,
+        "changes": [
+          {
+            "timeKey": "01:10",
+            "w": -19,
+            "c": -148
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026-05-27.md",
+        "wordCountStart": 18,
+        "charCountStart": 152,
+        "changes": [
+          {
+            "timeKey": "01:10",
+            "w": -18,
+            "c": -152
+          }
+        ],
+        "id": 20
       }
     ],
-    "wholeVaultWordCount": 17223,
-    "wholeVaultCharCount": 119621
+    "wholeVaultWordCount": 17228,
+    "wholeVaultCharCount": 119704
   }
 }

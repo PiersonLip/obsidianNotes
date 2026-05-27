@@ -9,13 +9,20 @@ properties: false
 ---
 
 ```dataviewjs
+(async () => {
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));
 const root = dv.container.createDiv({ cls: "dash-root" });
-
 const header = root.createDiv({ cls: "dash-header" });
-header.createEl("p", {
-  cls: "dash-muted",
-  text: `${window.moment().format("dddd, MMMM D · h:mm A")} · [[Home|Astro Notes index]]`,
+
+const headerP = header.createEl("p", { cls: "dash-muted" });
+headerP.createSpan({ text: `${window.moment().format("dddd, MMMM D · h:mm A")} · ` });
+const btn = headerP.createEl("button", { text: "📅 Open Today's Note", cls: "dash-muted" });
+btn.style.cursor = "pointer";
+btn.style.background = "none";
+btn.style.border = "none";
+btn.style.color = "inherit";
+btn.addEventListener("click", () => {
+  app.commands.executeCommandById("notebook-navigator:open-daily-note");
 });
 
 const layout = root.createDiv({ cls: "dash-layout" });
@@ -44,5 +51,6 @@ for (const widget of registry.widgets) {
   const parent = widget.column === "right" ? rightCol : leftCol;
   await mountWidget(widget, parent);
 }
+})();
 ```
 

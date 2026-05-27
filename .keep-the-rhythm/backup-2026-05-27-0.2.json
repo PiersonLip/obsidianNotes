@@ -74,7 +74,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-05-27"
+    ],
     "dailyActivity": [
       {
         "date": "2026-05-27",
@@ -105,6 +107,11 @@
             "timeKey": "01:05",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "01:55",
+            "w": 38,
+            "c": 355
           }
         ],
         "id": 2
@@ -200,13 +207,23 @@
             "timeKey": "00:55",
             "w": 8,
             "c": 53
+          },
+          {
+            "timeKey": "01:15",
+            "w": -11,
+            "c": -86
+          },
+          {
+            "timeKey": "01:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 11
       },
       {
         "date": "2026-05-27",
-        "filePath": "2026-05-25.md",
+        "filePath": "2026/2026-05-25.md",
         "wordCountStart": 20,
         "charCountStart": 128,
         "changes": [
@@ -223,12 +240,18 @@
         "filePath": "Untitled.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 13
       },
       {
         "date": "2026-05-27",
-        "filePath": "personal/dailyTemplate.md",
+        "filePath": "personalTemplates/dailyTemplate.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -246,13 +269,48 @@
             "timeKey": "01:10",
             "w": 5,
             "c": 83
+          },
+          {
+            "timeKey": "01:20",
+            "w": 12,
+            "c": 90
+          },
+          {
+            "timeKey": "01:25",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "01:30",
+            "w": 12,
+            "c": 75
+          },
+          {
+            "timeKey": "01:35",
+            "w": -5,
+            "c": -39
+          },
+          {
+            "timeKey": "01:40",
+            "w": -6,
+            "c": -65
+          },
+          {
+            "timeKey": "01:45",
+            "w": 3,
+            "c": 4
+          },
+          {
+            "timeKey": "02:00",
+            "w": 4,
+            "c": 33
           }
         ],
         "id": 14
       },
       {
         "date": "2026-05-27",
-        "filePath": "personal/quartTemplate.md",
+        "filePath": "personalTemplates/quartTemplate.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -266,7 +324,7 @@
       },
       {
         "date": "2026-05-27",
-        "filePath": "personal/weeklyTemplate.md",
+        "filePath": "personalTemplates/weeklyTemplate.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -274,6 +332,31 @@
             "timeKey": "01:00",
             "w": 12,
             "c": 88
+          },
+          {
+            "timeKey": "01:30",
+            "w": 15,
+            "c": 104
+          },
+          {
+            "timeKey": "01:35",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "01:40",
+            "w": 48,
+            "c": 308
+          },
+          {
+            "timeKey": "01:45",
+            "w": 11,
+            "c": 55
+          },
+          {
+            "timeKey": "01:50",
+            "w": 0,
+            "c": -9
           }
         ],
         "id": 16
@@ -288,6 +371,36 @@
             "timeKey": "01:05",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "01:30",
+            "w": 7,
+            "c": 76
+          },
+          {
+            "timeKey": "01:35",
+            "w": 24,
+            "c": 124
+          },
+          {
+            "timeKey": "01:40",
+            "w": 15,
+            "c": 185
+          },
+          {
+            "timeKey": "01:45",
+            "w": -46,
+            "c": -385
+          },
+          {
+            "timeKey": "01:50",
+            "w": 48,
+            "c": 386
           }
         ],
         "id": 17
@@ -308,7 +421,7 @@
       },
       {
         "date": "2026-05-27",
-        "filePath": "2026/2026_05_27.md",
+        "filePath": "2026/2026-05-26.md",
         "wordCountStart": 19,
         "charCountStart": 148,
         "changes": [
@@ -316,26 +429,117 @@
             "timeKey": "01:10",
             "w": -19,
             "c": -148
+          },
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "01:20",
+            "w": 11,
+            "c": 98
+          },
+          {
+            "timeKey": "01:25",
+            "w": 97,
+            "c": 512
+          },
+          {
+            "timeKey": "01:30",
+            "w": 4,
+            "c": 28
+          },
+          {
+            "timeKey": "01:45",
+            "w": 10,
+            "c": 66
+          },
+          {
+            "timeKey": "01:55",
+            "w": 4,
+            "c": 24
+          },
+          {
+            "timeKey": "02:00",
+            "w": 18,
+            "c": 120
           }
         ],
         "id": 19
       },
       {
         "date": "2026-05-27",
-        "filePath": "2026-05-27.md",
-        "wordCountStart": 18,
-        "charCountStart": 152,
+        "filePath": "2026-W22.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "01:10",
-            "w": -18,
-            "c": -152
+            "timeKey": "01:30",
+            "w": 0,
+            "c": 0
           }
         ],
-        "id": 20
+        "id": 24
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026/2026-W22.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "0022-05-22.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "0022/W21.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 27
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2021/W52.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 28
       }
     ],
-    "wholeVaultWordCount": 17228,
-    "wholeVaultCharCount": 119704
+    "wholeVaultWordCount": 17979,
+    "wholeVaultCharCount": 125898
   }
 }

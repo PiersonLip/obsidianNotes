@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "2026/W22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "W22"
             }
           }
         ]
@@ -182,6 +182,16 @@
           "icon": "notebook-navigator",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "67b2c273a61bac38",
+        "type": "leaf",
+        "state": {
+          "type": "keep-the-rhythm",
+          "state": {},
+          "icon": "calendar-days",
+          "title": "Keep the Rhythm"
+        }
       }
     ],
     "currentTab": 2
@@ -205,8 +215,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Common Envelope.md",
     "Dashboard/Home.md",
+    "Common Envelope.md",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "Dashboard/_cache/apod-2026-05-26.json",
     "X-ray Binary.md",

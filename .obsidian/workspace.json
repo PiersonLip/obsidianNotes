@@ -84,13 +84,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
-    "collapsed": true
+    "width": 879.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -229,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,6 +250,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "personal/dailyTemplate.md",
+    "personal/quartTemplate.md",
+    "personal/weeklyTemplate.md",
+    "Untitled.md",
+    "personal/daily",
+    "personal",
+    "2026-05-26.md",
+    "2026-05-25.md",
     "Dashboard/Home.md",
     "Dashboard/views/keep-the-rhythm.js",
     "General Notes/black hole.md",
@@ -279,17 +286,10 @@
     "Obsidian Python .venv.md",
     "requirements.txt~",
     "Object.md",
-    "Documenation.md",
     "requirements.txt",
-    "GR.md",
-    "Glossary/BEER.md",
-    "Class Notes/Astro210/Early Astronomy.md",
-    "templates/zotero-paper-note.md",
     "Wikipedia",
     "AstroNotes.bib",
     "cd",
-    "Dashboard/_cache/apod-2026-05-25.json",
-    "Dashboard/_cache",
     "Attachments/Pasted image 20260524010657.png",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",

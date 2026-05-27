@@ -179,9 +179,97 @@
         "charCountStart": 229,
         "changes": [],
         "id": 10
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026-05-26.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:50",
+            "w": 3,
+            "c": 33
+          },
+          {
+            "timeKey": "00:55",
+            "w": 8,
+            "c": 53
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026-05-25.md",
+        "wordCountStart": 20,
+        "charCountStart": 128,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "personal/dailyTemplate.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 3,
+            "c": 36
+          },
+          {
+            "timeKey": "01:00",
+            "w": 16,
+            "c": 112
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "personal/quartTemplate.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 18,
+            "c": 114
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "personal/weeklyTemplate.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 12,
+            "c": 88
+          }
+        ],
+        "id": 16
       }
     ],
-    "wholeVaultWordCount": 17163,
-    "wholeVaultCharCount": 119186
+    "wholeVaultWordCount": 17223,
+    "wholeVaultCharCount": 119621
   }
 }

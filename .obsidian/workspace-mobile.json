@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Common Envelope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Common Envelope"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
+    "Dashboard/_cache/apod-2026-05-26.json",
     "X-ray Binary.md",
     "Wikipedia/Electron degeneracy pressure.md",
     "Wikipedia/Degenerate matter.md",
@@ -204,7 +207,6 @@
     "General Notes/compact object.md",
     "degeneracy pressure.md",
     "Common Envelope.md",
-    "Dashboard/Home.md",
     "Glossary/BEER.md",
     "BEaming.md",
     "General Notes/Relativistic Beaming.md",
@@ -221,7 +223,6 @@
     "Physics of Binary Star Evolution/Roche equipotential.md",
     "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Class Notes/Astro210/Cosmology.md",
-    "Class Notes/Astro210/Early Astronomy.md",
     "Attachments/Pasted image 20260524010657.png"
   ]
 }

@@ -35,7 +35,7 @@ if __name__ == '__main__':
 [1,4,9]
 ```
 
-```run-python
+```python
 from multiprocessing import Pool, cpu_count
 import numpy as np
 import pandas as pd
@@ -79,5 +79,6 @@ if __name__ == "__main__":          # required on some platforms for multiproces
     print(f"Filtered rows: {len(filtered)}")
     print(filtered.head())
 ```
+
 
 [^1]: 

@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "1b24c5bcd4673df5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Python multiprocessing.md",
+                "bFile": "Python multiprocessing.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Python multiprocessing  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,9 +254,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0233598bdb943976",
   "lastOpenFiles": [
+    "Pasted image 20260526161800.png",
+    "conflict-files-obsidian-git.md",
     "Dashboard/Home.md",
+    "multiprocessing.md",
+    "Solar BHs Research.md",
+    "General Notes/White Dwarf.md",
+    "Confidence Bands.md",
+    "Dashboard/_cache/apod-2026-05-27.json",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "Pasted image 20260526000959.png",
     "AGN.md",
@@ -266,11 +289,6 @@
     "Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
     "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
     "Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
-    "X-ray Binary.md",
-    "node_modules/flexsearch/README.md",
-    "conflict-files-obsidian-git.md",
-    "templates/ZOTERO-SETUP.md",
-    "degeneracy pressure.md",
     "Wikipedia",
     "AstroNotes.bib",
     "cd",
@@ -278,13 +296,11 @@
     "Dashboard/_cache",
     "Attachments/Pasted image 20260524010657.png",
     "Bases/Astro210.base",
-    "Bases/Class Notes.base",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
     "public/Attachments/bhPertubation.png",
-    "public/Attachments/ManyMerger.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

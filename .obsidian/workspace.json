@@ -41,6 +41,36 @@
             "id": "f28ba8c045ac8177",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3763c26d3a6f162e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "686294a33cf71897",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "935cb2a07185d1b1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard/Home.md",
@@ -62,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dashboard/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -301,11 +332,15 @@
   },
   "active": "0233598bdb943976",
   "lastOpenFiles": [
+    "General Notes/kilonova.md",
+    "General Notes/CE.md",
+    "Solar BHs Research.md",
+    "Physics of Binary Star Evolution/Roche equipotential.md",
+    "Dashboard/Home.md",
     "2026/2026-05-26.md",
     "personalTemplates/dailyTemplate.md",
     "2026/2026-05-27.md",
     "2026/2026-05-25.md",
-    "Dashboard/Home.md",
     "2026/W22.md",
     "personalTemplates/weeklyTemplate.md",
     "2021/W52.md",
@@ -329,10 +364,6 @@
     "General Notes/black hole.md",
     "General Notes/LIGO.md",
     "General Notes/HMXB.md",
-    "General Notes/White Dwarf.md",
-    "General Notes/Chandrasekhar Limit.md",
-    "General Notes/stellar streams.md",
-    "Common Envelope.md",
     "Pasted image 20260526161800.png",
     "Dashboard/_cache/apod-2026-05-27.json",
     "Pasted image 20260526000959.png",

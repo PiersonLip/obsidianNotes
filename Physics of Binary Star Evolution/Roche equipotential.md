@@ -57,7 +57,7 @@ tags:
 - Happens faster in systems with closer separations
 - Temperature can heavily effect orbital eccentricity based on convection rates
 
-## [[CE]]
+## [[Common Envelope]]
 
 - Trigged by unstable runaway mass transfer
 - companion star is engulfed in the [[envelope]] of the donor
@@ -74,7 +74,7 @@ tags:
 - Slow spiral-in
 - Envelope Ejection
 
-### CE ejection
+### [[Common Envelope]] ejection
 
 - Whether not the envelope will be ejected is dependent on how good the system is at converting the GPE into KE, this added KE can then eject the envelope
 - This can be described as the efficiency $\alpha_{CE}$ of converting orbital energy $\Delta E_{orb}$

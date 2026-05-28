@@ -537,9 +537,64 @@
           }
         ],
         "id": 28
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/CE.md",
+        "wordCountStart": 6,
+        "charCountStart": 69,
+        "changes": [
+          {
+            "timeKey": "02:05",
+            "w": -6,
+            "c": -69
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "Physics of Binary Star Evolution/Roche equipotential.md",
+        "wordCountStart": 654,
+        "charCountStart": 4273,
+        "changes": [
+          {
+            "timeKey": "02:00",
+            "w": 1,
+            "c": 17
+          },
+          {
+            "timeKey": "02:05",
+            "w": 1,
+            "c": 13
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "Solar BHs Research.md",
+        "wordCountStart": 59,
+        "charCountStart": 375,
+        "changes": [
+          {
+            "timeKey": "02:05",
+            "w": 1,
+            "c": 13
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/kilonova.md",
+        "wordCountStart": 53,
+        "charCountStart": 331,
+        "changes": [],
+        "id": 32
       }
     ],
-    "wholeVaultWordCount": 17979,
-    "wholeVaultCharCount": 125898
+    "wholeVaultWordCount": 17982,
+    "wholeVaultCharCount": 125941
   }
 }

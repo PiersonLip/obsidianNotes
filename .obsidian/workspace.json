@@ -16,19 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "60c3486c8b8c8c4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,8 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60c3486c8b8c8c4c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "LMXB.md",
+    "General Notes/compact object.md",
+    "degenerate mass.md",
+    "Physics of Binary Star Evolution/Evolution of single stars.md",
     "Dashboard/Home.md",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "General Notes/JWST.md",
@@ -280,10 +272,6 @@
     "Pasted image 20260526000959.png",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
-    "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
-    "Obsidian Python .venv.md",
-    "Object.md",
-    "Glossary/HeS.md",
     "Dashboard/_cache/apod-2026-05-26.json",
     "Bases/Papers.base",
     "Bases/Physics of Binary Star Evolution.base",

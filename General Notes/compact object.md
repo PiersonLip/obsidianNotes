@@ -5,5 +5,5 @@ tags:
 ---
 # compact object
 ---
-[[White dwarfs]], [[neutron stars]] or [[BHs]]
+[[WD|white dwarfs]], [[NS|neutron stars]] or [[black hole|BHs]]
 

@@ -21,17 +21,18 @@
             "id": "a0c3cd410d29c9a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "personalTemplates/dailyTemplate.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "dailyTemplate"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,12 +246,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,8 +270,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0c3cd410d29c9a6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Dashboard/_cache/apod-2026-05-28.json",
     "General Notes/pauli-exclusion-principle.md",
     "Class Notes/Astro210/Astro210.md",
     "2026/2026-05-27.md",
@@ -299,7 +301,6 @@
     "2026-W22.md",
     "2026-05-26.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "2026",
     "personal/daily",
     "personalTemplates",
@@ -311,7 +312,6 @@
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
     "requirements.txt~",
-    "requirements.txt",
     "Attachments/Pasted image 20260524010657.png",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",

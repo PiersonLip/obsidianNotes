@@ -245,6 +245,11 @@
             "timeKey": "01:15",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 13
@@ -304,6 +309,16 @@
             "timeKey": "02:00",
             "w": 4,
             "c": 33
+          },
+          {
+            "timeKey": "23:50",
+            "w": -8,
+            "c": -43
+          },
+          {
+            "timeKey": "23:55",
+            "w": 0,
+            "c": -2
           }
         ],
         "id": 14
@@ -592,9 +607,64 @@
         "charCountStart": 331,
         "changes": [],
         "id": 32
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "2026/2026-05-27.md",
+        "wordCountStart": 44,
+        "charCountStart": 328,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": -27,
+            "c": -160
+          },
+          {
+            "timeKey": "23:55",
+            "w": 36,
+            "c": 210
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "templates/ZOTERO-SETUP.md",
+        "wordCountStart": 524,
+        "charCountStart": 3750,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "templates/zotero-paper-note.md",
+        "wordCountStart": 159,
+        "charCountStart": 1604,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "General Notes/Edge Limit Detonation.md",
+        "wordCountStart": 28,
+        "charCountStart": 213,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 36
       }
     ],
-    "wholeVaultWordCount": 17982,
-    "wholeVaultCharCount": 125941
+    "wholeVaultWordCount": 18028,
+    "wholeVaultCharCount": 126284
   }
 }

@@ -11,28 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "a0c3cd410d29c9a6",
-            "type": "leaf",
-            "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/plugins/notebook-navigator/data.json",
+                "bFile": ".obsidian/plugins/notebook-navigator/data.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,13 +35,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e274252abaa79d0a",
+            "id": "43a5c85be322c636",
             "type": "leaf",
             "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -61,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#astro-notes/generalNotes",
+                "query": "tag:glossary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,24 +75,22 @@
             }
           },
           {
-            "id": "43a5c85be322c636",
+            "id": "e274252abaa79d0a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Python multiprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Python multiprocessing"
             }
           },
           {
@@ -135,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wikipedia/Electron degeneracy pressure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Electron degeneracy pressure"
             }
           },
           {
@@ -201,12 +192,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
-            "id": "0233598bdb943976",
+            "id": "ebe4b0aee4cca989",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -216,27 +207,7 @@
             }
           },
           {
-            "id": "9baeb65b88e38b9e",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "3c989b71030e9881",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
-            }
-          },
-          {
-            "id": "6417f18ee407a274",
+            "id": "4cf8fdf620011a23",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator-calendar",
@@ -250,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,66 +229,65 @@
       "notebook-navigator:Notebook Navigator": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "keep-the-rhythm:Keep the Rhythm": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0c3cd410d29c9a6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard/_cache/apod-2026-05-28.json",
-    "General Notes/pauli-exclusion-principle.md",
-    "Class Notes/Astro210/Astro210.md",
-    "2026/2026-05-27.md",
-    "personalTemplates/dailyTemplate.md",
-    "Untitled.md",
-    "General Notes/Edge Limit Detonation.md",
+    "Dashboard/Home.md",
+    "personalTemplates/weeklyTemplate.md",
     "personalTemplates/quartTemplate.md",
+    "personalTemplates/dailyTemplate.md",
+    "personalTemplates",
+    "Untitled.md",
+    "General Notes/black hole.md",
+    "Dashboard/views/keep-the-rhythm.js",
+    "Dashboard/_cache/apod-2026-05-27.json",
+    "Dashboard/_cache/apod-2026-05-28.json",
+    "Common Envelope.md",
+    "Solar BHs Research.md",
+    "General Notes/White Dwarf.md",
+    "Confidence Bands.md",
+    "Pasted image 20260526161800.png",
+    "Python multiprocessing.md",
+    "multiprocessing.md",
+    "conflict-files-obsidian-git.md",
     "templates/zotero-paper-note.md",
     "templates/ZOTERO-SETUP.md",
-    "2026/W22.md",
-    "2026/2026-05-26.md",
-    "Dashboard/Home.md",
-    "General Notes/kilonova.md",
-    "General Notes/CE.md",
-    "Solar BHs Research.md",
-    "Physics of Binary Star Evolution/Roche equipotential.md",
-    "2026/2026-05-25.md",
-    "personalTemplates/weeklyTemplate.md",
-    "2021/W52.md",
-    "2021",
-    "0022/W21.md",
-    "0022",
-    "0022-05-22.md",
-    "2026/2026-W22.md",
-    "2026-W22.md",
-    "2026-05-26.md",
-    "Untitled 1.md",
-    "2026",
-    "personal/daily",
-    "personalTemplates",
-    "Dashboard/views/keep-the-rhythm.js",
-    "Pasted image 20260526161800.png",
-    "Dashboard/_cache/apod-2026-05-27.json",
+    "requirements.txt",
     "Pasted image 20260526000959.png",
-    "Dashboard/_cache/apod-2026-05-26.json",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
-    "requirements.txt~",
+    "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
+    "Obsidian Python .venv.md",
+    "Object.md",
+    "Little Red Dots.md",
+    "Glossary/HeS.md",
+    "GR.md",
+    "Documenation.md",
+    "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
+    "AGN.md",
+    "Dashboard/_cache/apod-2026-05-26.json",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+    "General Notes/HMXB.md",
+    "Bases/Papers.base",
+    "Bases/Physics of Binary Star Evolution.base",
+    "Bases/Astrobites.base",
+    "Bases/Class Notes.base",
     "Attachments/Pasted image 20260524010657.png",
-    "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",
     "public/Attachments/mainNotes-figure0.png",
     "public/Attachments/bhPertubation.png",
+    "public/Attachments/ManyMerger.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

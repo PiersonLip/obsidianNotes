@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/notebook-navigator/data.json",
-                "bFile": ".obsidian/plugins/notebook-navigator/data.json",
-                "aRef": ""
+                "file": "Dashboard/Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125,
+    "width": 542.5078125,
     "collapsed": true
   },
   "right": {
@@ -217,19 +217,21 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 603.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "keep-the-rhythm:Keep the Rhythm": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "notebook-navigator:Notebook Navigator": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,

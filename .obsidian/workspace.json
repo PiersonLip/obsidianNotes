@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:glossary",
+                "query": "tag:#astro-notes/generalNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,6 +272,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "General Notes/pauli-exclusion-principle.md",
     "Class Notes/Astro210/Astro210.md",
     "2026/2026-05-27.md",
     "personalTemplates/dailyTemplate.md",
@@ -298,7 +300,6 @@
     "2026-05-26.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "2026-05-27.md",
     "2026",
     "personal/daily",
     "personalTemplates",

@@ -670,6 +670,20 @@
         "charCountStart": 252,
         "changes": [],
         "id": 37
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "General Notes/pauli-exclusion-principle.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 38
       }
     ],
     "wholeVaultWordCount": 18028,

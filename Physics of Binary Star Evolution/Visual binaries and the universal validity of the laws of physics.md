@@ -81,7 +81,7 @@ Binaries where one star passes in front of the other at some point during its pe
 - Regular periodicity of with increase of x-ray emission
 - Caused by the NS being obscured by the larger star
 
-## First [[BH]] XrB
+## First [[black hole]] XrB
 
 - Discovered x-ray source with nearby [[supergiant]]
 - Falls into two classes
@@ -93,7 +93,7 @@ Binaries where one star passes in front of the other at some point during its pe
 - values as high as $.42mc^2$
 - Common in [[Globular clusters]]
 
-## Double [[NS]]s \& [[BH]]s
+## Double [[NS]]s \& [[black hole]]s
 
 - Proved by [[GW]] detection
 - Detections are dominated by [[DBHs]]

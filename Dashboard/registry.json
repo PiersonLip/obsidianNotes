@@ -31,6 +31,13 @@
       "title": "NASA APOD",
       "view": "Dashboard/views/apod",
       "column": "left"
+    },
+    {
+      "id": "keep-the-rhythm",
+      "title": "Writing",
+      "subtitle": "Keep the Rhythm",
+      "view": "Dashboard/views/keep-the-rhythm",
+      "column": "right"
     }
   ]
 }

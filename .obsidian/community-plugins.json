@@ -12,5 +12,9 @@
   "homepage",
   "obsidian-pandoc-reference-list",
   "obsidian-git",
-  "execute-code"
+  "execute-code",
+  "keep-the-rhythm",
+  "periodic-notes",
+  "templater-obsidian",
+  "automatic-linker"
 ]

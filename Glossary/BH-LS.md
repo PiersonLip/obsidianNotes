@@ -7,4 +7,4 @@ tags:
 
 # BH-LS
 
-[[BH|black hole]] w/Luminous companion
+[[black hole|black hole]] w/Luminous companion

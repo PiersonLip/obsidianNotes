@@ -6,5 +6,5 @@ tags:
 
 # Collapser
 
-[[BH|Black hole]] formed from Core Collapse [[SNe]], believed to be a [[gamma-ray]] source.
+[[black hole|Black hole]] formed from Core Collapse [[SNe]], believed to be a [[gamma-ray]] source.
 

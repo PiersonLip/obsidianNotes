@@ -43,7 +43,7 @@ $$\frac{L}{L_\odot} = \frac{M}{M_\odot}^{3.5}, M > 1.3M_\odot$$
 \item deformation effect
 - the above effects cause the curve to be shifted from the c.m., leading to wonky radial vel curves
 
-\item  this is actually pretty important when it comes to [[HMXB]]s and properly measuring [[NS]] and [[BH]] masses
+\item  this is actually pretty important when it comes to [[HMXB]]s and properly measuring [[NS]] and [[black hole]] masses
 \end{list}
 
 ## [[Interacting binaries]]

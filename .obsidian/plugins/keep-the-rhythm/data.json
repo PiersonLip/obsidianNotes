@@ -817,9 +817,42 @@
           }
         ],
         "id": 45
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "Little Red Dots.md",
+        "wordCountStart": 121,
+        "charCountStart": 791,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
+        "wordCountStart": 222,
+        "charCountStart": 1422,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 47
       }
     ],
     "wholeVaultWordCount": 18275,
-    "wholeVaultCharCount": 128086
+    "wholeVaultCharCount": 128089
   }
 }

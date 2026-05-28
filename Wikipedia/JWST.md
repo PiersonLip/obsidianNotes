@@ -11,7 +11,7 @@ aliases:
 [Wikipedia article](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope)
 # James Webb Space Telescope [@JamesWebb2026]
 ---
-A near-ir space telescope positioned in [[L2|Lagrange Points]] run by [[NASA]], [[ESA]], and [[CSA]].
+A near-ir space telescope positioned in [[Lagrange Points|L2]] run by [[NASA]], [[ESA]], and [[CSA]].
+- Launched in 2021
 
-Launched in 2021
 

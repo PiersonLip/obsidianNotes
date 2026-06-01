@@ -9,5 +9,5 @@ aliases:
 [Wikipedia article](https://en.wikipedia.org/wiki/Gravity_darkening)
 # Gravity darkening [@Gravitydarkening2026]
 ---
-The process where, due to rapid spin, a stars poles will be brighter then the equator. This is because the poles are "bulging" outwards due to the [[centrifugal force]], which leads to less inwards pressure from gravity, and thus the equator isn't as bright.
+The process where, due to rapid spin, a stars poles will be brighter then the equator. This is because the poles are "bulging" outwards due to the [[centrifugal force]], which leads to less inwards pressure from gravity, and because of [[HSEq]] the equator then isn't as bright.
 

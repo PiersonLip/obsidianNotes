@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125,
-    "collapsed": true
+    "width": 542.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -215,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +237,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2026/W23.md",
+    "Dashboard/Home.md",
+    "2026",
+    "Untitled 1.md",
+    "Dashboard/_cache/apod-2026-06-01.json",
     "LMXB.md",
     "General Notes/compact object.md",
     "degenerate mass.md",
     "Physics of Binary Star Evolution/Evolution of single stars.md",
-    "Dashboard/Home.md",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
     "General Notes/JWST.md",
     "Little Red Dots.md",
@@ -266,8 +270,6 @@
     "Python multiprocessing.md",
     "multiprocessing.md",
     "conflict-files-obsidian-git.md",
-    "templates/zotero-paper-note.md",
-    "templates/ZOTERO-SETUP.md",
     "requirements.txt",
     "Pasted image 20260526000959.png",
     "Pasted image 20260525235807.png",
@@ -275,8 +277,6 @@
     "Dashboard/_cache/apod-2026-05-26.json",
     "Bases/Papers.base",
     "Bases/Physics of Binary Star Evolution.base",
-    "Bases/Astrobites.base",
-    "Bases/Class Notes.base",
     "Attachments/Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",

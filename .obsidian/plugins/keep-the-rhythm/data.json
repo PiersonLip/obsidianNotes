@@ -927,9 +927,28 @@
           }
         ],
         "id": 53
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "Wikipedia/Gravity darkening.md",
+        "wordCountStart": 27,
+        "charCountStart": 285,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 41,
+            "c": 242
+          },
+          {
+            "timeKey": "13:20",
+            "w": 4,
+            "c": 16
+          }
+        ],
+        "id": 54
       }
     ],
-    "wholeVaultWordCount": 18281,
-    "wholeVaultCharCount": 128124
+    "wholeVaultWordCount": 18326,
+    "wholeVaultCharCount": 128382
   }
 }

@@ -919,7 +919,13 @@
         "filePath": "2026/W23.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 53
       }
     ],

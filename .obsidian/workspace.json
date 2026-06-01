@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -198,16 +199,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "4cf8fdf620011a23",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
             }
           }
         ]

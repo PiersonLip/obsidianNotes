@@ -7,6 +7,9 @@ tags:
 ---
 Possible summer project working with to create some type of gallery or just artsci piece of a [[Roche lobe]] model
 
+### Fountain
+---
+
 ### Glass Engraving
 --- 
 Michael may be able to engrave a piece of borosilicate glass with the stl of the roche lobe model, probably the grid version?
@@ -21,4 +24,4 @@ Michael may be able to engrave a piece of borosilicate glass with the stl of the
 ![[face2.png]]
 
 ![[edge.png]]
-^^^ zero idea wh
+^^^ zero idea what the ior is, probably around 1.5? probably negligible difference

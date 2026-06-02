@@ -18,7 +18,14 @@ Would either need to be sealed and treated 3d print, or possibly machined alumin
 
 ### CNC Model
 ---
-c
+CNCed version of the model. Lot of considerations 
+Probably a polish would look best?
+
+#### Who to make it?
+----
+- SendCutSend
+	- [ ] Whats the price?
+
 ### Glass Engraving
 --- 
 Michael may be able to engrave a piece of borosilicate glass with the stl of the roche lobe model, probably the grid version?

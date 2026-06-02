@@ -14,7 +14,7 @@ Michael may be able to engrave a piece of borosilicate glass with the stl of the
 #### Questions/deliberations 
 ---
 - [ ] What size are we thinking? And also, does it even need to be a cube?
-- [ ] Should we consider the [[IOR]] of the material? 
+- [ ] Should we consider the [[IOR]] of the material? Borosiliacate seems to be around 1.47 (from very rough goolging) but the ior could vary from 
 #### Mockups
 ---
 ![[face2.png]]

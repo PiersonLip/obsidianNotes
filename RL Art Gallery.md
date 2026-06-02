@@ -11,8 +11,10 @@ Possible summer project working with to create some type of gallery or just arts
 --- 
 Michael may be able to engrave a piece of borosilicate glass with the stl of the roche lobe model, probably the grid version?
 
-Questions/deli
-
+#### Questions/deliberations 
+---
+- [ ] What size are we thinking? And also, does it even need to be a cube?
+- [ ] Should we consider the [[IOR]] of the material? 
 #### Mockups
 ---
 ![[face2.png]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gravitational lensing.md",
+                "file": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gravitational lensing"
+              "title": "Seeing Stars Juicing up JWST with 5000x Magnification"
             }
           }
         ],
@@ -225,7 +225,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "gravitational lensing.md"
+                "file": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -259,9 +259,9 @@
   },
   "active": "1a2567a73700dab2",
   "lastOpenFiles": [
-    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
-    "General Notes/black hole.md",
     "gravitational lensing.md",
+    "General Notes/black hole.md",
+    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
     "Pasted image 20260602164626.png",
     "Dashboard/Home.md",
     "RL Art Gallery.md",

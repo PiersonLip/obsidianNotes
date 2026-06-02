@@ -9,7 +9,16 @@ Possible summer project working with to create some type of gallery or just arts
 
 ### Fountain
 ---
+Fountain showing [[RLO]].
 
+Could prbaboy be made in around a 200x200mm size.
+
+Would either need to be sealed and treated 3d print, or possibly machined aluminum?
+
+
+### CNC Model
+---
+c
 ### Glass Engraving
 --- 
 Michael may be able to engrave a piece of borosilicate glass with the stl of the roche lobe model, probably the grid version?

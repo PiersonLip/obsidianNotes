@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10MillPop.md",
+                "file": "class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10MillPop"
+              "title": "class"
             }
           }
         ],
@@ -247,8 +247,10 @@
   },
   "active": "f284e64028cdccc6",
   "lastOpenFiles": [
-    "POSYDON CE.md",
+    "Object.md",
+    "class.md",
     "10MillPop.md",
+    "POSYDON CE.md",
     "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-02.json",
@@ -278,8 +280,6 @@
     "Dashboard/_cache/apod-2026-05-27.json",
     "Dashboard/_cache/apod-2026-05-28.json",
     "Common Envelope.md",
-    "Solar BHs Research.md",
-    "General Notes/White Dwarf.md",
     "Pasted image 20260526161800.png",
     "requirements.txt",
     "Pasted image 20260526000959.png",

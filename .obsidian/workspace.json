@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSYDON Documentation Errors or Typos.md",
+                "file": "AstroBites/Astrobites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON Documentation Errors or Typos"
+              "title": "Astrobites"
             }
           }
         ],
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125,
-    "collapsed": true
+    "width": 542.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -260,6 +259,7 @@
   },
   "active": "1b8a9e5017437e58",
   "lastOpenFiles": [
+    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
     "POSYDON Documentation Errors or Typos.md",
     "RL Art Gallery.md",
     "POSYDON Documentation Errors/Typos.md",
@@ -291,7 +291,6 @@
     "General Notes/Darwin instability.md",
     "personalTemplates/weeklyTemplate.md",
     "personalTemplates/quartTemplate.md",
-    "personalTemplates/dailyTemplate.md",
     "personalTemplates",
     "Dashboard/views/keep-the-rhythm.js",
     "Dashboard/_cache/apod-2026-05-27.json",

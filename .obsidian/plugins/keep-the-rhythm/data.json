@@ -1112,6 +1112,28 @@
           }
         ],
         "id": 63
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
+        "wordCountStart": 29,
+        "charCountStart": 276,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "AstroBites/Astrobites.md",
+        "wordCountStart": 25,
+        "charCountStart": 235,
+        "changes": [],
+        "id": 65
       }
     ],
     "wholeVaultWordCount": 18908,

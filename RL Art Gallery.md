@@ -11,10 +11,9 @@ Possible summer project working with to create some type of gallery or just arts
 ---
 Fountain showing [[RLO]].
 
-Could prbaboy be made in around a 200x200mm size.
+Could probably be made in around a 200x200mm size.
 
 Would either need to be sealed and treated 3d print, or possibly machined aluminum?
-
 
 ### CNC Model
 ---

@@ -232,12 +232,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +256,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a2567a73700dab2",
+  "active": "ebe4b0aee4cca989",
   "lastOpenFiles": [
     "gravitational lensing.md",
     "General Notes/black hole.md",

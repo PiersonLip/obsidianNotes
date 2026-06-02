@@ -7,9 +7,15 @@ tags:
 # Notes on the 10 Mill pop 
 ---
 
-## Misc Questions
+
+## Failed vs Survived Systems
 ---
-- [ ] Why does $\text{SNe}_{S_{2}}$ not contribute to the systems eccentricity like $\text{SNe}_{S_{1}}$?
+**Why do some of these systems survive through the CE, while most fail and merge?**
+
+### Properties checked/to check
+- [x] Orbital period 
+- [x] Eccentricity (set to zero before CE anyway)
+- [ ] 
 ##  Eccentricity 
 ---
 ~~Where does the eccentricity for the BH-Sol systems originate? It seems to be a sort of normal distribution
@@ -21,3 +27,7 @@ tags:
 Nevermind, that was because some of the sactual ystems are ending with eccentricties of 0, which makes more sense, but not really?
 
 But the graph doesnt really, except outliers, which I think are systems that are merged 
+
+## Misc Questions
+---
+- [ ] Why does $\text{SNe}_{S_{2}}$ not contribute to the systems eccentricity like $\text{SNe}_{S_{1}}$?

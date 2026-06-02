@@ -20,7 +20,10 @@ tags:
 ---
 ~~Where does the eccentricity for the BH-Sol systems originate? It seems to be a sort of normal distribution
 ~~
-✅ It's just coming from the [[SNe]]. Data was filtered in a way that included `step SNe`, but, bizarrely, this value seems disconnected from natal kick velocity or mass loss? Found the equations in [[POSYDON]], now gotta understand them .\_.   
+✅ It's just coming from the [[SNe]] of S1 (the collapsing into the [[black hole|BH]]) . 
+Data was filtered in a way that included `step SNe`, but, bizarrely, this value seems disconnected from natal kick velocity or mass loss? Found the equations in [[POSYDON]], now gotta understand them .\_.   
+
+- There seems to be a very slightly correlation (.2) between `V_sys_y` and the eccentricity, which makes sense
 
 
 ~~The correlation matrix shows that it might be correlated with the final mass of S2?~~

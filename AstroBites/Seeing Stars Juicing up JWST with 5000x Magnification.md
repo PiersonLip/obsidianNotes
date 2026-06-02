@@ -13,9 +13,9 @@ The most prominent example of infinities is with [[black hole#^Singularity|Black
 
 This means that the closer something is to said critical lines, the more it would be magnified. This could theoretically allow us to observe a single star in another galaxy. 
 
-The authors in said paper found four objects with these alignments, called *caustic crossings*[^2]. They used data from [[JWST]] as well as data from the [[GLIMPSE]] program, which observed Abell S1063.
+The authors in said paper found four objects with these alignments, called *caustic crossings*[^2]. They used data from [[JWST]] as well as data from the [[gravitational lensing#^5c9b06|GLIMPSE]] program, which observed Abell S1063.
 
-Used a lens model to try and predict the warping of the light, and from that tried to figure out where the galaxies that were being lensed  
+Used a lens model to try and predict the warping of the light, and from that tried to figure out where the galaxies that were being lensed in the [[gravitational lensing#^5c9b06|GLIMPSE]] image actual locations were. However,
 
 [^1]: However, due to the finite size of both the foreground and background objects, this can never be truly infinite.
 

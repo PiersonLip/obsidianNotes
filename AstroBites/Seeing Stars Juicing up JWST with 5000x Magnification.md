@@ -15,7 +15,7 @@ This means that the closer something is to said critical lines, the more it woul
 
 The authors in said paper found four objects with these alignments, called *caustic crossings*[^2]. They used data from [[JWST]] as well as data from the [[GLIMPSE]] program, which observed Abell S1063.
 
-Used a lens model 
+Used a lens model to try and predict the warping of the light, and from that tried to figure out where the galaxies that were being lensed  
 
 [^1]: However, due to the finite size of both the foreground and background objects, this can never be truly infinite.
 

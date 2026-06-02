@@ -1132,11 +1132,17 @@
         "filePath": "AstroBites/Astrobites.md",
         "wordCountStart": 25,
         "charCountStart": 235,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": -2
+          }
+        ],
         "id": 65
       }
     ],
     "wholeVaultWordCount": 18908,
-    "wholeVaultCharCount": 132380
+    "wholeVaultCharCount": 132378
   }
 }

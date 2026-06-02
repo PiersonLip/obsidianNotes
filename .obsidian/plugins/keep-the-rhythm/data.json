@@ -952,11 +952,39 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 55
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
+        "wordCountStart": 417,
+        "charCountStart": 3338,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "POSYDON CE.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 54,
+            "c": 493
+          }
+        ],
+        "id": 57
       }
     ],
-    "wholeVaultWordCount": 18329,
-    "wholeVaultCharCount": 128402
+    "wholeVaultWordCount": 18383,
+    "wholeVaultCharCount": 128896
   }
 }

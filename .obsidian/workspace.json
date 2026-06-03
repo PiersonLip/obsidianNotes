@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "POSYDONBH-Sol Prediction Pipeline Roman"
             }
           }
         ]
@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,13 +244,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
     "General Notes/runaway-RLOF.md",
     "Research",
     "General Notes/consv-RLO.md",
     "General Notes/RLO.md",
     "Solar BHs Research.md",
-    "Dashboard/Home.md",
     "RL Art Gallery.md",
     "personRef.png",
     "conflict-files-obsidian-git.md",

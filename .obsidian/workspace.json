@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dashboard/Home.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -243,12 +243,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "RL Art Gallery.md",
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-06-03.json",
     "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
     "gravitational lensing.md",
     "General Notes/black hole.md",
     "Pasted image 20260602164626.png",
-    "Dashboard/Home.md",
-    "RL Art Gallery.md",
     "Wikipedia/JWST.md",
     "AstroBites/Astrobites.md",
     "POSYDON Documentation Errors or Typos.md",
@@ -284,7 +285,6 @@
     "Pasted image 20260526000959.png",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
-    "Dashboard/_cache/apod-2026-05-26.json",
     "Attachments/Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
     "public/Attachments/mainNotes-figure1.png",

@@ -1377,14 +1377,14 @@
           },
           {
             "timeKey": "18:40",
-            "w": 0,
-            "c": 3
+            "w": 3,
+            "c": 16
           }
         ],
         "id": 77
       }
     ],
-    "wholeVaultWordCount": 18123,
-    "wholeVaultCharCount": 126848
+    "wholeVaultWordCount": 18126,
+    "wholeVaultCharCount": 126862
   }
 }

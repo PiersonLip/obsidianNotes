@@ -12,7 +12,7 @@ tags:
 ---
 - Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 
 	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
-- what (and how) do we find initial velocities of systems 
+- what (and how) do we find initial velocities of systems that *Sony *
 # Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
 ---
 With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.

@@ -25,14 +25,14 @@
             "id": "e467163bdadd8841",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "RL Art Gallery.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "RL Art Gallery"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 879.5078125
+    "width": 879.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -243,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 619.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,6 +267,7 @@
   },
   "active": "e467163bdadd8841",
   "lastOpenFiles": [
+    "personRef.png",
     "conflict-files-obsidian-git.md",
     "Dashboard/Home.md",
     "gravitational lensing.md",
@@ -297,7 +300,6 @@
     "personalTemplates/quartTemplate.md",
     "templates/zotero-paper-note.md",
     "templates/ZOTERO-SETUP.md",
-    "2026/W22.md",
     "2021",
     "0022",
     "2026",

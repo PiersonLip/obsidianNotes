@@ -740,11 +740,31 @@
         "filePath": "conflict-files-obsidian-git.md",
         "wordCountStart": 109,
         "charCountStart": 775,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": -109,
+            "c": -775
+          }
+        ],
         "id": 43
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "RL Art Gallery.md",
+        "wordCountStart": 190,
+        "charCountStart": 1191,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 38,
+            "c": 236
+          }
+        ],
+        "id": 44
       }
     ],
-    "wholeVaultWordCount": 18028,
-    "wholeVaultCharCount": 126284
+    "wholeVaultWordCount": 18066,
+    "wholeVaultCharCount": 126520
   }
 }

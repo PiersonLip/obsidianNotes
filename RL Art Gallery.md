@@ -15,6 +15,14 @@ Could probably be made in around a 200x200mm size.
 
 Would either need to be sealed and treated 3d print, or possibly machined aluminum?
 
+Example 
+![[personRef.png]]
+Little under 4 feet tall (maybe wanna make it smaller and put it on a table?)
+
+Standard art gallery room filled with various artwork surrounding the RL, with the big fountain being the centerpiece thingy?
+
+
+
 ### CNC Model
 ---
 CNCed version of the model. Lot of considerations 

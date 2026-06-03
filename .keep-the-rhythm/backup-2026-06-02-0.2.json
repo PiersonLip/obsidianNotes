@@ -75,8 +75,12 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
+<<<<<<< HEAD
+      "2026-05-27"
+=======
       "2026-05-27",
       "2026-06-02"
+>>>>>>> obsidianNotes/master
     ],
     "dailyActivity": [
       {
@@ -701,6 +705,18 @@
         "id": 39
       },
       {
+<<<<<<< HEAD
+        "date": "2026-05-31",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
+        "id": 40
+      }
+    ],
+    "wholeVaultWordCount": 18028,
+    "wholeVaultCharCount": 126284
+=======
         "date": "2026-05-28",
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
@@ -1181,5 +1197,6 @@
     ],
     "wholeVaultWordCount": 18975,
     "wholeVaultCharCount": 132771
+>>>>>>> obsidianNotes/master
   }
 }

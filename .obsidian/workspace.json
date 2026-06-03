@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
-                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
-            }
-          },
-          {
             "id": "0c1eea6526175966",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "RL Art Gallery"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +244,10 @@
   },
   "active": "0c1eea6526175966",
   "lastOpenFiles": [
+    "RL Art Gallery.md",
     "conflict-files-obsidian-git.md",
     "personRef.png",
     "Dashboard/_cache/apod-2026-05-31.json",
-    "RL Art Gallery.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-03.json",
     "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",

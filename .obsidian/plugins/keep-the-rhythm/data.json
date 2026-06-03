@@ -1263,7 +1263,13 @@
         "filePath": "RL Art Gallery.md",
         "wordCountStart": 190,
         "charCountStart": 1191,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 209,
+            "c": 1172
+          }
+        ],
         "id": 71
       },
       {
@@ -1281,7 +1287,7 @@
         "id": 72
       }
     ],
-    "wholeVaultWordCount": 19316,
-    "wholeVaultCharCount": 135096
+    "wholeVaultWordCount": 19525,
+    "wholeVaultCharCount": 136268
   }
 }

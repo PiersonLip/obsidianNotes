@@ -24,6 +24,8 @@ Could have some other smaller exhibits of the shape in various forms and configu
 Having *that* large of a fountain might be a pain, so we could get a large (250x250?) clear resin print made and have that be the fountain system, big problem would be hiding the water pump system.[^1]
 [^1]: might be worth doing this either way as a demo on a table though
 
+
+
 ### Pump System
 ---
 Whole bunch of little problems with pumping stuff, mainly due to the fact that we'd be pumping *upwards*, so some type of siphon (ideal) or pressure system would need to be used
@@ -56,3 +58,8 @@ Michael may be able to engrave a piece of borosilicate glass with the stl of the
 ![[edge.png]]
 ^^^ zero idea what the ior is, probably around 1.5? probably negligible difference
 
+
+
+## Clay
+---
+Slip cast model

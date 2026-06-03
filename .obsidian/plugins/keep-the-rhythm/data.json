@@ -75,8 +75,7 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2026-05-27",
-      "2026-06-02"
+      "2026-05-27"
     ],
     "dailyActivity": [
       {
@@ -1365,7 +1364,7 @@
         "id": 77
       }
     ],
-    "wholeVaultWordCount": 19794,
-    "wholeVaultCharCount": 137871
+    "wholeVaultWordCount": 18028,
+    "wholeVaultCharCount": 126285
   }
 }

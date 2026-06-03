@@ -24,4 +24,4 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 ---
 - 3d heatmap of bhs in the MW
 - firefly visualization of all the disrupted bhs and their vectors
-- some type of script or to
+- some type of script or tool where you plug in some parameters about the system and it returns 

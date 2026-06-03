@@ -2,11 +2,13 @@
  * QuickAdd: New Astrobite Note (URL → scraped metadata → vault note)
  *
  * Matches AstroBites/*.md frontmatter in this vault (see memory.md).
- * Bib entries go to Bibliography/sources.bib only (Obsidian vault).
+ * Bib entries go to Bibliography/sources.bib; merged into all.bib for Pandoc Reference List.
  */
 
 const NOTES_DIR = "AstroBites";
 const BIB_FILE = "Bibliography/sources.bib";
+const ZOTERO_BIB = "Bibliography/AstroNotes.bib";
+const MERGED_BIB = "Bibliography/all.bib";
 
 function notePathFromTitle(title) {
   const safe = title.replace(/[\\/:*?"<>|]/g, "").trim();
@@ -79,6 +81,23 @@ function buildBibEntry(key, author, title, pubDate, url) {
 `;
 }
 
+/** Rebuild all.bib so Pandoc Reference List / Quartz see new sources.bib entries. */
+async function mergeAllBib(app) {
+  const zotero = app.vault.getAbstractFileByPath(ZOTERO_BIB);
+  const sources = app.vault.getAbstractFileByPath(BIB_FILE);
+  if (!sources) return;
+  const parts = [];
+  if (zotero) parts.push(await app.vault.read(zotero));
+  parts.push(await app.vault.read(sources));
+  const merged = parts.join("\n").trim() + "\n";
+  const out = app.vault.getAbstractFileByPath(MERGED_BIB);
+  if (out) await app.vault.modify(out, merged);
+  else {
+    await app.vault.adapter.mkdir("Bibliography").catch(() => {});
+    await app.vault.create(MERGED_BIB, merged);
+  }
+}
+
 function buildNoteContent(title, citeKey, url) {
   const citeLine = citeKey ? ` [@${citeKey}]` : "";
   const yamlCite = citeKey ? `citekey: ${citeKey}\n` : "";
@@ -95,40 +114,77 @@ ${yamlCite}tags:
 `;
 }
 
+function metaContent(html, nameOrProperty) {
+  const want = nameOrProperty.toLowerCase();
+  for (const m of html.matchAll(/<meta\s+[^>]+>/gi)) {
+    const tag = m[0];
+    const name = tag.match(/\bname=["']([^"']+)["']/i)?.[1]?.toLowerCase();
+    const prop = tag.match(/\bproperty=["']([^"']+)["']/i)?.[1]?.toLowerCase();
+    if (name !== want && prop !== want) continue;
+    const content = tag.match(/\bcontent=["']([^"']*)["']/i)?.[1];
+    if (content) return content.trim();
+  }
+  return null;
+}
+
+function cleanAstrobitesTitle(raw) {
+  return raw.replace(/\s*[-|–]\s*.*Astrobites.*$/i, "").trim();
+}
+
+function extractAuthor(html) {
+  const fromMeta =
+    metaContent(html, "author") ||
+    metaContent(html, "shareaholic:article_author_name");
+  if (fromMeta) return fromMeta;
+
+  const byline = html.match(
+    /<p\s+class=["']post-meta["'][^>]*>\s*by\s*<a[^>]*\brel=["']author["'][^>]*>([^<]+)<\/a>/i
+  );
+  if (byline) return byline[1].trim();
+
+  const authorBox = html.match(
+    /<div\s+class=["'][^"']*\bpp-author-boxes-name\b[^"']*["'][^>]*>\s*<a[^>]*\brel=["']author["'][^>]*>([^<]+)<\/a>/is
+  );
+  if (authorBox) return authorBox[1].trim();
+
+  return null;
+}
+
+function looksLikeBlockedPage(html) {
+  return (
+    /cf-browser-verification|challenge-platform|Just a moment/i.test(html) &&
+    !/<p\s+class=["']post-meta["']/i.test(html)
+  );
+}
+
 async function fetchAstrobitesMetadata(url) {
   try {
     const resp = await fetch(url, {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        Accept: "text/html",
+        Accept:
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
       },
     });
-    if (!resp.ok) return { title: null, author: null };
+    if (!resp.ok) return { title: null, author: null, blocked: false };
     const html = await resp.text();
-
-    let title = null;
-    const ogTitle = html.match(
-      /<meta\s+property=["']og:title["']\s+content=["']([^"']+)["']/i
-    );
-    if (ogTitle) {
-      title = ogTitle[1].replace(/\s*[-|–].*Astrobites.*$/i, "").trim();
-    } else {
-      const titleTag = html.match(/<title>([^<]+)<\/title>/i);
-      if (titleTag) {
-        title = titleTag[1].replace(/\s*[-|–].*Astrobites.*$/i, "").trim();
-      }
+    if (looksLikeBlockedPage(html)) {
+      return { title: null, author: null, blocked: true };
     }
 
-    let author = null;
-    const metaAuthor = html.match(
-      /<meta\s+name=["']author["']\s+content=["']([^"']+)["']/i
-    );
-    if (metaAuthor) author = metaAuthor[1].trim();
+    let title = metaContent(html, "og:title");
+    if (title) title = cleanAstrobitesTitle(title);
+    if (!title) {
+      const titleTag = html.match(/<title>([^<]+)<\/title>/i);
+      if (titleTag) title = cleanAstrobitesTitle(titleTag[1]);
+    }
 
-    return { title, author };
+    const author = extractAuthor(html);
+    return { title, author, blocked: false };
   } catch {
-    return { title: null, author: null };
+    return { title: null, author: null, blocked: false };
   }
 }
 
@@ -145,7 +201,13 @@ module.exports = async (params) => {
 
   new Notice("Fetching Astrobites metadata…", 3000);
 
-  let { title, author } = await fetchAstrobitesMetadata(url);
+  let { title, author, blocked } = await fetchAstrobitesMetadata(url);
+  if (blocked) {
+    new Notice(
+      "Astrobites returned a bot-check page — enter title/author manually",
+      6000
+    );
+  }
 
   if (!title) {
     title = (
@@ -200,6 +262,9 @@ module.exports = async (params) => {
   } else {
     bibNote = "Bib: skipped (URL must be astrobites.org/YYYY/MM/DD/…)";
   }
+
+  await mergeAllBib(app);
+  if (citeKey) bibNote += ` · ${MERGED_BIB} updated`;
 
   await app.vault.adapter.mkdir(NOTES_DIR).catch(() => {});
   const content = buildNoteContent(title, citeKey, url);

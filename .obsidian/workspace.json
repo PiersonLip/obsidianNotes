@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "e467163bdadd8841",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,16 +237,6 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
-          },
-          {
-            "id": "6417f18ee407a274",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 7
@@ -258,12 +263,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e467163bdadd8841",
   "lastOpenFiles": [
-    "Dashboard/_cache/apod-2026-06-02.json",
-    "Dashboard/Home.md",
-    "Dashboard/_cache/apod-2026-05-31.json",
     "conflict-files-obsidian-git.md",
+    "Dashboard/Home.md",
+    "gravitational lensing.md",
+    "face2.png",
+    "edge.png",
+    "class.md",
+    "Wikipedia/JWST.md",
+    "Wikipedia/Gravity darkening.md",
+    "Untitled 1.md",
+    "RL Art Gallery.md",
+    "Pasted image 20260602164626.png",
+    "Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
+    "POSYDON Documentation Errors or Typos.md",
+    "POSYDON Commands.md",
+    "POSYDON CE.md",
+    "General Notes/JWST.md",
+    "General Notes/Darwin instability.md",
+    "Dashboard/_cache/apod-2026-06-01.json",
+    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
+    "10MillPop.md",
+    "Dashboard/_cache/apod-2026-06-02.json",
+    "Dashboard/_cache/apod-2026-05-31.json",
     "Dashboard/_cache/apod-2026-05-28.json",
     "General Notes/pauli-exclusion-principle.md",
     "Class Notes/Astro210/Astro210.md",
@@ -275,37 +298,19 @@
     "templates/zotero-paper-note.md",
     "templates/ZOTERO-SETUP.md",
     "2026/W22.md",
-    "2026/2026-05-26.md",
-    "General Notes/kilonova.md",
-    "General Notes/CE.md",
-    "Solar BHs Research.md",
-    "Physics of Binary Star Evolution/Roche equipotential.md",
-    "2026/2026-05-25.md",
-    "personalTemplates/weeklyTemplate.md",
-    "2021/W52.md",
     "2021",
-    "0022/W21.md",
     "0022",
-    "0022-05-22.md",
-    "2026/2026-W22.md",
-    "2026-W22.md",
-    "2026-05-26.md",
     "2026",
     "personal/daily",
     "personalTemplates",
     "Dashboard/views/keep-the-rhythm.js",
     "Pasted image 20260526161800.png",
-    "Dashboard/_cache/apod-2026-05-27.json",
     "Pasted image 20260526000959.png",
-    "Dashboard/_cache/apod-2026-05-26.json",
     "Pasted image 20260525235807.png",
     "Pasted image 20260525235651.png",
     "Attachments/Pasted image 20260524010657.png",
     "Pasted image 20260524010657.png",
     "public/Attachments/mainNotes-figure2.png",
-    "public/Attachments/mainNotes-figure1.png",
-    "public/Attachments/mainNotes-figure0.png",
-    "public/Attachments/bhPertubation.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

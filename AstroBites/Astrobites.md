@@ -2,9 +2,7 @@
 tags:
   - astro-notes/astrobite
 ---
-
 # Astrobites
-
 ```base
 filters:
   and:

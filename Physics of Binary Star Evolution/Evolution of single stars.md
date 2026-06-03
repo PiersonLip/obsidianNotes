@@ -62,7 +62,7 @@ Time it takes for a star to use all of its available fuel
 
 ## [[Low mass stellar evolution]] $M\leq 8M_\odot$
 
-- The [[degenerate mass]] in the core of the star heavily effects fusion
+- The [[Degenerate matter|degenerate mass]] in the core of the star heavily effects fusion
 - For [[electron degenerate]] gas, the pressure only depends on the density (and not on the temperature)
 - This means that this degenerate gas ignites, it has no way of stabilizing itself, leading to a `flash', where it all ignites rapidly.
 - This will only stop when the temp reaches a point where the ideal gas is able to also do fusion, at which point the star can actually expand and cool

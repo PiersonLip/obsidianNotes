@@ -24,6 +24,9 @@ Could have some other smaller exhibits of the shape in various forms and configu
 Having *that* large of a fountain might be a pain, so we could get a large (250x250?) clear resin print made and have that be the fountain system, big problem would be hiding the water pump system.[^1]
 [^1]: might be worth doing this either way as a demo on a table though
 
+### Pump System
+---
+Whole bunch of little problems with pumping stuff, mainly due to the fact that we'd be pumping *upwards*, so some type of siphon (ideal) or pressure system would need to be used
 ### Clear Resin 
 ---
 Could have a version made in clear resin (I'm sure NU has some resources, but again SendCutSend or the like also have it). IOR of 1.5, so a bit of distortion, but the rounded shape helps mitigate it 

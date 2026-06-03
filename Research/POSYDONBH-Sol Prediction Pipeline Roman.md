@@ -2,9 +2,9 @@
 tags:
   - astro-notes/research
 ---
-# Possible Project Analyzing [[Roman]]/[[GAIA]] [[black hole|BHs]] 
+# Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
 ---
-With the launch of roman in September (and upcoming GAIA data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
+With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
 
 Figure out a sort of pipeline/framework for broad (yet accurate) analysis of where and how binary BHs (and possibly disrupted BHs) originate.  
 

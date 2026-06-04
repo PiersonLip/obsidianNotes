@@ -24,3 +24,9 @@ Microlensing!
 
 Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
 
+![[Scott_Gaudi__single_lens_animation.gif]]
+Green is the Einstein radius, as given by...
+$$
+\theta_{E} = \sqrt{ kM\pi_{rel} }
+$$
+Where M is the lens mass and pi is the relative distance between lens and source 

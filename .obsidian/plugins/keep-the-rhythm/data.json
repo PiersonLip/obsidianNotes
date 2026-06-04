@@ -846,14 +846,14 @@
           },
           {
             "timeKey": "15:50",
-            "w": 0,
-            "c": 3
+            "w": 31,
+            "c": 213
           }
         ],
         "id": 49
       }
     ],
-    "wholeVaultWordCount": 18283,
-    "wholeVaultCharCount": 127710
+    "wholeVaultWordCount": 18314,
+    "wholeVaultCharCount": 127920
   }
 }

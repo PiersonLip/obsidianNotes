@@ -22,6 +22,7 @@ Important Properties
 ### Microlensing!
 ---
 - Around $\approx 1000 \text{yr}$
+- Heavily dependent on natal kick velocity 
 Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
 
 ![[Scott_Gaudi__single_lens_animation.gif]]
@@ -34,7 +35,7 @@ Where M is the lens mass and pi is the relative distance between lens and source
 However, cant glean massive amount of info from said events, as you only get duration and magnitude of the light curve. So no mass info. 
 ### Models 
 ---
-#### Popyscle
+#### PopSYscle
 ---
 Simulate a MW and "observe" lensing
-![[Pasted image 20260604160107.png]]- Doesnt properly evolve compact objects (and thus no kicks)
+![[Pasted image 20260604160107.png]]- Doesn't properly evolve compact objects (and thus no kicks)

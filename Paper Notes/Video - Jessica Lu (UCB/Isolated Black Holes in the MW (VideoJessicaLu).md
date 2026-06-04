@@ -21,3 +21,6 @@ Important Properties
 ## How do we find free floating BHs?
 ---
 Microlensing!
+
+Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
+

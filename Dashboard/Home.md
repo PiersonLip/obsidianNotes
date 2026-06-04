@@ -7,7 +7,7 @@ cssclasses:
   - dashboard-home
 properties: false
 ---
-
+ 
 ```dataviewjs
 (async () => {
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));

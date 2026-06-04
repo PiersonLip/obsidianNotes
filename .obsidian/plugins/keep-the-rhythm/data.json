@@ -786,11 +786,25 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
         "id": 46
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 103,
+        "charCountStart": 740,
+        "changes": [],
+        "id": 47
       }
     ],
     "wholeVaultWordCount": 18233,
-    "wholeVaultCharCount": 127425
+    "wholeVaultCharCount": 127426
   }
 }

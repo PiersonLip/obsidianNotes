@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "de14e91611b23182",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "AstroNotes.bib",
+                "bFile": "AstroNotes.bib",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: AstroNotes.bib  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,12 +265,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "de14e91611b23182",
   "lastOpenFiles": [
-    "RL Art Gallery.md",
-    "personRef.png",
+    "Dashboard/_cache/apod-2026-06-04.json",
     "conflict-files-obsidian-git.md",
     "Dashboard/Home.md",
+    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Research",
+    "Dashboard/_cache/apod-2026-06-03.json",
+    "Dashboard/_cache/apod-2026-05-29.json",
+    "RL Art Gallery.md",
+    "personRef.png",
     "gravitational lensing.md",
     "face2.png",
     "edge.png",
@@ -284,13 +304,9 @@
     "General Notes/Edge Limit Detonation.md",
     "personalTemplates/quartTemplate.md",
     "templates/zotero-paper-note.md",
-    "templates/ZOTERO-SETUP.md",
     "2021",
     "0022",
     "2026",
-    "personal/daily",
-    "personalTemplates",
-    "Dashboard/views/keep-the-rhythm.js",
     "Pasted image 20260526161800.png",
     "Pasted image 20260526000959.png",
     "Pasted image 20260525235807.png",

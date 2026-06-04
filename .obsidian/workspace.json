@@ -27,17 +27,15 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "AstroNotes.bib",
-                "bFile": "AstroNotes.bib",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".keep-the-rhythm/backup-2026-06-01-0.2.json",
+                "bFile": ".keep-the-rhythm/backup-2026-06-01-0.2.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: AstroNotes.bib  (Index)"
+              "title": "Diff: backup-2026-06-01-0.2.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +263,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de14e91611b23182",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard/_cache/apod-2026-06-04.json",
     "conflict-files-obsidian-git.md",

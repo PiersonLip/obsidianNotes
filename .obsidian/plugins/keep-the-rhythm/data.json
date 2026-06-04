@@ -822,9 +822,28 @@
           }
         ],
         "id": 48
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
+        "wordCountStart": 61,
+        "charCountStart": 504,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -45,
+            "c": -341
+          },
+          {
+            "timeKey": "15:40",
+            "w": 25,
+            "c": 185
+          }
+        ],
+        "id": 49
       }
     ],
-    "wholeVaultWordCount": 18263,
-    "wholeVaultCharCount": 127591
+    "wholeVaultWordCount": 18243,
+    "wholeVaultCharCount": 127435
   }
 }

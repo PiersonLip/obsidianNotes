@@ -33,9 +33,11 @@ $$
 Where M is the lens mass and pi is the relative distance between lens and source.
 
 However, cant glean massive amount of info from said events, as you only get duration and magnitude of the light curve. So no mass info. 
-### Models 
----
-#### PopSYscle
+### PopSYsCLE
 ---
 Simulate a MW and "observe" lensing
 ![[Pasted image 20260604160107.png]]- Doesn't properly evolve compact objects (and thus no kicks)
+![[Pasted image 20260604160618.png]]
+- Increasing kick velocity shortens duration
+- Increasing mass reduces shape deformation and increases duration
+- If you change the relative parallax (i.e. distance from lens and source) moves up and to the right 

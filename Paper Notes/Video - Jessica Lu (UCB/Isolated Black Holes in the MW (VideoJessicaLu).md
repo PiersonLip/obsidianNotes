@@ -29,4 +29,6 @@ Green is the Einstein radius, as given by...
 $$
 \theta_{E} = \sqrt{ kM\pi_{rel} }
 $$
-Where M is the lens mass and pi is the relative distance between lens and source 
+Where M is the lens mass and pi is the relative distance between lens and source.
+
+However, cant glean massive amount of info from said events, as you only get duration and magnitude of the light curve. So no mass info. 

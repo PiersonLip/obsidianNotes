@@ -673,54 +673,207 @@
       },
       {
         "date": "2026-05-28",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
-        "changes": [],
+        "filePath": "General Notes/pauli-exclusion-principle.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 38
       },
       {
-        "date": "2026-05-29",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
-        "changes": [],
+        "date": "2026-05-28",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 90,
+        "charCountStart": 643,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": -90,
+            "c": -643
+          }
+        ],
         "id": 39
       },
       {
-        "date": "2026-05-29",
-        "filePath": "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
+        "date": "2026-05-31",
+        "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
-        "charCountStart": 1392,
+        "charCountStart": 1742,
         "changes": [],
         "id": 40
       },
       {
-        "date": "2026-05-31",
+        "date": "2026-06-02",
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 41
       },
       {
-        "date": "2026-05-31",
+        "date": "2026-06-02",
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 42
       },
       {
-        "date": "2026-05-31",
-        "filePath": "Class Notes/Astro210/Earth-Moon Systen.md",
-        "wordCountStart": 607,
-        "charCountStart": 3741,
-        "changes": [],
+        "date": "2026-06-02",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 109,
+        "charCountStart": 775,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": -109,
+            "c": -775
+          }
+        ],
         "id": 43
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "RL Art Gallery.md",
+        "wordCountStart": 190,
+        "charCountStart": 1191,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 38,
+            "c": 236
+          },
+          {
+            "timeKey": "23:50",
+            "w": 83,
+            "c": 450
+          },
+          {
+            "timeKey": "23:55",
+            "w": 84,
+            "c": 455
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "RL Art Gallery.md",
+        "wordCountStart": 395,
+        "charCountStart": 2332,
+        "changes": [],
+        "id": 45
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 103,
+        "charCountStart": 740,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": -103,
+            "c": -740
+          }
+        ],
+        "id": 47
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+        "wordCountStart": 337,
+        "charCountStart": 2016,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 30,
+            "c": 165
+          }
+        ],
+        "id": 48
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
+        "wordCountStart": 61,
+        "charCountStart": 504,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -45,
+            "c": -341
+          },
+          {
+            "timeKey": "15:40",
+            "w": 29,
+            "c": 221
+          },
+          {
+            "timeKey": "15:45",
+            "w": 36,
+            "c": 236
+          },
+          {
+            "timeKey": "15:50",
+            "w": 31,
+            "c": 213
+          },
+          {
+            "timeKey": "15:55",
+            "w": 30,
+            "c": 183
+          },
+          {
+            "timeKey": "16:00",
+            "w": 28,
+            "c": 209
+          },
+          {
+            "timeKey": "16:05",
+            "w": 35,
+            "c": 234
+          },
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 49
       }
     ],
-    "wholeVaultWordCount": 18028,
-    "wholeVaultCharCount": 126284
+    "wholeVaultWordCount": 18407,
+    "wholeVaultCharCount": 128549
   }
 }

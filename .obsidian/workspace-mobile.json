@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isolated Black Holes in the MW (VideoJessicaLu)"
+            }
+          },
+          {
+            "id": "3a8072517f84627b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,6 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Dashboard/Home.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -203,10 +219,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b936e72e00c4f457",
+  "active": "3a8072517f84627b",
   "lastOpenFiles": [
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Obsidian.md",
+    "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
     "Dashboard/Home.md",
+    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Dashboard/_cache/apod-2026-06-05.json",
     "Wikipedia/JWST.md",
     "Wikipedia/Gravity darkening.md",
     "Untitled 1.md",
@@ -242,9 +261,6 @@
     "Wikipedia/Degenerate matter.md",
     "Wikipedia",
     "templates/ZOTERO-SETUP.md",
-    "templates/zotero-paper-note.md",
-    "LMXB.md",
-    "Bases/Glossary.base",
     "Attachments/Pasted image 20260524010657.png"
   ]
 }

@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dashboard/Home.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Bibliography/AstroNotes.bib",
+                "bFile": "Bibliography/AstroNotes.bib",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "diff",
+              "title": "Diff: AstroNotes.bib  (Working Tree)"
             }
           }
         ]
@@ -244,9 +244,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-06.json",
     "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-    "Dashboard/Home.md",
     "General Notes/runaway-RLOF.md",
     "Research",
     "General Notes/consv-RLO.md",
@@ -283,7 +283,6 @@
     "General Notes/compact object.md",
     "personalTemplates",
     "Dashboard/views/keep-the-rhythm.js",
-    "Dashboard/_cache/apod-2026-05-27.json",
     "Pasted image 20260526161800.png",
     "Pasted image 20260526000959.png",
     "Pasted image 20260525235807.png",

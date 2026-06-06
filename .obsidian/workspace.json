@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b85d2b11eb7a39f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -243,11 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b85d2b11eb7a39f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Obsidian.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Dashboard/Home.md",
+    "Obsidian.md",
     "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
     "conflict-files-obsidian-git.md",
     "Scott_Gaudi__single_lens_animation.gif",

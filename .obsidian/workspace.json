@@ -49,7 +49,8 @@
               "title": "Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,10 +272,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "367b2148df6d32f1",
   "lastOpenFiles": [
-    "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
     "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
     "W24 Ilia Meeting.md",
     "Dashboard/Home.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",

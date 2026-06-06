@@ -15,27 +15,16 @@ tags:
 > **Year:** 2025
 > **FirstAuthor:** Wetzel, Andrew> **Author:** Samuel, Jenna> **Author:** Gandhi, Pratik J.> **Author:** Ponnada, Sam B.> **Author:** Su, Kung-Yi> **Author:** Arora, Arpit> **Author:** Angles-Alcazar, Daniel> **Author:** Hayward, Christopher C.> **Author:** Sanderson, Robyn E.> **Author:** Feldmann, Robert> **Author:** Cochrane, Rachel> **Author:** Nikakhtar, Farnik> **Author:** Panithanpaisal, Nondh> **Author:** Benavides, Jose A.> **Author:** Pandya, Viraj> **Author:** Grudic, Mike> **Author:** Hummels, Cameron> **Author:** Gurvich, Alexander B.> **Author:** Hafen, Zachary> **Author:** Ma, Xiangcheng> **Author:** Garrison-Kimmel, Shea> **Author:** Sameie, Omid> **Author:** Chan, T. K> **Author:** El-Badry, Kareem> **Author:** Necib, Lina> **Author:** Loebman, Sarah> **Author:** Wellons, Sarah> **Author:** Robles, Victor H.> **Author:** Wheeler, Coral> **Author:** Moreno, Jorge> **Author:** Stern, Jonathan> **Author:** Boylan-Kolchin, Michael> **Author:** Bullock, James S.> **Author:** Faucher-Giguere, Claude-Andre> **Author:** Keres, Dusan> **Author:** Quataert, Eliot> **Author:** Hopkins, Philip F.
 
-
 > **DOI:** 10.48550/ARXIV.2508.06608
-
-
 > **PDF:** [PDF](file:///home/pierson/Zotero/storage/5WTGRWDY/Wetzel%20et%20al.%20-%202025%20-%20Second%20public%20data%20release%20of%20the%20FIRE-2%20cosmological%20zoom-in%20simulations%20of%20galaxy%20formation.pdf)
-
-
 ## Abstract
 
-
 We describe the second data release (DR2) of the FIRE-2 cosmological zoom-in simulations of galaxy formation, from the Feedback In Realistic Environments (FIRE) project, available at flathub.flatironinstitute.org/fire. DR2 includes all snapshots for most simulations, starting at z ≈ 99, with all snapshot time spacings ≲ 25 Myr. The Core suite—comprising 14 Milky Way-mass galaxies, 5 SMC/LMC-mass galaxies, and 4 lower-mass galaxies—includes 601 snapshots to z = 0. For the Core suite, we also release resimulations with physics variations: (1) dark-matter-only versions; (2) a modified ultraviolet background with later reionization at z ≈ 7.8; (3) magnetohydrodynamics, anisotropic conduction, and viscosity in gas; and (4) a model for cosmic-ray injection, transport, and feedback (assuming a constant diffusion coefficient). The Massive Halo suite now includes 8 massive galaxies with 278 snapshots to z = 1. The High Redshift suite includes 34 simulations: in addition to the 22 simulations run to z = 5, we now include 12 additional simulations run to z = 7 and z = 9. We also release 4 dark-matter-only cosmological boxes used to generate zoom-in initial conditions for many FIRE simulations. Most simulations include catalogs of (sub)halos and galaxies at all available snapshots, and most Core simulations to z = 0 include full halo merger trees.
-
-
 ## Zotero notes
-
-
+---
 ## Other
 
 12 pages. Data available at http://flathub.flatironinstitute.org/fire
-
-
 ## Annotations
 
 %% begin annotations %%

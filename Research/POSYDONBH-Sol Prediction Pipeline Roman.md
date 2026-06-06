@@ -13,12 +13,13 @@ tags:
 - Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 
 	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
 - what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do that? 
+
 ## [[FIRE]]
 ---
 ### Which fire model and why?
 ---
 #### Later Ionization
-	- Based off of [@wetzel2025] it seems like later ion
+- Provides acceleration information, which may be very useful for figuring out final positions 
 ## Ideas
 ---
 - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate

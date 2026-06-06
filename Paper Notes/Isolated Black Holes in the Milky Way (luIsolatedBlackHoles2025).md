@@ -14,8 +14,8 @@ Important Properties
 - Position 
 - Velocity 
 **Almost all isolated [[black hole|BHs]] form in higher order magnitude systems  (i.e. binaries, tertiary, quads, etc etc)**
-![[Pasted image 20260604154320.png]]
-![[Pasted image 20260604154733.png# screen]]
+![[Pasted image 20260604154320.png# screen]]
+![[Pasted image 20260604154733.png]]
 
 ## How do we find free floating BHs?
 ---

@@ -41,16 +41,16 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
-                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc5bd4e3757df762",
+  "active": "6b85d2b11eb7a39f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Dashboard/Home.md",

@@ -1,9 +1,12 @@
 /* Image color inversion & background blending for dark/light themes.
    Enable via Settings → Appearance → CSS snippets.
 
-   For live preview blend mode on specific images, add a fragment after the extension:
-     ![[diagram.png# screen]]   — dark mode (screen blend)
-     ![[diagram.png# multiply]] — light mode (multiply blend)
+   Live preview blend fix (per image):
+     ![[diagram.png# screen]]   — dark mode
+     ![[diagram.png# multiply]] — light mode
+
+   Disable inversion/blending (per image):
+     ![[photo.png# normal]]
 */
 
 /* General and default image blending */
@@ -64,4 +67,32 @@
 
 .markdown-source-view.mod-cm6 .cm-content > .cm-table-widget {
 	contain: unset !important;
+}
+
+/* Homepage: never invert or blend (APOD, Wikipedia widgets, etc.) */
+
+.theme-dark .dashboard-home img,
+.theme-light .dashboard-home img {
+	display: revert;
+	max-width: revert;
+	padding: revert;
+	outline: revert;
+	margin: revert;
+	mix-blend-mode: normal !important;
+	filter: none !important;
+}
+
+/* Per-image opt-out via wikilink fragment: ![[image.png# normal]] */
+
+.theme-dark .image-embed[src~="normal"] img,
+.theme-light .image-embed[src~="normal"] img,
+.theme-dark img[src~="normal"],
+.theme-light img[src~="normal"] {
+	display: revert;
+	max-width: revert;
+	padding: revert;
+	outline: revert;
+	margin: revert;
+	mix-blend-mode: normal !important;
+	filter: none !important;
 }

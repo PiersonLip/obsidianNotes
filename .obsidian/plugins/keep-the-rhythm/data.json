@@ -1393,9 +1393,42 @@
           }
         ],
         "id": 80
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 58,
+        "charCountStart": 544,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": -58,
+            "c": -544
+          },
+          {
+            "timeKey": "13:35",
+            "w": 207,
+            "c": 1498
+          }
+        ],
+        "id": 81
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
+        "wordCountStart": 205,
+        "charCountStart": 1461,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": -196,
+            "c": -1357
+          }
+        ],
+        "id": 82
       }
     ],
-    "wholeVaultWordCount": 19794,
-    "wholeVaultCharCount": 137871
+    "wholeVaultWordCount": 19805,
+    "wholeVaultCharCount": 138012
   }
 }

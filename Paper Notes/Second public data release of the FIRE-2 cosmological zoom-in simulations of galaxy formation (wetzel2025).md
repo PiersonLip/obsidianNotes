@@ -51,32 +51,15 @@ We describe the second data release (DR2) of the FIRE-2 cosmological zoom-in sim
 
 > These intervals can be what is used for being passed to the POSYDON simulations
 
-
-
-
-
 > [!quote] p. 2
 > For the MW-mass simulations, we also include low–order basis–function expansion models of the mass distribution of the host halo mass (Arora et al. 2022; Arora et al. 2024), provided as spherical-harmonic coefficients for dark matter and hot gas (Tgas > 104 K) and azimuthal-harmonic coefficients for stars and cold gas, in the directory potential/10kpc/.
-
-
-
-
 
 
 > [!quote] p. 3
 > We request users of the Core simulations with Base Physics to cite the work that introduced each simulation as listed in Table 1 of Wetzel et al. (2023).
 
-
-
-
-
-
 > [!quote] p. 4
 > As Wetzel et al. (2023) described, almost all FIRE-2 simulations in DR1 (except m09, m10q, m10v, m11b, Romulus&Remus) also inadvertently suffer from spurious heating from cosmic rays in neutral gas at temperatures ≲ 1000 K at z ≳ 10 (before reionization). The combination of the too-early reionization model and cosmic-ray heating bug suppresses early star formation in low-mass halos and overheats intergalactic gas at these high redshifts. For most purposes, such as the properties of massive galaxies at lower redshifts, the high-redshift perturbations from these two issues are likely not significant. Whether or not this cosmic ray heating bug is significant depends on the application, and users should assess it on a case-by-case basis. The Later Reionization resimulations address both of these issues, by fixing the cosmic-ray heating term and by using a modified version of the ultraviolet background from Faucher-Gigu`ere et al. (2009).
-
-
-
-
 
 
 > [!quote] p. 4

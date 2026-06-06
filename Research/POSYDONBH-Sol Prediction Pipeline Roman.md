@@ -16,6 +16,7 @@ tags:
 ### [[FIRE]]
 ---
 - Which fire model and why?
+	- Based off of [@wet]
 ## Ideas
 ---
 - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate

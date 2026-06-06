@@ -5,7 +5,7 @@ tags:
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
-- [ ] Look into FIRE, specifically milkway models 
+- [ ] Look into FIRE, specifically [[milkyway]] models 
 - [ ] Gaia BH1-2 paper.
 - [ ] Lecture
 ## Questions 

@@ -1,0 +1,67 @@
+/* Image color inversion & background blending for dark/light themes.
+   Enable via Settings → Appearance → CSS snippets.
+
+   For live preview blend mode on specific images, add a fragment after the extension:
+     ![[diagram.png# screen]]   — dark mode (screen blend)
+     ![[diagram.png# multiply]] — light mode (multiply blend)
+*/
+
+/* General and default image blending */
+
+.theme-dark img {
+	display: block;
+	max-width: 80%;
+	padding: 0 auto 0 auto;
+	outline: none;
+	margin-left: auto;
+	margin-right: auto;
+	mix-blend-mode: screen;
+	filter: opacity(1);
+}
+
+.theme-light img {
+	display: block;
+	max-width: 80%;
+	padding: 0 auto 0 auto;
+	outline: none;
+	margin-left: auto;
+	margin-right: auto;
+	mix-blend-mode: multiply;
+	filter: opacity(0.95);
+}
+
+/* Embedded images blending tweaks */
+
+.theme-dark .cm-preview-inline .markdown-preview-view img {
+	mix-blend-mode: screen;
+}
+
+.theme-light .cm-preview-inline .markdown-preview-view img {
+	mix-blend-mode: multiply;
+}
+
+/* Image dynamic color inversion (dark mode) */
+
+.theme-dark img {
+	filter: invert(1) hue-rotate(180deg);
+}
+
+/* Live preview layering fix */
+
+.cm-editor .cm-scroller {
+	z-index: auto;
+}
+
+.theme-dark .image-embed[src~="screen"] {
+	mix-blend-mode: screen;
+}
+
+.theme-light .image-embed[src~="multiply"] {
+	mix-blend-mode: multiply;
+}
+
+/* Tables: allow blend mode on embedded images in live preview */
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-table-widget {
+	contain: unset !important;
+}

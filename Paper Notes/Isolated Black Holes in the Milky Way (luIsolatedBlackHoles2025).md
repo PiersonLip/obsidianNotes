@@ -37,9 +37,9 @@ However, cant glean massive amount of info from said events, as you only get dur
 ### PopSYsCLE
 ---
 Simulate a MW and "observe" lensing
-![[Pasted image 20260604160107.png]]
+![[Pasted image 20260604160107.png# screen]]
 Doesn't properly evolve compact objects (and thus no kicks)
-![[Pasted image 20260604160618.png]]
+![[Pasted image 20260604160618.png# screen]]
 - Increasing kick velocity shortens duration
 - Increasing mass reduces shape deformation and increases duration
 - If you change the relative parallax (i.e. distance from lens and source) moves up and to the right 

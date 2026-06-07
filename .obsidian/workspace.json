@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedia/Electron degeneracy pressure.md",
+                "file": "General Notes/RLO.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Electron degeneracy pressure"
+              "title": "Outgoing links from RLO"
             }
           },
           {
@@ -228,12 +228,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1fc2e14a3f3240b6",
+  "active": "83923be3ac208b67",
   "lastOpenFiles": [
     "Dashboard/Home.md",
     "Little Red Dots.md",

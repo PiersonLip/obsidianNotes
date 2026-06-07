@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDONBH-Sol Prediction Pipeline Roman"
-            }
-          },
-          {
-            "id": "b61a849c8165c373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POSYDONBH-Sol Prediction Pipeline Roman"
-            }
-          },
-          {
-            "id": "367b2148df6d32f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025)"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,10 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "367b2148df6d32f1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
+    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
     "W24 Ilia Meeting.md",
     "Dashboard/Home.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",

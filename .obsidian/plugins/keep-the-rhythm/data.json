@@ -1503,9 +1503,39 @@
           }
         ],
         "id": 85
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Little Red Dots.md",
+        "wordCountStart": 121,
+        "charCountStart": 792,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 87
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/RLO.md",
+        "wordCountStart": 50,
+        "charCountStart": 351,
+        "changes": [],
+        "id": 88
       }
     ],
-    "wholeVaultWordCount": 20047,
-    "wholeVaultCharCount": 139481
+    "wholeVaultWordCount": 20048,
+    "wholeVaultCharCount": 139489
   }
 }

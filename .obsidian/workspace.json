@@ -11,17 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1fc2e14a3f3240b6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "General Notes/RLO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "RLO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,12 +254,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1fc2e14a3f3240b6",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "Little Red Dots.md",
+    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+    "Excalidraw",
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
     "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
     "W24 Ilia Meeting.md",
-    "Dashboard/Home.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Pasted image 20260604155322.png",
     "Obsidian.md",
@@ -288,9 +302,6 @@
     "Object.md",
     "10MillPop.md",
     "POSYDON CE.md",
-    "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
-    "Dashboard/_cache/apod-2026-06-02.json",
-    "Wikipedia/Gravity darkening.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

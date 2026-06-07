@@ -1531,7 +1531,13 @@
         "filePath": "General Notes/RLO.md",
         "wordCountStart": 50,
         "charCountStart": 351,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 88
       }
     ],

@@ -11,14 +11,38 @@
             "id": "05e93e920f2675bd",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "19aff6575fc0f16c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics of Binary Star Evolution/Evolution of single stars.md",
+                "file": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolution of single stars"
+              "title": "Formation and Evolution of LMXBs"
+            }
+          },
+          {
+            "id": "dcd6599434af4d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formation and Evolution of LMXBs"
             }
           },
           {
@@ -137,12 +161,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics of Binary Star Evolution/Evolution of single stars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Evolution of single stars"
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,9 +246,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Physics of Binary Star Evolution/Evolution of single stars.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -279,13 +300,16 @@
   },
   "active": "05e93e920f2675bd",
   "lastOpenFiles": [
+    "AstroBites/What happens when you poke a black hole.md",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+    "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
+    "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
+    "Physics of Binary Star Evolution/Evolution of single stars.md",
     "Bases/Glossary.base",
     "Low mass stellar evolution.md",
-    "Physics of Binary Star Evolution/Evolution of single stars.md",
     "Common Envelope.md",
     "General Notes/mass transfer.md",
     "General Notes/Mass loss from a circumbinary disk.md",
-    "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
     "Physics of Binary Star Evolution/Roche equipotential.md",
     "General Notes/thermal-timescale.md",
     "Bases/Physics of Binary Star Evolution.base",
@@ -318,9 +342,7 @@
     "General Notes/runaway-RLOF.md",
     "General Notes/consv-RLO.md",
     "Solar BHs Research.md",
-    "RL Art Gallery.md",
     "personRef.png",
-    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
     "Pasted image 20260602164626.png",
     "edge.png",
     "face2.png",

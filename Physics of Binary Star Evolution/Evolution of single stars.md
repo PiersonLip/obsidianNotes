@@ -25,7 +25,7 @@ tags:
 - Where $R$ is stellar rad, $G$ is grav const, and $\alpha$ is a constant of proportionality of order unity, which depends on the density distribution of the star.
 - From substitution, we find that
 - $$\bar{T} = \alpha(\frac{GM}{R}) (\frac{\mu}{3\mathcal{R}})$$
-- This is import because it shows that internal temp is only depended on the stellar radius, increasing when the star shrinks
+- This is important because it shows that internal temp is only depended on the stellar radius, increasing when the star shrinks
 - Energy loss is given by
 - $$E_{tot = E_{th} + E_{pot}} = \frac{1}{2}E_{pot} = -\alpha \frac{GM^2}{2R}$$
 - This shows that as $E_{tot}$ decreases the radius of the star must decrease
@@ -37,7 +37,7 @@ tags:
 - Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[Eddington Luminosity Limit]]
 
 ## Stellar Timescales
-
+---
 There are three timescales for single star evo that are relevant for binary stellar evo
 
 ### Dynamical Pulsation timescale

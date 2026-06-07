@@ -56,18 +56,18 @@ polar caps of $CO_2$ form and melt in winter and summer
 - convection + rotation in a conducting fluid produce magnetic dynamos and magnetic fields
 
 #### energy deficit for jupiter
-
+---
 - Jupiter's luminosity is twice its rate of solar irradiation from the sun
 - Consider gravitational potential energy of a shell of thickness
 - extra energy comes from the radius shrinking
 
 ### Fast rotation
-
+---
 - Polar diamter of jupiter is 6.5 shorter thne equatorial bulge
 - saturn is 10\% shorter than equatorial diam
 
 ### rings
-
+---
 - all [[Jovian planets]] have rings; Saturn are the most prominent
 - tidally disrupted satellite inside [[Roche limit]]
 - internal structures caused by [[orbital resonances]]

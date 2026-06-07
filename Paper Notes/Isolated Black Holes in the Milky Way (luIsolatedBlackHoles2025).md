@@ -23,7 +23,6 @@ Important Properties
 ---
 - Around $\approx 1000 \text{yr}$
 - Heavily dependent on natal kick velocity 
-- 
 Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
 
 ![[Scott_Gaudi__single_lens_animation.gif]]

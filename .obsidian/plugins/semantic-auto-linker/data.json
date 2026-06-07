@@ -12777,7 +12777,7 @@
       "path": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780771922441,
+      "mtime": 1780798182856,
       "sourceText": "Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025)\nIsolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025] --- Important Properties - Mass - Spin - Position - Velocity **Almost all isolated BHs form in higher order magnitude systems (i.e. binaries, tertiary, quads, etc etc)** !Pasted image 20260604154320.png !Pasted...",
       "summary": "Isolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025] --- Important Properties - Mass - Spin - Position - Velocity **Almost all isolated BHs form in higher order magnitude systems (i.e. binaries, tertiary, quads, etc etc)** !Pasted image 20260604154320.png !Pasted...",
       "embedding": [
@@ -13166,7 +13166,7 @@
         0.0606210686059201,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780798188797
     },
     "Paper Notes/Elusive hot stripped helium stars (Yungelson).md": {
       "path": "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
@@ -52277,7 +52277,7 @@
       "path": "Class Notes/Astro210/The planets.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780798131405,
+      "mtime": 1780798145885,
       "sourceText": "The planets\nThe planets ← Astro210 Mecury --- - always 30$°$ from the sun - strong tidal forces, permanent prolate tidal bulge - sidereal rotation $P_{rot} = 58.65d$ - $P_{orb} = 87.97$ - Orbit is tidally locked at perihelion Venus --- - Retrograde Motion - atmosphere - Clouds are sulfuri...",
       "summary": "The planets ← Astro210 Mecury --- - always 30$°$ from the sun - strong tidal forces, permanent prolate tidal bulge - sidereal rotation $P_{rot} = 58.65d$ - $P_{orb} = 87.97$ - Orbit is tidally locked at perihelion Venus --- - Retrograde Motion - atmosphere - Clouds are sulfuri...",
       "embedding": [
@@ -52666,7 +52666,7 @@
         0,
         0
       ],
-      "updatedAt": 1780798133814
+      "updatedAt": 1780798148075
     },
     "Class Notes/Astro210/Telescopes.md": {
       "path": "Class Notes/Astro210/Telescopes.md",

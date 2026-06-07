@@ -12,7 +12,6 @@ tags:
 [[Physics of Binary Star Evolution/Physics of Binary Star Evolution|← Physics of Binary Star Evolution]]
 
 ---
-
 ## Rare formation process
 
 - Due to the *lower* mass of the donor star when compared to the accretor, [[mass transfer]] in [[LMXB|LMXBs]] can be long stable on large timescales, such as ...

@@ -1730,6 +1730,11 @@
             "timeKey": "20:55",
             "w": -11,
             "c": -59
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 98
@@ -1761,9 +1766,37 @@
           }
         ],
         "id": 100
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Wikipedia/Rossiter–McLaughlin effect.md",
+        "wordCountStart": 37,
+        "charCountStart": 353,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 8,
+            "c": 81
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Class Notes/Astro210/The planets.md",
+        "wordCountStart": 295,
+        "charCountStart": 2046,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 102
       }
     ],
-    "wholeVaultWordCount": 20078,
-    "wholeVaultCharCount": 139850
+    "wholeVaultWordCount": 20086,
+    "wholeVaultCharCount": 139930
   }
 }

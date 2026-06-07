@@ -61,30 +61,8 @@ Time it takes for a star to use all of its available fuel
 
 - Leave behind a collapsing iron core, which creates a [[NS]] or [[black hole]]
 
-## [[Low mass stellar evolution]] $M\leq 8M_\odot$
-
-- The [[Degenerate matter|degenerate mass]] in the core of the star heavily effects fusion
-- For [[electron degenerate]] gas, the pressure only depends on the density (and not on the temperature)
-- This means that this degenerate gas ignites, it has no way of stabilizing itself, leading to a `flash', where it all ignites rapidly.
-- This will only stop when the temp reaches a point where the ideal gas is able to also do fusion, at which point the star can actually expand and cool
-- In stars with $M < 2.3 M_\odot$, the core becomes degenerate during hydrogen shell burning, and when $M_{he} ≈ .47M_\odot$, the helium ignites with a flash, the temp rises to $≈10^9$K, and the degeneracy is removed
-- This is not violent to actually disrupt the star
-- In stars with mass $2.3m_\odot < M ≲ 8M_\odot$ they instead ignite carbon in a flash. This is strong enough to disrupt the star (albeit rarely)
-- However, it is more likely for the star to eject its helium envelope due to helium-shell burning as well as the instability of the [[RSG]] stage, leaving behind a CO WD.
-- Because of this CO ignition is rare.
-
-### Mass limit at $∼ 1.2M_\odot$
-
-- When hydrogen is exhausted in the star, the star contracts. This causes it to drift sharply left on the [[HR diagram]], until the hydrogen-shell begins fusion causing it to have drift slowly upward and to the right on an HR diagram
-
-### Mass limit at $∼ 1.5 M_\odot$
-
-- Masses less than $∼ 1.5 M_\odot$ have convective outer envelope and ones higher are radiative.
-- This convective envelope creates a magnetic field, this magnetic field can cause [[Magnetic Breaking]], leading to stars of this mass range having slower spins
-
 ## Stars in the range of $8-12 M_\odot$
 
-- <a id="test"></a>
 - Not very well is known about evolution in this range
 - Generally, the carbon in the ore will ignite and leave a degenerate [[ONeMg]] core
 - This happens after they eject their hydrogen envelope, but in binaries this envelope is lost through [[mass transfer]]

@@ -1561,6 +1561,16 @@
             "timeKey": "20:20",
             "w": -61,
             "c": -404
+          },
+          {
+            "timeKey": "20:40",
+            "w": -146,
+            "c": -870
+          },
+          {
+            "timeKey": "20:45",
+            "w": -87,
+            "c": -556
           }
         ],
         "id": 89
@@ -1580,6 +1590,11 @@
             "timeKey": "20:25",
             "w": 0,
             "c": 9
+          },
+          {
+            "timeKey": "20:45",
+            "w": 141,
+            "c": 865
           }
         ],
         "id": 90
@@ -1599,6 +1614,16 @@
             "timeKey": "20:35",
             "w": -6,
             "c": -48
+          },
+          {
+            "timeKey": "20:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:50",
+            "w": -294,
+            "c": -1746
           }
         ],
         "id": 91
@@ -1611,14 +1636,87 @@
         "changes": [
           {
             "timeKey": "20:35",
-            "w": -2,
-            "c": -18
+            "w": -3,
+            "c": -16
+          },
+          {
+            "timeKey": "20:40",
+            "w": -19,
+            "c": -99
           }
         ],
         "id": 92
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Common Envelope.md",
+        "wordCountStart": 280,
+        "charCountStart": 1777,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 147,
+            "c": 904
+          },
+          {
+            "timeKey": "20:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/thermal-timescale.md",
+        "wordCountStart": 8,
+        "charCountStart": 95,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/Mass loss from a circumbinary disk.md",
+        "wordCountStart": 50,
+        "charCountStart": 365,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
+        "wordCountStart": 125,
+        "charCountStart": 921,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": -1,
+            "c": -7
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Low mass stellar evolution.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 7,
+            "c": 77
+          },
+          {
+            "timeKey": "20:50",
+            "w": 290,
+            "c": 1782
+          }
+        ],
+        "id": 97
       }
     ],
-    "wholeVaultWordCount": 20050,
-    "wholeVaultCharCount": 139535
+    "wholeVaultWordCount": 20089,
+    "wholeVaultCharCount": 139900
   }
 }

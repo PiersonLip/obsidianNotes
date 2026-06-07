@@ -11,8 +11,6 @@ A stage in [[binary star evolution]] where where star engulfs its binary pair in
 This process very commonly leads to in-spiraling and merger, as the orbital motion of one of the stars through the others leads to friction, shrinking the orbit. However, the energy dissipated into the shell from the loss of [[GPE]] can actually cause the ejection of said shell, created a low period system.  [@TaurisvandenHeuvel+2023] 
 
 Very difficult to simulate due to the many magnitude range in both timescale and distance. 
-
-
 # Onset and Main Phases of CE Evo
 ---
 Onset of CE is believed to be connected with *one of the following situations*
@@ -32,3 +30,17 @@ Onset of CE is believed to be connected with *one of the following situations*
 ## Asides
 ---
 - This can also happen if the star has a large enough planet orbiting around it, producing low-mass He [[White Dwarf|WD]]
+## Common Envelope ejection [@tauris2023]
+---
+- Whether not the envelope will be ejected is dependent on how good the system is at converting the [[GPE]] into [[KE]], this added KE can then eject the envelope
+- This can be described as the efficiency $\alpha_{CE}$ of converting orbital energy $\Delta E_{orb}$
+ $$E_{bind} = \alpha_{CE}\Delta E_{orb}$$
+
+- Ability to eject a CE depends heavily on the evolutionary status of the donor at the onset of CE
+- Separation post CE ejection is about 100-1000x smaller than at onset
+$$
+E_{bind} \equiv -\frac{GM_{donor} M_{env}}{\lambda R_{donor}}
+$$
+- $\lambda$ various heavily on stellar mass and evolutionary status
+- For low max systems the envelopes of the donors are typically ejected, as $|E_{bind}|$ is typically quite small
+- Many [[HMXB]]s with NSs will not survive CE and hence [[DNS]] mergers are rare, although these do theoretically form [[Thorne-Zytkov objects]]

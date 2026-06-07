@@ -11,7 +11,7 @@ tags:
 [[Class Notes/Astro210/Astro210|← Astro210]]
 
 ### Mecury
-
+---
 - always 30$°$ from the sun
 - strong tidal forces, permanent prolate tidal bulge
 - sidereal rotation $P_{rot} = 58.65d$
@@ -19,40 +19,35 @@ tags:
 - Orbit is tidally locked at perihelion
 
 ### Venus
- 
+ ---
 - Retrograde Motion
 - atmosphere
-\begin{list}{-}{}
 - Clouds are sulfuric acid
 - $∼$ 96.5\ co2\% and $∼$ 3.5\% N2
 - Very strong greenhouses
-
-\item Earths liquid water ocean dissolves co2
-\item runaway greenhouse
-\end{list}
+- Earths liquid water ocean dissolves co2
+- runaway greenhouse
 
 ### Earth
-
+---
 - Temperature and pressure on earth allow significant qualities of gas, liquid, and solid water. Not true for Venus or Mars
 
 ### Mars
-
+---
 - $\alpha = 1.52$AU
 - $P_{sidereal} = 1.88$
 - $24h40m$
 - Atmosphere
-\begin{list}{-}{}
 - Pressure $∼ .006$atm (earth)
 - 95\% $CO_2$
 - UV photodissociastes $H_2O$, the oxygen oxidizes iron in soil
 
-\item Seasons caused by obliquity 
-\item polar caps of $CO_2$ form and melt in winter and summer 
-\end{list}
+Seasons caused by obliquity 
+polar caps of $CO_2$ form and melt in winter and summer 
 
 ### Jupiter and Saturn
- 
-- they are in hydrostatic equilibrium
+--- 
+- they are in [[HSEq|hydrostatic equilibrium]]
 - $\frac{dP}{dr} = -\frac{GM_r \phi}{r^2}$
 - $M_r$ is the mass within radius $r$ assuming constant density $\phi$
 - $\int_{P_c}^{0} dP = \frac{4\pi}{3} \phi^2 G \int_{0}^{R}$

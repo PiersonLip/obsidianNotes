@@ -20,13 +20,13 @@ tags:
 
 ## Collapsers
 
-<a id="Collapsers"></a>
+<a id="[[collapser]]"></a>
 
 ---
 
 - Stars massive enough that there is no [[TII-SNe]], instead a direct collapse to a BH
 - This leaves behind the BH with a disk of material which can power strong jets
-- This can prove to be the source of the long duration GrBs
+- This can prove to be the source of the long duration [[GRBs]]
 
 ## Neutrino Cooling
 

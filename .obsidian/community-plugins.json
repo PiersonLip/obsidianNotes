@@ -16,5 +16,6 @@
   "keep-the-rhythm",
   "periodic-notes",
   "templater-obsidian",
-  "automatic-linker"
+  "automatic-linker",
+  "semantic-auto-linker"
 ]

@@ -96,7 +96,7 @@ tags:
 
 **First law**
 
-- The planets travel on elliptical orbits with the sun at one focus
+- [[The planets]] travel on elliptical orbits with the sun at one focus
 - Semimajor axis, half the major axis
 - eccentricity: how elliptical (stretched) an orbit is - distance between foci divided by major axis.
 

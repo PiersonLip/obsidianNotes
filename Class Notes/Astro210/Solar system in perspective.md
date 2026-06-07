@@ -52,7 +52,7 @@ tags:
 
 #### Indirect
 
-- Wobble due to the planet pulling on the star
+- Wobble due to [[The planets]] pulling on the star
 - They orbit their [[COM]]
 
 #### Doppler effect

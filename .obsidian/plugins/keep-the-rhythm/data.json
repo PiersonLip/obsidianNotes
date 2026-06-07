@@ -76,7 +76,8 @@
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
       "2026-05-27",
-      "2026-06-02"
+      "2026-06-02",
+      "2026-05-28"
     ],
     "dailyActivity": [
       {
@@ -1445,6 +1446,11 @@
             "timeKey": "13:50",
             "w": 1,
             "c": 9
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 81
@@ -1503,9 +1509,299 @@
           }
         ],
         "id": 85
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Little Red Dots.md",
+        "wordCountStart": 121,
+        "charCountStart": 792,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 87
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/RLO.md",
+        "wordCountStart": 50,
+        "charCountStart": 351,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:15",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "20:20",
+            "w": 7,
+            "c": 61
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Roche equipotential.md",
+        "wordCountStart": 656,
+        "charCountStart": 4303,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": -61,
+            "c": -404
+          },
+          {
+            "timeKey": "20:40",
+            "w": -146,
+            "c": -870
+          },
+          {
+            "timeKey": "20:45",
+            "w": -87,
+            "c": -556
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/mass transfer.md",
+        "wordCountStart": 40,
+        "charCountStart": 326,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 58,
+            "c": 386
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "20:45",
+            "w": 141,
+            "c": 865
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Evolution of single stars.md",
+        "wordCountStart": 1098,
+        "charCountStart": 6602,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 6,
+            "c": 52
+          },
+          {
+            "timeKey": "20:35",
+            "w": -6,
+            "c": -48
+          },
+          {
+            "timeKey": "20:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:50",
+            "w": -294,
+            "c": -1746
+          },
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 6
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Orbits and masses of spectroscopic binaries.md",
+        "wordCountStart": 381,
+        "charCountStart": 2439,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": -3,
+            "c": -16
+          },
+          {
+            "timeKey": "20:40",
+            "w": -19,
+            "c": -99
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Common Envelope.md",
+        "wordCountStart": 280,
+        "charCountStart": 1777,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 147,
+            "c": 904
+          },
+          {
+            "timeKey": "20:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/thermal-timescale.md",
+        "wordCountStart": 8,
+        "charCountStart": 95,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/Mass loss from a circumbinary disk.md",
+        "wordCountStart": 50,
+        "charCountStart": 365,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
+        "wordCountStart": 125,
+        "charCountStart": 921,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": -1,
+            "c": -7
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Low mass stellar evolution.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 7,
+            "c": 77
+          },
+          {
+            "timeKey": "20:50",
+            "w": 290,
+            "c": 1782
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
+        "wordCountStart": 283,
+        "charCountStart": 1870,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": -11,
+            "c": -59
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 98
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+        "wordCountStart": 875,
+        "charCountStart": 5800,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": -1,
+            "c": -5
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "AstroBites/What happens when you poke a black hole.md",
+        "wordCountStart": 332,
+        "charCountStart": 2298,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Wikipedia/Rossiter–McLaughlin effect.md",
+        "wordCountStart": 37,
+        "charCountStart": 353,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 8,
+            "c": 81
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Class Notes/Astro210/The planets.md",
+        "wordCountStart": 295,
+        "charCountStart": 2046,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": -11,
+            "c": -46
+          }
+        ],
+        "id": 102
       }
     ],
-    "wholeVaultWordCount": 20047,
-    "wholeVaultCharCount": 139481
+    "wholeVaultWordCount": 20075,
+    "wholeVaultCharCount": 139884
   }
 }

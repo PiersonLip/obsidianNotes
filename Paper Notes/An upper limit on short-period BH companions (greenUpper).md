@@ -13,7 +13,7 @@ tags:
 ---
 
 - Seeking to narrow the uncertainty regarding the survival rate in the formation of stellar-mass BHs.
-- This uncertainty is most extreme in LMXB systems
+- This uncertainty is most extreme in [[LMXB]] systems
 - Defines `close' systems as  $P_{orb} ≲ 3\text{d}$
 - Searching through for AFGK-type stars in [[TESS]] *(I wonder why TESS was picked)*. These are the ***non-accreting*** companion and progenitors of LMXBs
 - Detecting the BHs via the deformation of the main star via the light curves

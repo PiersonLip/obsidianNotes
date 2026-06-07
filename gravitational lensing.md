@@ -14,6 +14,6 @@ Produces **MUCH** stronger signal then if the object wasn't being "lensed", henc
 ^5c9b06
 
 ---
-Long-term (120hr) project done by JWST looking at Abell S1063 (seen below) and examining gravitational lensing. 
+Long-term (120hr) project done by [[JWST]] looking at Abell S1063 (seen below) and examining gravitational lensing. 
 
 ![[Pasted image 20260602164626.png]]

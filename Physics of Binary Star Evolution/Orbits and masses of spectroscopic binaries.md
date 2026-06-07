@@ -22,7 +22,7 @@ $$\frac{L}{L_\odot} = \frac{M}{M_\odot}^{3.5}, M > 1.3M_\odot$$
 ## Very massive stars
 
 - Most massive has $L ∼ 10^ L_\odot$
-- Because of the high ($∼50000k$) temps, they have strong stellar wind, and thus very similar spectra to [[WR-star]], which they are distinguished from by the presence of hydrogen
+- Because of the high ($∼50000k$) temps, they have strong stellar [[winds]], and thus very similar spectra to [[WR-star]], which they are distinguished from by the presence of hydrogen
 - Denoted as [[WNh]]
 
 ## Stuff that screws up rad vel curves

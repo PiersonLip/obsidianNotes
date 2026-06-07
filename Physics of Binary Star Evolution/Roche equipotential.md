@@ -28,7 +28,7 @@ tags:
 
 ## General Notes
 
-- Mass transfer onto NS and BH are limited by the [[Eddington Limit]]
+- [[mass transfer]] onto [[NS]] and BH are limited by the [[Eddington Limit]]
 - However, mass transferred off of the donor is at the rate of the evolution of its envelope. ([[thermal-timescale]])
 - mass transfer off of the donor is much greater (2 to 4 orders of magnitude) then the maximum accretion rate thus, the bulk of the mass will be ``blown away''
 - if more than half of the total mass of the binary system is lost in a SN, the system will become unbounded
@@ -61,7 +61,7 @@ tags:
 - In some cases the envelope is ejected, and if it isnt, it leads to merger
 - Likely [[progenitor]] of some [[planetary nebulae]]
 - Very hard to predict due to unstable nature
-- Onset is caused by runaway RLO, [[Darwin instability]], or the expansion of the accreting star
+- Onset is caused by runaway [[RLO]], [[Darwin instability]], or the expansion of the accreting star
 
 ### Stages of CE
 
@@ -80,4 +80,4 @@ tags:
 - $$E_{bind} \equiv -\frac{GM_{donor} M_{env}}{\lambda R_{donor}}$$
 - $\lambda$ various heavily on stellar mass and evolutionary status
 - For low max systems the envelopes of the donors are typically ejected, as $|E_{bind}|$ is typically quite small
-- Many [[HMXB]]s with NSs will not survive CE and hence DNS mergers are rare, although these do theoretically form [[Thorne-Zytkov objects]]
+- Many [[HMXB]]s with NSs will not survive CE and hence [[DNS]] mergers are rare, although these do theoretically form [[Thorne-Zytkov objects]]

@@ -27,7 +27,7 @@ tags:
 **\large [[Wide binaries]]** 
 - Binaries where one of the stars is too faint to directly observe
 - Can still be detected by the following [[Proper Motion]] of the visible component
-- Center of mass moves along, star orbits this center, showing a periodic wiggle in its apparent motion (I wonder how this can be muddled with and/or separated from parallax. I'm guessing they are in different planes?? (next graphic helped(it wiggles slightly due to yearly parallax, however, the proper motion is much greater and over a much longer duration, so it sort of just becomes ``noise'' relative)))
+- Center of mass moves along, star orbits this center, showing a periodic wiggle in its apparent motion (I wonder how this can be muddled with and/or separated from parallax. I'm guessing they are in different planes?? (next graphic helped(it wiggles slightly due to yearly parallax, however, the [[Proper Motion]] is much greater and over a much longer duration, so it sort of just becomes ``noise'' relative)))
 
 ## [[Spectroscopic Binaries]]
 
@@ -64,7 +64,7 @@ Binaries where one star passes in front of the other at some point during its pe
 - Pulsation can be determined by the density
 
 **\large Novae/[[CV]]s**
-- Caused my mass transfer onto a WD
+- Caused my [[mass transfer]] onto a WD
 - WD shell goes SN, causing Novae
 - [[Standard candle]]
 - Has a variation called dwarf Novae
@@ -79,7 +79,7 @@ Binaries where one star passes in front of the other at some point during its pe
 
 - The first [[NS]] star [[X-ray Binary]]
 - Regular periodicity of with increase of x-ray emission
-- Caused by the NS being obscured by the larger star
+- Caused by the [[NS]] being obscured by the larger star
 
 ## First [[black hole]] XrB
 

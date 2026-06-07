@@ -16,7 +16,7 @@ tags:
 
 - $ct ⇒$ theoretical size of the universe
 - Does not account for expansion of the uni while the light is travelling
-- [[surface of last scattering]], point where the universe becomes opaque, also the CMB
+- [[surface of last scattering]], point where the universe becomes opaque, also the [[CMB]]
 
 #### [[Olbers paradox]]
 

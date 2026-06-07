@@ -1582,9 +1582,28 @@
           }
         ],
         "id": 90
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Evolution of single stars.md",
+        "wordCountStart": 1098,
+        "charCountStart": 6602,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 6,
+            "c": 52
+          },
+          {
+            "timeKey": "20:35",
+            "w": -6,
+            "c": -47
+          }
+        ],
+        "id": 91
       }
     ],
     "wholeVaultWordCount": 20052,
-    "wholeVaultCharCount": 139549
+    "wholeVaultCharCount": 139554
   }
 }

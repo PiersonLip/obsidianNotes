@@ -15,11 +15,11 @@ tags:
 
 ## Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)*
 
-- A globe of monatomic gas without energy sources and in HSEq follows
+- A globe of monatomic gas without energy sources and in [[HSEq]] follows
 - $$2E_{th} + E_{pot} = 0$$
 - $E_{th}$ is given by
 - $$E_{th} = \frac{3}{2}Nk\bar{T} = \frac{3}{2}M(\mathcal{R}/\mu)\bar{T}$$
-- Where $N$ is the partcile number in the star, $k$ is the boltzman constant, $M$ is the mass of the globe $\mathcal{R} = ak/m_h$, the ideal gas constant, $\mu$ is the mean particle mass, in units of $m_h$ of the hydrogen atom
+- Where $N$ is the particle number in the star, $k$ is the boltzman constant, $M$ is the mass of the globe $\mathcal{R} = ak/m_h$, the ideal gas constant, $\mu$ is the mean particle mass, in units of $m_h$ of the hydrogen atom
 - $E_{pot}$ is given by
 - $$E_{pot} = -\alpha GM^2/R$$
 - Where $R$ is stellar rad, $G$ is grav const, and $\alpha$ is a constant of proportionality of order unity, which depends on the density distribution of the star.
@@ -31,7 +31,7 @@ tags:
 - This shows that as $E_{tot}$ decreases the radius of the star must decrease
 - However, as shown by $\bar{T}$,as the star contracts the internal temp increases
 - This means as the star (or cloud of gas) radius heat away, it actually gets hotter, leading to more radiation, and thus more shrinking
-- This applies to the star from the moment it is a gas to the end of its life as BH, NS, WD, etc
+- This applies to the star from the moment it is a gas to the end of its life as BH, [[NS]], WD, etc
 - These equations work well for [[antibiotic-index]] of  $\gamma = C_p/C_V = 5/3$, which is great for globes of ionized hydrogen and helium. However, generalized forms can be found with eqs 8.6-8.8
 - if $\gamma \leq 4/3$, the star **cannot** reach [[HSEq]], and thus must collapse or explode
 - Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[Eddington Luminosity Limit]]
@@ -45,6 +45,7 @@ There are three timescales for single star evo that are relevant for binary stel
 > [!theorem] Dynamical-Pulsation-timescale
 > $$\tau_{dyn} = \frac{R}{c_s} ∼eq 50 \text{min}\left(\frac{\bar{\rho_{\odot}}}{\bar{\rho}}\right)^{1/2}$$
   Where $\bar{\rho}$ is the mean mass density.
+
 
   This is the timescale of how long it takes for a start to restore a perturbation of its HSEq. This can be defined as the time it takes for a sound way with velocity $c_s$ to cross the stellar radius
 
@@ -86,8 +87,8 @@ Time it takes for a star to use all of its available fuel
 - <a id="test"></a>
 - Not very well is known about evolution in this range
 - Generally, the carbon in the ore will ignite and leave a degenerate [[ONeMg]] core
-- This happens after they eject their hydrogen envelope, but in binaries this envelope is lost through mass transfer
-- This means that the ONeMg core will grow to the [[Chandrasekhar Limit]], at which point it will then collapse, creating NS and SN explosion
+- This happens after they eject their hydrogen envelope, but in binaries this envelope is lost through [[mass transfer]]
+- This means that the [[ONeMg]] core will grow to the [[Chandrasekhar Limit]], at which point it will then collapse, creating NS and SN explosion
 - Might also result in [[TI-SNe]]
 
 ## Effects of wind mass loss, metallicity, and rotation
@@ -99,7 +100,7 @@ Time it takes for a star to use all of its available fuel
 ## Final Evo of stars in the range of $1- 8 M_\odot$
 
 - Unstable pulsing
-- Very strong stellar winds
+- Very strong stellar [[winds]]
 - If they're low enough mass, ($<8M\odot$), they can become WDs before carbon ignition
 
 ## Final Evolution and core collapse of stars more massive than $8M\odot$

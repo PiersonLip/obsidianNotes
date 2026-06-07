@@ -32,6 +32,6 @@ They initially took a [[spherical cow]] approach to modeling, where they assumed
 
 [[Perturbation theory]] is used to predict these patterns.
 
-This paper thus proposes the methodology which could be used for using the moon as a GW detector, laying the framework in-case it becomes a real predictor.   
+This paper thus proposes the methodology which could be used for using the moon as a [[GW]] detector, laying the framework in-case it becomes a real predictor.   
 
 

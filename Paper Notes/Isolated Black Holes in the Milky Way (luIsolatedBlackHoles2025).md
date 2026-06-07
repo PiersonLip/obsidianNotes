@@ -38,7 +38,7 @@ However, cant glean massive amount of info from said events, as you only get dur
 ---
 Simulate a MW and "observe" lensing
 ![[Pasted image 20260604160107.png# normal]]
-Doesn't properly evolve compact objects (and thus no kicks)
+Doesn't properly evolve [[compact object]] (and thus no kicks)
 ![[Pasted image 20260604160618.png# screen]]
 - Increasing kick velocity shortens duration
 - Increasing mass reduces shape deformation and increases duration

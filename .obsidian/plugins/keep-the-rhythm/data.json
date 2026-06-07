@@ -1541,12 +1541,50 @@
             "timeKey": "20:15",
             "w": 0,
             "c": 8
+          },
+          {
+            "timeKey": "20:20",
+            "w": 7,
+            "c": 61
           }
         ],
         "id": 88
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Roche equipotential.md",
+        "wordCountStart": 656,
+        "charCountStart": 4303,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": -61,
+            "c": -404
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "General Notes/mass transfer.md",
+        "wordCountStart": 40,
+        "charCountStart": 326,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 58,
+            "c": 386
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 9
+          }
+        ],
+        "id": 90
       }
     ],
-    "wholeVaultWordCount": 20048,
-    "wholeVaultCharCount": 139497
+    "wholeVaultWordCount": 20052,
+    "wholeVaultCharCount": 139549
   }
 }

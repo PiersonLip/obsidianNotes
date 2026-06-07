@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/RLO.md",
+                "file": "General Notes/mass transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RLO"
+              "title": "mass transfer"
             }
           }
         ],
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -134,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/RLO.md",
+                "file": "General Notes/mass transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RLO"
+              "title": "Outgoing links from mass transfer"
             }
           },
           {
@@ -226,13 +227,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "7125ae2d11a53705",
+            "type": "leaf",
+            "state": {
+              "type": "semantic-auto-linker-view",
+              "state": {},
+              "icon": "git-branch",
+              "title": "Semantic auto-linker"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +260,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "83923be3ac208b67",
+  "active": "1fc2e14a3f3240b6",
   "lastOpenFiles": [
+    "Physics of Binary Star Evolution/Roche equipotential.md",
+    "General Notes/RLO.md",
     "Dashboard/Home.md",
     "Little Red Dots.md",
     "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
@@ -279,7 +293,6 @@
     "General Notes/runaway-RLOF.md",
     "Research",
     "General Notes/consv-RLO.md",
-    "General Notes/RLO.md",
     "Solar BHs Research.md",
     "RL Art Gallery.md",
     "personRef.png",
@@ -299,7 +312,6 @@
     "class.md",
     "Object.md",
     "10MillPop.md",
-    "POSYDON CE.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

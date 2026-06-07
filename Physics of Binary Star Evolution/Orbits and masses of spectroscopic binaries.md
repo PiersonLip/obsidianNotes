@@ -29,7 +29,6 @@ $$\frac{L}{L_\odot} = \frac{M}{M_\odot}^{3.5}, M > 1.3M_\odot$$
 
 - Rad Vel curve must be off due to a difference in eccentricity values derived from the rad curve and the light curve
 - Rotation effect
-\begin{list}{-}{}
 - when the stars are eclipsing the rotational [[Doppler shift]] can be added (if the half spinning away from us is obscured) or subtracted to the shift, leading to different rad velocity measurements. This is called the [[Rossiter-McLaughlin effect]].  *(This is actually a super neat and intuitive process which i feel like the book just sorta skips and doesnt explain, maybe wanna write out/make some graphics bout this sometime)*
 
 \item presence of gas streams

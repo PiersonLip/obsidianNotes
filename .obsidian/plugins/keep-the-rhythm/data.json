@@ -76,7 +76,8 @@
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
       "2026-05-27",
-      "2026-06-02"
+      "2026-06-02",
+      "2026-05-28"
     ],
     "dailyActivity": [
       {
@@ -1597,13 +1598,27 @@
           {
             "timeKey": "20:35",
             "w": -6,
-            "c": -47
+            "c": -48
           }
         ],
         "id": 91
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Physics of Binary Star Evolution/Orbits and masses of spectroscopic binaries.md",
+        "wordCountStart": 381,
+        "charCountStart": 2439,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": -2,
+            "c": -18
+          }
+        ],
+        "id": 92
       }
     ],
-    "wholeVaultWordCount": 20052,
-    "wholeVaultCharCount": 139554
+    "wholeVaultWordCount": 20050,
+    "wholeVaultCharCount": 139535
   }
 }

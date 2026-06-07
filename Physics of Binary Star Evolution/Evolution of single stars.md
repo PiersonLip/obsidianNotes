@@ -107,4 +107,4 @@ Time it takes for a star to use all of its available fuel
 
 ### Between 8 and $∼ 10 -12$
 
-- When the core approaches the [[Chandrasekhar Limit]] thus begins the onset of ![[core collapse]]
+- When the core approaches the [[Chandrasekhar Limit]] thus begins the onset of [[core collapse]]

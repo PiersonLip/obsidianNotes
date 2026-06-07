@@ -10802,7 +10802,7 @@
       "path": "Physics of Binary Star Evolution/Orbits and masses of spectroscopic binaries.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779998655325,
+      "mtime": 1780795995994,
       "sourceText": "Orbits and masses of spectroscopic binaries\nOrbits and masses of spectroscopic binaries [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- This is generally all math that I either know from astro classes, or is so specific id need to revisit it to use anyway $$\\frac{L}{L_\\odot} = \\frac{M}{M_\\odot}^{3.5},...",
       "summary": "Orbits and masses of spectroscopic binaries [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- This is generally all math that I either know from astro classes, or is so specific id need to revisit it to use anyway $$\\frac{L}{L_\\odot} = \\frac{M}{M_\\odot}^{3.5},...",
       "embedding": [
@@ -11191,7 +11191,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780796307963
     },
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md": {
       "path": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
@@ -11592,7 +11592,7 @@
       "path": "Physics of Binary Star Evolution/Evolution of single stars.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780796106185,
+      "mtime": 1780796250128,
       "sourceText": "Evolution of single stars\nEvolution of single stars [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)* - A globe of monatomic gas without energy sources and...",
       "summary": "Evolution of single stars [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)* - A globe of monatomic gas without energy sources and...",
       "embedding": [
@@ -11981,7 +11981,7 @@
         0.015345380183822095,
         0
       ],
-      "updatedAt": 1780796107523
+      "updatedAt": 1780796253126
     },
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md": {
       "path": "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",

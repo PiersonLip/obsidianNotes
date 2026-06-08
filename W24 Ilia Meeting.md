@@ -18,4 +18,7 @@ See [[POSYDON + FIRE BH Prediction Pipeline]]
 ## Pipeline ideas
 ---
 *Ordered by lowest resolution and feasibility to highest* 
-- 
+- [[POSYDON + FIRE BH Prediction Pipeline#Fitting Galore]]
+- [[POSYDON + FIRE BH Prediction Pipeline#**"4D Grid Method"**]]
+- [[POSYDON + FIRE BH Prediction Pipeline#**"Simplified" Model**]]
+- [[POSYDON + FIRE BH Prediction Pipeline#POSYDON Particle Fitting]]

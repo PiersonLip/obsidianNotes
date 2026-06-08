@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -177,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
+              "title": "Outgoing links from Drawing 2026-06-08 12.50.39.excalidraw"
             }
           },
           {
@@ -264,7 +265,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
+                "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -317,10 +318,48 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "220e5e2d3d27e65c",
+  "floating": {
+    "id": "007e2c6359773a7a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "73972c93d0eefd83",
+        "type": "window",
+        "children": [
+          {
+            "id": "d0e08a7cff409fc5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47c15806f86178ab",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-06-08 12.50.39.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 701,
+        "height": 836,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "47c15806f86178ab",
   "lastOpenFiles": [
-    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+    "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md",
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Low mass stellar evolution.md",
     "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
@@ -356,7 +395,6 @@
     "W24 Ilia Meeting.md",
     "Pasted image 20260604155322.png",
     "Obsidian.md",
-    "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",
     "Pasted image 20260604160107.png",

@@ -19,7 +19,14 @@ tags:
 ---
 ## POSYDON to FIRE 
 ---
+**Pros**
+- Massively simplifies the POSYDON simulation overhead. Can just make one large posy sim, then fit that to a preexisiting FIRE sim
+Cons
+- Metallicitiy woes, which, as we see in [@olejak2020], is very important for the masses (and formation rates) of the BHs
 ![[POSYtoFIREPipleine.excalidraw|800]]
+## FIRE to POSYDON
+---
+
 ## [[FIRE]]
 ---
 ### Which fire model and why?

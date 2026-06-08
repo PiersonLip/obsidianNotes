@@ -13,5 +13,9 @@
 - While they have "milkyway-like" sims, these sims don't end looking exactly like our MW, instead they're just similar masses, metalicities, etc [^1]
 - Publicly available data is saved in snapshots, where the snapshots go from Z=99 to Z=0, with snapshot intervals $\lesssim 25\text{Myr}$ 
 See [[POSYDON + FIRE BH Prediction Pipeline]]
-
 [^1]: I imagine the statistical quantity of how many stars we'll be simulating and fitting will make this difference negligible, but still very important detail
+
+## Pipeline ideas
+---
+*Ordered by lowest resolution and feasibility to highest* 
+- 

@@ -31,5 +31,5 @@
     "editor:insert-horizontal-rule"
   ],
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": false
 }

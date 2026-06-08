@@ -2,8 +2,26 @@
 tags:
   - astro-notes/research
   - POSYDON_FireProject
-custom-width: 44
+custom-width: 78
 ---
+## Ideas
+---
+- Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate
+- Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (or some other interval), then assume the total number of stars that would be formed in each grid, pass to posydon, calculate trajectories, etc
+# Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
+---
+With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
+
+Figure out a sort of pipeline/framework for broad (yet accurate) analysis of where and how binary BHs (and possibly disrupted BHs) originate.  
+
+Using [[FIRE]] to make a map of the milkyway and combining that with kinematics from the evolved systems due to kicks to create a dataset showing the paths and trajectories (both in evolution and in space)
+
+## Possible final demo/results
+---
+- 3d heatmap of bhs in the MW
+- firefly visualization of all the disrupted bhs and their vectors
+- some type of script or tool where you plug in some parameters about the system and it returns the most similar simulated candidates  
+
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
@@ -55,20 +73,3 @@ One grid per snapshot, then map said grid onto said snapshot.
 ---
 #### Later Ionization
 - Provides acceleration information, which may be very useful for figuring out final positions 
-## Ideas
----
-- Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate
-- Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (or some other interval), then assume the total number of stars that would be formed in each grid, pass to posydon, calculate trajectories, etc
-# Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
----
-With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
-
-Figure out a sort of pipeline/framework for broad (yet accurate) analysis of where and how binary BHs (and possibly disrupted BHs) originate.  
-
-Using [[FIRE]] to make a map of the milkyway and combining that with kinematics from the evolved systems due to kicks to create a dataset showing the paths and trajectories (both in evolution and in space)
-
-## possible final demo/results
----
-- 3d heatmap of bhs in the MW
-- firefly visualization of all the disrupted bhs and their vectors
-- some type of script or tool where you plug in some parameters about the system and it returns the most similar simulated candidates  

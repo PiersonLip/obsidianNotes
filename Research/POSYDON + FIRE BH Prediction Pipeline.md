@@ -47,6 +47,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 **Cons**
 - Hell of a lot of star particles...
 	- Could use some type of binning method to low the resolution of the FIRE sim (or only select 1% of them)
+		- Gizmo Read has subsampling function already :)
 	- 
 - The middle "mean" interpretation for where the BH SNe happened may be a little too inaccurate?
 ![[Drawing 2026-06-08 14.35.12.excalidraw|16000]]

@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md"
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-08 14.35.12.excalidraw"
+              "icon": "lucide-file",
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           }
         ]
@@ -263,8 +265,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
+    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/Drawing 2026-06-08 14.34.51.excalidraw.md",
     "FIRE.md",
     "Dashboard/Home.md",

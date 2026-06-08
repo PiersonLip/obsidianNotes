@@ -47,10 +47,10 @@ Cons
 ![[POSYtoFIREPipleine.excalidraw|1600]]
 ## FIRE to POSYDON
 ---
-"4D Grid Method"
-
+### **"4D Grid Method"**
+---
 Take the FIRE simulation, and each snapshot timestep ($\sim 15 \text{Myr}$) [@rodriguez2023] split the entire snapshot into a 3d grid, then take each tile (and its properties) of said grid and pass that to a posy simulation, which then pass its BHs to the trajectory script.   
-### **Pros**
+**Pros**
 - Can account for region metalicities and change of metalicity over time 
 - Most likely would have a finer resolution? But hard to really know without trying
 **Cons**

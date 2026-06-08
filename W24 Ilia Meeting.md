@@ -5,4 +5,4 @@
 - Could I attend some of the colloquium meetings?
 - Cool if I sat in on the group meetings?
 - Also, very curious about attending more conferences/presentation type things, any good resources for that?
-See [[POSYDONBH-Sol Prediction Pipeline Roman]]
+See [[POSYDON + FIRE BH Prediction Pipeline]]

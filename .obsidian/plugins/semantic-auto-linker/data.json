@@ -526,7 +526,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369022
     },
     "Physics of Binary Star Evolution/Roche equipotential.md": {
       "path": "Physics of Binary Star Evolution/Roche equipotential.md",
@@ -921,13 +921,13 @@
         0.018735403890407884,
         0
       ],
-      "updatedAt": 1780796938569
+      "updatedAt": 1780938369021
     },
     "General Notes/mass transfer.md": {
       "path": "General Notes/mass transfer.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780796816875,
+      "mtime": 1780796820010,
       "sourceText": "mass transfer\nMass Transfer --- The process in binary stars where mass is transferred between a donor and an accretor. This can happen through many processes, including Roche Lobe Overflow, wind accretion, and contact binaries. Notes [@tauris2023] --- - mass transfer through $L_1$ does not...",
       "summary": "Mass Transfer --- The process in binary stars where mass is transferred between a donor and an accretor. This can happen through many processes, including Roche Lobe Overflow, wind accretion, and contact binaries. Notes [@tauris2023] --- - mass transfer through $L_1$ does not...",
       "embedding": [
@@ -1316,7 +1316,7 @@
         0,
         0
       ],
-      "updatedAt": 1780796819266
+      "updatedAt": 1780938369022
     },
     "templates/zotero-paper-note.md": {
       "path": "templates/zotero-paper-note.md",
@@ -1711,7 +1711,7 @@
         0.018933093359827766,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "templates/ZOTERO-SETUP.md": {
       "path": "templates/ZOTERO-SETUP.md",
@@ -2106,7 +2106,7 @@
         0.01872582762324786,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "personalTemplates/quartTemplate.md": {
       "path": "personalTemplates/quartTemplate.md",
@@ -2501,7 +2501,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "multiprocessing.md": {
       "path": "multiprocessing.md",
@@ -2896,7 +2896,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "memory.md": {
       "path": "memory.md",
@@ -3291,7 +3291,7 @@
         0,
         -0.016252211180410696
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "index.md": {
       "path": "index.md",
@@ -3686,13 +3686,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "gravitational lensing.md": {
       "path": "gravitational lensing.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780437713418,
+      "mtime": 1780795995862,
       "sourceText": "gravitational lensing\nGravitational Lensing --- Warping of light due to the effects of gravity in accordance with GR. This is most prominent in very high mass regions, such as galaxy clusters. Produces **MUCH** stronger signal then if the object wasn't being \"lensed\", hence allowing us to look fart...",
       "summary": "Gravitational Lensing --- Warping of light due to the effects of gravity in accordance with GR. This is most prominent in very high mass regions, such as galaxy clusters. Produces **MUCH** stronger signal then if the object wasn't being \"lensed\", hence allowing us to look fart...",
       "embedding": [
@@ -4081,7 +4081,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "degeneracy pressure.md": {
       "path": "degeneracy pressure.md",
@@ -4476,7 +4476,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "class.md": {
       "path": "class.md",
@@ -4871,7 +4871,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "X-ray Binary.md": {
       "path": "X-ray Binary.md",
@@ -5266,7 +5266,7 @@
         0,
         -0.0871259088479167
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "Wip.md": {
       "path": "Wip.md",
@@ -5661,7 +5661,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "Wikipedia/JWST.md": {
       "path": "Wikipedia/JWST.md",
@@ -6056,7 +6056,7 @@
         0.02665884244715084,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "Wikipedia/Gravity darkening.md": {
       "path": "Wikipedia/Gravity darkening.md",
@@ -6451,7 +6451,7 @@
         0.1119985968788005,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "Wikipedia/Electron degeneracy pressure.md": {
       "path": "Wikipedia/Electron degeneracy pressure.md",
@@ -6846,7 +6846,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369011
     },
     "Wikipedia/Degenerate matter.md": {
       "path": "Wikipedia/Degenerate matter.md",
@@ -7241,7 +7241,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369021
     },
     "W24 Ilia Meeting.md": {
       "path": "W24 Ilia Meeting.md",
@@ -7636,7 +7636,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613472
+      "updatedAt": 1780938369021
     },
     "Untitled.md": {
       "path": "Untitled.md",
@@ -8031,7 +8031,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Untitled 1.md": {
       "path": "Untitled 1.md",
@@ -8426,7 +8426,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Solar BHs Research.md": {
       "path": "Solar BHs Research.md",
@@ -8821,402 +8821,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
-    },
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md": {
-      "path": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-      "providerId": "local-fallback",
-      "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780779868316,
-      "sourceText": "POSYDONBH-Sol Prediction Pipeline Roman\nThings to work on/look into --- - [ ] Familiarize myself with Roman, how it works, data format, etc etc - [ ] Look into FIRE, specifically milkyway models - [ ] Gaia BH1-2 paper. - [ ] Lecture Questions --- - Do we wanna have a large general simulation like that of previous pr...",
-      "summary": "Things to work on/look into --- - [ ] Familiarize myself with Roman, how it works, data format, etc etc - [ ] Look into FIRE, specifically milkyway models - [ ] Gaia BH1-2 paper. - [ ] Lecture Questions --- - Do we wanna have a large general simulation like that of previous pr...",
-      "embedding": [
-        0,
-        -0.01823075950600195,
-        0.13835844267947908,
-        0,
-        0,
-        -0.01823075950600195,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        -0.13217300641851415,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.09961807872922493,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        -0.16277463844644596,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        -0.0364615190120039,
-        0,
-        -0.0364615190120039,
-        0.24611525333102632,
-        -0.09766478306786758,
-        0.0364615190120039,
-        -0.13607959774122882,
-        0.13021971075715677,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0.0364615190120039,
-        0,
-        0.10580351499018988,
-        -0.01823075950600195,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        -0.09115379753000975,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        -0.2155136213030945,
-        0,
-        0,
-        0.19077187625923472,
-        0,
-        0.01823075950600195,
-        0,
-        0.12403427449619184,
-        -0.0364615190120039,
-        0,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0.09766478306786758,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0.0364615190120039,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.01823075950600195,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.11589554257386954,
-        0,
-        -0.0364615190120039,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        -0.14031173834083643,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0.34182674073753655,
-        0,
-        0.01823075950600195,
-        -0.0364615190120039,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.05469227851800585,
-        0.01823075950600195,
-        -0.11589554257386954,
-        0.09115379753000975,
-        0,
-        0,
-        -0.19532956613573516,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0.09766478306786758,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.13217300641851415,
-        0,
-        0.09766478306786758,
-        0,
-        0,
-        -0.14226503400219379,
-        0.0364615190120039,
-        -0.0364615190120039,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        -0.09115379753000975,
-        0,
-        0,
-        0,
-        0,
-        0.05469227851800585,
-        -0.01823075950600195,
-        0,
-        -0.01823075950600195,
-        0.0364615190120039,
-        0,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -0.0364615190120039,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0,
-        0,
-        0.13021971075715677,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        -0.12403427449619184,
-        0,
-        -0.12208097883483447,
-        0,
-        -0.10580351499018988,
-        0.0364615190120039,
-        -0.0364615190120039,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.05469227851800585,
-        0,
-        0,
-        -0.05469227851800585,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.13021971075715677,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.18067984867555506,
-        0.0364615190120039,
-        0,
-        0.09961807872922493,
-        0,
-        0,
-        0,
-        0.01823075950600195,
-        -0.0364615190120039,
-        0,
-        0,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.05469227851800585,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.09961807872922493,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0.2662993084983857,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.0364615190120039,
-        0.0364615190120039,
-        0,
-        0,
-        -0.0364615190120039,
-        0.17091337036876827,
-        -0.13217300641851415,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.0364615190120039,
-        -0.05469227851800585,
-        0.01823075950600195,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0.01823075950600195,
-        0,
-        0.11394224691251217,
-        -0.01823075950600195,
-        0.01823075950600195,
-        0,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.09766478306786758,
-        0.0364615190120039,
-        0,
-        0,
-        0,
-        0.0364615190120039,
-        -0.01823075950600195,
-        0,
-        0,
-        0,
-        -0.01823075950600195,
-        0.0364615190120039,
-        -0.0364615190120039,
-        0,
-        -0.01823075950600195,
-        0.13607959774122882,
-        -0.13412630207987147,
-        0,
-        -0.01823075950600195,
-        0,
-        -0.01823075950600195,
-        0,
-        0,
-        0.01823075950600195,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -0.0364615190120039,
-        0.15463590652412368,
-        0,
-        0,
-        -0.01823075950600195,
-        0.01823075950600195,
-        -0.0364615190120039,
-        0,
-        0
-      ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "RL Art Gallery.md": {
       "path": "RL Art Gallery.md",
@@ -9611,7 +9216,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Python multiprocessing.md": {
       "path": "Python multiprocessing.md",
@@ -10006,13 +9611,13 @@
         0,
         -0.035764037971630025
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md": {
       "path": "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780797583914,
+      "mtime": 1780797586261,
       "sourceText": "Visual binaries and the universal validity of the laws of physics\nVisual binaries and the universal validity of the laws of physics [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Visual binaries --- - Visual binary $\\rightarrow$ two in proximity through a telescope - Physical binary $\\rightarrow$ Gravitationally bound orbi...",
       "summary": "Visual binaries and the universal validity of the laws of physics [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Visual binaries --- - Visual binary $\\rightarrow$ two in proximity through a telescope - Physical binary $\\rightarrow$ Gravitationally bound orbi...",
       "embedding": [
@@ -10401,13 +10006,13 @@
         0.025619214966506494,
         0
       ],
-      "updatedAt": 1780797585491
+      "updatedAt": 1780938369021
     },
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md": {
       "path": "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780795995943,
+      "mtime": 1780796948122,
       "sourceText": "Physics of Binary Star Evolution\nPhysics of Binary Star Evolution [@TaurisvandenHeuvel+2023] **Importance of binaries** - Plays a key role in the evolution of massive stars - first presumed to exist because of algol type stars. These stars were explained with mass transfer - Mergers are a key source of strong...",
       "summary": "Physics of Binary Star Evolution [@TaurisvandenHeuvel+2023] **Importance of binaries** - Plays a key role in the evolution of massive stars - first presumed to exist because of algol type stars. These stars were explained with mass transfer - Mergers are a key source of strong...",
       "embedding": [
@@ -10796,7 +10401,7 @@
         0,
         0
       ],
-      "updatedAt": 1780796947839
+      "updatedAt": 1780938369021
     },
     "Physics of Binary Star Evolution/Orbits and masses of spectroscopic binaries.md": {
       "path": "Physics of Binary Star Evolution/Orbits and masses of spectroscopic binaries.md",
@@ -11191,7 +10796,7 @@
         0,
         0
       ],
-      "updatedAt": 1780796436206
+      "updatedAt": 1780938369021
     },
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md": {
       "path": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
@@ -11586,13 +11191,13 @@
         0,
         0
       ],
-      "updatedAt": 1780797949285
+      "updatedAt": 1780938369021
     },
     "Physics of Binary Star Evolution/Evolution of single stars.md": {
       "path": "Physics of Binary Star Evolution/Evolution of single stars.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780797349232,
+      "mtime": 1780797363643,
       "sourceText": "Evolution of single stars\nEvolution of single stars [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)* - A globe of monatomic gas without energy sources and...",
       "summary": "Evolution of single stars [@TaurisvandenHeuvel+2023] ← Physics of Binary Star Evolution --- Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)* - A globe of monatomic gas without energy sources and...",
       "embedding": [
@@ -11981,7 +11586,7 @@
         0.015345380183822095,
         0
       ],
-      "updatedAt": 1780797363158
+      "updatedAt": 1780938369021
     },
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md": {
       "path": "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
@@ -12376,13 +11981,13 @@
         0.17549863436374302,
         -0.2222982701940745
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md": {
       "path": "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779824641762,
+      "mtime": 1780795996161,
       "sourceText": "POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023)\nPOSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations [@fragosPOSYDONGeneralPurposePopulation2023a] --- > [!info] Metadata > **Citekey:** fragosPOSYDONGeneralPurposePopulation2023a > **Year:** 2023 > **FirstAuthor:** Fragos, Tassos> **...",
       "summary": "POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations [@fragosPOSYDONGeneralPurposePopulation2023a] --- > [!info] Metadata > **Citekey:** fragosPOSYDONGeneralPurposePopulation2023a > **Year:** 2023 > **FirstAuthor:** Fragos, Tassos> **...",
       "embedding": [
@@ -12771,13 +12376,13 @@
         0,
         -0.21535202076540347
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md": {
       "path": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780798182856,
+      "mtime": 1780798189437,
       "sourceText": "Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025)\nIsolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025] --- Important Properties - Mass - Spin - Position - Velocity **Almost all isolated BHs form in higher order magnitude systems (i.e. binaries, tertiary, quads, etc etc)** !Pasted image 20260604154320.png !Pasted...",
       "summary": "Isolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025] --- Important Properties - Mass - Spin - Position - Velocity **Almost all isolated BHs form in higher order magnitude systems (i.e. binaries, tertiary, quads, etc etc)** !Pasted image 20260604154320.png !Pasted...",
       "embedding": [
@@ -13166,13 +12771,13 @@
         0.0606210686059201,
         0
       ],
-      "updatedAt": 1780798188797
+      "updatedAt": 1780938369021
     },
     "Paper Notes/Elusive hot stripped helium stars (Yungelson).md": {
       "path": "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779833499131,
+      "mtime": 1780795996281,
       "sourceText": "Elusive hot stripped helium stars (Yungelson)\nElusive hot stripped helium stars in the Galaxy [@yungelsonElusiveHotStripped2024] --- Stripped Helium Star Properties --- - nonDegenerate Matter He-cores of which retained a $≲ 1 M_\\odot$ hydrogen-helium envelope. This chemical abundance is formed by numerous aspects - the re...",
       "summary": "Elusive hot stripped helium stars in the Galaxy [@yungelsonElusiveHotStripped2024] --- Stripped Helium Star Properties --- - nonDegenerate Matter He-cores of which retained a $≲ 1 M_\\odot$ hydrogen-helium envelope. This chemical abundance is formed by numerous aspects - the re...",
       "embedding": [
@@ -13561,7 +13166,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Paper Notes/Binary evolution in a nutshell (zotero-item-102).md": {
       "path": "Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
@@ -13956,13 +13561,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Paper Notes/An upper limit on short-period BH companions (greenUpper).md": {
       "path": "Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059532,
+      "mtime": 1780795996344,
       "sourceText": "An upper limit on short-period BH companions (greenUpper)\nAn upper limit on the frequency of short-period black hole companions to Sun-like stars [@greenUpperLimitFrequency2025] --- Abstract --- - Seeking to narrow the uncertainty regarding the survival rate in the formation of stellar-mass BHs. - This uncertainty is most extreme in...",
       "summary": "An upper limit on the frequency of short-period black hole companions to Sun-like stars [@greenUpperLimitFrequency2025] --- Abstract --- - Seeking to narrow the uncertainty regarding the survival rate in the formation of stellar-mass BHs. - This uncertainty is most extreme in...",
       "embedding": [
@@ -14351,13 +13956,13 @@
         0.030706060212485342,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Paper Notes/A Sun-like star orbiting a black hole (el-badry).md": {
       "path": "Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779998655324,
+      "mtime": 1780795996407,
       "sourceText": "A Sun-like star orbiting a black hole (el-badry)\nA Sun-like star orbiting a black hole [@el-badrySunlikeStarOrbiting2022] --- Key Properties --- $M_{2,bh} = 9.62 \\pm .18 M_\\odot$ $M_{1,sol} = .93$ $P_{orb} = 185.6 \\text{days}$ $e = .45$, weak natal kick Abstract --- Identifies a nearby sun-like star orbiting a black hole Int...",
       "summary": "A Sun-like star orbiting a black hole [@el-badrySunlikeStarOrbiting2022] --- Key Properties --- $M_{2,bh} = 9.62 \\pm .18 M_\\odot$ $M_{1,sol} = .93$ $P_{orb} = 185.6 \\text{days}$ $e = .45$, weak natal kick Abstract --- Identifies a nearby sun-like star orbiting a black hole Int...",
       "embedding": [
@@ -14746,7 +14351,7 @@
         0.05077410816667883,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "POSYDON Documentation Errors or Typos.md": {
       "path": "POSYDON Documentation Errors or Typos.md",
@@ -15141,7 +14746,7 @@
         0.05040141157429963,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "POSYDON Commands.md": {
       "path": "POSYDON Commands.md",
@@ -15536,7 +15141,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "POSYDON CE.md": {
       "path": "POSYDON CE.md",
@@ -15931,7 +15536,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "POSYDON/POSYDON Notes.md": {
       "path": "POSYDON/POSYDON Notes.md",
@@ -16326,7 +15931,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Obsidian.md": {
       "path": "Obsidian.md",
@@ -16721,7 +16326,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Obsidian Python .venv.md": {
       "path": "Obsidian Python .venv.md",
@@ -17116,7 +16721,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Object.md": {
       "path": "Object.md",
@@ -17511,13 +17116,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Little Red Dots.md": {
       "path": "Little Red Dots.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780794320540,
+      "mtime": 1780795996470,
       "sourceText": "Little Red Dots\nLittle Red Dots --- First discovered with JWST, they are numerous, bright, red, and very compact \"dots\" that were not previous predicted. LRDs have properties akin to that of a galaxy with a AGN. They exhibit \"v-shaped\" spectra, one side showing bright UV and the other showing...",
       "summary": "Little Red Dots --- First discovered with JWST, they are numerous, bright, red, and very compact \"dots\" that were not previous predicted. LRDs have properties akin to that of a galaxy with a AGN. They exhibit \"v-shaped\" spectra, one side showing bright UV and the other showing...",
       "embedding": [
@@ -17906,7 +17511,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "LMXB.md": {
       "path": "LMXB.md",
@@ -18301,7 +17906,7 @@
         0,
         -0.0307467850094502
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/ZTF.md": {
       "path": "Glossary/ZTF.md",
@@ -18696,7 +18301,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/ZAMS.md": {
       "path": "Glossary/ZAMS.md",
@@ -19091,7 +18696,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/XMM-Newton.md": {
       "path": "Glossary/XMM-Newton.md",
@@ -19486,15 +19091,15 @@
         0.02134303660254531,
         -0.08537214641018125
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/WR-star.md": {
       "path": "Glossary/WR-star.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059531,
-      "sourceText": "WR-star\nWR star Wolf-Rayet star. A helium star of mass They are genally so massive (typically more than $∼25M_\\odot$) that it sheds its hydrogen layer due to stellar wind. It may also shed its helium layer as well.",
-      "summary": "WR star Wolf-Rayet star. A helium star of mass They are genally so massive (typically more than $∼25M_\\odot$) that it sheds its hydrogen layer due to stellar wind. It may also shed its helium layer as well.",
+      "mtime": 1780795996542,
+      "sourceText": "WR-star\nWR star Wolf-Rayet star. A helium star of mass They are genally so massive (typically more than $∼25M_\\odot$) that it sheds its hydrogen layer due to stellar winds. It may also shed its helium layer as well.",
+      "summary": "WR star Wolf-Rayet star. A helium star of mass They are genally so massive (typically more than $∼25M_\\odot$) that it sheds its hydrogen layer due to stellar winds. It may also shed its helium layer as well.",
       "embedding": [
         0,
         0,
@@ -19502,14 +19107,14 @@
         0,
         0,
         0,
-        0.12532445930278302,
+        0.12239692231622991,
         0,
         0,
         0,
         0,
         0,
-        0.13706179537041527,
-        -0.11585886569985379,
+        0.13386007818270462,
+        -0.1131524417787503,
         0,
         0,
         0,
@@ -19517,23 +19122,23 @@
         0,
         0,
         0,
-        -0.08481171868224592,
+        -0.08283054561581722,
         0,
-        -0.11585886569985379,
-        0.04240585934112296,
+        -0.1131524417787503,
+        0.04141527280790861,
         0,
-        0.11358712323515077,
+        0.11093376644975521,
         0,
-        0.18211802092035842,
+        0.2980420525283423,
         0,
-        0.02120292967056148,
-        -0.02120292967056148,
-        0.02120292967056148,
+        0.020707636403954306,
+        -0.020707636403954306,
+        0.020707636403954306,
         0,
         0,
         0,
-        0.11585886569985379,
-        -0.04240585934112296,
+        0.1131524417787503,
+        -0.04141527280790861,
         0,
         0,
         0,
@@ -19542,14 +19147,14 @@
         0,
         0,
         0,
-        0.04240585934112296,
+        0.04141527280790861,
         0,
-        0.1060146483528074,
+        0.10353818201977154,
         0,
         0,
-        -0.02120292967056148,
-        0.02120292967056148,
-        -0.12532445930278302,
+        -0.020707636403954306,
+        0.020707636403954306,
+        -0.12239692231622991,
         0,
         0,
         0,
@@ -19557,153 +19162,151 @@
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
-        -0.04240585934112296,
         0,
+        -0.04141527280790861,
         0,
-        0.04240585934112296,
         0,
-        0.12305271683808,
-        -0.13479005290571225,
+        0.04141527280790861,
         0,
-        -0.26503662088201846,
+        0.12017824698723481,
+        -0.1316414028537095,
         0,
+        -0.2588454550494288,
         0,
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
+        -0.020707636403954306,
         0,
-        0.08481171868224592,
         0,
+        0.08283054561581722,
         0,
         0,
-        0.04240585934112296,
-        -0.02120292967056148,
         0,
+        0.04141527280790861,
+        -0.020707636403954306,
         0,
-        0.02120292967056148,
         0,
-        0.04240585934112296,
+        0.020707636403954306,
         0,
+        0.04141527280790861,
         0,
         0,
         0,
         0,
-        0.11358712323515077,
         0,
-        0.06360878901168444,
+        0.11093376644975521,
         0,
-        0.04240585934112296,
-        -0.04240585934112296,
+        0.06212290921186292,
         0,
+        0.04141527280790861,
+        -0.04141527280790861,
         0,
         0,
         0,
         0,
         0,
-        0.02120292967056148,
         0,
+        0.020707636403954306,
         0,
         0,
-        0.04240585934112296,
-        -0.34076136970545234,
         0,
+        0.04141527280790861,
+        -0.3328012993492656,
         0,
         0,
         0,
         0,
-        -0.14198390404393846,
-        0.04240585934112296,
-        -0.02120292967056148,
-        0.16318683371449996,
         0,
-        0.08481171868224592,
+        -0.13866720806219401,
+        0.04141527280790861,
+        -0.020707636403954306,
+        0.15937484446614833,
         0,
+        0.08283054561581722,
         0,
         0,
         0,
         0,
         0,
         0,
-        0.02120292967056148,
-        -0.02120292967056148,
         0,
-        -0.11358712323515077,
+        0.020707636403954306,
+        -0.020707636403954306,
         0,
-        -0.11358712323515077,
         0,
         0,
+        -0.11093376644975521,
         0,
         0,
-        0.02120292967056148,
         0,
         0,
+        0.020707636403954306,
         0,
         0,
         0,
-        0.02120292967056148,
         0,
-        0.04240585934112296,
         0,
-        0.04240585934112296,
+        0.020707636403954306,
         0,
+        0.04141527280790861,
         0,
+        0.04141527280790861,
         0,
         0,
         0,
-        0.06360878901168444,
         0,
         0,
-        -0.02120292967056148,
+        0.06212290921186292,
         0,
-        -0.04240585934112296,
-        0.02120292967056148,
         0,
-        0.02120292967056148,
+        -0.020707636403954306,
         0,
+        -0.04141527280790861,
+        0.020707636403954306,
         0,
+        0.020707636403954306,
         0,
         0,
         0,
-        0.11358712323515077,
-        -0.02120292967056148,
         0,
         0,
+        0.11093376644975521,
+        -0.020707636403954306,
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
         0,
+        -0.020707636403954306,
         0,
-        -0.12532445930278302,
         0,
         0,
+        -0.12239692231622991,
         0,
-        -0.02120292967056148,
-        0.02120292967056148,
         0,
-        0.02120292967056148,
         0,
+        -0.020707636403954306,
+        0.020707636403954306,
         0,
+        0.020707636403954306,
         0,
-        0.02120292967056148,
         0,
         0,
+        0.020707636403954306,
         0,
         0,
-        -0.02120292967056148,
         0,
-        -0.04240585934112296,
-        0.04240585934112296,
         0,
+        -0.020707636403954306,
         0,
-        -0.2673083633467215,
+        -0.04141527280790861,
+        0.04141527280790861,
         0,
         0,
+        -0.2610641303784239,
         0,
         0,
         0,
@@ -19713,21 +19316,21 @@
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
         0,
+        -0.020707636403954306,
         0,
         0,
         0,
-        -0.02120292967056148,
-        0.02120292967056148,
         0,
         0,
+        -0.020707636403954306,
+        0.04141527280790861,
         0,
         0,
-        -0.04240585934112296,
         0,
         0,
+        -0.04141527280790861,
         0,
         0,
         0,
@@ -19735,54 +19338,55 @@
         0,
         0,
         0,
-        -0.14198390404393846,
-        0.04240585934112296,
-        -0.02120292967056148,
         0,
         0,
+        -0.13866720806219401,
+        0.04141527280790861,
+        -0.020707636403954306,
         0,
         0,
-        0.24610543367616,
+        0.020707636403954306,
         0,
-        0.04240585934112296,
+        0.24035649397446962,
         0,
+        0.04141527280790861,
         0,
         0,
         0,
         0,
         0,
-        -0.11358712323515077,
         0,
+        -0.11093376644975521,
         0,
         0,
         0,
-        0.02120292967056148,
-        -0.02120292967056148,
         0,
+        0.020707636403954306,
+        -0.020707636403954306,
         0,
         0,
         0,
-        0.02120292967056148,
         0,
+        0.020707636403954306,
         0,
         0,
         0,
         0,
-        0.2317177313997076,
         0,
+        0.22630488355750064,
         0,
         0,
         0,
-        -0.06360878901168444,
         0,
+        -0.06212290921186292,
         0,
         0,
-        -0.08481171868224592,
         0,
+        -0.08283054561581722,
         0,
-        0.02120292967056148,
-        -0.02120292967056148,
         0,
+        0.020707636403954306,
+        -0.020707636403954306,
         0,
         0,
         0,
@@ -19793,73 +19397,73 @@
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
+        -0.020707636403954306,
         0,
         0,
         0,
-        0.1060146483528074,
         0,
+        0.10353818201977154,
         0,
         0,
-        0.02120292967056148,
         0,
+        0.020707636403954306,
         0,
         0,
         0,
         0,
         0,
         0,
-        0.02120292967056148,
-        -0.06360878901168444,
         0,
-        -0.02120292967056148,
+        0.020707636403954306,
+        -0.06212290921186292,
         0,
+        -0.020707636403954306,
         0,
         0,
-        -0.02120292967056148,
         0,
-        -0.02120292967056148,
-        0.06360878901168444,
+        -0.020707636403954306,
         0,
+        -0.020707636403954306,
+        0.06212290921186292,
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
-        -0.02120292967056148,
-        0.02120292967056148,
+        -0.020707636403954306,
         0,
-        0.02120292967056148,
+        -0.020707636403954306,
+        0.020707636403954306,
         0,
+        0.020707636403954306,
         0,
-        -0.11358712323515077,
-        0.11358712323515077,
         0,
-        0.02120292967056148,
-        -0.1726524273174292,
+        -0.11093376644975521,
+        0.11093376644975521,
         0,
-        -0.02120292967056148,
+        0.020707636403954306,
+        -0.16861932500362792,
         0,
-        -0.2506489186055661,
-        0.02120292967056148,
+        -0.020707636403954306,
         0,
+        -0.24479384463245984,
+        0.020707636403954306,
         0,
-        -0.02120292967056148,
-        0.02120292967056148,
-        -0.11358712323515077,
         0,
-        -0.04240585934112296,
-        0.04240585934112296,
-        -0.02120292967056148,
+        -0.020707636403954306,
+        0.020707636403954306,
+        -0.11093376644975521,
         0,
+        -0.04141527280790861,
+        0.04141527280790861,
+        -0.020707636403954306,
         0,
-        0.02120292967056148,
         0,
-        0.11585886569985379,
+        0.020707636403954306,
         0,
-        0.02120292967056148,
+        0.1131524417787503,
         0,
+        0.020707636403954306,
         0,
         0,
         0,
@@ -19867,27 +19471,28 @@
         0,
         0,
         0,
-        -0.02120292967056148,
         0,
+        -0.020707636403954306,
         0,
         0,
-        -0.04240585934112296,
         0,
-        -0.17038068485272617,
-        0.02120292967056148,
+        -0.04141527280790861,
         0,
+        -0.1664006496746328,
+        0.020707636403954306,
         0,
         0,
         0,
-        -0.04240585934112296
+        0,
+        -0.04141527280790861
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/WNh.md": {
       "path": "Glossary/WNh.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059531,
+      "mtime": 1780795996594,
       "sourceText": "WNh\nWNh Very massive stars with strong stellar winds, leading to spectra very similar to that of WRs, but also with hydrogen emission. These have ejected their outer shells of hydrogen, and show distinct He and/or C emission, buta also is still doing H fusion in the core",
       "summary": "WNh Very massive stars with strong stellar winds, leading to spectra very similar to that of WRs, but also with hydrogen emission. These have ejected their outer shells of hydrogen, and show distinct He and/or C emission, buta also is still doing H fusion in the core",
       "embedding": [
@@ -20276,7 +19881,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TIc-SNe.md": {
       "path": "Glossary/TIc-SNe.md",
@@ -20671,7 +20276,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TIb-SNe.md": {
       "path": "Glossary/TIb-SNe.md",
@@ -21066,7 +20671,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TII-SNe.md": {
       "path": "Glossary/TII-SNe.md",
@@ -21461,7 +21066,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TI-SNe.md": {
       "path": "Glossary/TI-SNe.md",
@@ -21856,7 +21461,7 @@
         0,
         -0.02709901749851524
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TESS.md": {
       "path": "Glossary/TESS.md",
@@ -22251,7 +21856,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/TDE.md": {
       "path": "Glossary/TDE.md",
@@ -22646,15 +22251,15 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/SMBH.md": {
       "path": "Glossary/SMBH.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059531,
-      "sourceText": "SMBH\nSMBH Super-Massive Black Hole Black hole with a mass *greater* than 100,000 solar masses",
-      "summary": "SMBH Super-Massive Black Hole Black hole with a mass *greater* than 100,000 solar masses",
+      "mtime": 1780795996661,
+      "sourceText": "SMBH\nSMBH Super-Massive black hole Black hole with a mass *greater* than 100,000 solar masses",
+      "summary": "SMBH Super-Massive black hole Black hole with a mass *greater* than 100,000 solar masses",
       "embedding": [
         0,
         -0.06840798457607074,
@@ -23041,7 +22646,7 @@
         0.06840798457607074,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/SD.md": {
       "path": "Glossary/SD.md",
@@ -23436,7 +23041,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/RSG.md": {
       "path": "Glossary/RSG.md",
@@ -23831,7 +23436,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/Pan-STARRS.md": {
       "path": "Glossary/Pan-STARRS.md",
@@ -24226,13 +23831,13 @@
         0,
         -0.06760121676540425
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/PISN.md": {
       "path": "Glossary/PISN.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059531,
+      "mtime": 1780795996721,
       "sourceText": "PISN\nPISN pair-instability supernova Beleived to happen to stars of mass between 130-250, where their end of life SN are so energetic it leaves behind *no compact object*. This means that theoretically no BHs between 45-120 should be able to form directly from SN. This is called th...",
       "summary": "PISN pair-instability supernova Beleived to happen to stars of mass between 130-250, where their end of life SN are so energetic it leaves behind *no compact object*. This means that theoretically no BHs between 45-120 should be able to form directly from SN. This is called th...",
       "embedding": [
@@ -24621,7 +24226,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/ONeMg.md": {
       "path": "Glossary/ONeMg.md",
@@ -25016,7 +24621,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/MSP.md": {
       "path": "Glossary/MSP.md",
@@ -25411,7 +25016,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/MB.md": {
       "path": "Glossary/MB.md",
@@ -25806,7 +25411,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/MAD.md": {
       "path": "Glossary/MAD.md",
@@ -26201,7 +25806,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/HeS.md": {
       "path": "Glossary/HeS.md",
@@ -26596,7 +26201,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/GWR.md": {
       "path": "Glossary/GWR.md",
@@ -26991,7 +26596,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369021
     },
     "Glossary/GRBs.md": {
       "path": "Glossary/GRBs.md",
@@ -27386,7 +26991,7 @@
         0,
         -0.027280553681742644
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/DNS.md": {
       "path": "Glossary/DNS.md",
@@ -27781,7 +27386,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/DD.md": {
       "path": "Glossary/DD.md",
@@ -28176,7 +27781,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/BH-LS.md": {
       "path": "Glossary/BH-LS.md",
@@ -28571,7 +28176,7 @@
         0.0530204618834423,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/BEER.md": {
       "path": "Glossary/BEER.md",
@@ -28966,7 +28571,7 @@
         0.0241872780516139,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/AIC.md": {
       "path": "Glossary/AIC.md",
@@ -29361,7 +28966,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Glossary/AGB.md": {
       "path": "Glossary/AGB.md",
@@ -29756,7 +29361,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/winds.md": {
       "path": "General Notes/winds.md",
@@ -30151,7 +29756,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/thermal-timescale.md": {
       "path": "General Notes/thermal-timescale.md",
@@ -30546,7 +30151,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/surface of last scattering.md": {
       "path": "General Notes/surface of last scattering.md",
@@ -30941,7 +30546,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/stellar streams.md": {
       "path": "General Notes/stellar streams.md",
@@ -31336,7 +30941,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/spherical cow.md": {
       "path": "General Notes/spherical cow.md",
@@ -31731,13 +31336,13 @@
         0,
         -0.018203989875756065
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/runaway-RLOF.md": {
       "path": "General Notes/runaway-RLOF.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779732964436,
+      "mtime": 1780795996775,
       "sourceText": "runaway-RLOF\nrunaway RLOF Unstable RLO mass transfer which leads to eventual mergers",
       "summary": "runaway RLOF Unstable RLO mass transfer which leads to eventual mergers",
       "embedding": [
@@ -32126,7 +31731,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/pulsar timing arrays.md": {
       "path": "General Notes/pulsar timing arrays.md",
@@ -32521,7 +32126,7 @@
         0,
         -0.08600659050750613
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/photon-gas.md": {
       "path": "General Notes/photon-gas.md",
@@ -32916,7 +32521,7 @@
         0.021646804985236478,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/odd modes.md": {
       "path": "General Notes/odd modes.md",
@@ -33311,7 +32916,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/natal-kick.md": {
       "path": "General Notes/natal-kick.md",
@@ -33706,13 +33311,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/kilonova.md": {
       "path": "General Notes/kilonova.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779998655324,
+      "mtime": 1780795996839,
       "sourceText": "kilonova\nKilonova A merger of either a NS+NS (DNS) binary or a NS+black hole binary. Results in a bright signal resulting from the rapid decay the the NS material. Results in a peak brightness around 1000x that of a standard nova, hence the name. Likely a standard candle.",
       "summary": "Kilonova A merger of either a NS+NS (DNS) binary or a NS+black hole binary. Results in a bright signal resulting from the rapid decay the the NS material. Results in a peak brightness around 1000x that of a standard nova, hence the name. Likely a standard candle.",
       "embedding": [
@@ -34101,7 +33706,7 @@
         0.0175219272514577,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/donor.md": {
       "path": "General Notes/donor.md",
@@ -34496,7 +34101,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/consv-RLO.md": {
       "path": "General Notes/consv-RLO.md",
@@ -34891,7 +34496,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/compact object.md": {
       "path": "General Notes/compact object.md",
@@ -35286,7 +34891,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/collapser.md": {
       "path": "General Notes/collapser.md",
@@ -35681,7 +35286,7 @@
         0.03351991402539583,
         -0.03351991402539583
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/black hole.md": {
       "path": "General Notes/black hole.md",
@@ -36076,7 +35681,7 @@
         0.032678622705360705,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/antibiotic-index.md": {
       "path": "General Notes/antibiotic-index.md",
@@ -36471,7 +36076,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/algol type.md": {
       "path": "General Notes/algol type.md",
@@ -36866,7 +36471,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/accretor.md": {
       "path": "General Notes/accretor.md",
@@ -37261,7 +36866,7 @@
         0,
         -0.03642610819626027
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/White Dwarf.md": {
       "path": "General Notes/White Dwarf.md",
@@ -37656,7 +37261,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/WD.md": {
       "path": "General Notes/WD.md",
@@ -38051,7 +37656,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/WD SNe.md": {
       "path": "General Notes/WD SNe.md",
@@ -38446,7 +38051,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Swift Observatory.md": {
       "path": "General Notes/Swift Observatory.md",
@@ -38841,7 +38446,7 @@
         0,
         -0.046692695371503674
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/SNe.md": {
       "path": "General Notes/SNe.md",
@@ -39236,7 +38841,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Relativistic Beaming.md": {
       "path": "General Notes/Relativistic Beaming.md",
@@ -39631,7 +39236,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Recycled Pulsar.md": {
       "path": "General Notes/Recycled Pulsar.md",
@@ -40026,7 +39631,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Proper Motion.md": {
       "path": "General Notes/Proper Motion.md",
@@ -40421,13 +40026,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Pauli Exclusion Principle.md": {
       "path": "General Notes/Pauli Exclusion Principle.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059529,
+      "mtime": 1780795996888,
       "sourceText": "Pauli Exclusion Principle\n<a id=\"pauli-exclusion-principle\"></a> --- The property of matter that two identical particles with half integer spins (fermions) cannot occupy the same quantum state. > <https://en.wikipedia.org/wiki/Pauli_exclusion_principle> > > ``In a poly-electron atom it is impossible fo...",
       "summary": "<a id=\"pauli-exclusion-principle\"></a> --- The property of matter that two identical particles with half integer spins (fermions) cannot occupy the same quantum state. > <https://en.wikipedia.org/wiki/Pauli_exclusion_principle> > > ``In a poly-electron atom it is impossible fo...",
       "embedding": [
@@ -40816,7 +40421,7 @@
         0.01907196880517226,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/NS.md": {
       "path": "General Notes/NS.md",
@@ -41211,7 +40816,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Mass loss from a circumbinary disk.md": {
       "path": "General Notes/Mass loss from a circumbinary disk.md",
@@ -41606,13 +41211,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Magnetic Breaking.md": {
       "path": "General Notes/Magnetic Breaking.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059529,
+      "mtime": 1780795996954,
       "sourceText": "Magnetic Breaking\nmagnetic breaking the process of a star magnetic field binding with the winds (or gas, etc) surrounding the star itself, causing the stars spin to slow due to conservation of angular momentum, as the *radius* of the star increases.",
       "summary": "magnetic breaking the process of a star magnetic field binding with the winds (or gas, etc) surrounding the star itself, causing the stars spin to slow due to conservation of angular momentum, as the *radius* of the star increases.",
       "embedding": [
@@ -42001,7 +41606,7 @@
         0.01478711362989862,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/LVB.md": {
       "path": "General Notes/LVB.md",
@@ -42396,7 +42001,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/LIGO.md": {
       "path": "General Notes/LIGO.md",
@@ -42791,7 +42396,7 @@
         0,
         -0.03601640691338683
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/JWST.md": {
       "path": "General Notes/JWST.md",
@@ -43186,7 +42791,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Hierarchical Merger.md": {
       "path": "General Notes/Hierarchical Merger.md",
@@ -43581,7 +43186,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/HMXB.md": {
       "path": "General Notes/HMXB.md",
@@ -43976,7 +43581,7 @@
         0,
         -0.03362728414128534
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/GW.md": {
       "path": "General Notes/GW.md",
@@ -44371,7 +43976,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Even Modes.md": {
       "path": "General Notes/Even Modes.md",
@@ -44766,7 +44371,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Ellipsoidal Modulation.md": {
       "path": "General Notes/Ellipsoidal Modulation.md",
@@ -45161,7 +44766,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Edge Limit Detonation.md": {
       "path": "General Notes/Edge Limit Detonation.md",
@@ -45556,7 +45161,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Eddington Luminosity Limit.md": {
       "path": "General Notes/Eddington Luminosity Limit.md",
@@ -45951,13 +45556,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Eddington Limit.md": {
       "path": "General Notes/Eddington Limit.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779998655323,
+      "mtime": 1780795997023,
       "sourceText": "Eddington Limit\nEddington Limit $\\dot{M}_{Edd} ∼eq 1.8 × 10^{-8} M_\\odot \\mathrm{yr}^{-1}$ For NS Maximum rate of mass transfer onto a NS or black hole",
       "summary": "Eddington Limit $\\dot{M}_{Edd} ∼eq 1.8 × 10^{-8} M_\\odot \\mathrm{yr}^{-1}$ For NS Maximum rate of mass transfer onto a NS or black hole",
       "embedding": [
@@ -46346,7 +45951,7 @@
         0.02826528148261543,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Darwin instability.md": {
       "path": "General Notes/Darwin instability.md",
@@ -46741,7 +46346,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Comptonization.md": {
       "path": "General Notes/Comptonization.md",
@@ -47136,7 +46741,7 @@
         0,
         -0.047995678134794204
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Chandrasekhar Limit.md": {
       "path": "General Notes/Chandrasekhar Limit.md",
@@ -47531,7 +47136,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Case B RLO.md": {
       "path": "General Notes/Case B RLO.md",
@@ -47926,7 +47531,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Case A RLO.md": {
       "path": "General Notes/Case A RLO.md",
@@ -48321,7 +47926,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/CMB.md": {
       "path": "General Notes/CMB.md",
@@ -48716,7 +48321,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Blue-stragglers.md": {
       "path": "General Notes/Blue-stragglers.md",
@@ -49111,7 +48716,7 @@
         0,
         -0.06303153695373
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "General Notes/Barium-stars.md": {
       "path": "General Notes/Barium-stars.md",
@@ -49506,7 +49111,7 @@
         0,
         -0.026120286606250598
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "GR.md": {
       "path": "GR.md",
@@ -49901,7 +49506,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Documenation.md": {
       "path": "Documenation.md",
@@ -50296,7 +49901,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Dashboard/Home.md": {
       "path": "Dashboard/Home.md",
@@ -50691,7 +50296,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Confidence Bands.md": {
       "path": "Confidence Bands.md",
@@ -51086,13 +50691,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Common Envelope.md": {
       "path": "Common Envelope.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780796881317,
+      "mtime": 1780796884649,
       "sourceText": "Common Envelope\nCommon Envelope --- A stage in binary star evolution where where star engulfs its binary pair in its envelope. This is most common when one star evolves into the giant phase. Happens on the timescale of $\\sim10^3$ yr This process very commonly leads to in-spiraling and merger,...",
       "summary": "Common Envelope --- A stage in binary star evolution where where star engulfs its binary pair in its envelope. This is most common when one star evolves into the giant phase. Happens on the timescale of $\\sim10^3$ yr This process very commonly leads to in-spiraling and merger,...",
       "embedding": [
@@ -51481,7 +51086,7 @@
         0,
         0
       ],
-      "updatedAt": 1780796883883
+      "updatedAt": 1780938369022
     },
     "Class Notes/Class Notes.md": {
       "path": "Class Notes/Class Notes.md",
@@ -51876,7 +51481,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Waves.md": {
       "path": "Class Notes/Astro210/Waves.md",
@@ -52271,13 +51876,13 @@
         0,
         -0.15302656187855992
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/The planets.md": {
       "path": "Class Notes/Astro210/The planets.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780798145885,
+      "mtime": 1780798148609,
       "sourceText": "The planets\nThe planets ← Astro210 Mecury --- - always 30$°$ from the sun - strong tidal forces, permanent prolate tidal bulge - sidereal rotation $P_{rot} = 58.65d$ - $P_{orb} = 87.97$ - Orbit is tidally locked at perihelion Venus --- - Retrograde Motion - atmosphere - Clouds are sulfuri...",
       "summary": "The planets ← Astro210 Mecury --- - always 30$°$ from the sun - strong tidal forces, permanent prolate tidal bulge - sidereal rotation $P_{rot} = 58.65d$ - $P_{orb} = 87.97$ - Orbit is tidally locked at perihelion Venus --- - Retrograde Motion - atmosphere - Clouds are sulfuri...",
       "embedding": [
@@ -52666,13 +52271,13 @@
         0,
         0
       ],
-      "updatedAt": 1780798148075
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Telescopes.md": {
       "path": "Class Notes/Astro210/Telescopes.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779732964435,
+      "mtime": 1780795997069,
       "sourceText": "Telescopes\nTelescopes ← Astro210 photoelectric effect - Photoemission emission of a electron from a material in response to a incident photon - photoemissive material (underlying material) - work function (min energy required to produce light) - photoeletric effect (photoemission from at...",
       "summary": "Telescopes ← Astro210 photoelectric effect - Photoemission emission of a electron from a material in response to a incident photon - photoemissive material (underlying material) - work function (min energy required to produce light) - photoeletric effect (photoemission from at...",
       "embedding": [
@@ -53061,7 +52666,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Stellar Atmospheres.md": {
       "path": "Class Notes/Astro210/Stellar Atmospheres.md",
@@ -53456,13 +53061,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Solar system in perspective.md": {
       "path": "Class Notes/Astro210/Solar system in perspective.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779732964435,
+      "mtime": 1780795997117,
       "sourceText": "Solar system in perspective\nSolar system in perspective ← Astro210 Solar system config - Planetary orbits are coplanar - suns equator close to orbit Plane - nearly circular orbits - planets all orbit in same direction - most planets rotate in the same direction as their orbital motion Protostellar Nebula...",
       "summary": "Solar system in perspective ← Astro210 Solar system config - Planetary orbits are coplanar - suns equator close to orbit Plane - nearly circular orbits - planets all orbit in same direction - most planets rotate in the same direction as their orbital motion Protostellar Nebula...",
       "embedding": [
@@ -53851,7 +53456,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Orbital energetics.md": {
       "path": "Class Notes/Astro210/Orbital energetics.md",
@@ -54246,13 +53851,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Orbital Mechanics I.md": {
       "path": "Class Notes/Astro210/Orbital Mechanics I.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059527,
+      "mtime": 1780795997191,
       "sourceText": "Orbital Mechanics I\nOrbital Mechanics I ← Astro210 Newtonian mechanics Parametric vectors Displacement $\\vec{r}(t) = x(t)\\hat{i}y(t)\\hat{j}+z(t)\\hat{k}$ distance: $r(t) = |\\vec{r}(t)| = \\sqrt{\\vec{r} · \\vec{r}}$ Newtons laws First law - Isaac newton(1642-1727) - an objects' velocity remains const...",
       "summary": "Orbital Mechanics I ← Astro210 Newtonian mechanics Parametric vectors Displacement $\\vec{r}(t) = x(t)\\hat{i}y(t)\\hat{j}+z(t)\\hat{k}$ distance: $r(t) = |\\vec{r}(t)| = \\sqrt{\\vec{r} · \\vec{r}}$ Newtons laws First law - Isaac newton(1642-1727) - an objects' velocity remains const...",
       "embedding": [
@@ -54641,7 +54246,7 @@
         0,
         -0.01789391645331832
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Galaxies and Super clusters.md": {
       "path": "Class Notes/Astro210/Galaxies and Super clusters.md",
@@ -55036,7 +54641,7 @@
         0,
         -0.016204749101295855
       ],
-      "updatedAt": 1780795613479
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Earth-Moon Systen.md": {
       "path": "Class Notes/Astro210/Earth-Moon Systen.md",
@@ -55431,13 +55036,13 @@
         0.01729430548989379,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Early Astronomy.md": {
       "path": "Class Notes/Astro210/Early Astronomy.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779732964435,
+      "mtime": 1780795997247,
       "sourceText": "Early Astronomy\nEarly Astronomy ← Astro210 Greek - Aristotle - earth is spherical - partial lunar eclipses - some stars visible from southern locations but not northern and vice versa - had ideas regarding perfect geo influenced by Pythagoras and Plato \\item Aristarchus (310-230 BC): - unprec...",
       "summary": "Early Astronomy ← Astro210 Greek - Aristotle - earth is spherical - partial lunar eclipses - some stars visible from southern locations but not northern and vice versa - had ideas regarding perfect geo influenced by Pythagoras and Plato \\item Aristarchus (310-230 BC): - unprec...",
       "embedding": [
@@ -55826,13 +55431,13 @@
         0,
         -0.018128835736562755
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Cosmology.md": {
       "path": "Class Notes/Astro210/Cosmology.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779732964435,
+      "mtime": 1780795997320,
       "sourceText": "Cosmology\nCosmology ← Astro210 --- CMB - $ct ⇒$ theoretical size of the universe - Does not account for expansion of the uni while the light is travelling - surface of last scattering, point where the universe becomes opaque, also the CMB Olbers paradox - We do not see a galaxy everywhe...",
       "summary": "Cosmology ← Astro210 --- CMB - $ct ⇒$ theoretical size of the universe - Does not account for expansion of the uni while the light is travelling - surface of last scattering, point where the universe becomes opaque, also the CMB Olbers paradox - We do not see a galaxy everywhe...",
       "embedding": [
@@ -56221,7 +55826,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369022
     },
     "Class Notes/Astro210/Astro210.md": {
       "path": "Class Notes/Astro210/Astro210.md",
@@ -56616,7 +56221,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "BEaming.md": {
       "path": "BEaming.md",
@@ -57011,13 +56616,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/What happens when you poke a black hole.md": {
       "path": "AstroBites/What happens when you poke a black hole.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780797612912,
+      "mtime": 1780797614956,
       "sourceText": "What happens when you poke a black hole\nWhat happens when you poke a black hole? [@Mittal2026] Astrobites post --- Abstract and intro --- What happens when you perturb the perfect shape of a black hole (or any other object of symmetrically and spherically distorting spacetime)? In 1950 John Wheeler and Tullio Regge...",
       "summary": "What happens when you poke a black hole? [@Mittal2026] Astrobites post --- Abstract and intro --- What happens when you perturb the perfect shape of a black hole (or any other object of symmetrically and spherically distorting spacetime)? In 1950 John Wheeler and Tullio Regge...",
       "embedding": [
@@ -57406,13 +57011,13 @@
         0.04372686103824256,
         0
       ],
-      "updatedAt": 1780797614162
+      "updatedAt": 1780938369023
     },
     "AstroBites/We’re Going to Steal the Moon (For Gravitational Waves).md": {
       "path": "AstroBites/We’re Going to Steal the Moon (For Gravitational Waves).md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059520,
+      "mtime": 1780795997376,
       "sourceText": "We’re Going to Steal the Moon (For Gravitational Waves)\nWe’re Going to Steal the Moon (For Gravitational Waves) Astrobites post Abstract --- - Gravitational Waves have been detected via LIGO as well as with pulsar timing arrays, which use detection's high frequency(~100 hz range) and low freq (nano-hertz). - These leaves a gap betw...",
       "summary": "We’re Going to Steal the Moon (For Gravitational Waves) Astrobites post Abstract --- - Gravitational Waves have been detected via LIGO as well as with pulsar timing arrays, which use detection's high frequency(~100 hz range) and low freq (nano-hertz). - These leaves a gap betw...",
       "embedding": [
@@ -57801,7 +57406,7 @@
         0,
         -0.015191182358633643
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md": {
       "path": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
@@ -58196,13 +57801,13 @@
         0.014661882939693323,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/Many Mergers Might Fill the Mass Gap.md": {
       "path": "AstroBites/Many Mergers Might Fill the Mass Gap.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059520,
+      "mtime": 1780795997429,
       "sourceText": "Many Mergers Might Fill the Mass Gap\nMany Mergers Might Fill the Mass Gap [@Amen2026] Astrobites post --- - Stars of mass between 130-250 $M_\\odot$ are thought to end their lives in PISN - Many BHs in the mass range of 45-120 are still observed - The paper proposes that the BHs in this mass range are actually for...",
       "summary": "Many Mergers Might Fill the Mass Gap [@Amen2026] Astrobites post --- - Stars of mass between 130-250 $M_\\odot$ are thought to end their lives in PISN - Many BHs in the mass range of 45-120 are still observed - The paper proposes that the BHs in this mass range are actually for...",
       "embedding": [
@@ -58591,193 +58196,194 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/Live Fast Die Immediately.md": {
       "path": "AstroBites/Live Fast Die Immediately.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059520,
-      "sourceText": "Live Fast Die Immediately\nLive Fast Die Immediately [@Hoosain2026] Astrobites post --- Abstract and intro --- - Seek to better understand BH-accretion disk systems - This includes the spin rate and how might that spin rate be affected by neutrino emission Collapsers <a id=\"Collapsers\"></a> --- - Stars...",
-      "summary": "Live Fast Die Immediately [@Hoosain2026] Astrobites post --- Abstract and intro --- - Seek to better understand BH-accretion disk systems - This includes the spin rate and how might that spin rate be affected by neutrino emission Collapsers <a id=\"Collapsers\"></a> --- - Stars...",
+      "mtime": 1780795997492,
+      "sourceText": "Live Fast Die Immediately\nLive Fast Die Immediately [@Hoosain2026] Astrobites post --- Abstract and intro --- - Seek to better understand BH-accretion disk systems - This includes the spin rate and how might that spin rate be affected by neutrino emission Collapsers <a id=\"collapser\"></a> --- - Stars m...",
+      "summary": "Live Fast Die Immediately [@Hoosain2026] Astrobites post --- Abstract and intro --- - Seek to better understand BH-accretion disk systems - This includes the spin rate and how might that spin rate be affected by neutrino emission Collapsers <a id=\"collapser\"></a> --- - Stars m...",
       "embedding": [
-        0.095889458672426,
+        0.09832994233639082,
         0,
         0,
         0,
-        0.017548397665542014,
+        0.0179950221269212,
         0,
         0,
         0,
         0,
-        -0.017548397665542014,
+        -0.0179950221269212,
         0,
         0,
-        0.03509679533108403,
+        0.0359900442538424,
         0,
-        0.14289409527655642,
-        -0.017548397665542014,
-        0.03509679533108403,
+        0.14653089446207263,
+        -0.0179950221269212,
+        0.0359900442538424,
         0,
         0,
         0,
-        0.095889458672426,
+        0.09832994233639082,
         0,
         0,
-        -0.017548397665542014,
+        -0.0179950221269212,
         0,
         0,
-        0.017548397665542014,
+        0.0179950221269212,
         0,
-        0.12127196243865641,
+        0.12435845648425899,
         0,
         0,
         0,
         0,
         0,
-        0.052645192996626046,
+        0.05398506638076359,
         0,
-        0.1898987318806868,
+        0.1947318465877544,
         0,
-        0.32683890652072,
+        0.33515728711390724,
         0,
         0,
         0,
         0,
-        -0.017548397665542014,
-        0.017548397665542014,
+        -0.0179950221269212,
+        0.0179950221269212,
         0,
-        0.03509679533108403,
+        0.0359900442538424,
         0,
-        0.017548397665542014,
-        -0.09400927320826079,
+        0.0179950221269212,
+        -0.09640190425136355,
         0,
         0,
-        0.15668212201376797,
+        0.16066984041893925,
         0,
-        0.052645192996626046,
+        0.0359900442538424,
         0,
-        0.08774198832771007,
-        -0.017548397665542014,
-        0.017548397665542014,
-        -0.017548397665542014,
+        0.08997511063460599,
+        -0.0179950221269212,
+        0.0179950221269212,
+        -0.0179950221269212,
         0,
-        -0.170156784506952,
+        -0.17448744669496802,
         0,
-        -0.19365910280901727,
+        -0.18059290063088776,
         0,
-        -0.29769603182615917,
-        0.017548397665542014,
+        -0.30527269679598457,
+        0.0359900442538424,
         0,
+        0.13656936435609837,
+        -0.0179950221269212,
+        0.0179950221269212,
+        -0.09640190425136355,
+        0.0179950221269212,
         0,
-        -0.017548397665542014,
-        0.017548397665542014,
-        -0.09400927320826079,
-        0.017548397665542014,
         0,
         0,
+        0.0179950221269212,
+        -0.0359900442538424,
         0,
-        0.017548397665542014,
-        -0.03509679533108403,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
+        0.0179950221269212,
+        -0.0179950221269212,
         0,
-        0.017548397665542014,
-        -0.017548397665542014,
         0,
         0,
         0,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
         0,
+        0.09832994233639082,
         0,
-        0.095889458672426,
+        0.0719800885076848,
+        -0.05398506638076359,
         0,
-        0.07019359066216806,
-        -0.052645192996626046,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
         0,
+        0.05398506638076359,
+        -0.0179950221269212,
+        0.0359900442538424,
         0,
-        0.052645192996626046,
-        -0.017548397665542014,
-        0.03509679533108403,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
         0,
+        -0.0179950221269212,
+        0.0179950221269212,
         0,
-        -0.017548397665542014,
-        0.017548397665542014,
+        0.15263634839799228,
+        -0.0359900442538424,
         0,
-        0.14884801591307958,
-        -0.03509679533108403,
         0,
+        0.14653089446207263,
         0,
-        0.14289409527655642,
         0,
         0,
+        0.0359900442538424,
+        -0.09640190425136355,
         0,
-        0.03509679533108403,
-        -0.09400927320826079,
+        -0.0359900442538424,
+        0.0359900442538424,
         0,
-        -0.03509679533108403,
-        0.03509679533108403,
         0,
         0,
         0,
         0,
         0,
+        -0.1285358723351514,
         0,
-        -0.12534569761101438,
         0,
         0,
         0,
+        0.05398506638076359,
+        -0.0359900442538424,
+        0.05398506638076359,
+        -0.0179950221269212,
         0,
-        0.052645192996626046,
-        -0.03509679533108403,
-        0.052645192996626046,
-        -0.017548397665542014,
+        -0.1446028563770453,
         0,
-        -0.28202781962478235,
+        -0.0719800885076848,
         0,
-        -0.07019359066216806,
+        -0.1928038085027271,
+        0.05398506638076359,
         0,
-        -0.18801854641652158,
-        0.052645192996626046,
         0,
         0,
         0,
         0,
         0,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
         0,
         0,
         0,
         0,
+        -0.05398506638076359,
         0,
-        -0.052645192996626046,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
+        -0.1446028563770453,
+        0.09640190425136355,
         0,
-        -0.14101390981239117,
-        0.09400927320826079,
+        0.05398506638076359,
+        -0.1928038085027271,
+        0.05398506638076359,
         0,
-        0.052645192996626046,
-        -0.18801854641652158,
-        0.052645192996626046,
         0,
         0,
         0,
@@ -58787,158 +58393,158 @@
         0,
         0,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
+        0.0179950221269212,
+        -0.0359900442538424,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
-        -0.03509679533108403,
-        0.017548397665542014,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
         0,
         0,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
         0,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
         0,
         0,
         0,
         0,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
         0,
+        -0.05398506638076359,
         0,
-        -0.052645192996626046,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
+        -0.1928038085027271,
         0,
-        -0.18801854641652158,
         0,
         0,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
+        -0.0179950221269212,
+        0.0359900442538424,
         0,
-        -0.017548397665542014,
-        0.03509679533108403,
         0,
         0,
         0,
         0,
         0,
         0,
+        0.0179950221269212,
+        -0.1285358723351514,
         0,
-        0.017548397665542014,
-        -0.12534569761101438,
+        -0.05398506638076359,
         0,
-        -0.052645192996626046,
         0,
         0,
         0,
         0,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
+        -0.1603485007381014,
         0,
-        -0.15636875776974044,
+        -0.11246888829325748,
+        0.0179950221269212,
         0,
-        -0.10967748540963758,
-        0.017548397665542014,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
+        0.0359900442538424,
+        -0.0179950221269212,
+        0.0179950221269212,
         0,
-        0.03509679533108403,
-        -0.017548397665542014,
-        0.017548397665542014,
+        0.05398506638076359,
+        -0.0359900442538424,
+        0.0179950221269212,
         0,
-        0.052645192996626046,
-        -0.03509679533108403,
-        0.017548397665542014,
         0,
+        -0.0359900442538424,
+        0.0179950221269212,
         0,
-        -0.03509679533108403,
-        0.017548397665542014,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
+        -0.0179950221269212,
+        0.0179950221269212,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
-        0.017548397665542014,
-        -0.017548397665542014,
+        -0.21079883062964833,
         0,
-        -0.2055669440820636,
+        -0.10443539627231051,
         0,
-        -0.10184337930894918,
         0,
         0,
         0,
         0,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
         0,
+        0.0359900442538424,
+        -0.05398506638076359,
+        0.0359900442538424,
+        -0.0359900442538424,
         0,
-        0.03509679533108403,
-        -0.052645192996626046,
-        0.03509679533108403,
-        -0.03509679533108403,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
         0,
+        0.05398506638076359,
         0,
-        0.052645192996626046,
         0,
         0,
         0,
         0,
         0,
         0,
+        0.0359900442538424,
         0,
-        0.03509679533108403,
         0,
+        -0.2127268687146756,
         0,
-        -0.20744712954622882,
         0,
         0,
         0,
@@ -58946,47 +58552,46 @@
         0,
         0,
         0,
+        0.0179950221269212,
         0,
-        0.017548397665542014,
         0,
+        -0.0359900442538424,
+        0.0719800885076848,
         0,
-        -0.03509679533108403,
-        0.07019359066216806,
         0,
         0,
         0,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
+        -0.0359900442538424,
         0,
-        -0.03509679533108403,
+        -0.0179950221269212,
+        0.1404254405261529,
         0,
-        -0.017548397665542014,
-        0.13694017464003322,
         0,
+        -0.0179950221269212,
         0,
-        -0.017548397665542014,
         0,
         0,
         0,
         0,
+        -0.05398506638076359,
         0,
-        -0.052645192996626046,
+        -0.1285358723351514,
         0,
-        -0.12534569761101438,
+        -0.0359900442538424,
+        0.0179950221269212,
         0,
-        -0.03509679533108403,
-        0.017548397665542014,
         0,
         0,
-        0,
-        0.052645192996626046,
-        -0.03509679533108403,
-        0.03509679533108403,
+        0.05398506638076359,
+        -0.0359900442538424,
+        0.0359900442538424,
         0,
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md": {
       "path": "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
@@ -59381,7 +58986,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/Astrobites.md": {
       "path": "AstroBites/Astrobites.md",
@@ -59776,13 +59381,13 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AstroBites/A Wandering SMBH Eating a Star.md": {
       "path": "AstroBites/A Wandering SMBH Eating a Star.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1779689059520,
+      "mtime": 1780795997560,
       "sourceText": "A Wandering SMBH Eating a Star\nA Wandering Supermassive Black Hole Eating a Star [@Saad2026] Astrobites post --- - Covers a paper investigating a TDEs discovered *away* from the center of a galaxy, denoted as AT2024tvd. - BH mass , with more massive BHs having larger, cooler disks - This can be measured wit...",
       "summary": "A Wandering Supermassive Black Hole Eating a Star [@Saad2026] Astrobites post --- - Covers a paper investigating a TDEs discovered *away* from the center of a galaxy, denoted as AT2024tvd. - BH mass , with more massive BHs having larger, cooler disks - This can be measured wit...",
       "embedding": [
@@ -60171,7 +59776,7 @@
         0.018203661904073087,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "AGN.md": {
       "path": "AGN.md",
@@ -60566,7 +60171,7 @@
         0,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "10MillPop.md": {
       "path": "10MillPop.md",
@@ -60961,13 +60566,13 @@
         0.019221079242148765,
         0
       ],
-      "updatedAt": 1780795613480
+      "updatedAt": 1780938369023
     },
     "Low mass stellar evolution.md": {
       "path": "Low mass stellar evolution.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780797185266,
+      "mtime": 1780797238182,
       "sourceText": "Low mass stellar evolution\nLow mass stellar evolution ($M\\leq8M_{\\odot}$) [@tauris2023] --- - The degenerate mass in the core of the star heavily effects fusion - For electron degenerate gas, the pressure only depends on the density (and not on the temperature) - This means that this degenerate gas igni...",
       "summary": "Low mass stellar evolution ($M\\leq8M_{\\odot}$) [@tauris2023] --- - The degenerate mass in the core of the star heavily effects fusion - For electron degenerate gas, the pressure only depends on the density (and not on the temperature) - This means that this degenerate gas igni...",
       "embedding": [
@@ -61356,13 +60961,13 @@
         0,
         0
       ],
-      "updatedAt": 1780797237524
+      "updatedAt": 1780938369011
     },
     "Wikipedia/Rossiter–McLaughlin effect.md": {
       "path": "Wikipedia/Rossiter–McLaughlin effect.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780798011453,
+      "mtime": 1780798016896,
       "sourceText": "Rossiter–McLaughlin effect\nRossiter–McLaughlin effect [@RossiterMcLaughlineffect2026] --- !Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif Wikipedia article",
       "summary": "Rossiter–McLaughlin effect [@RossiterMcLaughlineffect2026] --- !Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif Wikipedia article",
       "embedding": [
@@ -61751,7 +61356,7 @@
         0,
         -0.0239103565959895
       ],
-      "updatedAt": 1780798016808
+      "updatedAt": 1780938369011
     }
   },
   "vaultAnalysisSnapshot": null,

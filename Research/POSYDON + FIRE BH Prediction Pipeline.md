@@ -19,7 +19,7 @@ tags:
 ---
 ## POSYDON to FIRE 
 ---
-![[POSYtoFIREPipleine.excalidraw]]
+![[POSYtoFIREPipleine.excalidraw|800]]
 ## [[FIRE]]
 ---
 ### Which fire model and why?

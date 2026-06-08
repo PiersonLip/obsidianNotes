@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125,
-    "collapsed": true
+    "width": 542.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -308,14 +307,15 @@
   },
   "active": "220e5e2d3d27e65c",
   "lastOpenFiles": [
-    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "Low mass stellar evolution.md",
+    "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Class Notes/Astro210/The planets.md",
-    "Low mass stellar evolution.md",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Pasted image 20260606210558.png",
@@ -345,7 +345,6 @@
     "Pasted image 20260604155322.png",
     "Obsidian.md",
     "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
-    "conflict-files-obsidian-git.md",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",
     "Pasted image 20260604160107.png",

@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "equationSnip",
-    "dashboard"
+    "dashboard",
+    "image-inversion"
   ],
   "cssTheme": "Minimal"
 }

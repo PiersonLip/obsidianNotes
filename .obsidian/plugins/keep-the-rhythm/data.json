@@ -877,7 +877,13 @@
         "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
         "wordCountStart": 205,
         "charCountStart": 1462,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -205,
+            "c": -1462
+          }
+        ],
         "id": 50
       },
       {
@@ -887,6 +893,14 @@
         "charCountStart": 1743,
         "changes": [],
         "id": 51
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [],
+        "id": 52
       }
     ],
     "wholeVaultWordCount": 18407,

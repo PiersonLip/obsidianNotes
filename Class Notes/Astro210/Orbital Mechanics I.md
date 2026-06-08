@@ -43,7 +43,7 @@ Newtonian gravity
 ### Displacement vector and polar coordinates
 
 - cartesian coordinates are often written a (x,y,z) in a coordinate system centered on mass M
-- Axis orientations are chosen so that the planet orbits in the x-y plane
+- Axis orientations are chosen so that [[The planets]] orbits in the x-y plane
 - Displacement $\vec{r}(t) =x(t)\hat{i} +y(t)\hat{j}$
 
 velocity vector and polar coordinates

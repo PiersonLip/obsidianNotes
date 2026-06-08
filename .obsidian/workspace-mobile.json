@@ -153,6 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Dashboard/Home.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -203,10 +204,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "b936e72e00c4f457",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Wikipedia/Rossiter–McLaughlin effect.md",
+    "Pasted image 20260606210558.png",
+    "Low mass stellar evolution.md",
+    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+    "Excalidraw",
+    "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
+    "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
+    "Dashboard/_cache/apod-2026-06-06.json",
     "Dashboard/Home.md",
+    "Obsidian Python .venv.md",
+    "Obsidian.md",
+    "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
+    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Dashboard/_cache/apod-2026-06-05.json",
     "Wikipedia/JWST.md",
     "Wikipedia/Gravity darkening.md",
     "Untitled 1.md",
@@ -236,15 +249,6 @@
     "Dashboard/_cache/apod-2026-05-28.json",
     "Common Envelope.md",
     "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
-    "Dashboard/_cache/apod-2026-05-26.json",
-    "X-ray Binary.md",
-    "Wikipedia/Electron degeneracy pressure.md",
-    "Wikipedia/Degenerate matter.md",
-    "Wikipedia",
-    "templates/ZOTERO-SETUP.md",
-    "templates/zotero-paper-note.md",
-    "LMXB.md",
-    "Bases/Glossary.base",
     "Attachments/Pasted image 20260524010657.png"
   ]
 }

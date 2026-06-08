@@ -47,6 +47,6 @@ $$
 
 This equation ([[#eq:ReggeWheeler]]) looks very similar to the [[Schrödinger equation]], allowing predictions of its behavior to be easily made. Because of this, it is easily predicted that the system will oscillate and then return to a low energy state. 
 
-![[bhPertubation.png]]
+![[bhPertubation.png# screen]]
 
 The "ring-down" phase detected with [[LIGO]] after a BH merger is described using this same method.

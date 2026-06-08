@@ -1,0 +1,98 @@
+/* Image color inversion & background blending for dark/light themes.
+   Enable via Settings → Appearance → CSS snippets.
+
+   Live preview blend fix (per image):
+     ![[diagram.png# screen]]   — dark mode
+     ![[diagram.png# multiply]] — light mode
+
+   Disable inversion/blending (per image):
+     ![[photo.png# normal]]
+*/
+
+/* General and default image blending */
+
+.theme-dark img {
+	display: block;
+	max-width: 80%;
+	padding: 0 auto 0 auto;
+	outline: none;
+	margin-left: auto;
+	margin-right: auto;
+	mix-blend-mode: screen;
+	filter: opacity(1);
+}
+
+.theme-light img {
+	display: block;
+	max-width: 80%;
+	padding: 0 auto 0 auto;
+	outline: none;
+	margin-left: auto;
+	margin-right: auto;
+	mix-blend-mode: multiply;
+	filter: opacity(0.95);
+}
+
+/* Embedded images blending tweaks */
+
+.theme-dark .cm-preview-inline .markdown-preview-view img {
+	mix-blend-mode: screen;
+}
+
+.theme-light .cm-preview-inline .markdown-preview-view img {
+	mix-blend-mode: multiply;
+}
+
+/* Image dynamic color inversion (dark mode) */
+
+.theme-dark img {
+	filter: invert(1) hue-rotate(180deg);
+}
+
+/* Live preview layering fix */
+
+.cm-editor .cm-scroller {
+	z-index: auto;
+}
+
+.theme-dark .image-embed[src~="screen"] {
+	mix-blend-mode: screen;
+}
+
+.theme-light .image-embed[src~="multiply"] {
+	mix-blend-mode: multiply;
+}
+
+/* Tables: allow blend mode on embedded images in live preview */
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-table-widget {
+	contain: unset !important;
+}
+
+/* Homepage: never invert or blend (APOD, Wikipedia widgets, etc.) */
+
+.theme-dark .dashboard-home img,
+.theme-light .dashboard-home img {
+	display: revert;
+	max-width: revert;
+	padding: revert;
+	outline: revert;
+	margin: revert;
+	mix-blend-mode: normal !important;
+	filter: none !important;
+}
+
+/* Per-image opt-out via wikilink fragment: ![[image.png# normal]] */
+
+.theme-dark .image-embed[src~="normal"] img,
+.theme-light .image-embed[src~="normal"] img,
+.theme-dark img[src~="normal"],
+.theme-light img[src~="normal"] {
+	display: revert;
+	max-width: revert;
+	padding: revert;
+	outline: revert;
+	margin: revert;
+	mix-blend-mode: normal !important;
+	filter: none !important;
+}

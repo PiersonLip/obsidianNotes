@@ -42,7 +42,7 @@ tags:
 - $$V_{rms} = \frac{3kT}{m_p}^{1/2} ≈ 160km/s$$
 - Escape speed as function of distance
 - $$\frac{GM_\odot}{r}^{1/2} ≈ 620 km/s$$
-- Sun produces a solar wind with $v = 400 km/s$, density$p ~ 10^{-21} kgm^{-3}$ earth
+- Sun produces a solar [[winds]] with $v = 400 km/s$, density$p ~ 10^{-21} kgm^{-3}$ earth
 - $$\Delta M = (4\pi r^2\Delta r) \rho$$
 - therefore mass flux through shell
 - $$\frac{dM}{dt} = 4\pi r^2 \frac{dr}{dt} \rho$$

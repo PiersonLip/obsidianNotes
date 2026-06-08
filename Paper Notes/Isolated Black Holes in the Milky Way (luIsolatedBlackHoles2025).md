@@ -1,12 +1,12 @@
 ---
 category: paper
-citekey: VideoJessicaLu
+citekey: luIsolatedBlackHoles2025
 aliases:
-  - VideoJessicaLu
+  - luIsolatedBlackHoles2025
 tags:
   - astro-notes/paper
 ---
-# Video: Jessica Lu (UCB / LBNL) [@VideoJessicaLu]
+# Isolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025]
 ---
 Important Properties 
 - Mass
@@ -14,7 +14,7 @@ Important Properties
 - Position 
 - Velocity 
 **Almost all isolated [[black hole|BHs]] form in higher order magnitude systems  (i.e. binaries, tertiary, quads, etc etc)**
-![[Pasted image 20260604154320.png]]
+![[Pasted image 20260604154320.png# screen]]
 ![[Pasted image 20260604154733.png]]
 
 ## How do we find free floating BHs?
@@ -23,7 +23,6 @@ Important Properties
 ---
 - Around $\approx 1000 \text{yr}$
 - Heavily dependent on natal kick velocity 
-- 
 Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
 
 ![[Scott_Gaudi__single_lens_animation.gif]]
@@ -37,8 +36,9 @@ However, cant glean massive amount of info from said events, as you only get dur
 ### PopSYsCLE
 ---
 Simulate a MW and "observe" lensing
-![[Pasted image 20260604160107.png]]- Doesn't properly evolve compact objects (and thus no kicks)
-![[Pasted image 20260604160618.png]]
+![[Pasted image 20260604160107.png# normal]]
+Doesn't properly evolve [[compact object]] (and thus no kicks)
+![[Pasted image 20260604160618.png# screen]]
 - Increasing kick velocity shortens duration
 - Increasing mass reduces shape deformation and increases duration
 - If you change the relative parallax (i.e. distance from lens and source) moves up and to the right 

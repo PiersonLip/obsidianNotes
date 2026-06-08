@@ -5,7 +5,7 @@ tags:
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
-- [ ] Look into FIRE, specifically milkway models 
+- [ ] Look into FIRE, specifically [[milkyway]] models 
 - [ ] Gaia BH1-2 paper.
 - [ ] Lecture
 ## Questions 
@@ -13,11 +13,17 @@ tags:
 - Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 
 	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
 - what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do that? 
-	- A hacky method would just be running posy grids for just a number of clusters 
 
+## [[FIRE]]
+---
+### Which fire model and why?
+---
+#### Later Ionization
+- Provides acceleration information, which may be very useful for figuring out final positions 
 ## Ideas
 ---
-- Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate  
+- Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate
+- Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (or some other interval), then assume the total number of stars that would be formed in each grid, pass to posydon, calculate trajectories, etc
 # Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
 ---
 With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.

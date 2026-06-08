@@ -43,8 +43,9 @@ Doesn't properly evolve [[compact object]] (and thus no kicks)
 - Increasing mass reduces shape deformation and increases duration
 - If you change the relative parallax (i.e. distance from lens and source) moves up and to the right 
 
-## [[Roman]]
+# [[Roman]]
 ---
 @27:00
 ![[Pasted image 20260608163133.png# screen|800]]
 
+![[Pasted image 20260608163601.png# screen |800]]

@@ -44,6 +44,9 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 **Pros**
 - By far the most accurate method of doing this, both metallicity and position wise
 - Doesn't require a large quantity of POSY sims, instead can use "master" sims 
+- Very very very parrelizable 
+**Cons**
+- Hell of a lot of star particles...
 
 ![[Drawing 2026-06-08 14.46.56.excalidraw|600]]
 ## Fitting Galore

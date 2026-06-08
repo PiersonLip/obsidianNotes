@@ -14,6 +14,8 @@ tags:
 	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
 - what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do that? 
 
+
+# Pipeline Possibilities 
 ## [[FIRE]]
 ---
 ### Which fire model and why?

@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "220e5e2d3d27e65c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-08 12.30.18.excalidraw"
+            }
+          },
+          {
             "id": "7bb0089652dc7ff9",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
+              "title": "Outgoing links from Drawing 2026-06-08 12.30.18.excalidraw"
             }
           },
           {
@@ -253,7 +265,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
+                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -291,6 +303,7 @@
     "hiddenItems": {
       "homepage:Open homepage": false,
       "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "keep-the-rhythm:Keep the Rhythm": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -298,7 +311,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
@@ -306,8 +318,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "dcd6599434af4d06",
+  "active": "220e5e2d3d27e65c",
   "lastOpenFiles": [
+    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+    "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Wikipedia/Rossiter–McLaughlin effect.md",
@@ -339,7 +353,6 @@
     "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
     "Excalidraw",
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
-    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "W24 Ilia Meeting.md",
     "Pasted image 20260604155322.png",
     "Obsidian.md",

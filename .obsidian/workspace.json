@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
+              "title": "Outgoing links from FIREtoPOSYPipeline.excalidraw"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
+                "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -350,15 +350,15 @@
         "y": 0,
         "width": 701,
         "height": 836,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "220e5e2d3d27e65c",
+  "active": "47c15806f86178ab",
   "lastOpenFiles": [
-    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
     "Pasted Image 20260608125938_411.png",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Low mass stellar evolution.md",

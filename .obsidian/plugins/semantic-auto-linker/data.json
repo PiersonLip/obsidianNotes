@@ -7247,7 +7247,7 @@
       "path": "W24 Ilia Meeting.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780948744166,
+      "mtime": 1780948935722,
       "sourceText": "W24 Ilia Meeting\nGeneral Questions --- - Is there a space I could work at ciera? I imagine the skylounge is gonna get swamped with reach kids - Commuter pass? - Could I attend some of the colloquium meetings? - Cool if I sat in on the group meetings? - Also, very curious about attending more c...",
       "summary": "General Questions --- - Is there a space I could work at ciera? I imagine the skylounge is gonna get swamped with reach kids - Commuter pass? - Could I attend some of the colloquium meetings? - Cool if I sat in on the group meetings? - Also, very curious about attending more c...",
       "embedding": [
@@ -7636,7 +7636,7 @@
         0,
         0
       ],
-      "updatedAt": 1780948746339
+      "updatedAt": 1780948937360
     },
     "Untitled.md": {
       "path": "Untitled.md",
@@ -61362,7 +61362,7 @@
       "path": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780948442821,
+      "mtime": 1780949018118,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nIdeas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "summary": "Ideas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "embedding": [
@@ -61751,7 +61751,7 @@
         0,
         0
       ],
-      "updatedAt": 1780948443982
+      "updatedAt": 1780949019997
     },
     "FIRE.md": {
       "path": "FIRE.md",

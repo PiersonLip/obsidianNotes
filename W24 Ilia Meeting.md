@@ -10,5 +10,5 @@
 # FIRE Introduction
 ---
 - Uses massive N-body particle simulations 
-- Publicly available data is saved in snapshots, where the snapshots go from Z=99 to Z=0, with 
+- Publicly available data is saved in snapshots, where the snapshots go from Z=99 to Z=0, with snapshot intervals $\lesssim 25\text{Myr}$ 
 See [[POSYDON + FIRE BH Prediction Pipeline]]

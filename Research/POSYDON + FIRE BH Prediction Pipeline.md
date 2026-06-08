@@ -15,7 +15,11 @@ tags:
 - what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do that? 
 
 
-# Pipeline Possibilities 
+# Pipeline Possibilities
+---
+## POSYDON to FIRE 
+---
+![[POSYtoFIREPipleine.excalidraw# screen]]
 ## [[FIRE]]
 ---
 ### Which fire model and why?

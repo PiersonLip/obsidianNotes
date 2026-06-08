@@ -55,10 +55,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md"
+                "file": "Excalidraw/POSYtoFIREPipleine.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-08 12.30.18.excalidraw"
+              "title": "POSYtoFIREPipleine.excalidraw"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md",
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-06-08 12.30.18.excalidraw"
+              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md"
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -318,10 +318,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "220e5e2d3d27e65c",
+  "active": "dcd6599434af4d06",
   "lastOpenFiles": [
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-    "Excalidraw/Drawing 2026-06-08 12.30.18.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Wikipedia/Rossiter–McLaughlin effect.md",

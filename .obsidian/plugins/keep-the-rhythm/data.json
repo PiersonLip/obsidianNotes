@@ -899,7 +899,13 @@
         "filePath": "conflict-files-obsidian-git.md",
         "wordCountStart": 96,
         "charCountStart": 682,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": -96,
+            "c": -682
+          }
+        ],
         "id": 52
       }
     ],

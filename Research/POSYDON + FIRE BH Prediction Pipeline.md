@@ -42,7 +42,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 - Each time a new particle is made/found in the fire sim (or, more likely, a sample of said new particles) assign it a comparable number of stars from a posy sim
 - Then, move a snapshot forward, if in that time forward from the snapshot (most likely 15Myr), one of the stars assigned population has gone SNe into a BH figure out the middle point in the particle between the two simulations, save said x,y,v, and use that for later BH trajectory calculations
 
-
+![[Drawing 2026-06-08 14.46.56.excalidraw|1000]]
 ## Fitting Galore
 ---
 Take a POSYDON grid, then fit it onto a FIRE simulation at various sample times based on the formation rate at said time

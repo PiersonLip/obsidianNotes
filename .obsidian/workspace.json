@@ -8,75 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05e93e920f2675bd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025)"
-            }
-          },
-          {
-            "id": "19aff6575fc0f16c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wikipedia/Rossiter–McLaughlin effect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rossiter–McLaughlin effect"
-            }
-          },
-          {
-            "id": "220e5e2d3d27e65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POSYDON + FIRE BH Prediction Pipeline"
-            }
-          },
-          {
-            "id": "e86858231a9a0057",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/POSYtoFIREPipleine.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "POSYtoFIREPipleine.excalidraw"
-            }
-          },
-          {
-            "id": "7bb0089652dc7ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Low mass stellar evolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Low mass stellar evolution"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FIREtoPOSYPipeline.excalidraw"
+              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
             }
           },
           {
@@ -265,7 +210,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md"
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -318,55 +263,23 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "floating": {
-    "id": "007e2c6359773a7a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "73972c93d0eefd83",
-        "type": "window",
-        "children": [
-          {
-            "id": "d0e08a7cff409fc5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47c15806f86178ab",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "FIREtoPOSYPipeline.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 701,
-        "height": 836,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "47c15806f86178ab",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
-    "Pasted Image 20260608125938_411.png",
-    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "FIRE.md",
+    "Wikipedia/Rossiter–McLaughlin effect.md",
+    "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Low mass stellar evolution.md",
+    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 13.38.57.excalidraw.md",
+    "LatteREADME.md",
+    "Glossary/HDRM.md",
+    "Glossary/LRDM.md",
+    "Pasted Image 20260608125938_411.png",
     "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
-    "Wikipedia/Rossiter–McLaughlin effect.md",
-    "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Class Notes/Astro210/The planets.md",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
@@ -389,11 +302,7 @@
     "Bases/Astro210.base",
     "Dashboard/Home.md",
     "General Notes/RLO.md",
-    "Little Red Dots.md",
-    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
     "Excalidraw",
-    "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
-    "W24 Ilia Meeting.md",
     "Pasted image 20260604155322.png",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",

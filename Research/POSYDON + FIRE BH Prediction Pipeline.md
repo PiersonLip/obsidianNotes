@@ -1,6 +1,8 @@
 ---
 tags:
   - astro-notes/research
+  - POSYDON_FireProject
+custom-width: 44
 ---
 # Things to work on/look into 
 --- 
@@ -12,21 +14,41 @@ tags:
 ---
 - Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 
 	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
-- what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do that? 
-
-
+- what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do we account that? 
 # Pipeline Possibilities
 ---
 ## POSYDON to FIRE 
 ---
+Take a POSYDON grid, then fit it onto a FIRE simulation at various sample times based on the formation rate at said time
+Probably just wanna make a couple very large simulations at various metalicities and map those onto it as time
+
 **Pros**
-- Massively simplifies the POSYDON simulation overhead. Can just make one large posy sim, then fit that to a preexisiting FIRE sim
+- Massively simplifies the POSYDON simulation overhead. Can just make one large posy sim, then fit that to a preexisting FIRE sim
 Cons
 - Metallicitiy woes, which, as we see in [@olejak2020], is very important for the masses (and formation rates) of the BHs
-![[POSYtoFIREPipleine.excalidraw|800]]
+![[POSYtoFIREPipleine.excalidraw|1600]]
 ## FIRE to POSYDON
 ---
-![[FIREtoPOSYPipeline.excalidraw|800]]
+"4D Grid Method"
+
+Take the FIRE simulation, and each snapshot timestep ($\sim 15 \text{Myr}$) [@rodriguez2023] split the entire snapshot into a 3d grid, then take each tile (and its properties) of said grid and pass that to a posy simulation, which then pass its BHs to the trajectory script.   
+### **Pros**
+- Can account for region metalicities and change of metalicity over time 
+- Most likely would have a finer resolution? But hard to really know without trying
+**Cons**
+- Much more computationally intensive (although it is VERY parrelizable, and the trajectory computation would probably be massively aided by gpu compute)
+- A lot more CS overhead in terms of dev time
+- Literally 10s of thousands of POSYDON simulations, which is not what POSY is meant (or optimized) for...
+![[FIREtoPOSYPipeline.excalidraw|1600]]
+### **"Simplified" Model** 
+---
+One grid per snapshot, then map said grid onto said snapshot.
+**Pros**
+- Accounts for metallicity (albeit not very region dependent)
+- Resolution tweakable with two major parameters (posydon grid size per snapshot)
+**Cons** 
+- Still a lot of POSY grids (max 601 :/), but, very manageable
+![[Drawing 2026-06-08 13.38.57.excalidraw|1600]]
 ## [[FIRE]]
 ---
 ### Which fire model and why?

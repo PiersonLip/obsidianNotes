@@ -17,5 +17,6 @@
   "periodic-notes",
   "templater-obsidian",
   "automatic-linker",
-  "semantic-auto-linker"
+  "semantic-auto-linker",
+  "custom-note-width"
 ]

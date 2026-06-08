@@ -30,5 +30,6 @@
     "editor:configure-toolbar",
     "editor:insert-horizontal-rule"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }

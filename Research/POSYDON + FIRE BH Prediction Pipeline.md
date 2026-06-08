@@ -19,7 +19,7 @@ tags:
 ---
 ## POSYDON to FIRE 
 ---
-![[POSYtoFIREPipleine.excalidraw# screen]]
+![[POSYtoFIREPipleine.excalidraw]]
 ## [[FIRE]]
 ---
 ### Which fire model and why?

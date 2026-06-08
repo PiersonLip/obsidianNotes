@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "dcd6599434af4d06",
+            "id": "220e5e2d3d27e65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,18 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "POSYDON + FIRE BH Prediction Pipeline"
-            }
-          },
-          {
-            "id": "220e5e2d3d27e65c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/POSYtoFIREPipleine.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "POSYtoFIREPipleine.excalidraw"
             }
           },
           {
@@ -318,7 +306,7 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "dcd6599434af4d06",
+  "active": "220e5e2d3d27e65c",
   "lastOpenFiles": [
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",

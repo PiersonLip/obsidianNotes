@@ -61362,7 +61362,7 @@
       "path": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780940411181,
+      "mtime": 1780940419010,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nThings to work on/look into --- - [ ] Familiarize myself with Roman, how it works, data format, etc etc - [ ] Look into FIRE, specifically milkyway models - [ ] Gaia BH1-2 paper. - [ ] Lecture Questions --- - Do we wanna have a large general simulation like that of previous pr...",
       "summary": "Things to work on/look into --- - [ ] Familiarize myself with Roman, how it works, data format, etc etc - [ ] Look into FIRE, specifically milkyway models - [ ] Gaia BH1-2 paper. - [ ] Lecture Questions --- - Do we wanna have a large general simulation like that of previous pr...",
       "embedding": [
@@ -61751,7 +61751,7 @@
         0,
         0
       ],
-      "updatedAt": 1780940414538
+      "updatedAt": 1780940442587
     }
   },
   "vaultAnalysisSnapshot": null,

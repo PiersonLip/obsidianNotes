@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md",
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-06-08 12.50.39.excalidraw"
+              "title": "Outgoing links from POSYDON + FIRE BH Prediction Pipeline"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md"
+                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -336,10 +336,10 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md"
+                    "file": "Excalidraw/FIREtoPOSYPipeline.excalidraw.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-06-08 12.50.39.excalidraw"
+                  "title": "FIREtoPOSYPipeline.excalidraw"
                 }
               }
             ]
@@ -350,16 +350,16 @@
         "y": 0,
         "width": 701,
         "height": 836,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "47c15806f86178ab",
+  "active": "220e5e2d3d27e65c",
   "lastOpenFiles": [
-    "Pasted Image 20260608125938_411.png",
+    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-    "Excalidraw/Drawing 2026-06-08 12.50.39.excalidraw.md",
+    "Pasted Image 20260608125938_411.png",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Low mass stellar evolution.md",
     "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
@@ -402,7 +402,6 @@
     "Pasted image 20260604154320.png",
     "Paper Notes/Video - Jessica Lu (UCB",
     "Dashboard/_cache/apod-2026-06-05.json",
-    "personRef.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

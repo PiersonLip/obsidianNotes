@@ -26,7 +26,7 @@ Cons
 ![[POSYtoFIREPipleine.excalidraw|800]]
 ## FIRE to POSYDON
 ---
-
+![[FIREtoPOSYPipeline.excalidraw]]
 ## [[FIRE]]
 ---
 ### Which fire model and why?

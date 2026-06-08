@@ -2056,14 +2056,14 @@
         "changes": [
           {
             "timeKey": "14:55",
-            "w": 2,
-            "c": 25
+            "w": 25,
+            "c": 166
           }
         ],
         "id": 117
       }
     ],
-    "wholeVaultWordCount": 20747,
-    "wholeVaultCharCount": 144375
+    "wholeVaultWordCount": 20770,
+    "wholeVaultCharCount": 144516
   }
 }

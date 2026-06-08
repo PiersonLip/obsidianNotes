@@ -2113,12 +2113,31 @@
             "timeKey": "15:45",
             "w": 60,
             "c": 334
+          },
+          {
+            "timeKey": "16:30",
+            "w": 28,
+            "c": 132
           }
         ],
         "id": 117
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 210,
+        "charCountStart": 1522,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 20,
+            "c": 97
+          }
+        ],
+        "id": 118
       }
     ],
-    "wholeVaultWordCount": 21004,
-    "wholeVaultCharCount": 146001
+    "wholeVaultWordCount": 21052,
+    "wholeVaultCharCount": 146230
   }
 }

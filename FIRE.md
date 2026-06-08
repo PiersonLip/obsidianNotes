@@ -8,7 +8,8 @@ tags:
 Simulation suite for accurate simulation of galaxies of varying properties and constraints 
 
 
-# Data **Format** (see [[LatteREADME]])
+
+# Data **Format** (see [[LatteREADME]]) 
 ---
 Particle based results, with parsec resolutions
 
@@ -47,3 +48,5 @@ Note that some models (ex. later re-ionization) also have `acceleration`
 'form.scalefactor' : # expansion scale-factor when the star particle formed [0 to 1]
 'age' : # current age (t_now - t_form) [Gyr]
 ```
+
+##  [Data example and basic Tutorial](https://girder.hub.yt/#item/5b4e5966323d12000104c4bb) 

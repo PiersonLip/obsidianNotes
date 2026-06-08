@@ -61362,7 +61362,7 @@
       "path": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780950899485,
+      "mtime": 1780952717835,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nIdeas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "summary": "Ideas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "embedding": [
@@ -61751,13 +61751,13 @@
         0,
         0
       ],
-      "updatedAt": 1780950900075
+      "updatedAt": 1780952719361
     },
     "FIRE.md": {
       "path": "FIRE.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780948546510,
+      "mtime": 1780952815523,
       "sourceText": "FIRE\n**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- Simulation suite for accurate simulation of galaxies of varying properties and constraints Data **Format** (see LatteREADME) --- Particle based results, with parsec resolutions Has particles of type gas, star, HDR...",
       "summary": "**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- Simulation suite for accurate simulation of galaxies of varying properties and constraints Data **Format** (see LatteREADME) --- Particle based results, with parsec resolutions Has particles of type gas, star, HDR...",
       "embedding": [
@@ -62146,7 +62146,7 @@
         0,
         -0.13570083349977938
       ],
-      "updatedAt": 1780950696372
+      "updatedAt": 1780952819093
     },
     "Glossary/HDRM.md": {
       "path": "Glossary/HDRM.md",

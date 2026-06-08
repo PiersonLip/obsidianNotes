@@ -10,7 +10,7 @@ Simulation suite for accurate simulation of galaxies of varying properties and c
 
 # Data **Format** (see [[LatteREADME]])
 ---
-Particle based results, with parsec resolutions 
+Particle based results, with parsec resolutions
 
 Has particles of type gas, star, [[HDRM]], [[LRDM]] with properties 
 ```python

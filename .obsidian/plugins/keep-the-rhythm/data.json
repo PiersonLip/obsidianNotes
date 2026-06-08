@@ -1990,8 +1990,8 @@
           },
           {
             "timeKey": "14:50",
-            "w": 41,
-            "c": 249
+            "w": 43,
+            "c": 260
           }
         ],
         "id": 111
@@ -2015,7 +2015,13 @@
         "filePath": "FIRE.md",
         "wordCountStart": 239,
         "charCountStart": 1778,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": -1
+          }
+        ],
         "id": 113
       },
       {
@@ -2041,9 +2047,23 @@
         "charCountStart": 566,
         "changes": [],
         "id": 116
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 62,
+        "charCountStart": 393,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 117
       }
     ],
-    "wholeVaultWordCount": 20743,
-    "wholeVaultCharCount": 144340
+    "wholeVaultWordCount": 20747,
+    "wholeVaultCharCount": 144375
   }
 }

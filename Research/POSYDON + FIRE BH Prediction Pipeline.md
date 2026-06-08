@@ -40,7 +40,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 ## POSYDON Particle Fitting
 ---
 - Each time a new particle is made/found in the fire sim (or, more likely, a sample of said new particles) assign it a comparable number of stars from a posy sim
-- Then, move a snapshot forward, if in that time forward from the snapshot (most likely 15Myr), one of the stars assigned population has gone SNe into a BH figure out the middle point in the particle between the two simulations, save said x,y,v, and use that for later BH trajectory calculations
+- Then, move a snapshot forward, if in that time forward from the snapshot (most likely 15Myr), one of the stars assigned population has gone SNe into a BH figure out the middle point in the particle between the two snapshot, save said mean x,y,v variables and use that for later BH trajectory calculations
 **Pros**
 - By far the most accurate method of doing this, both metallicity and position wise
 - Doesn't require a large quantity of POSY sims, instead can use "master" sims 

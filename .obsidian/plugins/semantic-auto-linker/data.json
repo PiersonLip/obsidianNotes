@@ -7247,7 +7247,7 @@
       "path": "W24 Ilia Meeting.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780939640916,
+      "mtime": 1780948569760,
       "sourceText": "W24 Ilia Meeting\nGeneral Questions --- - Is there a space I could work at ciera? I imagine the skylounge is gonna get swamped with reach kids - Commuter pass? - Could I attend some of the colloquium meetings? - Cool if I sat in on the group meetings? - Also, very curious about attending more c...",
       "summary": "General Questions --- - Is there a space I could work at ciera? I imagine the skylounge is gonna get swamped with reach kids - Commuter pass? - Could I attend some of the colloquium meetings? - Cool if I sat in on the group meetings? - Also, very curious about attending more c...",
       "embedding": [
@@ -7636,7 +7636,7 @@
         0,
         0
       ],
-      "updatedAt": 1780945690087
+      "updatedAt": 1780948571707
     },
     "Untitled.md": {
       "path": "Untitled.md",
@@ -61362,7 +61362,7 @@
       "path": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780948359274,
+      "mtime": 1780948442821,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nIdeas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "summary": "Ideas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "embedding": [
@@ -61751,13 +61751,13 @@
         0,
         0
       ],
-      "updatedAt": 1780948363422
+      "updatedAt": 1780948443982
     },
     "FIRE.md": {
       "path": "FIRE.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1780946120710,
+      "mtime": 1780948546510,
       "sourceText": "FIRE\n**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- Simulation suite for accurate simulation of galaxies of varying properties and constraints Data **Format** (see LatteREADME) --- Particle based results, with parsec resolutions Has particles of type gas, star, HDR...",
       "summary": "**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- Simulation suite for accurate simulation of galaxies of varying properties and constraints Data **Format** (see LatteREADME) --- Particle based results, with parsec resolutions Has particles of type gas, star, HDR...",
       "embedding": [
@@ -62146,7 +62146,7 @@
         0,
         -0.13570083349977938
       ],
-      "updatedAt": 1780946625616
+      "updatedAt": 1780948547212
     },
     "Glossary/HDRM.md": {
       "path": "Glossary/HDRM.md",

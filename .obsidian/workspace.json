@@ -237,12 +237,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +262,7 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebe4b0aee4cca989",
   "lastOpenFiles": [
     "W24 Ilia Meeting.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",

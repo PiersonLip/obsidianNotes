@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "e86858231a9a0057",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/POSYtoFIREPipleine.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "POSYtoFIREPipleine.excalidraw"
+            }
+          },
+          {
             "id": "7bb0089652dc7ff9",
             "type": "leaf",
             "state": {
@@ -307,10 +319,10 @@
   },
   "active": "220e5e2d3d27e65c",
   "lastOpenFiles": [
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Low mass stellar evolution.md",
     "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
-    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Wikipedia/Rossiter–McLaughlin effect.md",

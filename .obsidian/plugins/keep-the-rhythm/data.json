@@ -1980,8 +1980,13 @@
           },
           {
             "timeKey": "14:40",
-            "w": 15,
-            "c": 108
+            "w": 43,
+            "c": 260
+          },
+          {
+            "timeKey": "14:45",
+            "w": 11,
+            "c": 57
           }
         ],
         "id": 111
@@ -2025,7 +2030,7 @@
         "id": 115
       }
     ],
-    "wholeVaultWordCount": 20621,
-    "wholeVaultCharCount": 143643
+    "wholeVaultWordCount": 20661,
+    "wholeVaultCharCount": 143856
   }
 }

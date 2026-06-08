@@ -2000,8 +2000,8 @@
           },
           {
             "timeKey": "15:05",
-            "w": 1,
-            "c": 1
+            "w": -1,
+            "c": -16
           }
         ],
         "id": 111
@@ -2083,7 +2083,7 @@
         "id": 117
       }
     ],
-    "wholeVaultWordCount": 20844,
-    "wholeVaultCharCount": 144970
+    "wholeVaultWordCount": 20842,
+    "wholeVaultCharCount": 144953
   }
 }

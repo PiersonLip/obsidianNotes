@@ -2,7 +2,6 @@
 tags:
   - astro-notes/research
   - POSYDON_FireProject
-custom-width: 78
 ---
 ## Ideas
 ---

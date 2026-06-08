@@ -37,6 +37,11 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 ---
 ## POSYDON to FIRE 
 ---
+## POSYDON Particle Fitting
+---
+Each time a new particle is made/found in the 
+## Fitting Galore
+---
 Take a POSYDON grid, then fit it onto a FIRE simulation at various sample times based on the formation rate at said time
 Probably just wanna make a couple very large simulations at various metalicities and map those onto it as time
 

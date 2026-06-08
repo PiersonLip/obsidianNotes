@@ -22,3 +22,12 @@ See [[POSYDON + FIRE BH Prediction Pipeline]]
 - [[POSYDON + FIRE BH Prediction Pipeline#**"4D Grid Method"**]]
 - [[POSYDON + FIRE BH Prediction Pipeline#**"Simplified" Model**]]
 - [[POSYDON + FIRE BH Prediction Pipeline#POSYDON Particle Fitting]]
+
+## Project Questions
+---
+- How fine do we want to/can we be with our results? 
+- Final result goals/usability
+	- Plug in the properties of a BH from a gaia data release (or Roman) an be able to do a nearest neighbor with its variables to the synthetic catalog to then find how and where said BH evolved from 
+	- BH density mapping[^1]
+
+[^1]: I imagine this would be massively underwhelming and just sorta show a density matching that of star formation

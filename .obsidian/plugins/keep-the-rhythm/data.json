@@ -958,7 +958,12 @@
           {
             "timeKey": "23:35",
             "w": 0,
-            "c": 0
+            "c": 1
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 56
@@ -976,6 +981,14 @@
           }
         ],
         "id": 57
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 237,
+        "charCountStart": 1667,
+        "changes": [],
+        "id": 58
       }
     ],
     "wholeVaultWordCount": 18409,

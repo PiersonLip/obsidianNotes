@@ -935,11 +935,39 @@
         "filePath": "conflict-files-obsidian-git.md",
         "wordCountStart": 103,
         "charCountStart": 740,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": -103,
+            "c": -740
+          }
+        ],
         "id": 55
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 294,
+        "charCountStart": 1841,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 57
       }
     ],
     "wholeVaultWordCount": 18409,
-    "wholeVaultCharCount": 128566
+    "wholeVaultCharCount": 128567
   }
 }

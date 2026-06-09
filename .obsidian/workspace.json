@@ -233,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "semantic-auto-linker:Semantic auto-linker": false,
       "homepage:Open homepage": false,
       "notebook-navigator:Notebook Navigator": false,
       "graph:Open graph view": false,
@@ -251,8 +252,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard/Home.md",
+    "General Notes/GW.md",
+    "conflict-files-obsidian-git.md",
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "W24 Ilia Meeting.md",
     "Pasted image 20260606210558.png",
@@ -296,7 +298,6 @@
     "Dashboard/_cache/apod-2026-06-01.json",
     "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
     "10MillPop.md",
-    "General Notes/pauli-exclusion-principle.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

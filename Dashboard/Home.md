@@ -6,6 +6,7 @@ tags:
 cssclasses:
   - dashboard-home
 properties: false
+custom-width: 93
 ---
  
 ```dataviewjs

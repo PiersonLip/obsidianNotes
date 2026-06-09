@@ -14,8 +14,8 @@ Important Properties
 - Position 
 - Velocity 
 **Almost all isolated [[black hole|BHs]] form in higher order magnitude systems  (i.e. binaries, tertiary, quads, etc etc)**
-![[Pasted image 20260604154320.png# screen]]
-![[Pasted image 20260604154733.png]]
+![[Pasted image 20260604154320.png# screen|800]]
+![[Pasted image 20260604154733.png|800]]
 
 ## How do we find free floating BHs?
 ---
@@ -25,7 +25,7 @@ Important Properties
 - Heavily dependent on natal kick velocity 
 Best to look towards regions where the star density is the highest, *but* where you can still resolve individual stars, namely the galactic bulge
 
-![[Scott_Gaudi__single_lens_animation.gif]]
+![[Scott_Gaudi__single_lens_animation.gif|1000]]
 Green is the Einstein radius, as given by...
 $$
 \theta_{E} = \sqrt{ kM\pi_{rel} }
@@ -36,9 +36,16 @@ However, cant glean massive amount of info from said events, as you only get dur
 ### PopSYsCLE
 ---
 Simulate a MW and "observe" lensing
-![[Pasted image 20260604160107.png# normal]]
+![[Pasted image 20260604160107.png# normal|800]]
 Doesn't properly evolve [[compact object]] (and thus no kicks)
-![[Pasted image 20260604160618.png# screen]]
+![[Pasted image 20260604160618.png# screen|800]]
 - Increasing kick velocity shortens duration
 - Increasing mass reduces shape deformation and increases duration
 - If you change the relative parallax (i.e. distance from lens and source) moves up and to the right 
+
+# [[Roman]]
+---
+@27:00
+![[Pasted image 20260608163133.png# screen|800]]
+
+![[Pasted image 20260608163601.png# screen |800]]

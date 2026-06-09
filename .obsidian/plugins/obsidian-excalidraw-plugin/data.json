@@ -46,9 +46,9 @@
   "desktopUIMode": "tray",
   "tabletUIMode": "compact",
   "phoneUIMode": "mobile",
-  "iframeMatchExcalidrawTheme": true,
+  "iframeMatchExcalidrawTheme": false,
   "matchTheme": false,
-  "matchThemeAlways": false,
+  "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
@@ -910,7 +910,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

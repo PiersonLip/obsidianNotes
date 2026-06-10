@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON + FIRE BH Prediction Pipeline"
+              "title": "Home"
             }
           }
         ]
@@ -262,12 +262,12 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "ebe4b0aee4cca989",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "W24 Ilia Meeting.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Pasted image 20260608163601.png",
-    "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
     "FIRE.md",
     "Pasted image 20260608163133.png",

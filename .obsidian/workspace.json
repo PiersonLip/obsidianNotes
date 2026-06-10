@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W24 Ilia Meeting.md",
+                "file": "Gizmo Read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W24 Ilia Meeting"
+              "title": "Gizmo Read"
             }
           }
         ]
@@ -265,12 +265,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "W24 Ilia Meeting.md",
+    "Gizmo Read.md",
     "Dashboard/Home.md",
     "conflict-files-obsidian-git.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Dashboard/_cache/apod-2026-06-10.json",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
-    "W24 Ilia Meeting.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Pasted image 20260608163601.png",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
@@ -300,7 +301,6 @@
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
     "Physics of Binary Star Evolution/Evolution of single stars.md",
     "Bases/Glossary.base",
-    "Common Envelope.md",
     "Bases/Physics of Binary Star Evolution.base",
     "Bases/Papers.base",
     "Bases/Class Notes.base",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "W24 Ilia Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "W24 Ilia Meeting"
             }
           }
         ]
@@ -265,6 +265,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "W24 Ilia Meeting.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
@@ -274,7 +275,6 @@
     "Pasted image 20260610140250.png",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
     "Pasted image 20260608163601.png",
-    "Dashboard/Home.md",
     "conflict-files-obsidian-git.md",
     "Dashboard/_cache/apod-2026-06-10.json",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",

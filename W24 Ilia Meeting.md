@@ -17,6 +17,7 @@ tags:
 ---
 - Uses massive N-body particle simulations 
 - Publicly available data is saved in snapshots, where the snapshots go from Z=99 to Z=0, with snapshot intervals $\lesssim 25\text{Myr}$ 
+![[Pasted image 20260610140250.png# screen# normal]]
 ### Caveats 
 ---
 - While they have "milkyway-like" sims, these sims don't end looking exactly like our MW, instead they're just similar masses, metalicities, etc [^1]
@@ -33,9 +34,10 @@ tags:
 ## Project Questions
 ---
 - How fine do we want to/can we be with our results? 
+	- Most of this will come with time (generally based off of sub-sampling rate), but initial model choice is a big consideration.
 - Final result goals/usability
-	- Plug in the properties of a BH from a gaia data release (or Roman) an be able to do a nearest neighbor with its variables to the synthetic catalog to then find how and where said BH evolved from 
+	- Plug in the properties of a BH from a gaia data release (or Roman) an be able to do a nearest neighbor with its variables to the synthetic catalog to then find how and where said BH evolved from
 	- BH density mapping[^1]
 - When would we want/need this to be done by? With Roman launching in august I feel like we don't have a lot of time 
 
-[^1]: I imagine this would be massively underwhelming and just sorta show a density matching that of star formation
+[^1]: I imagine this would be underwhelming and just sorta show a density matching that of star formation, but it'll be easy enough

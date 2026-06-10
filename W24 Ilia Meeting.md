@@ -1,6 +1,7 @@
 # General Questions 
 ---
 - Is there a space I could work at ciera? I imagine the sky lounge is gonna get swamped with reach kids 
+	- Desk? 👀
 - Commuter pass?
 - Could I attend some of the colloquium meetings?
 - Cool if I sat in on the group meetings?

@@ -43,11 +43,11 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 **Pros**
 - By far the most accurate method of doing this, both metallicity and position wise
 - Doesn't require a large quantity of POSY sims, instead can use "master" sims 
-- Very very very parrelizable 
+- Very very very parallelizable  
 **Cons**
 - Hell of a lot of star particles...
 	- Could use some type of binning method to low the resolution of the FIRE sim (or only select 1% of them)
-		- Gizmo Read has subsampling function already :)
+		- Gizmo Read has sub-sampling function already :)
 	- 
 - The middle "mean" interpretation for where the BH SNe happened may be a little too inaccurate?
 ![[Drawing 2026-06-08 14.35.12.excalidraw|16000]]

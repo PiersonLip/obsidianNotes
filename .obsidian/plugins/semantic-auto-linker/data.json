@@ -63337,7 +63337,7 @@
       "path": "POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781117699719,
+      "mtime": 1781117852956,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nIdeas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "summary": "Ideas --- - Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate - Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (...",
       "embedding": [
@@ -63726,7 +63726,7 @@
         0,
         0
       ],
-      "updatedAt": 1781117700306
+      "updatedAt": 1781117854357
     }
   },
   "vaultAnalysisSnapshot": null,

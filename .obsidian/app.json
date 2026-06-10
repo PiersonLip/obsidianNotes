@@ -31,6 +31,6 @@
     "editor:insert-horizontal-rule"
   ],
   "promptDelete": false,
-  "readableLineLength": true,
-  "showLineNumber": true
+  "readableLineLength": false,
+  "showLineNumber": false
 }

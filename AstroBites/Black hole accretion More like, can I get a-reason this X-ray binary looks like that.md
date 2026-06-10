@@ -12,6 +12,7 @@ Impossible to fit all of the observed properties of [[X-ray Binary|XrBs]] to sim
 ---
 Why does the material orbiting around a compact object fall inwards?
 - originally proposed to be turbulance, but that turns out to not to be the full story
-- 
+- caused by [[magnetorotational instability]] 
+
 [Astrobites post](https://astrobites.org/2026/06/10/black-hole-accretion/)
 

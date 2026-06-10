@@ -49907,7 +49907,7 @@
       "path": "Dashboard/Home.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781115107900,
+      "mtime": 1781125116990,
       "sourceText": "Home",
       "summary": "",
       "embedding": [
@@ -50296,7 +50296,7 @@
         0,
         0
       ],
-      "updatedAt": 1781125116819
+      "updatedAt": 1781127074970
     },
     "Confidence Bands.md": {
       "path": "Confidence Bands.md",
@@ -63337,7 +63337,7 @@
       "path": "POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781125836548,
+      "mtime": 1781125839698,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nAbstract --- With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of natal kicks, where they came from) as promptly as possible with regards to the data releases is im...",
       "summary": "Abstract --- With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of natal kicks, where they came from) as promptly as possible with regards to the data releases is im...",
       "embedding": [
@@ -63726,7 +63726,7 @@
         0,
         0
       ],
-      "updatedAt": 1781125839343
+      "updatedAt": 1781125840413
     }
   },
   "vaultAnalysisSnapshot": null,

@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125,
-    "collapsed": true
+    "width": 542.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -262,10 +261,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "ebe4b0aee4cca989",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
     "conflict-files-obsidian-git.md",
+    "Dashboard/Home.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Dashboard/_cache/apod-2026-06-10.json",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",

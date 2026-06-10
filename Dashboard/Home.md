@@ -8,7 +8,6 @@ cssclasses:
 properties: false
 custom-width: 93
 ---
- 
 ```dataviewjs
 (async () => {
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));

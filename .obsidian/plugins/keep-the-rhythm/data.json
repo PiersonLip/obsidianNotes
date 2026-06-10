@@ -2170,7 +2170,13 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 199,
         "charCountStart": 1760,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": -2
+          }
+        ],
         "id": 120
       },
       {
@@ -2189,6 +2195,6 @@
       }
     ],
     "wholeVaultWordCount": 21065,
-    "wholeVaultCharCount": 146329
+    "wholeVaultCharCount": 146327
   }
 }

@@ -16,6 +16,7 @@ tags:
 # FIRE Introduction
 ---
 - Uses massive N-body particle simulations 
+	- Calculated using hydrodynamical methods from gizmo and also gravitational 
 - Publicly available data is saved in snapshots, where the snapshots go from Z=99 to Z=0, with snapshot intervals $\lesssim 25\text{Myr}$ 
 ![[Pasted image 20260610140250.png# screen# normal]]
 ### Caveats 

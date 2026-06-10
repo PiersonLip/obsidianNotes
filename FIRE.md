@@ -5,8 +5,9 @@ tags:
 ---
 # **FIRE** (Feedback In Realistic Environments) [@wetzel2025]
 ---
-Simulation suite for accurate simulation of galaxies of varying properties and constraints 
-
+- Simulation suite for accurate simulation of galaxies of varying properties and constraints 
+- Simulates millions of particles using both gravitational and hydro-dynamical methods (and sometimes more (ex. later reionzation, MHD, etc))
+	- Uses [[GIZMO]], which is a hydro-dynamical suite
 
 
 # Data **Format** (see [[LatteREADME]]) 

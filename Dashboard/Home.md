@@ -54,3 +54,4 @@ for (const widget of registry.widgets) {
 })();
 ```
 
+

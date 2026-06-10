@@ -2359,11 +2359,17 @@
         "filePath": "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
         "wordCountStart": 39,
         "charCountStart": 316,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 59,
+            "c": 355
+          }
+        ],
         "id": 129
       }
     ],
-    "wholeVaultWordCount": 21082,
-    "wholeVaultCharCount": 146698
+    "wholeVaultWordCount": 21141,
+    "wholeVaultCharCount": 147053
   }
 }

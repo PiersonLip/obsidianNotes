@@ -16,8 +16,7 @@ See [[POSYDON + FIRE BH Prediction Pipeline]]
 ### Caveats 
 ---
 - While they have "milkyway-like" sims, these sims don't end looking exactly like our MW, instead they're just similar masses, metalicities, etc [^1]
-- I think previous snapshots don't actually have star positions?...
-[^1]: I imagine the statistical quantity of how many stars we'll be simulating and fitting will make this difference negligible, but still very important detail
+[^1]: I imagine the statistical quantity of how many stars we'll be simulating and fitting will make this difference small, but still very important detail
 
 ## Pipeline ideas
 ---
@@ -33,6 +32,6 @@ See [[POSYDON + FIRE BH Prediction Pipeline]]
 - Final result goals/usability
 	- Plug in the properties of a BH from a gaia data release (or Roman) an be able to do a nearest neighbor with its variables to the synthetic catalog to then find how and where said BH evolved from 
 	- BH density mapping[^1]
-- When would we want/need this to be done and published by? With Roman launching in august I feel like we don't have a lot of time 
+- When would we want/need this to be done by? With Roman launching in august I feel like we don't have a lot of time 
 
 [^1]: I imagine this would be massively underwhelming and just sorta show a density matching that of star formation

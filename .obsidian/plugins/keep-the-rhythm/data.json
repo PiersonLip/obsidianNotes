@@ -2156,7 +2156,13 @@
         "filePath": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
         "wordCountStart": 897,
         "charCountStart": 5493,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": -897,
+            "c": -5493
+          }
+        ],
         "id": 119
       },
       {
@@ -2166,6 +2172,20 @@
         "charCountStart": 1760,
         "changes": [],
         "id": 120
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": -96,
+            "c": -682
+          }
+        ],
+        "id": 121
       }
     ],
     "wholeVaultWordCount": 21065,

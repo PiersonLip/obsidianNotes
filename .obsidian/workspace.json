@@ -47,8 +47,7 @@
               "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,10 +289,11 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "65d685029852307b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "W24 Ilia Meeting.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "W24 Ilia Meeting.md",
     "Gizmo Read.md",
     "FIRE.md",
     "General Notes/winds.md",
@@ -312,7 +312,6 @@
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "Low mass stellar evolution.md",
     "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
-    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Excalidraw/Drawing 2026-06-08 13.38.57.excalidraw.md",
     "LatteREADME.md",
     "Glossary/HDRM.md",

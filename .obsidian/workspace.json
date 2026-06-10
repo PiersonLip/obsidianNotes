@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "W24 Ilia Meeting"
             }
+          },
+          {
+            "id": "b1fb1fac7fe0db6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -262,17 +278,17 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b1fb1fac7fe0db6c",
   "lastOpenFiles": [
-    "Gizmo Read.md",
     "W24 Ilia Meeting.md",
+    "Pasted image 20260608163601.png",
+    "Gizmo Read.md",
     "Dashboard/Home.md",
     "conflict-files-obsidian-git.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Dashboard/_cache/apod-2026-06-10.json",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
-    "Pasted image 20260608163601.png",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
     "FIRE.md",
     "Pasted image 20260608163133.png",
@@ -298,7 +314,6 @@
     "AstroBites/What happens when you poke a black hole.md",
     "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Physics of Binary Star Evolution/Physics of Binary Star Evolution.md",
-    "Physics of Binary Star Evolution/Evolution of single stars.md",
     "Bases/Glossary.base",
     "Bases/Physics of Binary Star Evolution.base",
     "Bases/Papers.base",

@@ -24,9 +24,9 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
-- [ ] Look into FIRE, specifically [[milkyway]] models 
+- [x] Look into FIRE, specifically [[milkyway]] models 
 - [ ] Gaia BH1-2 paper.
-- [ ] Lecture
+- [x] Lecture
 ## Questions 
 ---
 - Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 

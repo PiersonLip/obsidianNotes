@@ -31,7 +31,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 # Current questions 
 ---
 - Should we take a sub-sample of fire sim particles, or, does it make more sense to instead treat each particle as one system?
-
+- Should we really evolve from the entire POSY grid? we really only need a couple of select columns, so it feels like a bit of io overkill to do the entire thing
 # Pipeline Possibilities
 ---
 ## POSYDON to FIRE 

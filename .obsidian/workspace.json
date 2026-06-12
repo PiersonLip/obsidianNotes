@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "W25 FIRE Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "W25 FIRE Meeting"
             }
           }
         ]
@@ -267,10 +267,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "W25 FIRE Meeting.md",
     "Wikipedia/Magnetorotational instability.md",
     "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
     "magnetorotational instability.md",
-    "Dashboard/Home.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "W24 Ilia Meeting.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
@@ -299,7 +300,6 @@
     "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
     "Dashboard/_cache/apod-2026-06-07.json",
-    "Class Notes/Astro210/The planets.md",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Pasted image 20260606210558.png",

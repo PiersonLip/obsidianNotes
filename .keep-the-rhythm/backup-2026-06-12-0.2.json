@@ -237,7 +237,7 @@
       },
       {
         "date": "2026-05-27",
-        "filePath": "Untitled.md",
+        "filePath": "Roche Lobe Exhibit.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -665,39 +665,55 @@
       },
       {
         "date": "2026-05-28",
-        "filePath": "Class Notes/Astro210/Astro210.md",
-        "wordCountStart": 28,
-        "charCountStart": 252,
+        "filePath": "2026/2026-05-27.md",
+        "wordCountStart": 53,
+        "charCountStart": 378,
         "changes": [],
         "id": 37
       },
       {
         "date": "2026-05-28",
-        "filePath": "General Notes/pauli-exclusion-principle.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "00:15",
-            "w": 0,
-            "c": 0
-          }
-        ],
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
         "id": 38
       },
       {
         "date": "2026-05-28",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 90,
-        "charCountStart": 643,
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 386,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "2026/2026-05-28.md",
+        "wordCountStart": 36,
+        "charCountStart": 283,
         "changes": [
           {
-            "timeKey": "00:15",
-            "w": -90,
-            "c": -643
+            "timeKey": "00:10",
+            "w": -19,
+            "c": -117
           }
         ],
-        "id": 39
+        "id": 40
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "2026/2026-05-28.md",
+        "wordCountStart": 17,
+        "charCountStart": 166,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": 127,
+            "c": 704
+          }
+        ],
+        "id": 41
       },
       {
         "date": "2026-05-31",
@@ -705,175 +721,223 @@
         "wordCountStart": 197,
         "charCountStart": 1742,
         "changes": [],
-        "id": 40
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
-        "changes": [
-          {
-            "timeKey": "23:45",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 41
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
-        "changes": [
-          {
-            "timeKey": "23:45",
-            "w": 0,
-            "c": 0
-          }
-        ],
         "id": 42
       },
       {
-        "date": "2026-06-02",
+        "date": "2026-05-31",
         "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 109,
-        "charCountStart": 775,
+        "wordCountStart": 91,
+        "charCountStart": 660,
         "changes": [
           {
-            "timeKey": "23:45",
-            "w": -109,
-            "c": -775
+            "timeKey": "23:15",
+            "w": -91,
+            "c": -660
           }
         ],
         "id": 43
       },
       {
-        "date": "2026-06-02",
-        "filePath": "RL Art Gallery.md",
-        "wordCountStart": 190,
-        "charCountStart": 1191,
-        "changes": [
-          {
-            "timeKey": "23:45",
-            "w": 38,
-            "c": 236
-          },
-          {
-            "timeKey": "23:50",
-            "w": 83,
-            "c": 450
-          },
-          {
-            "timeKey": "23:55",
-            "w": 84,
-            "c": 455
-          }
-        ],
+        "date": "2026-05-31",
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 386,
+        "changes": [],
         "id": 44
       },
       {
-        "date": "2026-06-04",
-        "filePath": "RL Art Gallery.md",
-        "wordCountStart": 395,
-        "charCountStart": 2332,
-        "changes": [],
+        "date": "2026-05-31",
+        "filePath": "2026/2026-05-31.md",
+        "wordCountStart": 36,
+        "charCountStart": 283,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": 13,
+            "c": 43
+          },
+          {
+            "timeKey": "23:20",
+            "w": 19,
+            "c": 104
+          }
+        ],
         "id": 45
       },
       {
-        "date": "2026-06-04",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
+        "date": "2026-05-31",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 89,
+        "charCountStart": 565,
         "changes": [
           {
-            "timeKey": "15:25",
-            "w": 0,
-            "c": 1
+            "timeKey": "23:20",
+            "w": -64,
+            "c": -302
           }
         ],
         "id": 46
       },
       {
-        "date": "2026-06-04",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 103,
-        "charCountStart": 740,
-        "changes": [
-          {
-            "timeKey": "15:25",
-            "w": -103,
-            "c": -740
-          }
-        ],
+        "date": "2026-06-01",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
         "id": 47
       },
       {
-        "date": "2026-06-04",
-        "filePath": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-        "wordCountStart": 337,
-        "charCountStart": 2016,
+        "date": "2026-06-01",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 25,
+        "charCountStart": 263,
         "changes": [
           {
-            "timeKey": "15:30",
-            "w": 30,
-            "c": 165
+            "timeKey": "12:45",
+            "w": 16,
+            "c": 84
+          },
+          {
+            "timeKey": "12:50",
+            "w": 27,
+            "c": 172
+          },
+          {
+            "timeKey": "13:20",
+            "w": 13,
+            "c": 67
           }
         ],
         "id": 48
       },
       {
-        "date": "2026-06-04",
-        "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
-        "wordCountStart": 61,
-        "charCountStart": 504,
+        "date": "2026-06-01",
+        "filePath": "Roche Lobe Exhibit.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "15:35",
-            "w": -45,
-            "c": -341
-          },
-          {
-            "timeKey": "15:40",
-            "w": 29,
-            "c": 221
-          },
-          {
-            "timeKey": "15:45",
-            "w": 36,
-            "c": 236
-          },
-          {
-            "timeKey": "15:50",
-            "w": 31,
-            "c": 213
-          },
-          {
-            "timeKey": "15:55",
-            "w": 30,
-            "c": 183
-          },
-          {
-            "timeKey": "16:00",
-            "w": 28,
-            "c": 209
-          },
-          {
-            "timeKey": "16:05",
-            "w": 35,
-            "c": 234
-          },
-          {
-            "timeKey": "16:10",
-            "w": 0,
-            "c": 3
+            "timeKey": "12:50",
+            "w": 2,
+            "c": 27
           }
         ],
         "id": 49
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 387,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 50,
+            "c": 286
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 81,
+        "charCountStart": 586,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 90,
+        "charCountStart": 643,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": -90,
+            "c": -643
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 81,
+        "charCountStart": 586,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 54
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
+        "id": 55
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": -96,
+            "c": -682
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 80,
+        "charCountStart": 586,
+        "changes": [],
+        "id": 59
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 61,
+        "charCountStart": 395,
+        "changes": [],
+        "id": 103
       }
     ],
-    "wholeVaultWordCount": 18407,
-    "wholeVaultCharCount": 128549
+    "wholeVaultWordCount": 18211,
+    "wholeVaultCharCount": 127352
   }
 }

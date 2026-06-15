@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "7d56ce2074432807",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "6ed788fb9e1ec9de",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,11 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Wikipedia/Magnetorotational instability.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Magnetorotational instability"
+              "title": "File properties"
             }
           },
           {
@@ -239,12 +266,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,12 +291,17 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6ed788fb9e1ec9de",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-06-15.json",
+    "Dashboard/_cache/apod-2026-06-14.json",
+    "Dashboard/_cache/apod-2026-06-13.json",
+    "Dashboard/_cache/apod-2026-06-12.json",
     "college panel.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "W25 FIRE Meeting.md",
-    "Dashboard/Home.md",
     "Wikipedia/Magnetorotational instability.md",
     "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
     "magnetorotational instability.md",
@@ -282,7 +313,6 @@
     "Pasted image 20260610140250.png",
     "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
     "Pasted image 20260608163601.png",
-    "conflict-files-obsidian-git.md",
     "Dashboard/_cache/apod-2026-06-10.json",
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
@@ -298,7 +328,6 @@
     "Glossary/HDRM.md",
     "Glossary/LRDM.md",
     "Pasted Image 20260608125938_411.png",
-    "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
@@ -306,10 +335,6 @@
     "Bases/Glossary.base",
     "Bases/Physics of Binary Star Evolution.base",
     "Bases/Papers.base",
-    "Bases/Class Notes.base",
-    "Bases/Astrobites.base",
-    "Bases/Astro210.base",
-    "Excalidraw",
     "Pasted image 20260604155322.png",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",

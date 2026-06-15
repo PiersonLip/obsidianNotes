@@ -64522,7 +64522,7 @@
       "path": "W25 FIRE Meeting.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781552940335,
+      "mtime": 1781552961177,
       "sourceText": "W25 FIRE Meeting\nQuestions --- - [ ] With calculating trajectories of the kicked systems how should we calculate the potential and mass of the halo for said trajectories? Can we just take take the total mass of the halo and the total potential of all of the particles and pass that as such? - i...",
       "summary": "Questions --- - [ ] With calculating trajectories of the kicked systems how should we calculate the potential and mass of the halo for said trajectories? Can we just take take the total mass of the halo and the total potential of all of the particles and pass that as such? - i...",
       "embedding": [
@@ -64911,7 +64911,7 @@
         0,
         0
       ],
-      "updatedAt": 1781552960611
+      "updatedAt": 1781553078430
     },
     "college panel.md": {
       "path": "college panel.md",

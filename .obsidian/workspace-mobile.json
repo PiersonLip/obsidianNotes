@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visual binaries and the universal validity of the laws of physics"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-14.json",
     "POSYDON + FIRE BH Prediction Pipeline.md",

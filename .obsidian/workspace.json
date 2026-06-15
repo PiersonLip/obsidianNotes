@@ -39,14 +39,14 @@
             "id": "6ed788fb9e1ec9de",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/keep-the-rhythm/data.json",
-                "bFile": ".obsidian/plugins/keep-the-rhythm/data.json",
-                "aRef": ""
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           }
         ],
@@ -208,9 +208,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for POSYDON + FIRE BH Prediction Pipeline"
             }
           },
           {
@@ -270,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

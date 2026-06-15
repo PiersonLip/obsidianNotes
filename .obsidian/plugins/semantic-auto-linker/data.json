@@ -63337,7 +63337,7 @@
       "path": "POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781539415722,
+      "mtime": 1781563847353,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nAbstract --- With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of natal kicks, where they came from) as promptly as possible with regards to the data releases is im...",
       "summary": "Abstract --- With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of natal kicks, where they came from) as promptly as possible with regards to the data releases is im...",
       "embedding": [
@@ -63726,7 +63726,7 @@
         0,
         0
       ],
-      "updatedAt": 1781557406683
+      "updatedAt": 1781563848992
     },
     "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md": {
       "path": "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",

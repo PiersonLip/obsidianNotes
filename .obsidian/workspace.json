@@ -35,8 +35,7 @@
               "title": "W24 Ilia Meeting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,8 +279,9 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "d01f572b75c65f59",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "W24 Ilia Meeting.md",
     "W25 FIRE Meeting.md",
     "Dashboard/Home.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
@@ -294,7 +294,6 @@
     "Wikipedia/Magnetorotational instability.md",
     "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
     "magnetorotational instability.md",
-    "W24 Ilia Meeting.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "Gizmo Read.md",
     "FIRE.md",

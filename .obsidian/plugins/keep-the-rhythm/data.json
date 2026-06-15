@@ -2616,9 +2616,23 @@
         "charCountStart": 16864,
         "changes": [],
         "id": 147
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "questions for FIRE people.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 143
+          }
+        ],
+        "id": 148
       }
     ],
-    "wholeVaultWordCount": 21383,
-    "wholeVaultCharCount": 148556
+    "wholeVaultWordCount": 21397,
+    "wholeVaultCharCount": 148699
   }
 }

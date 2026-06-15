@@ -1,4 +1,4 @@
-## Description
+g## Description
 
 Simulation snapshots at z = 0 from the Latte suite of FIRE-2 cosmological zoom-in baryonic simulations of Milky Way-mass galaxies, part of the Feedback In Realistic Environments (FIRE) simulation project (https://fire.northwestern.edu).
 

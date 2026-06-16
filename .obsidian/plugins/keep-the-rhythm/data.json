@@ -2709,12 +2709,17 @@
             "timeKey": "17:15",
             "w": 7,
             "c": 33
+          },
+          {
+            "timeKey": "17:20",
+            "w": 21,
+            "c": 96
           }
         ],
         "id": 153
       }
     ],
-    "wholeVaultWordCount": 21484,
-    "wholeVaultCharCount": 149305
+    "wholeVaultWordCount": 21505,
+    "wholeVaultCharCount": 149401
   }
 }

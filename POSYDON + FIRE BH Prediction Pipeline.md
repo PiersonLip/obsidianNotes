@@ -10,6 +10,7 @@ tags:
 - [ ] verify everything is resonable-ish
 - [ ] proper posydon grids
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
+- [ ] setup final data output (i.e. locations, velocities, + posydon history)
 
 # Abstract  
 ---

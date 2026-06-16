@@ -14,6 +14,8 @@ tags:
 ```bash
 wget -r -np -nd -A "*.hdf5" \
   https://users.flatironinstitute.org/~mgrudic/fire2_public_release/core/m12i_res7100/output/<dir>/
+  
+  https://users.flatironinstitute.org/~mgrudic/fire2_public_release/core/m12i_res7100/output/snapdir_599/
 ```
 
 # Data **Format** (see [[LatteREADME]]) 

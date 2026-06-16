@@ -2665,12 +2665,17 @@
             "timeKey": "12:05",
             "w": 21,
             "c": 166
+          },
+          {
+            "timeKey": "12:10",
+            "w": 10,
+            "c": 109
           }
         ],
         "id": 152
       }
     ],
-    "wholeVaultWordCount": 21418,
-    "wholeVaultCharCount": 148865
+    "wholeVaultWordCount": 21428,
+    "wholeVaultCharCount": 148974
   }
 }

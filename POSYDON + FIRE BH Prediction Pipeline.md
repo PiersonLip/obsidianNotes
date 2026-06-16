@@ -11,6 +11,7 @@ tags:
 - [ ] proper posydon grids
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
+- [ ] do the star particles die?
 
 # Abstract  
 ---

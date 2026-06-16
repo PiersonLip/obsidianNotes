@@ -2689,12 +2689,22 @@
             "timeKey": "12:15",
             "w": 0,
             "c": 3
+          },
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 128
+          },
+          {
+            "timeKey": "15:15",
+            "w": 16,
+            "c": 89
           }
         ],
         "id": 153
       }
     ],
-    "wholeVaultWordCount": 21428,
-    "wholeVaultCharCount": 148977
+    "wholeVaultWordCount": 21465,
+    "wholeVaultCharCount": 149194
   }
 }

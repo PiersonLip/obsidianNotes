@@ -3,6 +3,14 @@ tags:
   - astro-notes/research
   - POSYDON_FireProject
 ---
+# To-do
+---
+- [ ] Better potentials
+- [ ] setup with slurm
+- [ ] verify everything is resonable-ish
+- [ ] proper posydon grids
+- [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
+
 # Abstract  
 ---
 With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.

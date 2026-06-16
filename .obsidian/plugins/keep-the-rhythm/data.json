@@ -2630,9 +2630,47 @@
           }
         ],
         "id": 148
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "questions for FIRE people.md",
+        "wordCountStart": 14,
+        "charCountStart": 143,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "W25 FIRE Meeting.md",
+        "wordCountStart": 85,
+        "charCountStart": 537,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "FIRE.md",
+        "wordCountStart": 276,
+        "charCountStart": 2067,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 152
       }
     ],
-    "wholeVaultWordCount": 21397,
-    "wholeVaultCharCount": 148699
+    "wholeVaultWordCount": 21418,
+    "wholeVaultCharCount": 148865
   }
 }

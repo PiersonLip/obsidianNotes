@@ -61362,7 +61362,7 @@
       "path": "FIRE.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1781120570115,
+      "mtime": 1781629787992,
       "sourceText": "FIRE\n**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- - Simulation suite for accurate simulation of galaxies of varying properties and constraints - Simulates millions of particles using both gravitational and hydro-dynamical methods (and sometimes more (ex. later re...",
       "summary": "**FIRE** (Feedback In Realistic Environments) [@wetzel2025] --- - Simulation suite for accurate simulation of galaxies of varying properties and constraints - Simulates millions of particles using both gravitational and hydro-dynamical methods (and sometimes more (ex. later re...",
       "embedding": [
@@ -61751,7 +61751,7 @@
         0,
         -0.13139023501795294
       ],
-      "updatedAt": 1781557406683
+      "updatedAt": 1781629788523
     },
     "Glossary/HDRM.md": {
       "path": "Glossary/HDRM.md",

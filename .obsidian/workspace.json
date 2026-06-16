@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "FIRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "FIRE"
             }
           }
         ]
@@ -267,16 +267,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "W25 FIRE Meeting.md",
+    "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-16.json",
     "questions for FIRE people.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
     "FIRE.md",
-    "Dashboard/Home.md",
     "Gizmo Read.md",
     "GIZMO.md",
     "LatteREADME.md",
-    "W25 FIRE Meeting.md",
     "W24 Ilia Meeting.md",
     "conflict-files-obsidian-git.md",
     "Dashboard/_cache/apod-2026-06-15.json",
@@ -309,7 +309,6 @@
     "Pasted image 20260606210558.png",
     "Bases/Glossary.base",
     "Bases/Physics of Binary Star Evolution.base",
-    "Bases/Papers.base",
     "Pasted image 20260604155322.png",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           }
         ]
@@ -267,10 +267,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-06-18.json",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "FIRE.md",
     "W25 FIRE Meeting.md",
-    "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-16.json",
     "questions for FIRE people.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
@@ -308,7 +309,6 @@
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Pasted image 20260606210558.png",
     "Bases/Glossary.base",
-    "Bases/Physics of Binary Star Evolution.base",
     "Pasted image 20260604155322.png",
     "Scott_Gaudi__single_lens_animation.gif",
     "Pasted image 20260604160618.png",

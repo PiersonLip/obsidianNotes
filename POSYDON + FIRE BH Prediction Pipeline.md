@@ -13,6 +13,7 @@ tags:
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
 - [ ] proper sampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
+- [ ] dont return full orbits, have as a toggle with default False
 
 # Abstract  
 ---

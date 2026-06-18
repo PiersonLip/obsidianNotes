@@ -12,7 +12,7 @@ tags:
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
-- [x] proper sampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
+- [x] proper sfampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
 
 # Abstract  

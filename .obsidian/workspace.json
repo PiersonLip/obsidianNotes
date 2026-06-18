@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON + FIRE BH Prediction Pipeline"
+              "title": "Home"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "FIRE.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
+    "FIRE.md",
     "W25 FIRE Meeting.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-16.json",

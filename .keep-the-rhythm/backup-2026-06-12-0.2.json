@@ -75,8 +75,7 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2026-05-27",
-      "2026-06-02"
+      "2026-05-27"
     ],
     "dailyActivity": [
       {
@@ -238,7 +237,7 @@
       },
       {
         "date": "2026-05-27",
-        "filePath": "Untitled.md",
+        "filePath": "Roche Lobe Exhibit.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -666,846 +665,279 @@
       },
       {
         "date": "2026-05-28",
-        "filePath": "Class Notes/Astro210/Astro210.md",
-        "wordCountStart": 28,
-        "charCountStart": 252,
+        "filePath": "2026/2026-05-27.md",
+        "wordCountStart": 53,
+        "charCountStart": 378,
         "changes": [],
         "id": 37
       },
       {
         "date": "2026-05-28",
-        "filePath": "General Notes/pauli-exclusion-principle.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "00:15",
-            "w": 0,
-            "c": 0
-          }
-        ],
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
         "id": 38
       },
       {
         "date": "2026-05-28",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 90,
-        "charCountStart": 643,
-        "changes": [
-          {
-            "timeKey": "00:15",
-            "w": -90,
-            "c": -643
-          }
-        ],
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 386,
+        "changes": [],
         "id": 39
       },
       {
         "date": "2026-05-28",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1742,
+        "filePath": "2026/2026-05-28.md",
+        "wordCountStart": 36,
+        "charCountStart": 283,
         "changes": [
           {
-            "timeKey": "12:45",
-            "w": 0,
-            "c": 0
-          },
-          {
-            "timeKey": "16:30",
-            "w": 0,
-            "c": 0
+            "timeKey": "00:10",
+            "w": -19,
+            "c": -117
           }
         ],
         "id": 40
       },
       {
-        "date": "2026-05-28",
-        "filePath": "POSYDON Commands.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
+        "date": "2026-05-31",
+        "filePath": "2026/2026-05-28.md",
+        "wordCountStart": 17,
+        "charCountStart": 166,
         "changes": [
           {
-            "timeKey": "15:20",
-            "w": 15,
-            "c": 140
-          },
-          {
-            "timeKey": "16:30",
-            "w": 1,
-            "c": 12
+            "timeKey": "23:15",
+            "w": 127,
+            "c": 704
           }
         ],
         "id": 41
       },
       {
-        "date": "2026-05-28",
-        "filePath": "General Notes/Darwin instability.md",
-        "wordCountStart": 7,
-        "charCountStart": 85,
-        "changes": [
-          {
-            "timeKey": "16:35",
-            "w": 2,
-            "c": 10
-          },
-          {
-            "timeKey": "16:40",
-            "w": 31,
-            "c": 214
-          },
-          {
-            "timeKey": "16:45",
-            "w": 50,
-            "c": 309
-          },
-          {
-            "timeKey": "16:50",
-            "w": 32,
-            "c": 202
-          }
-        ],
+        "date": "2026-05-31",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
         "id": 42
       },
       {
-        "date": "2026-05-28",
-        "filePath": "Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
+        "date": "2026-05-31",
+        "filePath": "conflict-files-obsidian-git.md",
         "wordCountStart": 91,
-        "charCountStart": 677,
+        "charCountStart": 660,
         "changes": [
           {
-            "timeKey": "16:40",
-            "w": -9,
-            "c": -52
-          },
-          {
-            "timeKey": "16:45",
-            "w": 0,
-            "c": 2
+            "timeKey": "23:15",
+            "w": -91,
+            "c": -660
           }
         ],
         "id": 43
       },
       {
-        "date": "2026-05-28",
-        "filePath": "General Notes/JWST.md",
-        "wordCountStart": 6,
-        "charCountStart": 71,
-        "changes": [
-          {
-            "timeKey": "16:50",
-            "w": 12,
-            "c": 117
-          },
-          {
-            "timeKey": "17:00",
-            "w": -18,
-            "c": -188
-          }
-        ],
+        "date": "2026-05-31",
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 386,
+        "changes": [],
         "id": 44
       },
       {
-        "date": "2026-05-28",
-        "filePath": "Wikipedia/JWST.md",
-        "wordCountStart": 31,
-        "charCountStart": 307,
+        "date": "2026-05-31",
+        "filePath": "2026/2026-05-31.md",
+        "wordCountStart": 36,
+        "charCountStart": 283,
         "changes": [
           {
-            "timeKey": "16:50",
-            "w": 17,
-            "c": 136
+            "timeKey": "23:15",
+            "w": 13,
+            "c": 43
           },
           {
-            "timeKey": "16:55",
-            "w": 5,
-            "c": 35
+            "timeKey": "23:20",
+            "w": 19,
+            "c": 104
           }
         ],
         "id": 45
       },
       {
-        "date": "2026-05-28",
-        "filePath": "Little Red Dots.md",
-        "wordCountStart": 121,
-        "charCountStart": 791,
+        "date": "2026-05-31",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 89,
+        "charCountStart": 565,
         "changes": [
           {
-            "timeKey": "17:05",
-            "w": 0,
-            "c": 1
+            "timeKey": "23:20",
+            "w": -64,
+            "c": -302
           }
         ],
         "id": 46
       },
       {
-        "date": "2026-05-28",
-        "filePath": "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
-        "wordCountStart": 222,
-        "charCountStart": 1422,
-        "changes": [
-          {
-            "timeKey": "17:00",
-            "w": 0,
-            "c": 1
-          },
-          {
-            "timeKey": "17:05",
-            "w": 0,
-            "c": 1
-          }
-        ],
+        "date": "2026-06-01",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
         "id": 47
       },
       {
-        "date": "2026-05-28",
-        "filePath": "degenerate mass.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
+        "date": "2026-06-01",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 25,
+        "charCountStart": 263,
         "changes": [
           {
-            "timeKey": "17:45",
-            "w": 0,
-            "c": 0
+            "timeKey": "12:45",
+            "w": 16,
+            "c": 84
+          },
+          {
+            "timeKey": "12:50",
+            "w": 27,
+            "c": 172
+          },
+          {
+            "timeKey": "13:20",
+            "w": 13,
+            "c": 67
           }
         ],
         "id": 48
       },
       {
-        "date": "2026-05-28",
-        "filePath": "Physics of Binary Star Evolution/Evolution of single stars.md",
-        "wordCountStart": 1096,
-        "charCountStart": 6568,
-        "changes": [
-          {
-            "timeKey": "17:45",
-            "w": 2,
-            "c": 18
-          }
-        ],
-        "id": 49
-      },
-      {
-        "date": "2026-05-28",
-        "filePath": "General Notes/compact object.md",
-        "wordCountStart": 13,
-        "charCountStart": 130,
-        "changes": [
-          {
-            "timeKey": "17:45",
-            "w": 4,
-            "c": 17
-          }
-        ],
-        "id": 50
-      },
-      {
-        "date": "2026-05-28",
-        "filePath": "LMXB.md",
-        "wordCountStart": 31,
-        "charCountStart": 229,
-        "changes": [],
-        "id": 51
-      },
-      {
-        "date": "2026-05-28",
-        "filePath": "Untitled 1.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [],
-        "id": 52
-      },
-      {
-        "date": "2026-05-28",
-        "filePath": "2026/W23.md",
+        "date": "2026-06-01",
+        "filePath": "Roche Lobe Exhibit.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
           {
             "timeKey": "12:50",
-            "w": 0,
-            "c": 0
+            "w": 2,
+            "c": 27
+          }
+        ],
+        "id": 49
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "2026/W22.md",
+        "wordCountStart": 48,
+        "charCountStart": 387,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 50,
+            "c": 286
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 81,
+        "charCountStart": 586,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1742,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 90,
+        "charCountStart": 643,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": -90,
+            "c": -643
           }
         ],
         "id": 53
       },
       {
-        "date": "2026-05-28",
-        "filePath": "Wikipedia/Gravity darkening.md",
-        "wordCountStart": 27,
-        "charCountStart": 285,
+        "date": "2026-06-03",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 81,
+        "charCountStart": 586,
         "changes": [
           {
-            "timeKey": "13:15",
-            "w": 41,
-            "c": 242
-          },
-          {
-            "timeKey": "13:20",
-            "w": 7,
-            "c": 36
+            "timeKey": "12:55",
+            "w": -1,
+            "c": 0
           }
         ],
         "id": 54
       },
       {
-        "date": "2026-06-02",
+        "date": "2026-06-03",
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [
-          {
-            "timeKey": "12:35",
-            "w": 0,
-            "c": 0
-          }
-        ],
+        "changes": [],
         "id": 55
       },
       {
-        "date": "2026-06-02",
-        "filePath": "Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
-        "wordCountStart": 417,
-        "charCountStart": 3338,
+        "date": "2026-06-03",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
         "changes": [],
         "id": 56
       },
       {
-        "date": "2026-06-02",
-        "filePath": "POSYDON CE.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
+        "date": "2026-06-08",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
         "changes": [
           {
-            "timeKey": "12:35",
-            "w": 54,
-            "c": 493
+            "timeKey": "12:05",
+            "w": -96,
+            "c": -682
           }
         ],
         "id": 57
       },
       {
-        "date": "2026-06-02",
-        "filePath": "10MillPop.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:00",
-            "w": 29,
-            "c": 213
-          },
-          {
-            "timeKey": "13:15",
-            "w": 30,
-            "c": 175
-          },
-          {
-            "timeKey": "13:20",
-            "w": 21,
-            "c": 128
-          },
-          {
-            "timeKey": "13:25",
-            "w": 41,
-            "c": 258
-          },
-          {
-            "timeKey": "13:45",
-            "w": 23,
-            "c": 130
-          },
-          {
-            "timeKey": "13:55",
-            "w": 36,
-            "c": 232
-          },
-          {
-            "timeKey": "14:10",
-            "w": 26,
-            "c": 164
-          }
-        ],
-        "id": 58
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "Object.md",
-        "wordCountStart": 7,
-        "charCountStart": 56,
-        "changes": [
-          {
-            "timeKey": "14:20",
-            "w": 11,
-            "c": 65
-          }
-        ],
-        "id": 59
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "class.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:20",
-            "w": 10,
-            "c": 80
-          },
-          {
-            "timeKey": "14:25",
-            "w": 75,
-            "c": 558
-          }
-        ],
-        "id": 60
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "RL Art Gallery.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:45",
-            "w": 34,
-            "c": 243
-          },
-          {
-            "timeKey": "14:50",
-            "w": 102,
-            "c": 615
-          },
-          {
-            "timeKey": "14:55",
-            "w": 54,
-            "c": 333
-          },
-          {
-            "timeKey": "16:30",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 61
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "POSYDON Documentation Errors/Typos.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "15:25",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 62
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "POSYDON Documentation Errors or Typos.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "15:30",
-            "w": 33,
-            "c": 290
-          }
-        ],
-        "id": 63
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
-        "wordCountStart": 29,
-        "charCountStart": 276,
-        "changes": [
-          {
-            "timeKey": "16:25",
-            "w": 0,
-            "c": -1
-          },
-          {
-            "timeKey": "16:30",
-            "w": 2,
-            "c": 18
-          },
-          {
-            "timeKey": "16:35",
-            "w": 2,
-            "c": 15
-          },
-          {
-            "timeKey": "16:40",
-            "w": 40,
-            "c": 257
-          },
-          {
-            "timeKey": "16:45",
-            "w": 32,
-            "c": 220
-          },
-          {
-            "timeKey": "16:50",
-            "w": 61,
-            "c": 367
-          },
-          {
-            "timeKey": "16:55",
-            "w": 46,
-            "c": 270
-          },
-          {
-            "timeKey": "17:00",
-            "w": 50,
-            "c": 329
-          }
-        ],
-        "id": 64
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "AstroBites/Astrobites.md",
-        "wordCountStart": 25,
-        "charCountStart": 235,
-        "changes": [
-          {
-            "timeKey": "16:25",
-            "w": 0,
-            "c": -2
-          }
-        ],
-        "id": 65
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "General Notes/black hole.md",
-        "wordCountStart": 13,
-        "charCountStart": 120,
-        "changes": [
-          {
-            "timeKey": "16:30",
-            "w": 63,
-            "c": 361
-          },
-          {
-            "timeKey": "16:35",
-            "w": 0,
-            "c": 2
-          },
-          {
-            "timeKey": "16:40",
-            "w": 3,
-            "c": 34
-          },
-          {
-            "timeKey": "16:50",
-            "w": -1,
-            "c": -10
-          },
-          {
-            "timeKey": "16:55",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 66
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "Wikipedia/JWST.md",
-        "wordCountStart": 53,
-        "charCountStart": 478,
-        "changes": [],
-        "id": 67
-      },
-      {
-        "date": "2026-06-02",
-        "filePath": "gravitational lensing.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "16:45",
-            "w": 58,
-            "c": 400
-          },
-          {
-            "timeKey": "17:00",
-            "w": 18,
-            "c": 129
-          }
-        ],
-        "id": 68
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
-        "wordCountStart": 262,
-        "charCountStart": 1751,
-        "changes": [],
-        "id": 69
-      },
-      {
-        "date": "2026-06-03",
+        "date": "2026-06-08",
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 197,
         "charCountStart": 1742,
-        "changes": [
-          {
-            "timeKey": "17:35",
-            "w": 0,
-            "c": 1
-          }
-        ],
-        "id": 70
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "RL Art Gallery.md",
-        "wordCountStart": 190,
-        "charCountStart": 1191,
-        "changes": [
-          {
-            "timeKey": "12:20",
-            "w": 209,
-            "c": 1172
-          }
-        ],
-        "id": 71
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 96,
-        "charCountStart": 682,
-        "changes": [
-          {
-            "timeKey": "11:15",
-            "w": -96,
-            "c": -682
-          }
-        ],
-        "id": 72
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "Solar BHs Research.md",
-        "wordCountStart": 60,
-        "charCountStart": 388,
-        "changes": [
-          {
-            "timeKey": "15:10",
-            "w": 30,
-            "c": 163
-          }
-        ],
-        "id": 73
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "General Notes/RLO.md",
-        "wordCountStart": 50,
-        "charCountStart": 351,
         "changes": [],
-        "id": 74
+        "id": 58
       },
       {
-        "date": "2026-06-03",
-        "filePath": "General Notes/consv-RLO.md",
-        "wordCountStart": 30,
-        "charCountStart": 233,
+        "date": "2026-06-08",
+        "filePath": "2026/W23.md",
+        "wordCountStart": 80,
+        "charCountStart": 586,
         "changes": [],
-        "id": 75
+        "id": 59
       },
       {
-        "date": "2026-06-03",
-        "filePath": "General Notes/runaway-RLOF.md",
-        "wordCountStart": 20,
-        "charCountStart": 173,
-        "changes": [],
-        "id": 76
-      },
-      {
-        "date": "2026-06-03",
-        "filePath": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "16:50",
-            "w": 3,
-            "c": 39
-          },
-          {
-            "timeKey": "16:55",
-            "w": 92,
-            "c": 551
-          },
-          {
-            "timeKey": "17:00",
-            "w": 31,
-            "c": 195
-          },
-          {
-            "timeKey": "17:35",
-            "w": 1,
-            "c": 5
-          },
-          {
-            "timeKey": "17:40",
-            "w": 112,
-            "c": 649
-          }
-        ],
-        "id": 77
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-        "wordCountStart": 239,
-        "charCountStart": 1439,
-        "changes": [
-          {
-            "timeKey": "15:10",
-            "w": 157,
-            "c": 901
-          },
-          {
-            "timeKey": "15:15",
-            "w": 0,
-            "c": 0
-          },
-          {
-            "timeKey": "15:20",
-            "w": 6,
-            "c": 45
-          },
-          {
-            "timeKey": "15:50",
-            "w": 0,
-            "c": 5
-          },
-          {
-            "timeKey": "16:00",
-            "w": 15,
-            "c": 124
-          }
-        ],
-        "id": 78
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Dashboard/Home.md",
-        "wordCountStart": 197,
-        "charCountStart": 1743,
-        "changes": [],
-        "id": 79
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "conflict-files-obsidian-git.md",
-        "wordCountStart": 96,
-        "charCountStart": 682,
-        "changes": [
-          {
-            "timeKey": "13:10",
-            "w": -96,
-            "c": -682
-          }
-        ],
-        "id": 80
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
-        "wordCountStart": 58,
-        "charCountStart": 544,
-        "changes": [
-          {
-            "timeKey": "13:30",
-            "w": -58,
-            "c": -544
-          },
-          {
-            "timeKey": "13:35",
-            "w": 207,
-            "c": 1498
-          },
-          {
-            "timeKey": "13:45",
-            "w": 2,
-            "c": 15
-          },
-          {
-            "timeKey": "13:50",
-            "w": 1,
-            "c": 9
-          }
-        ],
-        "id": 81
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
-        "wordCountStart": 205,
-        "charCountStart": 1461,
-        "changes": [
-          {
-            "timeKey": "13:35",
-            "w": -205,
-            "c": -1461
-          }
-        ],
-        "id": 82
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Obsidian.md",
-        "wordCountStart": 16,
-        "charCountStart": 135,
-        "changes": [],
-        "id": 83
-      },
-      {
-        "date": "2026-06-06",
+        "date": "2026-06-08",
         "filePath": "W24 Ilia Meeting.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "15:50",
-            "w": 61,
-            "c": 395
-          }
-        ],
-        "id": 84
-      },
-      {
-        "date": "2026-06-06",
-        "filePath": "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
-        "wordCountStart": 792,
-        "charCountStart": 5444,
-        "changes": [
-          {
-            "timeKey": "16:00",
-            "w": 0,
-            "c": -17
-          },
-          {
-            "timeKey": "16:05",
-            "w": 0,
-            "c": -8
-          }
-        ],
-        "id": 85
+        "wordCountStart": 61,
+        "charCountStart": 395,
+        "changes": [],
+        "id": 103
       }
     ],
-    "wholeVaultWordCount": 20047,
-    "wholeVaultCharCount": 139481
+    "wholeVaultWordCount": 18211,
+    "wholeVaultCharCount": 127352
   }
 }

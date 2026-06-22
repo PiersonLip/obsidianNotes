@@ -5,9 +5,18 @@ tags:
 ---
 # **FIRE** (Feedback In Realistic Environments) [@wetzel2025]
 ---
-Simulation suite for accurate simulation of galaxies of varying properties and constraints 
+- Simulation suite for accurate simulation of galaxies of varying properties and constraints 
+- Simulates millions of particles using both gravitational and hydro-dynamical methods (and sometimes more (ex. later reionzation, MHD, etc))
+	- Uses [[GIZMO]], which is a hydro-dynamical suite
 
-
+# Downloading Data 
+---
+```bash
+wget -r -np -nd -A "*.hdf5" \
+  https://users.flatironinstitute.org/~mgrudic/fire2_public_release/core/m12i_res7100/output/<dir>/
+  
+  https://users.flatironinstitute.org/~mgrudic/fire2_public_release/core/m12i_res7100/output/snapdir_599/
+```
 
 # Data **Format** (see [[LatteREADME]]) 
 ---

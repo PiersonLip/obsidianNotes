@@ -11,6 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "84e74250841c7d65",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard/Home.md",
@@ -21,7 +31,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,51 +215,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "b936e72e00c4f457",
+  "active": "84e74250841c7d65",
   "lastOpenFiles": [
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-06-14.json",
+    "POSYDON + FIRE BH Prediction Pipeline.md",
+    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
+    "Wikipedia/Magnetorotational instability.md",
+    "W25 FIRE Meeting.md",
+    "Pasted image 20260610140250.png",
+    "Pasted image 20260608163601.png",
+    "Pasted image 20260608163133.png",
+    "Pasted Image 20260608125938_411.png",
+    "LatteREADME.md",
+    "Glossary/LRDM.md",
+    "Glossary/HDRM.md",
+    "Gizmo Read.md",
+    "FIRE.md",
+    "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 14.46.56.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 14.34.51.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 13.38.57.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-08 12.44.08.excalidraw.md",
+    "Dashboard/_cache/apod-2026-06-10.json",
+    "college panel.md",
+    "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
+    "Dashboard/_cache/apod-2026-06-13.json",
+    "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+    "gravitational lensing.md",
+    "General Notes/GW.md",
+    "Dashboard/_cache/apod-2026-06-12.json",
+    "W24 Ilia Meeting.md",
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "Pasted image 20260606210558.png",
     "Low mass stellar evolution.md",
-    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
     "Excalidraw",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Dashboard/_cache/apod-2026-06-06.json",
-    "Obsidian Python .venv.md",
-    "Obsidian.md",
-    "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
     "Dashboard/_cache/apod-2026-06-05.json",
-    "Wikipedia/JWST.md",
-    "Wikipedia/Gravity darkening.md",
-    "Untitled 1.md",
-    "RL Art Gallery.md",
     "Research",
-    "POSYDON Documentation Errors or Typos.md",
-    "POSYDON Commands.md",
-    "POSYDON CE.md",
     "personRef.png",
     "Pasted image 20260602164626.png",
-    "Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
-    "gravitational lensing.md",
-    "General Notes/JWST.md",
-    "General Notes/Darwin instability.md",
     "face2.png",
-    "edge.png",
     "Dashboard/_cache/apod-2026-06-02.json",
-    "Dashboard/_cache/apod-2026-06-01.json",
-    "class.md",
-    "AstroBites/Seeing Stars Juicing up JWST with 5000x Magnification.md",
-    "10MillPop.md",
-    "Dashboard/_cache/apod-2026-06-03.json",
-    "Class Notes/Astro210/Earth-Moon Systen.md",
-    "Dashboard/_cache/apod-2026-05-31.json",
-    "Dashboard/_cache/apod-2026-05-29.json",
-    "Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
-    "Dashboard/_cache/apod-2026-05-28.json",
-    "Common Envelope.md",
-    "AstroBites/Little Red Dots and Shaq’s Huge Feet.md",
-    "Attachments/Pasted image 20260524010657.png"
+    "Dashboard/_cache/apod-2026-06-01.json"
   ]
 }

@@ -1966,9 +1966,673 @@
           }
         ],
         "id": 110
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 706,
+        "charCountStart": 4372,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "14:40",
+            "w": 43,
+            "c": 260
+          },
+          {
+            "timeKey": "14:45",
+            "w": 56,
+            "c": 309
+          },
+          {
+            "timeKey": "14:50",
+            "w": 43,
+            "c": 260
+          },
+          {
+            "timeKey": "15:00",
+            "w": 16,
+            "c": 97
+          },
+          {
+            "timeKey": "15:05",
+            "w": -1,
+            "c": -16
+          },
+          {
+            "timeKey": "15:20",
+            "w": 21,
+            "c": 107
+          },
+          {
+            "timeKey": "15:30",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "16:05",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "17:10",
+            "w": 6,
+            "c": 51
+          },
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 111
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 197,
+        "charCountStart": 1743,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "FIRE.md",
+        "wordCountStart": 239,
+        "charCountStart": 1778,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "16:05",
+            "w": 12,
+            "c": 95
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Excalidraw/Drawing 2026-06-08 14.34.51.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Excalidraw/Drawing 2026-06-08 14.46.56.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 62,
+        "charCountStart": 393,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 25,
+            "c": 166
+          },
+          {
+            "timeKey": "15:00",
+            "w": 6,
+            "c": 43
+          },
+          {
+            "timeKey": "15:05",
+            "w": 51,
+            "c": 313
+          },
+          {
+            "timeKey": "15:35",
+            "w": 17,
+            "c": 141
+          },
+          {
+            "timeKey": "15:40",
+            "w": 45,
+            "c": 319
+          },
+          {
+            "timeKey": "15:45",
+            "w": 60,
+            "c": 334
+          },
+          {
+            "timeKey": "16:30",
+            "w": 28,
+            "c": 132
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 210,
+        "charCountStart": 1522,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 20,
+            "c": 97
+          },
+          {
+            "timeKey": "16:35",
+            "w": 7,
+            "c": 48
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Research/POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 897,
+        "charCountStart": 5493,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": -897,
+            "c": -5493
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": -96,
+            "c": -682
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 294,
+        "charCountStart": 1841,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 10,
+            "c": 53
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "13:35",
+            "w": 11,
+            "c": 84
+          },
+          {
+            "timeKey": "13:50",
+            "w": -13,
+            "c": -62
+          },
+          {
+            "timeKey": "14:00",
+            "w": 26,
+            "c": 170
+          },
+          {
+            "timeKey": "14:05",
+            "w": 6,
+            "c": 26
+          },
+          {
+            "timeKey": "14:40",
+            "w": 9,
+            "c": 78
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 122
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Gizmo Read.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 23,
+            "c": 223
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": -7
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 897,
+        "charCountStart": 5493,
+        "changes": [
+          {
+            "timeKey": "13:50",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "13:55",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "16:05",
+            "w": -149,
+            "c": -824
+          },
+          {
+            "timeKey": "16:10",
+            "w": 8,
+            "c": 42
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
+        "wordCountStart": 611,
+        "charCountStart": 21475,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "General Notes/winds.md",
+        "wordCountStart": 3,
+        "charCountStart": 34,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 10,
+            "c": 58
+          },
+          {
+            "timeKey": "14:20",
+            "w": 53,
+            "c": 328
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "FIRE.md",
+        "wordCountStart": 251,
+        "charCountStart": 1872,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 25,
+            "c": 195
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+        "wordCountStart": 524,
+        "charCountStart": 16864,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
+        "wordCountStart": 39,
+        "charCountStart": 316,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 59,
+            "c": 355
+          },
+          {
+            "timeKey": "18:15",
+            "w": 4,
+            "c": 45
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "magnetorotational instability.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 42,
+            "c": 317
+          },
+          {
+            "timeKey": "18:20",
+            "w": -42,
+            "c": -317
+          }
+        ],
+        "id": 130
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Wikipedia/Magnetorotational instability.md",
+        "wordCountStart": 27,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 39,
+            "c": 250
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "Wikipedia/Magnetorotational instability.md",
+        "wordCountStart": 66,
+        "charCountStart": 607,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "W25 FIRE Meeting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 28,
+            "c": 220
+          },
+          {
+            "timeKey": "11:40",
+            "w": 25,
+            "c": 119
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 754,
+        "charCountStart": 4715,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 18,
+            "c": 97
+          },
+          {
+            "timeKey": "12:45",
+            "w": 14,
+            "c": 64
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "college panel.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 3,
+            "c": 9
+          }
+        ],
+        "id": 136
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "college panel.md",
+        "wordCountStart": 3,
+        "charCountStart": 9,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 90,
+        "charCountStart": 643,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": -90,
+            "c": -643
+          }
+        ],
+        "id": 139
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 786,
+        "charCountStart": 4876,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 47,
+            "c": 242
+          },
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 93
+          }
+        ],
+        "id": 140
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "W25 FIRE Meeting.md",
+        "wordCountStart": 53,
+        "charCountStart": 339,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:45",
+            "w": 22,
+            "c": 133
+          },
+          {
+            "timeKey": "14:50",
+            "w": 4,
+            "c": 32
+          },
+          {
+            "timeKey": "15:05",
+            "w": 6,
+            "c": 33
+          }
+        ],
+        "id": 141
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 343,
+        "charCountStart": 2191,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "FIRE.md",
+        "wordCountStart": 276,
+        "charCountStart": 2067,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "LatteREADME.md",
+        "wordCountStart": 1393,
+        "charCountStart": 9651,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 144
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "GIZMO.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Gizmo Read.md",
+        "wordCountStart": 23,
+        "charCountStart": 216,
+        "changes": [],
+        "id": 146
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+        "wordCountStart": 524,
+        "charCountStart": 16864,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "questions for FIRE people.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 143
+          }
+        ],
+        "id": 148
       }
     ],
-    "wholeVaultWordCount": 20601,
-    "wholeVaultCharCount": 143504
+    "wholeVaultWordCount": 21397,
+    "wholeVaultCharCount": 148699
   }
 }

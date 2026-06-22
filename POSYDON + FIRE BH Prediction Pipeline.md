@@ -3,11 +3,19 @@ tags:
   - astro-notes/research
   - POSYDON_FireProject
 ---
-## Ideas
+# To-do
 ---
-- Use the fire sim, then split it into a 3d grid of some resolution, where each cube in the grid is then passed to a posydon simulation, matching star formation rate
-- Possibly use a 4d grid. I.e. take the fire simulation, split it into grids each 100 million years (or some other interval), then assume the total number of stars that would be formed in each grid, pass to posydon, calculate trajectories, etc
-# Possible Project Analyzing [[Roman]]/[[Gaia]] [[black hole|BHs]] 
+- [ ] Better potentials
+- [ ] setup with slurm
+- [ ] verify everything is resonable-ish
+- [ ] proper posydon grids
+- [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
+- [ ] setup final data output (i.e. locations, velocities, + posydon history)
+- [ ] do the star particles die?
+- [x] proper sfampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
+- [x] dont return full orbits, have as a toggle with default False
+
+# Abstract  
 ---
 With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
 
@@ -15,23 +23,29 @@ Figure out a sort of pipeline/framework for broad (yet accurate) analysis of whe
 
 Using [[FIRE]] to make a map of the milkyway and combining that with kinematics from the evolved systems due to kicks to create a dataset showing the paths and trajectories (both in evolution and in space)
 
+# Ideas
+---
+- Take the stellar particles, map them each as posydon solar populations based off of the particles total mass
+
 ## Possible final demo/results
 ---
-- 3d heatmap of bhs in the MW
-- firefly visualization of all the disrupted bhs and their vectors
+- Synthetic catalog of BHs in the MW, with regions where microlensing is more probable 
+- 3d heatmap of BHs in the MW
 - some type of script or tool where you plug in some parameters about the system and it returns the most similar simulated candidates  
+- firefly(?) visualization of all the disrupted bhs and their vectors 
 
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
-- [ ] Look into FIRE, specifically [[milkyway]] models 
+- [x] Look into FIRE, specifically [[milkyway]] models 
 - [ ] Gaia BH1-2 paper.
-- [ ] Lecture
-## Questions 
+- [x] Lecture
+# Current questions 
 ---
-- Do we wanna have a large general simulation like that of previous projects, where its our ten million, or do we wanna fit the formation rate of the stars to a prescription similar of that to fire. This is important with specifically disrupted and off-disk BHs and system, where the formation rate and date is key. 
-	- Although, I doubt a constant formation rate is *too* bad, it also seems easy enough to avoid and be more accurate 
-- what (and how) do we find initial velocities of systems that *don't* have natal kick velocities, assuming on disk is simple enough, but saying something originates from say a globular cluster, how do we account that? 
+- Should we take a sub-sample of fire sim particles, or, does it make more sense to instead treat each particle as one system?
+- Should we really evolve from the entire POSY grid? we really only need a couple of select columns, so it feels like a bit of io overkill to do the entire thing
+- Do we want to use the previous script? I'm really tempted to tear it down and start over, as a class based system using np.arrays would probably be much faster on a larger scale (and easier to track), and restarting might be easier then trying to morph the code
+- what FIRE dataset provides the actual initial velocities and positions?
 # Pipeline Possibilities
 ---
 ## POSYDON to FIRE 
@@ -43,11 +57,11 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 **Pros**
 - By far the most accurate method of doing this, both metallicity and position wise
 - Doesn't require a large quantity of POSY sims, instead can use "master" sims 
-- Very very very parrelizable 
+- Very very very parallelizable  
 **Cons**
 - Hell of a lot of star particles...
 	- Could use some type of binning method to low the resolution of the FIRE sim (or only select 1% of them)
-		- Gizmo Read has subsampling function already :)
+		- Gizmo Read has sub-sampling function already :)
 	- 
 - The middle "mean" interpretation for where the BH SNe happened may be a little too inaccurate?
 ![[Drawing 2026-06-08 14.35.12.excalidraw|16000]]

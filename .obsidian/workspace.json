@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "bcaf531b9a8f9d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,13 +264,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bcaf531b9a8f9d3f",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "conflict-files-obsidian-git.md",
+    "questions for FIRE people.md",
+    "college panel.md",
+    "Wikipedia/Magnetorotational instability.md",
+    "W25 FIRE Meeting.md",
+    "Pasted image 20260610140250.png",
+    "Gizmo Read.md",
+    "GIZMO.md",
+    "Dashboard/_cache/apod-2026-06-18.json",
+    "Dashboard/_cache/apod-2026-06-16.json",
+    "Dashboard/_cache/apod-2026-06-15.json",
+    "Dashboard/_cache/apod-2026-06-14.json",
+    "Dashboard/_cache/apod-2026-06-13.json",
+    "Dashboard/_cache/apod-2026-06-12.json",
+    "Dashboard/_cache/apod-2026-06-10.json",
+    "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",
+    "Dashboard/_cache/apod-2026-06-22.json",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "W24 Ilia Meeting.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
-    "conflict-files-obsidian-git.md",
-    "Dashboard/Home.md",
     "Pasted image 20260608163601.png",
     "Pasted image 20260608163133.png",
     "Pasted Image 20260608125938_411.png",
@@ -276,28 +306,12 @@
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "Pasted image 20260606210558.png",
     "Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
-    "Obsidian.md",
-    "Low mass stellar evolution.md",
-    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
     "Excalidraw",
-    "Dashboard/_cache/apod-2026-06-06.json",
-    "Dashboard/_cache/apod-2026-06-05.json",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
-    "Dashboard/_cache/apod-2026-06-07.json",
-    "Paper Notes/Video - Jessica Lu (UCB/Isolated Black Holes in the MW (VideoJessicaLu).md",
     "Pasted image 20260604160618.png",
     "Pasted image 20260604160107.png",
     "Scott_Gaudi__single_lens_animation.gif",
-    "Pasted image 20260604155322.png",
-    "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",
-    "Paper Notes/Video - Jessica Lu (UCB",
-    "Dashboard/_cache/apod-2026-06-04.json",
-    "Research",
-    "Dashboard/_cache/apod-2026-06-03.json",
-    "Dashboard/_cache/apod-2026-05-29.json",
-    "RL Art Gallery.md",
-    "gravitational lensing.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

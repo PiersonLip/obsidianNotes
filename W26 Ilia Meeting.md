@@ -16,7 +16,7 @@ tags:
 ![[POSYDON + FIRE BH Prediction Pipeline#To-do]]
 ## FIRE Data 
 ---
-![[Pasted image 20260623133455.png# screen]]
+![[Pasted image 20260623144951.png# screen]]
 ## Preliminary Results 
 ---
 ### Scattered Systems 

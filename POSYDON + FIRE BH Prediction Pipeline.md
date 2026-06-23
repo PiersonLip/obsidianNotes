@@ -20,7 +20,8 @@ tags:
 - [x] dont return full orbits, have as a toggle with default False
 
 
-## analytical 
+## Analytical
+---
 - [ ] how is it sampling from posydon 
 - [ ] how is SFH calculated/dealt with 
 - [ ] how do they distribute the posydon grid *onto* the galaxy model 

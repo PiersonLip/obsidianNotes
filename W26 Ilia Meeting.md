@@ -26,6 +26,6 @@ tags:
 ### Neat Orbits
 ---
 Gala integrated with bovy2014 treating kicks + fire particle data as initial vector
-![[orbit_57.gif# screen]]![[orbit_15.gif# screen]]
+![[orbit_57.gif]]![[orbit_15.gif# screen]]
 ![[Pasted image 20260623133937.png# screen]]
 ![[Pasted image 20260623133959.png# screen]]

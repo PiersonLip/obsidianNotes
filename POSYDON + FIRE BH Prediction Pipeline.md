@@ -3,9 +3,15 @@ tags:
   - astro-notes/research
   - POSYDON_FireProject
 ---
-# To-do
 
-^4b46a5
+
+# To-do ^4b46a5
+## Analytical
+---
+- [ ] how is it sampling from posydon 
+- [ ] how is SFH calculated/dealt with 
+- [ ] how do they distribute the posydon grid *onto* the galaxy model 
+## Olympus
 ---
 - [ ] Better potentials
 - [ ] setup with slurm
@@ -18,13 +24,6 @@ tags:
 - [ ] if disrupted, "ignore" the kick
 - [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
-
-
-## Analytical
----
-- [ ] how is it sampling from posydon 
-- [ ] how is SFH calculated/dealt with 
-- [ ] how do they distribute the posydon grid *onto* the galaxy model 
 # Abstract  
 ---
 With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.

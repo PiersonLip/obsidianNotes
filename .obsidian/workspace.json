@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fbcb7203d5a9fb9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2bcf033c851f22c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POSYDON + FIRE BH Prediction Pipeline"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125,
-    "collapsed": true
+    "width": 542.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -287,6 +266,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "orbit_15.gif",
+    "orbit_57.gif",
+    "Pasted image 20260623133614.png",
+    "Pasted image 20260623133455.png",
+    "Pasted image 20260623133329.png",
     "conflict-files-obsidian-git.md",
     "W26 Ilia Meeting.md",
     "Introduction to Binary Stars Script.md",
@@ -324,15 +308,10 @@
     "Dashboard/_cache/apod-2026-06-08.json",
     "Wikipedia/Rossiter–McLaughlin effect.md",
     "Low mass stellar evolution.md",
-    "Excalidraw/FIREtoPOSYPipeline.excalidraw.md",
     "Pasted Image 20260608125938_411.png",
     "Dashboard/_cache/apod-2026-06-07.json",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
-    "Pasted image 20260606210558.png",
-    "Pasted image 20260604155322.png",
-    "Scott_Gaudi__single_lens_animation.gif",
-    "Pasted image 20260604160618.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

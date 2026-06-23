@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,10 +285,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "ebe4b0aee4cca989",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "W26 Ilia Meeting.md",
     "conflict-files-obsidian-git.md",
+    "W26 Ilia Meeting.md",
     "Introduction to Binary Stars Script.md",
     "Dashboard/_cache/apod-2026-06-22.json",
     "POSYDON + FIRE BH Prediction Pipeline.md",

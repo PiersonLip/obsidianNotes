@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -266,6 +267,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Pasted image 20260623133959.png",
+    "Pasted image 20260623133937.png",
     "orbit_15.gif",
     "orbit_57.gif",
     "Pasted image 20260623133614.png",
@@ -310,8 +313,6 @@
     "Low mass stellar evolution.md",
     "Pasted Image 20260608125938_411.png",
     "Dashboard/_cache/apod-2026-06-07.json",
-    "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
-    "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

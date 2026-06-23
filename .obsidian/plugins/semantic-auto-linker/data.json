@@ -66102,7 +66102,7 @@
       "path": "W26 Ilia Meeting.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1782239848818,
+      "mtime": 1782240048201,
       "sourceText": "W26 Ilia Meeting\nGitHub Repo Updates --- Done --- - Matching and sampling POSYDON data to FIRE based on metallicity and formation time - basic integration to hubble time (incorrect potential, using bovy2014, around ~4kpc of error, treats both kicks as one vector, so only one integration) - \"fi...",
       "summary": "GitHub Repo Updates --- Done --- - Matching and sampling POSYDON data to FIRE based on metallicity and formation time - basic integration to hubble time (incorrect potential, using bovy2014, around ~4kpc of error, treats both kicks as one vector, so only one integration) - \"fi...",
       "embedding": [
@@ -66491,7 +66491,7 @@
         0.01748313707581227,
         0
       ],
-      "updatedAt": 1782239854065
+      "updatedAt": 1782240051766
     }
   },
   "vaultAnalysisSnapshot": null,

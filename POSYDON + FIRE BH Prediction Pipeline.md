@@ -15,6 +15,7 @@ tags:
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
+- [ ] metallicity distro from fire snapshot 300
 - [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
 

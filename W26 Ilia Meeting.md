@@ -17,7 +17,6 @@ tags:
 ## FIRE Data 
 ---
 ![[Pasted image 20260623133455.png# screen]]
-
 ## Preliminary Results 
 ---
 ### Scattered Systems 

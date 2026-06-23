@@ -31,6 +31,12 @@
     "editor:insert-horizontal-rule"
   ],
   "promptDelete": false,
+<<<<<<< HEAD
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "vimMode": false
+=======
   "readableLineLength": false,
   "showLineNumber": false
+>>>>>>> obsidianNotes/master
 }

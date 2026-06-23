@@ -4,6 +4,9 @@ tags:
   - POSYDON_FireProject
 ---
 # To-do
+
+^4b46a5
+
 ---
 - [ ] Better potentials
 - [ ] setup with slurm
@@ -12,7 +15,7 @@ tags:
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
-- [x] proper sfampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
+- [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
 
 # Abstract  
@@ -60,7 +63,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 - Very very very parallelizable  
 **Cons**
 - Hell of a lot of star particles...
-	- Could use some type of binning method to low the resolution of the FIRE sim (or only select 1% of them)
+	- Could use some type of binning method to low thbse resolution of the FIRE sim (or only select 1% of them)
 		- Gizmo Read has sub-sampling function already :)
 	- 
 - The middle "mean" interpretation for where the BH SNe happened may be a little too inaccurate?

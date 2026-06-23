@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "W26 Ilia Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "W26 Ilia Meeting"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fbcb7203d5a9fb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2bcf033c851f22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           }
         ]
@@ -268,6 +288,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "POSYDON + FIRE BH Prediction Pipeline.md",
+    "W26 Ilia Meeting.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-18.json",
     "FIRE.md",

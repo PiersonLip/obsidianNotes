@@ -33,8 +33,7 @@
               "title": "bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +277,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "81e21c63e61e0699",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "bns-offset vs PosyFIRE.md",
     "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+    "bns-offset vs PosyFIRE.md",
     "Dashboard/Home.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "W26 Ilia Meeting.md",

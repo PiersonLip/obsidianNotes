@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "bns-offset vs PosyFIRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "bns-offset vs PosyFIRE"
             }
           }
         ]
@@ -267,10 +267,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "bns-offset vs PosyFIRE.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "W26 Ilia Meeting.md",
     "Dashboard/_cache/apod-2026-06-23.json",
-    "Dashboard/Home.md",
     "Vicky Group People.md",
     "Bases/Glossary.base",
     "Wikipedia/CV.md",

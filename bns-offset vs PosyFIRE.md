@@ -4,7 +4,10 @@ Pipeline
 ![[bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw]]
 ## Galaxy Modeling 
 ---
+Models a very basic galaxy based on empirical relationships, uses these relationships to evolve the model in time.
+
 ```python
+# For a spheroidal NGC4993-like potential
 host_cfg = {
 "galaxy_type": "spheroid", # or "spheroid" #Gaspari+2024, Table 1, Column 2
 "MB": -19.12, #Gaspari+2024, Table 1, Column 5

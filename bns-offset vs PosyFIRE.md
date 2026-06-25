@@ -19,4 +19,4 @@ host_cfg = {
 
 ## Disclaimers
 --- 
-The entire script, and the reasoning behind it, is fully ai, so need to put 
+The entire script, and the reasoning behind it, is fully ai, so need to put in the work making sure that it is actually working and not hallucinating 

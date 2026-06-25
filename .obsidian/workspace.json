@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "bns-offset vs PosyFIRE"
             }
+          },
+          {
+            "id": "81e21c63e61e0699",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +278,11 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "81e21c63e61e0699",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
     "bns-offset vs PosyFIRE.md",
+    "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+    "Dashboard/Home.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "W26 Ilia Meeting.md",
     "Dashboard/_cache/apod-2026-06-23.json",
@@ -312,7 +326,6 @@
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Excalidraw/Drawing 2026-06-08 14.46.56.excalidraw.md",
-    "Excalidraw/Drawing 2026-06-08 14.34.51.excalidraw.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -2939,11 +2939,25 @@
         "filePath": "bns-offset vs PosyFIRE.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 10,
+            "c": 86
+          }
+        ],
         "id": 164
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 165
       }
     ],
-    "wholeVaultWordCount": 21785,
-    "wholeVaultCharCount": 151413
+    "wholeVaultWordCount": 21795,
+    "wholeVaultCharCount": 151499
   }
 }

@@ -78,7 +78,8 @@
       "2026-05-27",
       "2026-06-02",
       "2026-05-28",
-      "2026-06-06"
+      "2026-06-06",
+      "2026-06-25"
     ],
     "dailyActivity": [
       {
@@ -2519,6 +2520,11 @@
             "timeKey": "11:00",
             "w": 47,
             "c": 242
+          },
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 93
           }
         ],
         "id": 140
@@ -2603,9 +2609,566 @@
         "charCountStart": 216,
         "changes": [],
         "id": 146
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Excalidraw/POSYtoFIREPipleine.excalidraw.md",
+        "wordCountStart": 524,
+        "charCountStart": 16864,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "questions for FIRE people.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 143
+          }
+        ],
+        "id": 148
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "questions for FIRE people.md",
+        "wordCountStart": 14,
+        "charCountStart": 143,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "W25 FIRE Meeting.md",
+        "wordCountStart": 85,
+        "charCountStart": 537,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "FIRE.md",
+        "wordCountStart": 276,
+        "charCountStart": 2067,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "12:10",
+            "w": 10,
+            "c": 109
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 847,
+        "charCountStart": 5211,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 128
+          },
+          {
+            "timeKey": "15:15",
+            "w": 16,
+            "c": 89
+          },
+          {
+            "timeKey": "17:05",
+            "w": 12,
+            "c": 78
+          },
+          {
+            "timeKey": "17:15",
+            "w": 7,
+            "c": 33
+          },
+          {
+            "timeKey": "17:20",
+            "w": 21,
+            "c": 96
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 924,
+        "charCountStart": 5638,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:30",
+            "w": 13,
+            "c": 67
+          },
+          {
+            "timeKey": "14:40",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 155
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 935,
+        "charCountStart": 5706,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "13:25",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "17:05",
+            "w": 8,
+            "c": 48
+          },
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 38
+          },
+          {
+            "timeKey": "17:45",
+            "w": 23,
+            "c": 125
+          },
+          {
+            "timeKey": "17:50",
+            "w": 7,
+            "c": 40
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "18:10",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "W26 Ilia Meeting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 32,
+            "c": 291
+          },
+          {
+            "timeKey": "13:25",
+            "w": 42,
+            "c": 271
+          },
+          {
+            "timeKey": "13:30",
+            "w": 14,
+            "c": 137
+          },
+          {
+            "timeKey": "13:35",
+            "w": 58,
+            "c": 426
+          },
+          {
+            "timeKey": "13:40",
+            "w": 2,
+            "c": 40
+          },
+          {
+            "timeKey": "14:00",
+            "w": -1,
+            "c": -8
+          },
+          {
+            "timeKey": "14:30",
+            "w": -1,
+            "c": -25
+          },
+          {
+            "timeKey": "14:40",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "14:45",
+            "w": -5,
+            "c": -45
+          },
+          {
+            "timeKey": "14:50",
+            "w": 5,
+            "c": 45
+          }
+        ],
+        "id": 158
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 104,
+        "charCountStart": 745,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": -104,
+            "c": -745
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "Wikipedia/CV.md",
+        "wordCountStart": 29,
+        "charCountStart": 323,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 25,
+            "c": 153
+          },
+          {
+            "timeKey": "14:55",
+            "w": 26,
+            "c": 189
+          }
+        ],
+        "id": 160
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "Vicky Group People.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 25,
+            "c": 192
+          }
+        ],
+        "id": 161
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "POSYDON + FIRE BH Prediction Pipeline.md",
+        "wordCountStart": 981,
+        "charCountStart": 5978,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 5,
+            "c": 46
+          },
+          {
+            "timeKey": "14:35",
+            "w": 15,
+            "c": 151
+          },
+          {
+            "timeKey": "14:40",
+            "w": 11,
+            "c": 106
+          },
+          {
+            "timeKey": "15:30",
+            "w": 5,
+            "c": 36
+          },
+          {
+            "timeKey": "15:35",
+            "w": 23,
+            "c": 130
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 199,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "bns-offsets vs PosyFIRE.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 10,
+            "c": 86
+          },
+          {
+            "timeKey": "12:55",
+            "w": 59,
+            "c": 410
+          },
+          {
+            "timeKey": "13:00",
+            "w": 56,
+            "c": 349
+          },
+          {
+            "timeKey": "13:05",
+            "w": 200,
+            "c": 1327
+          },
+          {
+            "timeKey": "13:10",
+            "w": 76,
+            "c": 441
+          },
+          {
+            "timeKey": "13:15",
+            "w": 2,
+            "c": 5
+          },
+          {
+            "timeKey": "13:20",
+            "w": 34,
+            "c": 198
+          },
+          {
+            "timeKey": "13:25",
+            "w": 20,
+            "c": 106
+          },
+          {
+            "timeKey": "13:30",
+            "w": 27,
+            "c": 248
+          },
+          {
+            "timeKey": "13:35",
+            "w": 80,
+            "c": 465
+          },
+          {
+            "timeKey": "13:40",
+            "w": 66,
+            "c": 364
+          },
+          {
+            "timeKey": "13:45",
+            "w": 28,
+            "c": 183
+          },
+          {
+            "timeKey": "13:50",
+            "w": 14,
+            "c": 63
+          },
+          {
+            "timeKey": "13:55",
+            "w": 53,
+            "c": 331
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "14:15",
+            "w": 2,
+            "c": 6
+          },
+          {
+            "timeKey": "14:20",
+            "w": 37,
+            "c": 204
+          },
+          {
+            "timeKey": "14:25",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "14:30",
+            "w": 7,
+            "c": 40
+          },
+          {
+            "timeKey": "15:50",
+            "w": 24,
+            "c": 140
+          },
+          {
+            "timeKey": "15:55",
+            "w": 148,
+            "c": 878
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "W24 Ilia Meeting.md",
+        "wordCountStart": 343,
+        "charCountStart": 2192,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
+        "wordCountStart": 611,
+        "charCountStart": 21475,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "General Notes/Proper Motion.md",
+        "wordCountStart": 44,
+        "charCountStart": 288,
+        "changes": [],
+        "id": 169
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Wikipedia/Degenerate matter.md",
+        "wordCountStart": 176,
+        "charCountStart": 1214,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 4,
+            "c": 53
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "degeneracy pressure.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 171
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 237,
+        "charCountStart": 1667,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
+        "wordCountStart": 272,
+        "charCountStart": 1810,
+        "changes": [],
+        "id": 173
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "2026-06-02.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 174
       }
     ],
-    "wholeVaultWordCount": 21369,
-    "wholeVaultCharCount": 148463
+    "wholeVaultWordCount": 22790,
+    "wholeVaultCharCount": 157778
   }
 }

@@ -1,6 +1,6 @@
 g## Description
 
-Simulation snapshots at z = 0 from the Latte suite of FIRE-2 cosmological zoom-in baryonic simulations of Milky Way-mass galaxies, part of the Feedback In Realistic Environments (FIRE) simulation project (https://fire.northwestern.edu).
+Simulation snapshots at z = 0 from the Latte suite of FIRE-2 cosmological zoom-in baryonic simulations of Milky Way-mass galaxies, part of the Feedback In Realistic Environments ([[FIRE]]) simulation project (https://fire.northwestern.edu).
 
 This current public release includes simulations m12f, m12i, and m12m.
 These galaxies were used to generate the Ananke synthetic Gaia DR2-like surveys.
@@ -12,7 +12,7 @@ contact: Andrew Wetzel <arwetzel@gmail.com>
 ## Contents
 
 ### gizmo_read
-python package for reading Gizmo simulation snapshot files at z = 0. Also contains a jupyter notebook tutorial to walk you through reading in a snapshot and manipulating data. This collection includes a static version of this python package, but I recommend that you use the up-to-date Git (version control) version, with further documentation, available at: https://bitbucket.org/awetzel/gizmo_read
+python package for reading [[GIZMO]] simulation snapshot files at z = 0. Also contains a jupyter notebook tutorial to walk you through reading in a snapshot and manipulating data. This collection includes a static version of this python package, but I recommend that you use the up-to-date Git (version control) version, with further documentation, available at: https://bitbucket.org/awetzel/gizmo_read
 
 
 ### m12f, m12i, m12m - directories for 3 simulations
@@ -41,14 +41,14 @@ Each of the Latte simulations represents a zoom-in region around a single Milky 
 
 Within the zoom-in region, the particle mass resolution is 35,000 M_sun for dark matter and 7070 M_sun for gas and stars (though because of stellar mass loss, at z = 0 a typical star particle has m_star ~ 5000 M_sun, and individual gas particle masses can be up to 3x higher). Dark matter and stars have fixed gravitational softening of 40 pc and 4 pc (Plummer equivalent), respectively, and the minimum kernel/softening (interparticle) length reached for gas in each simulation is 1 pc.
 
-The Latte suite of FIRE-2 simulations produces galaxies with many properties that reasonably agree with those of the Milky Way, M31, and similar-mass galaxies at z ~ 0, without any 'fine-tuning', including: their stellar-to-halo mass relation, stellar thin plus thick disk morphology and metallicity gradients, HI gas kinematics, giant molecular clouds, circum-galactic medium observations of HI and OVI, realistic populations of satellite dwarf galaxies that do not suffer from the 'missing satellites' or 'too-big-to-fail' problems and have realistic metallicity distributions, and stellar halos. Using the FIRE-1 simulations, which implemented the same stellar physics (though with somewhat different numerical implementations) and used a SPH hydrodynamics solver, we showed that energy and momentum injection by stellar feedback on the scale of star-forming regions as modeled in FIRE self-consistently produces a Kennicutt-Schmidt relation, galactic winds, and high-redshift circum-galactic medium properties in broad agreement with observational constraints. See [Sanderson et al 2018](https://arxiv.org/abs/1806.10564v1) and references therein.
+The Latte suite of FIRE-2 simulations produces galaxies with many properties that reasonably agree with those of the Milky Way, M31, and similar-mass galaxies at z ~ 0, without any 'fine-tuning', including: their stellar-to-halo mass relation, stellar thin plus thick disk morphology and metallicity gradients, HI gas kinematics, giant molecular clouds, circum-galactic medium observations of HI and OVI, realistic populations of satellite dwarf galaxies that do not suffer from the 'missing satellites' or 'too-big-to-fail' problems and have realistic metallicity distributions, and stellar halos. Using the FIRE-1 simulations, which implemented the same stellar physics (though with somewhat different numerical implementations) and used a SPH hydrodynamics solver, we showed that energy and momentum injection by stellar feedback on the scale of star-forming regions as modeled in FIRE self-consistently produces a Kennicutt-Schmidt relation, galactic [[winds]], and high-redshift circum-galactic medium properties in broad agreement with observational constraints. See [Sanderson et al 2018](https://arxiv.org/abs/1806.10564v1) and references therein.
 
 
 ---
 ## Simulation snapshots
 
 ### Units
-The Latte simulations were run using the Gizmo code. Gizmo stores quantities in snapshot files using the following units by default:
+The Latte simulations were run using the [[Gizmo Read|Gizmo]] code. Gizmo stores quantities in snapshot files using the following units by default:
 * mass in [10^10 h^-1 M_sun]
 * position, distance, radius in [h^-1 kpc comoving]
 * velocity in [sqrt(scalefactor) km/s]

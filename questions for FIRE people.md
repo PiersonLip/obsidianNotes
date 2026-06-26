@@ -5,4 +5,4 @@ tags:
 ---
 # Questions 
 --- 
-- What FIRE sim provides the actual positions and velocities? 
+- What [[FIRE]] sim provides the actual positions and velocities? 

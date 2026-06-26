@@ -33,7 +33,7 @@ tags:
 ---
 
 - Jets are powered by the spin of the central BH and B field strength
-- For GrBs to be produce the accretion disk needs to be in a [[MAD]] state.
+- For [[GRBs]] to be produce the accretion disk needs to be in a [[MAD]] state.
 - Neutrinos are thought to be a source of `cooling' or reduction of energy from the systems, as they are produced in the core during collapses and can easily escape, drawing energy away from the system
 - This paper proposes the effects of this neutrino cooling on the system
 - Authors model two versions, one with constant density, and one with a `power slope radius,' meaning that density various with radius. This affects accretion rates and shows that faster spinning systems accrete slower

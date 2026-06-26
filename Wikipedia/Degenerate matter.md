@@ -17,6 +17,9 @@ This is important with [[White Dwarf|white dwarfs]] and [[NS|neutron stars]] as 
 
 This is typically modeled as a [[fermi gas]], which means that they are under the effects of the [[Pauli Exclusion Principle|Pauli-Exclusion-Principle]], and there is a limited number of low energy [[quantum states]]
 
+## Degeneracy Pressure [@Degeneratematter2026]
+---
 When all of these low energy quantum states are filled, this is referred to as [[full degeneracy]]. Because all of these low energy states are filled, any more particles that are added to the system (*or if the volume of the system decreases*), must now take on higher energy states. This requires an inwards force and energy.
 
 Note that this is *independent* of the temperature of the star. 
+

@@ -8,4 +8,4 @@ tags:
 # SMBH
 
 Super-Massive [[black hole]]
- Black hole with a mass *greater* than 100,000 solar masses
+ [[black hole]] with a mass *greater* than 100,000 solar masses

@@ -156,7 +156,7 @@ Currently, $\dot{a} > 0$, thus the universe is expanding
 - $$\Omega_{m,0} ∼ .3$$
 - $$\Omega_{(bary,0)} ∼ .04$$
 - Relativistic particles
-- $$\Omega_{r,0} = \Omega_{cmb,0} + \Omega_{v,0} ∼ 8.4 × 10^{-5}$$
+- $$\Omega_{r,0} = \Omega_{[[CMB]],0} + \Omega_{v,0} ∼ 8.4 × 10^{-5}$$
 
 > [!equation] Behavior of nonrelatvistic partciles
 > <a id="nonrelparticles"></a>

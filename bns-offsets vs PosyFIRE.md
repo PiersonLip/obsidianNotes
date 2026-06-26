@@ -53,6 +53,9 @@ Cons
 
 # FIRE
 ---
+## Notes 
+---
+- Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* )
 ## Pipeline 
 ---
 ![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]

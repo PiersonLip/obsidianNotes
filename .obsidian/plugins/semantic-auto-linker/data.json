@@ -67287,7 +67287,7 @@
       "path": "bns-offsets vs PosyFIRE.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1782495678611,
+      "mtime": 1782496074633,
       "sourceText": "bns-offsets vs PosyFIRE\nOverview --- Summary --- The only real key difference between the two methods is how we get the initial positions and velocities for integrating with Gala. Utilizing the more analytical dns-offset script allows for the entire project to be self-enclosed, and makes the full sco...",
       "summary": "Overview --- Summary --- The only real key difference between the two methods is how we get the initial positions and velocities for integrating with Gala. Utilizing the more analytical dns-offset script allows for the entire project to be self-enclosed, and makes the full sco...",
       "embedding": [
@@ -67676,7 +67676,7 @@
         0,
         0
       ],
-      "updatedAt": 1782495685915
+      "updatedAt": 1782496077949
     },
     "2026-06-02.md": {
       "path": "2026-06-02.md",

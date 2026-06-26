@@ -39,6 +39,7 @@ return orbit, x_final, y_final, z_final
 - We don't need to actually do all of the modeling of the galaxy's evolution (i.e. size, metallicity, star density, velocity, etc)
 - more accurate results 
 ### cons 
+- (currently) does one integration, combining both kicks and initial vel/pos into one vector
 - need to model our own potential 
 - How do we scale (and do we need to) from our final model to actual mw rates [^2]
 - For it to be the highest resolution, we'd need to use all of the snapshots (but could easily sub-sample them for lower resolution, i.e. use snapshot 0, 50, 100, 150, etc)
@@ -46,7 +47,8 @@ return orbit, x_final, y_final, z_final
 ---
 ### Pros 
 - Already has some basic galaxy modeling* for initial position and velocities on formation
-- potential is already modeled and handled with gala 
+- potential is already modeled and handled with gala
+- (currently) three integrations $SN_{1} \rightarrow SN_{2} \rightarrow t \sim 13.8 \text{Gyr}$ 
 Cons 
 - Personally, I'm hesitant to fully trust the code. This is mostly due to how much of it is ai coded math that makes relatively large assumptions, would need to do a lot of in-depth verification of methodology
 - Currently written in a way that isn't super efficient on batch processing (i/o operations on entire posy grid)

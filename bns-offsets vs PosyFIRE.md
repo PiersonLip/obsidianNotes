@@ -124,4 +124,4 @@ The script, and the reasoning behind it, seems to be mostly ai, so definitely ne
 
 [^2]: I think this doesnt actually mater, if the final goal is just a density prediction, *overprediciting* the actual quantity of the BHs is a good thing, as it gives the final density map higher resolution`
 
-[^3]: this of course raises the issue of posydon grids being evolved longer then hubble time, however, I think if we just took the last timestep before hubble time, presented that as the "observable state", but also presented the rest of the posy gird that 
+[^3]: this of course raises the issue of posydon grids being evolved longer then hubble time, however, I think if we just took the last timestep before hubble time, presented that as the "observable state", but also presented the rest of the posy grid it would be fine

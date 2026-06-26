@@ -3210,7 +3210,13 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 199,
         "charCountStart": 1760,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": -37,
+            "c": -328
+          }
+        ],
         "id": 179
       },
       {
@@ -3278,9 +3284,17 @@
         "charCountStart": 11168,
         "changes": [],
         "id": 182
+      },
+      {
+        "date": "2026-06-26",
+        "filePath": "W26 Ilia Meeting.md",
+        "wordCountStart": 146,
+        "charCountStart": 1135,
+        "changes": [],
+        "id": 183
       }
     ],
-    "wholeVaultWordCount": 22895,
-    "wholeVaultCharCount": 158395
+    "wholeVaultWordCount": 22858,
+    "wholeVaultCharCount": 158067
   }
 }

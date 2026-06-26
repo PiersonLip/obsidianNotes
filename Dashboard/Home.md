@@ -16,15 +16,7 @@ const root = dv.container.createDiv({ cls: "dash-root" });
 const header = root.createDiv({ cls: "dash-header" });
 
 const headerP = header.createEl("p", { cls: "dash-muted" });
-headerP.createSpan({ text: `${window.moment().format("dddd, MMMM D · h:mm A")} · ` });
-const btn = headerP.createEl("button", { text: "📅 Open Today's Note", cls: "dash-muted" });
-btn.style.cursor = "pointer";
-btn.style.background = "none";
-btn.style.border = "none";
-btn.style.color = "inherit";
-btn.addEventListener("click", () => {
-  app.commands.executeCommandById("notebook-navigator:open-daily-note");
-});
+headerP.createSpan({ text: `${window.moment().format("dddd, MMMM D · h:mm A")}` });
 
 const layout = root.createDiv({ cls: "dash-layout" });
 const leftCol = layout.createDiv({ cls: "dash-col dash-col-left" });

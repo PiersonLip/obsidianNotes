@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "547fbf86d2ae36a1",
+        "id": "95c40a765ff01e68",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e3e2a23c251100",
+            "id": "a6c18d0611cc9286",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bns-offsets vs PosyFIRE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bns-offsets vs PosyFIRE"
+              "title": "New tab"
             }
           }
         ]
@@ -265,12 +261,13 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "f0e3e2a23c251100",
+  "active": "a6c18d0611cc9286",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-26 15.13.08.excalidraw.md",
+    "bns-offsets vs PosyFIRE.md",
     "Pasted image 20260626124936.png",
     "W26 Ilia Meeting.md",
     "Dashboard/Home.md",
-    "bns-offsets vs PosyFIRE.md",
     "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
     "fdxjfnhxdf.md",
@@ -312,7 +309,6 @@
     "Dashboard/_cache/apod-2026-06-14.json",
     "Dashboard/_cache/apod-2026-06-13.json",
     "Pasted image 20260610140250.png",
-    "Pasted image 20260608163601.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

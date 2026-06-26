@@ -11,6 +11,7 @@ aliases:
 ## Analytical
 ---
 - [ ] how is it sampling from POSYDON 
+- [ ] late type vs early type
 - [x] how is SFH calculated/dealt with 
 	- Uses POSYDON grid for SFR 
 - [x] how do they distribute the posydon grid *onto* the galaxy model 

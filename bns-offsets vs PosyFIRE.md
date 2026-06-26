@@ -123,8 +123,8 @@ That is an important conceptual point.
 ---
 The script, and the reasoning behind it, seems to be mostly ai, so definitely need to put in the work making sure that it is actually working and not hallucinating. There's things in the markdown explanation files that don't exist in the actual code itself, and vice versa
 
-[^1]: while it *says* it accounts for metallicity, it is not used for the sampling of the posydon grid (nor do i see it used in any other capacity(?), although some of the markdown references evolving redshift overtime, but (i think) there isnt actually a script which does that) 
+[^1]: while it *says* it accounts for metallicity, it is not used for the sampling of the posydon grid (nor do i see it used in any other capacity(?), although some of the markdown references evolving red-shift overtime, but (i think) there isnt actually a script which does that) 
 
 [^2]: I think this doesnt actually mater, if the final goal is just a density prediction, *overprediciting* the actual quantity of the BHs is a good thing, as it gives the final density map higher resolution`
 
-[^3]: this of course raises the issue of posydon grids being evolved longer then hubble time, however, I think if we just took the last timestep before hubble time, presented that as the "observable state", but also presented the rest of the posy grid it would be fine
+[^3]: this of course raises the issue of posydon grids being evolved longer then Hubble time, however, I think if we just took the last time-step before Hubble time, presented that as the "observable state", but also presented the rest of the posy grid it would be fine

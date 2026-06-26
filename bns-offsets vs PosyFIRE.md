@@ -66,7 +66,7 @@ Cons
 ![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]
 # bns-offsets
 ---
-cant change legend without quest :/
+Cant change legend without quest :/
 ![[Pasted image 20260626124936.png# screen]] 
 ## Pipeline
 ---

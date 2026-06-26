@@ -54,7 +54,7 @@ Cons
 - Currently written in a way that isn't super efficient on batch processing (i/o operations on entire posy grid)
 - Initial position and velocity sampling is ***not*** related (besides initial time) to the POSYDON grid. I.e system metallicty/mass is not taken into account when drawing samples
 - Doesn't scale to galactic rates (but also doesn't really need to)
-- uses much simpler birth position distributions   
+- uses much simpler birth position distributions 
 
 # FIRE
 ---

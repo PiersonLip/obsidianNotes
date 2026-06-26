@@ -109,7 +109,6 @@ M_{\star,0} \rightarrow M_\star(z) \rightarrow R_{\rm half}(z), R_{\rm half}^{\r
 > ### Consequence
 > In the current script, `MB(z)` is fundamentally a **halo anchor**, not a luminosity-evolution prediction.
 That is an important conceptual point.
-
 > [!quote]
 > ## 11. Physical implications for binary seeding
 > With increasing redshift, the script generally produces:

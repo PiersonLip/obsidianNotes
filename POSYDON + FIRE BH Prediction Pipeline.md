@@ -6,6 +6,8 @@ aliases:
   - Olympus
 ---
 # To-do ^4b46a5
+---
+- [ ] Differences in galaxy modeling and evolution between scripts
 ## Analytical
 ---
 - [ ] how is it sampling from POSYDON 

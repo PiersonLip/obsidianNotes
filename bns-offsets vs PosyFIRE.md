@@ -55,7 +55,7 @@ Cons
 ---
 ## Notes 
 ---
-- Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* )
+- Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]
 ## Pipeline 
 ---
 ![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]
@@ -123,3 +123,5 @@ The script, and the reasoning behind it, seems to be mostly ai, so definitely ne
 [^1]: while it *says* it accounts for metallicity, it is not used for the sampling of the posydon grid (nor do i see it used in any other capacity(?), although some of the markdown references evolving redshift overtime, but (i think) there isnt actually a script which does that) 
 
 [^2]: I think this doesnt actually mater, if the final goal is just a density prediction, *overprediciting* the actual quantity of the BHs is a good thing, as it gives the final density map higher resolution`
+
+[^3]: this of course raises the issue of posydon grids being evolved longer then hubble time, however, I think if we just took the last timestep before hubble time, presented that as the "observable state", but also presented the rest of the posy gird that 

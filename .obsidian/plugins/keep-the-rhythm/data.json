@@ -2963,7 +2963,7 @@
       },
       {
         "date": "2026-06-25",
-        "filePath": "bns-offsets vs PosyFIRE.md",
+        "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3235,7 +3235,7 @@
       },
       {
         "date": "2026-06-26",
-        "filePath": "bns-offsets vs PosyFIRE.md",
+        "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
         "wordCountStart": 942,
         "charCountStart": 5843,
         "changes": [
@@ -3306,8 +3306,8 @@
           },
           {
             "timeKey": "19:25",
-            "w": 12,
-            "c": 74
+            "w": -35,
+            "c": -182
           }
         ],
         "id": 181
@@ -3351,7 +3351,7 @@
         "id": 185
       }
     ],
-    "wholeVaultWordCount": 22925,
-    "wholeVaultCharCount": 158510
+    "wholeVaultWordCount": 22878,
+    "wholeVaultCharCount": 158254
   }
 }

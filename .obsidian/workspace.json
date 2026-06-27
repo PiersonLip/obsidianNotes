@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bns-offsets vs PosyFIRE.md",
+                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bns-offsets vs PosyFIRE"
+              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
             }
           }
         ]
@@ -268,7 +268,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard/Home.md",
-    "bns-offsets vs PosyFIRE.md",
+    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Excalidraw/Drawing 2026-06-26 15.13.08.excalidraw.md",

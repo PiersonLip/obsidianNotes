@@ -131,6 +131,6 @@ That is an important conceptual point.
 [^3]: this of course raises the issue of posydon grids being evolved longer then Hubble time, however, I think if we just took the last time-step before Hubble time, presented that as the "observable state", but also presented the rest of the posy grid it would be fine
 
 
-## Cogsworth
+# Cogsworth
 ---
-This, i sdefeu 
+This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using wang )  

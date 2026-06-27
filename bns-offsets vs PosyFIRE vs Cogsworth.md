@@ -133,4 +133,4 @@ That is an important conceptual point.
 
 # Cogsworth
 ---
-This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using )  
+This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using [@wagg2022]) and how it integrates everything (and handles disrupted, etc etc), however, Tom is already trying to get that working with POSYDON (according to Dean), and remaking the functionality seems odd. Could also just try and get it really integrated with POSYDON (and the llm i tried seems to have mostly (?) got that done)   

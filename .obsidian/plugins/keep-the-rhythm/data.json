@@ -3316,8 +3316,13 @@
           },
           {
             "timeKey": "19:35",
-            "w": -1,
-            "c": -5
+            "w": 27,
+            "c": 172
+          },
+          {
+            "timeKey": "19:40",
+            "w": 27,
+            "c": 152
           }
         ],
         "id": 181
@@ -3361,7 +3366,7 @@
         "id": 185
       }
     ],
-    "wholeVaultWordCount": 22913,
-    "wholeVaultCharCount": 158424
+    "wholeVaultWordCount": 22968,
+    "wholeVaultCharCount": 158753
   }
 }

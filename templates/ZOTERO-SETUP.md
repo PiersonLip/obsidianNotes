@@ -38,15 +38,13 @@ Then update matching `citekey` properties and `[@…]` in vault notes. Re-run **
 
 **Auto-export:** BBT currently writes `AstroNotes.bib` at the vault root. Quartz builds use `Bibliography/AstroNotes.bib` — in BBT, point auto-export at `Bibliography/AstroNotes.bib` if you want one canonical file (or keep copying/syncing both).
 
+After Zotero adds or updates entries, run **QuickAdd → Rebuild Bibliography** (merges into `Bibliography/all.bib`), then **Reload app without saving** (`Ctrl+R`). Or from a terminal: `Scripts/rebuild-all-bib.sh`.
+
 ## Wikipedia notes (not in Zotero)
 
 **QuickAdd → New Wikipedia Note** adds `@online{…}` to `Bibliography/sources.bib` and rebuilds `Bibliography/all.bib`.
 
-If a Wikipedia cite shows “No citation found” after creating the note, run **Pandoc Reference List: Refresh bibliography**, or:
-
-```bash
-cat Bibliography/AstroNotes.bib Bibliography/sources.bib > Bibliography/all.bib
-```
+If a Wikipedia cite shows “No citation found” after creating the note, rebuild `all.bib` (below) and reload Obsidian.
 
 Citekeys are auto-generated from the article title + year (e.g. `Electrondegeneracy2026`), not `auth.lower + year` (no author on Wikipedia).
 
@@ -55,11 +53,11 @@ Citekeys are auto-generated from the article title + year (e.g. `Electrondegener
 If you see **“No citation found for …”**, the bibliography path is missing or stale.
 
 1. Settings → **Pandoc Reference List** → **Bibliography file:** `Bibliography/all.bib`
-2. Regenerate after bib changes:
+2. Regenerate after bib changes (Zotero export does **not** do this automatically): **QuickAdd → Rebuild Bibliography**, or:
    ```bash
-   cat Bibliography/AstroNotes.bib Bibliography/sources.bib > Bibliography/all.bib
+   Scripts/rebuild-all-bib.sh
    ```
-3. Command palette → **Pandoc Reference List: Refresh bibliography**
+3. Reload Obsidian: **Reload app without saving** (`Ctrl+R`). There is no “Refresh bibliography” command in this plugin.
 4. Optional: set a **numeric CSL** (IEEE, Nature) so Reading view shows `[1]` instead of the raw citekey
 
 Vault config is in `.obsidian/plugins/obsidian-pandoc-reference-list/data.json`.

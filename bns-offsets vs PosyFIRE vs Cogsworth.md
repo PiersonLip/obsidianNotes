@@ -133,4 +133,4 @@ That is an important conceptual point.
 
 # Cogsworth
 ---
-This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using wang )  
+This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using )  

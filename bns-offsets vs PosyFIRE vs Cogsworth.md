@@ -7,11 +7,11 @@ tags:
 ---
 ## Summary 
 --- 
-The only real key difference between the two methods is how we get the initial positions and velocities for integrating with Gala.
+The only real key difference between the three methods is how we get the initial positions and velocities for integrating with Gala.
 
-Utilizing the more analytical dns-offset script allows for the entire project to be self-enclosed, and makes the full scope simpler, however creating and using a largely empirical galaxy model is both less accurate and places a lot of the validity of the results of the project on said model
+Utilizing the more analytical dns-offset script allows for the entire project to be self-enclosed, and makes the full scope simpler, however creating and using a largely empirical galaxy model is both less accurate and places a lot of the validity of the results of the project on said model.
 
-Using FIRE increases *logistical* complexity (i.e. getting access to the datasets, where to store them, etc etc), but actually greatly reduces the code complexity and (imo) makes major errors less likely. 
+Using FIRE increases *logistical* complexity (i.e. getting access to the datasets, where to store them, etc etc), but actually reduces the code complexity and (imo) makes major errors less likely. 
 
 Note that integrating with Gala is actually the easy part (see below). 
 ### Code Ex

@@ -3370,7 +3370,13 @@
         "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
         "wordCountStart": 1142,
         "charCountStart": 7041,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": -1,
+            "c": -5
+          }
+        ],
         "id": 186
       },
       {
@@ -3382,7 +3388,7 @@
         "id": 187
       }
     ],
-    "wholeVaultWordCount": 22971,
-    "wholeVaultCharCount": 158763
+    "wholeVaultWordCount": 22970,
+    "wholeVaultCharCount": 158758
   }
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
+              "title": "Home"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
     "bns-offsets vs PosyFIRE vs Cogsworth.md",
+    "Dashboard/Home.md",
     "Scripts/rebuild-all-bib.sh",
     "Scripts/rebuild-all-bib.js",
     "Scripts/bib-merge.js",

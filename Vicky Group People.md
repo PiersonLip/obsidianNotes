@@ -13,4 +13,6 @@ dean
 seth 
 - post doc
  - WD stuff
- 
+ ish 
+ - post doc
+ - 

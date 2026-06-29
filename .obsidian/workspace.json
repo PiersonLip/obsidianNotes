@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
+                "file": "Vicky Group People.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
+              "title": "Vicky Group People"
             }
           }
         ]
@@ -277,9 +277,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-29.json",
-    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Scripts/rebuild-all-bib.sh",
     "Scripts/rebuild-all-bib.js",
     "Scripts/bib-merge.js",

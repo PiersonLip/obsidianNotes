@@ -3414,11 +3414,36 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 162,
         "charCountStart": 1432,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 1,
+            "c": 1
+          }
+        ],
         "id": 190
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "symlink.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 6,
+            "c": 52
+          },
+          {
+            "timeKey": "13:40",
+            "w": 3,
+            "c": 19
+          }
+        ],
+        "id": 191
       }
     ],
-    "wholeVaultWordCount": 22973,
-    "wholeVaultCharCount": 158778
+    "wholeVaultWordCount": 22983,
+    "wholeVaultCharCount": 158851
   }
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symlink.md",
+                "file": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "symlink"
+              "title": "Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025)"
             }
           }
         ],
@@ -292,6 +292,7 @@
   },
   "active": "d4eff50023cc67ba",
   "lastOpenFiles": [
+    "FIRE.md",
     "symlink.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-30.json",
@@ -333,7 +334,6 @@
     "conflict-files-obsidian-git.md",
     "Introduction to Binary Stars Script.md",
     "Dashboard/_cache/apod-2026-06-22.json",
-    "FIRE.md",
     "W25 FIRE Meeting.md",
     "questions for FIRE people.md",
     "Excalidraw/POSYtoFIREPipleine.excalidraw.md",

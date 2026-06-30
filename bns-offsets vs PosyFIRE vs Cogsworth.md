@@ -131,7 +131,7 @@ This is solves all of the problems that we run into with the analytical model (i
 ---
 ## Summary
 ---
-Maybe
+Possibly more accurate for the final distribution   
 ## Pros vs Cons
 ---
 ### pros 

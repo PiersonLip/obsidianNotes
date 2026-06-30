@@ -3,9 +3,7 @@ tags:
   - astro-notes/research
   - POSYDON_FireProject
 ---
-# Overview 
----
-## Summary 
+# Abstract 
 --- 
 The only real key difference between the three methods is how we get the initial positions and velocities for integrating with Gala.
 
@@ -14,7 +12,7 @@ Utilizing the more analytical dns-offset script allows for the entire project to
 Using FIRE increases *logistical* complexity (i.e. getting access to the datasets, where to store them, etc etc), but actually reduces the code complexity and (imo) makes major errors less likely. 
 
 Note that integrating with Gala is actually the easy part (see below). 
-### Code Ex
+## Code Ex
 ---
 ```python
 w0 = gd.PhaseSpacePosition(
@@ -35,39 +33,23 @@ z_final = orbit.xyz[2, -1].to_value(u.kpc)
 
 return orbit, x_final, y_final, z_final
 ```
-## FIRE
+
+# bns-offsets
 ---
-### pros 
-- We don't need to actually do all of the modeling of the galaxy's evolution (i.e. size, metallicity, star density, velocity, etc)
-- more accurate results 
-### cons 
-- (currently) does one integration, combining both kicks and initial vel/pos into one vector
-- need to model our own potential 
-- How do we scale (and do we need to) from our final model to actual mw rates [^2]
-- For it to be the highest resolution, we'd need to use all of the snapshots (but could easily sub-sample them for lower resolution, i.e. use snapshot 0, 50, 100, 150, etc)
-## bns-offsets
+## Summary 
+---
+
+## Pros vs Cons 
 ---
 ### Pros 
 - Already has some basic galaxy modeling* for initial position and velocities on formation
 - potential is already modeled and handled with gala
 - (currently) three integrations $SN_{1} \rightarrow SN_{2} \rightarrow t \sim 13.8 \text{Gyr}$ 
 Cons 
-- Personally, I'm hesitant to fully trust the code. This is mostly due to how much of it is ai coded math that makes relatively large assumptions, would need to do a lot of in-depth verification of methodology
-- Currently written in a way that isn't super efficient on batch processing (i/o operations on entire posy grid)
 - Initial position and velocity sampling is ***not*** related (besides initial time) to the POSYDON grid. I.e system metallicty/mass is not taken into account when drawing samples
-- Doesn't scale to galactic rates (but also doesn't really need to)
-- uses much simpler birth position distributions 
-# FIRE
----
-## Notes 
----
-- Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]
-## Pipeline 
----
-![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]
-# bns-offsets
----
-Cant change legend without quest :/
+- Doesn't account for galaxy evolution, static model
+- Setup (as of 6/30) for mainly *non-milkyway* host galaxies
+
 ![[Pasted image 20260626124936.png# screen]] 
 ## Pipeline
 ---
@@ -133,4 +115,32 @@ That is an important conceptual point.
 
 # Cogsworth
 ---
+## Summary 
+---
 This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using [@wagg2022]) and how it integrates everything (and handles disrupted, etc etc), however, Tom is already trying to get that working with POSYDON (according to Dean), and remaking the functionality seems odd. Seems like it would be easier to just try and it integrated with POSYDON (and the llm i tried seems to have mostly (?) got that done). 
+
+## Pros vs Cons 
+---
+
+
+# FIRE
+---
+## Summary
+---
+Maybe
+## Pros vs Cons
+---
+### pros 
+- We don't need to actually do all of the modeling of the galaxy's evolution (i.e. size, metallicity, star density, velocity, etc)
+- more accurate results 
+### cons 
+- (currently) does one integration, combining both kicks and initial vel/pos into one vector
+- need to model our own potential 
+- How do we scale (and do we need to) from our final model to actual mw rates [^2]
+- For it to be the highest resolution, we'd need to use all of the snapshots (but could easily sub-sample them for lower resolution, i.e. use snapshot 0, 50, 100, 150, etc)
+## Notes 
+---
+- Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]
+## Pipeline 
+---
+![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]

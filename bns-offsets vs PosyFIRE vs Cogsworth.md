@@ -142,7 +142,7 @@ Possibly more accurate for a final distribution, due to the very accurate initia
 ### Cons 
 - need to figure out how we could model a possibly evolving potential 
 - How do we scale (and do we need to) from our final model to actual mw rates
-- For it to be the highest resolution, we'd need to use all of the snapshots, which are incredibly large[^2]
+- Fo![[Pasted image 20260630174305.png]]r it to be the highest resolution, we'd need to use all of the snapshots, which are incredibly large[^2]
 ## Notes 
 ---
 - Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]

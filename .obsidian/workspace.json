@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vicky Group People.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vicky Group People"
+              "title": "Home"
             }
           }
         ]
@@ -277,6 +277,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Vicky Group People.md",
     "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-29.json",
@@ -302,7 +303,6 @@
     "W24 Ilia Meeting.md",
     "Dashboard/_cache/apod-2026-06-25.json",
     "Dashboard/_cache/apod-2026-06-23.json",
-    "Vicky Group People.md",
     "Bases/Glossary.base",
     "Wikipedia/CV.md",
     "Pasted image 20260623144951.png",

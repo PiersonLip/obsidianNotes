@@ -49,8 +49,7 @@ Cons
 - Initial position and velocity sampling is ***not*** related (besides initial time) to the POSYDON grid. I.e system metallicty/mass is not taken into account when drawing samples
 - Doesn't account for galaxy evolution, static model
 - Setup (as of 6/30) for mainly *non-milkyway* host galaxies
-
-![[Pasted image 20260626124936.png# screen]] 
+![[Pasted image 20260630170446.png# screen]]
 ## Pipeline
 ---
 ![[bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw|1600]]
@@ -121,7 +120,7 @@ This is solves all of the problems that we run into with the analytical model (i
 
 ## Pros vs Cons 
 ---
-
+![[bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw]]
 
 # FIRE
 ---

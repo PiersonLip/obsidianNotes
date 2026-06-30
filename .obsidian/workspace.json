@@ -34,9 +34,33 @@
               "icon": "lucide-file",
               "title": "bns-offsets vs PosyFIRE vs Cogsworth"
             }
+          },
+          {
+            "id": "78fafdaa30095658",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw"
+            }
+          },
+          {
+            "id": "78a90f9b27c58527",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,19 +314,22 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "d4eff50023cc67ba",
+  "active": "78fafdaa30095658",
   "lastOpenFiles": [
+    "bns-offsets vs PosyFIRE vs Cogsworth.md",
+    "Excalidraw/bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw.md",
+    "Dashboard/Home.md",
+    "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+    "Pasted image 20260630170446.png",
     "Pasted image 20260630170008.png",
     "Pasted image 20260630170004.png",
     "Pasted image 20260630165929.png",
     "Pasted image 20260630165922.png",
     "Pasted image 20260630165906.png",
     "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
-    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "FIRE.md",
     "symlink.md",
-    "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-06-30.json",
     "Vicky Group People.md",
     "Dashboard/_cache/apod-2026-06-29.json",
@@ -313,7 +340,6 @@
     "Excalidraw/Drawing 2026-06-26 15.13.08.excalidraw.md",
     "Pasted image 20260626124936.png",
     "W26 Ilia Meeting.md",
-    "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
     "fdxjfnhxdf.md",
     "Dashboard/_cache/apod-2026-06-26.json",
     "AstroBites/A Wandering SMBH Eating a Star.md",
@@ -331,8 +357,6 @@
     "Pasted image 20260623144951.png",
     "Pasted image 20260623133959.png",
     "Pasted image 20260623133937.png",
-    "orbit_15.gif",
-    "orbit_57.gif",
     "conflict-files-obsidian-git.md",
     "Introduction to Binary Stars Script.md",
     "Dashboard/_cache/apod-2026-06-22.json",

@@ -131,10 +131,10 @@ This is solves all of the problems that we run into with the analytical model (i
 ---
 ## Summary
 ---
-We would use FIRE star particles to get the initial position, velocity, and metallicity of our systems. We would then map our POSYDON grids *onto* those star particles  
+We would use FIRE star particles to get the initial position, velocity, and metallicity of our systems. We would then map our POSYDON grids *onto* those star particles matching by metallicitiy. 
 
 Possibly more accurate for a final distribution, due to the very accurate initial position, velocities, and metallicities, However, scope wise, it has by far the most that needs to be done. FIRE would be used for star formation rate, metallicity evolution, initial position and velocity distributions, but would ***not*** be used for the integration (but could possibly be used for potential modeling) 
-## Pros vs Cons
+## Pros, Cons, and Assumptions
 ---
 ### Pros 
 - We don't need to actually do all of the modeling of the galaxy's evolution (i.e. size, metallicity, star density, velocity, etc) and can rely on FIREs methodology 
@@ -143,6 +143,8 @@ Possibly more accurate for a final distribution, due to the very accurate initia
 - need to figure out how we could model a possibly evolving potential 
 - How do we scale (and do we need to) from our final model to actual mw rates
 - For it to be the highest resolution, we'd need to use all of the snapshots, which are incredibly large[^2]
+### Assumptions 
+- T
 ## Notes 
 ---
 - Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]

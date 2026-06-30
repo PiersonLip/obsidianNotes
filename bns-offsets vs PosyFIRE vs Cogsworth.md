@@ -158,6 +158,7 @@ Possibly more accurate for a final distribution, due to the very accurate initia
 ![[Pasted image 20260630165922.png# screen]]
 ![[Pasted image 20260630165929.png# screen]]
 
+![[Pasted image 20260630175302.png# normal]]
 [^1]: 
 
 [^2]: but could easily sub-sample them for lower resolution, i.e. use snapshot 0, 50, 100, 150, etc

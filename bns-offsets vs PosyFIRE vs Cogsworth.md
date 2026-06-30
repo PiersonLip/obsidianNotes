@@ -144,3 +144,11 @@ Maybe
 ## Pipeline 
 ---
 ![[bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw|1600]]
+## Graphs/Examples
+---
+### New Star Positions Over Time
+---
+![[Pasted image 20260630165906.png# screen]]
+![[Pasted image 20260630170008.png# screen]]
+![[Pasted image 20260630165922.png# screen]]
+![[Pasted image 20260630165929.png# screen]]

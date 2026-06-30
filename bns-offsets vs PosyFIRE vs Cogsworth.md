@@ -34,30 +34,30 @@ z_final = orbit.xyz[2, -1].to_value(u.kpc)
 return orbit, x_final, y_final, z_final
 ```
 
-# bns-offsets
+# bns-offsets 
 ---
 ## Summary 
 ---
-
+[repo](https://github.com/PiersonLip/bns-offsets-redux)
 ## Pros vs Cons 
 ---
 ### Pros 
-- Already has some basic galaxy modeling* for initial position and velocities on formation
+- Already has some basic galaxy modeling for initial position and velocities on formation
 - potential is already modeled and handled with gala
 - (currently) three integrations $SN_{1} \rightarrow SN_{2} \rightarrow t \sim 13.8 \text{Gyr}$ 
-Cons 
+### Cons 
 - Initial position and velocity sampling is ***not*** related (besides initial time) to the POSYDON grid. I.e system metallicty/mass is not taken into account when drawing samples
 - Doesn't account for galaxy evolution, static model
 - Setup (as of 6/30) for mainly *non-milkyway* host galaxies
-![[Pasted image 20260630170446.png# screen]]
+### Assumptions 
+- Galaxy is *static*, both size and metallicity wise
 ## Pipeline
 ---
 ![[bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw|1600]]
 ## Galaxy Modeling 
 ---
-Models a simplified galaxy based on empirical relationships, uses these relationships to evolve the model in time.
+Models a simplified galaxy based on relationships between the brightness to then the density of stars. This is currently setup to allow for evolving many dns in many different host galaxies, whereas we *just* need a accurate MW model. Could of course fit a galaxy using this same parameters, but, using another model like the one in [@wagg2022] might more accurate for little work 
 
-These evolution accounts for size, velocities, metallicity[^1], and redshift
 > [!quote]
 > ### 1. Inputs from the host-galaxy table
 For each host, the public input parameters are the ones provided by Gaspari in Table I:
@@ -105,20 +105,25 @@ That is an important conceptual point.
 >2. **shallower potential**  
     >Because the halo and stellar mass are lower, kicked binaries may be less tightly bound and can be displaced more easily.    
 
-[^1]: while it *says* it accounts for metallicity, it is not used for the sampling of the posydon grid (nor do i see it used in any other capacity(?), although some of the markdown references evolving red-shift overtime, but (i think) there isnt actually a script which does that) 
-
-[^2]: I think this doesnt actually mater, if the final goal is just a density prediction, *overprediciting* the actual quantity of the BHs is a good thing, as it gives the final density map higher resolution`
-
-[^3]: this of course raises the issue of posydon grids being evolved longer then Hubble time, however, I think if we just took the last time-step before Hubble time, presented that as the "observable state", but also presented the rest of the posy grid it would be fine
-
+## Figures
+---
+![[Pasted image 20260630170446.png# screen]]
 
 # Cogsworth
 ---
+
 ## Summary 
 ---
-This is solves all of the problems that we run into with the analytical model (i.e. how do we sample and model the galaxy), and we could take a lot of the methods from it (like using [@wagg2022]) and how it integrates everything (and handles disrupted, etc etc), however, Tom is already trying to get that working with POSYDON (according to Dean), and remaking the functionality seems odd. Seems like it would be easier to just try and it integrated with POSYDON (and the llm i tried seems to have mostly (?) got that done). 
-
+This is solves all of the problems that we run into with the analytical model (i.e. how do we model and sample the galaxy, as well as integration, how to deal with disrupted systems, etc etc). However, Tom is already trying to get that working with POSYDON (according to Dean), so definelty should figure out the current state of implementation first.
 ## Pros vs Cons 
+---
+### Pros 
+ - Most likely one of the more accurate analytical models
+ - Handles the majority of the physics methods that are important to us in (mostly) tried and true methodology 
+	 - Disrupted systems, evolving mw overtime 
+ Cons 
+ - Large amount of work and interpolation to get it working with POSYDON
+## Pipeline 
 ---
 ![[bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw|1600]]
 

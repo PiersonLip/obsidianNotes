@@ -120,7 +120,7 @@ This is solves all of the problems that we run into with the analytical model (i
 
 ## Pros vs Cons 
 ---
-![[bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw]]
+![[bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw|1600]]
 
 # FIRE
 ---

@@ -144,7 +144,7 @@ Possibly more accurate for a final distribution, due to the very accurate initia
 - How do we scale (and do we need to) from our final model to actual mw rates
 - For it to be the highest resolution, we'd need to use all of the snapshots, which are incredibly large[^2]
 ### Assumptions 
-- T
+- Whatever model we use is close enough to current models, and the turbulent elliptical early stage of the evolution doesn't skew heavily.
 ## Notes 
 ---
 - Uses FIRE star particle times as the source of truth (i.e. ZAMS time of the POSYDON star *becomes* the FIRE birth time)[^3]

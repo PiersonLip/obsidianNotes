@@ -8,6 +8,7 @@ aliases:
 # To-do ^4b46a5
 ---
 - [ ] Differences in galaxy modeling and evolution between scripts
+- [ ] Derive (or find) the likelyhood of kicked BHs in the early mw to be ejected 
 ## Analytical
 ---
 - [ ] how is it sampling from POSYDON 

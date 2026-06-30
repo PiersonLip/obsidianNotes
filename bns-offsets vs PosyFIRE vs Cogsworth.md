@@ -5,7 +5,7 @@ tags:
 ---
 # Abstract 
 --- 
-The only real key difference between the three methods is how we get the initial positions and velocities for integrating with Gala.
+The real key difference between the three methods is how we get the initial positions and velocities for integrating with Gala.
 
 Utilizing the more analytical dns-offset script allows for the entire project to be self-enclosed, and makes the full scope simpler, however creating and using a largely empirical galaxy model is both less accurate and places a lot of the validity of the results of the project on said model.
 

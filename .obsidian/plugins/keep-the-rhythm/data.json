@@ -3589,6 +3589,22 @@
           }
         ],
         "id": 198
+      },
+      {
+        "date": "2026-07-01",
+        "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
+        "wordCountStart": 1186,
+        "charCountStart": 7603,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-07-01",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 163,
+        "charCountStart": 1433,
+        "changes": [],
+        "id": 200
       }
     ],
     "wholeVaultWordCount": 23045,

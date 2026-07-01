@@ -11,16 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "84e74250841c7d65",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard/Home.md",
@@ -31,8 +21,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +204,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "84e74250841c7d65",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Dashboard/Home.md",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
     "Dashboard/_cache/apod-2026-06-14.json",
     "POSYDON + FIRE BH Prediction Pipeline.md",
     "Research/POSYDONBH-Sol Prediction Pipeline Roman.md",

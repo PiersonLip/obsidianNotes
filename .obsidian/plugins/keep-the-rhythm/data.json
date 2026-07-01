@@ -3595,7 +3595,13 @@
         "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
         "wordCountStart": 1186,
         "charCountStart": 7603,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 5,
+            "c": 46
+          }
+        ],
         "id": 199
       },
       {
@@ -3605,9 +3611,17 @@
         "charCountStart": 1433,
         "changes": [],
         "id": 200
+      },
+      {
+        "date": "2026-07-01",
+        "filePath": "Excalidraw/bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw.md",
+        "wordCountStart": 373,
+        "charCountStart": 13539,
+        "changes": [],
+        "id": 201
       }
     ],
-    "wholeVaultWordCount": 23045,
-    "wholeVaultCharCount": 159501
+    "wholeVaultWordCount": 23050,
+    "wholeVaultCharCount": 159547
   }
 }

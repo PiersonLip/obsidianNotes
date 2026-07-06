@@ -49512,9 +49512,9 @@
       "path": "Dashboard/Home.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1782841497861,
-      "sourceText": "Home\nS",
-      "summary": "S",
+      "mtime": 1783355521747,
+      "sourceText": "Home",
+      "summary": "",
       "embedding": [
         0,
         0,
@@ -49901,7 +49901,7 @@
         0,
         0
       ],
-      "updatedAt": 1783106786599
+      "updatedAt": 1783355523128
     },
     "Confidence Bands.md": {
       "path": "Confidence Bands.md",
@@ -68071,7 +68071,7 @@
         0,
         0
       ],
-      "updatedAt": 1783106786567
+      "updatedAt": 1783355609753
     },
     "symlink.md": {
       "path": "symlink.md",

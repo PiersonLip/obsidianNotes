@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
+            }
+          },
+          {
+            "id": "060f73850b784119",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,13 +288,13 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "060f73850b784119",
   "lastOpenFiles": [
-    "Dashboard/_cache/apod-2026-07-06.json",
-    "Dashboard/Home.md",
     "bns-offsets vs PosyFIRE vs Cogsworth.md",
-    "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-07-06.json",
+    "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "General Notes/winds.md",
     "General Notes/White Dwarf.md",
     "General Notes/SNe.md",
@@ -322,7 +335,6 @@
     "General Notes/Proper Motion.md",
     "Wikipedia/Degenerate matter.md",
     "Dashboard/_cache/apod-2026-06-25.json",
-    "Dashboard/_cache/apod-2026-06-23.json",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

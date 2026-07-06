@@ -981,7 +981,7 @@
     "paperColor": "white",
     "customPaperColor": "#ffffff",
     "alignment": "center",
-    "margin": "normal"
+    "margin": "none"
   },
   "disableContextMenu": false
 }

@@ -3640,6 +3640,86 @@
         "charCountStart": 1433,
         "changes": [],
         "id": 203
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "General Notes/compact object.md",
+        "wordCountStart": 17,
+        "charCountStart": 147,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "General Notes/GW.md",
+        "wordCountStart": 55,
+        "charCountStart": 435,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "Glossary/TIb-SNe.md",
+        "wordCountStart": 26,
+        "charCountStart": 175,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "General Notes/SNe.md",
+        "wordCountStart": 4,
+        "charCountStart": 53,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "General Notes/White Dwarf.md",
+        "wordCountStart": 5,
+        "charCountStart": 52,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "General Notes/winds.md",
+        "wordCountStart": 66,
+        "charCountStart": 420,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
+        "wordCountStart": 828,
+        "charCountStart": 28021,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+        "wordCountStart": 363,
+        "charCountStart": 11124,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 163,
+        "charCountStart": 1433,
+        "changes": [],
+        "id": 212
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 163,
+        "charCountStart": 1433,
+        "changes": [],
+        "id": 213
       }
     ],
     "wholeVaultWordCount": 23055,

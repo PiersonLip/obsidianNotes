@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
+                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
+              "title": "POSYDON + FIRE BH Prediction Pipeline"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,13 +287,13 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "060f73850b784119",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "bns-offsets vs PosyFIRE vs Cogsworth.md",
+    "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-07-06.json",
-    "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "General Notes/winds.md",
     "General Notes/White Dwarf.md",
     "General Notes/SNe.md",

@@ -26,7 +26,7 @@ aliases:
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
-- [ ] metallicity distrobution from FIRE snapshot 300
+- [ ] metallicity distribution from FIRE snapshot 300
 - [ ] if disrupted, "ignore" the kick
 - [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False

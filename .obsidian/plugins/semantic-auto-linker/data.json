@@ -68472,7 +68472,7 @@
       "path": "POSYDON Cogsworth Integration.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1783459467100,
+      "mtime": 1783459601090,
       "sourceText": "POSYDON Cogsworth Integration\nTo-do --- - [ ] . Key Things --- There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration.",
       "summary": "To-do --- - [ ] . Key Things --- There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration.",
       "embedding": [
@@ -68861,7 +68861,7 @@
         0,
         0
       ],
-      "updatedAt": 1783459468192
+      "updatedAt": 1783459603326
     }
   },
   "vaultAnalysisSnapshot": null,

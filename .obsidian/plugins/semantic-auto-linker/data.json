@@ -62942,7 +62942,7 @@
       "path": "POSYDON + FIRE BH Prediction Pipeline.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1783358411928,
+      "mtime": 1783447938008,
       "sourceText": "POSYDON + FIRE BH Prediction Pipeline\nTo-do ^4b46a5 --- - [ ] Differences in galaxy modeling and evolution between scripts - [ ] Derive (or find) the likelyhood of kicked BHs in the early mw to be ejected Analytical --- - [ ] how is it sampling from POSYDON - [ ] late type vs early type - [x] how is SFH calculated...",
       "summary": "To-do ^4b46a5 --- - [ ] Differences in galaxy modeling and evolution between scripts - [ ] Derive (or find) the likelyhood of kicked BHs in the early mw to be ejected Analytical --- - [ ] how is it sampling from POSYDON - [ ] late type vs early type - [x] how is SFH calculated...",
       "embedding": [
@@ -63331,7 +63331,7 @@
         0,
         0
       ],
-      "updatedAt": 1783359108373
+      "updatedAt": 1783447938823
     },
     "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md": {
       "path": "AstroBites/Black hole accretion More like, can I get a-reason this X-ray binary looks like that.md",

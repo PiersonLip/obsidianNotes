@@ -30,6 +30,13 @@ aliases:
 - [ ] if disrupted, "ignore" the kick
 - [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
+
+# FIRE Questions 
+---
+- How should I use the EXP potentials? Tried recompiling gala to work with it, but it kept spitting out results that were off by a factor of $10^{11}$
+- How should I get galaxy centers?
+- Is there any dataset that provides the initial positions and velocities of star particles? [@lamberts2018] references this value being in the m12i simulations, but I'm pretty sure it isn't.
+- 
 # Assumptions / Current Simplifications 
 ---
 - Only *one* integration, treats initial 

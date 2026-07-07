@@ -3832,9 +3832,55 @@
         "charCountStart": 7697,
         "changes": [],
         "id": 222
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "AstroBites/What happens when you poke a black hole.md",
+        "wordCountStart": 333,
+        "charCountStart": 2306,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "General Notes/black hole.md",
+        "wordCountStart": 78,
+        "charCountStart": 507,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "AstroBites/Astrobites.md",
+        "wordCountStart": 25,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "AstroBites/A Wandering SMBH Eating a Star.md",
+        "wordCountStart": 217,
+        "charCountStart": 1541,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "POSYDON Cogsworth Integration.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 7,
+            "c": 89
+          }
+        ],
+        "id": 227
       }
     ],
-    "wholeVaultWordCount": 23124,
-    "wholeVaultCharCount": 159998
+    "wholeVaultWordCount": 23131,
+    "wholeVaultCharCount": 160087
   }
 }

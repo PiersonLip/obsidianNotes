@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSYDON + FIRE BH Prediction Pipeline.md",
+                "file": "POSYDON Cogsworth Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON + FIRE BH Prediction Pipeline"
+              "title": "POSYDON Cogsworth Integration"
             }
           }
         ]
@@ -277,8 +277,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "bns-offsets vs PosyFIRE vs Cogsworth.md",
+    "AstroBites/Astrobites.md",
+    "POSYDON Cogsworth Integration.md",
+    "AstroBites/A Wandering SMBH Eating a Star.md",
+    "General Notes/black hole.md",
+    "AstroBites/What happens when you poke a black hole.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
+    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-07-07.json",
     "FIRE.md",
@@ -316,12 +321,8 @@
     "W26 Ilia Meeting.md",
     "fdxjfnhxdf.md",
     "Dashboard/_cache/apod-2026-06-26.json",
-    "AstroBites/A Wandering SMBH Eating a Star.md",
     "2026-06-02.md",
     "Physics of Binary Star Evolution/Formation and Evolution of LMXBs.md",
-    "Excalidraw/Drawing 2026-06-08 14.35.12.excalidraw.md",
-    "General Notes/Proper Motion.md",
-    "Wikipedia/Degenerate matter.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

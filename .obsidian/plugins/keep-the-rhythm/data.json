@@ -1072,8 +1072,84 @@
         "filePath": "conflict-files-obsidian-git.md",
         "wordCountStart": 96,
         "charCountStart": 682,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -96,
+            "c": -682
+          }
+        ],
         "id": 65
+      },
+      {
+        "date": "2026-07-09",
+        "filePath": "W27 Ilia Meeting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 8,
+            "c": 113
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2026-07-09",
+        "filePath": "POSYDON Cogsworth Integration.md",
+        "wordCountStart": 108,
+        "charCountStart": 1100,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 31,
+            "c": 231
+          },
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 27
+          },
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2026-07-09",
+        "filePath": "Cosmic web.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 68
+      },
+      {
+        "date": "2026-07-09",
+        "filePath": "cosmic.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 5,
+            "c": 85
+          },
+          {
+            "timeKey": "17:40",
+            "w": 215,
+            "c": 2246
+          },
+          {
+            "timeKey": "17:45",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 69
       }
     ]
   }

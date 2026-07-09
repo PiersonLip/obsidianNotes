@@ -7,11 +7,27 @@ tags:
 ---
 - [ ] . 
 
+# Approach Types
+---
+With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that 
+## Interp Layer 
+--- 
+This works by 
+## Full Backend Rework
+---
 # Key Things 
 --- 
+## State Conversions 
+---
+
 There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration. 
 
+## Cosmic Properties 
+---
+![[cosmic#Properties]]
 ```Python
+### NEED TO VERIFY, AI ATM
+
 POSYDON_STATE_TO_KSTAR = {
     "H-rich_Core_H_burning": 1,
     "H-rich_Shell_H_burning": 1,

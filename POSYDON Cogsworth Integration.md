@@ -14,9 +14,6 @@ With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]],
 --- 
 This works by converting the POSYDON data in a comsic like facsimile, which probably will works fine for the kinematic stuff (as all of the kinematics can be handled and then passed *back* to POSYDON using the POSYDON indexes), but this most likely makes compromises with a couple of key functions. 
 
-## State Conversions  
----
-There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration. 
 
 ![[cosmic#Cosmic Data Properties]]
 ```Python
@@ -60,5 +57,6 @@ POSYDON_EVENT_TO_EVOL_TYPE = {
 ```
 ## Full Backend Rework
 ---
+This involves finding every tim
 # Key Things 
 --- 

@@ -12,7 +12,7 @@ tags:
 With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this  
 ## Interpolation Layer 
 --- 
-This works by converting the POSYDON data in a comsic like facsimile, which probably will works fine for the kinematic stuff (as all of the kinematics can be handled and then passed *back* to POSYDON using the POSYDON indexes), but m
+This works by converting the POSYDON data in a comsic like facsimile, which probably will works fine for the kinematic stuff (as all of the kinematics can be handled and then passed *back* to POSYDON using the POSYDON indexes), but this most likely makes compromises with a couple of key functions. 
 
 ## State Conversions  
 ---

@@ -66497,7 +66497,7 @@
       "path": "POSYDON Cogsworth Integration.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1783637413406,
+      "mtime": 1783637457260,
       "sourceText": "POSYDON Cogsworth Integration\nTo-do --- - [ ] . Approach Types --- With Cogsworth, all of its functionality is built *around* and *for* cosmic, meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this Interpolation Layer...",
       "summary": "To-do --- - [ ] . Approach Types --- With Cogsworth, all of its functionality is built *around* and *for* cosmic, meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this Interpolation Layer...",
       "embedding": [
@@ -66886,7 +66886,7 @@
         0,
         0
       ],
-      "updatedAt": 1783637416705
+      "updatedAt": 1783637458775
     },
     "cosmic.md": {
       "path": "cosmic.md",

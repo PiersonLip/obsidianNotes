@@ -9,20 +9,17 @@ tags:
 
 # Approach Types
 ---
-With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that 
-## Interp Layer 
+With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this  
+## Interpolation Layer 
 --- 
-This works by 
-## Full Backend Rework
----
-# Key Things 
---- 
+This works by converting the POSYDON
+
 ## State Conversions 
 ---
 
 There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration. 
 
-## Cosmic Properties 
+### Cosmic Properties 
 ---
 ![[cosmic#Properties]]
 ```Python
@@ -64,3 +61,7 @@ POSYDON_EVENT_TO_EVOL_TYPE = {
     "FAILED": 10,
 }
 ```
+## Full Backend Rework
+---
+# Key Things 
+--- 

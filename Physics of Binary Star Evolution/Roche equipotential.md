@@ -25,7 +25,7 @@ tags:
 
 - [[mass transfer]] onto [[NS]] and BH are limited by the [[Eddington Limit]]
 - However, mass transferred off of the donor is at the rate of the evolution of its envelope. ([[thermal-timescale]])
-- mass transfer off of the donor is much greater (2 to 4 orders of magnitude) then the maximum accretion rate thus, the bulk of the mass will be blown away
+- [[mass transfer]] off of the donor is much greater (2 to 4 orders of magnitude) then the maximum accretion rate thus, the bulk of the mass will be blown away
 - if more than half of the total mass of the binary system is lost in a SN, the system will become unbounded
 - What on earth is a applegate mechanism
 - and what is gravitational quadrupole coupling

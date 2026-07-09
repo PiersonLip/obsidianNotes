@@ -108,7 +108,7 @@ tags:
 
 **third law **
 
-Def: *The square of the sidereal orbital periods of the planets are prop to the cubes of the Semimajor axis of their orbits*
+Def: *The square of the sidereal orbital periods of [[The planets]] are prop to the cubes of the Semimajor axis of their orbits*
 $$p^2 = Ka^3$$
 \begin{center}
     P = planets sidereal period

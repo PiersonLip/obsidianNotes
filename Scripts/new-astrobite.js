@@ -7,8 +7,11 @@
 
 const NOTES_DIR = "AstroBites";
 const BIB_FILE = "Bibliography/sources.bib";
-const ZOTERO_BIB = "Bibliography/AstroNotes.bib";
-const MERGED_BIB = "Bibliography/all.bib";
+const path = require("path");
+
+function loadBibMerge(app) {
+  return require(path.join(app.vault.adapter.getBasePath(), "Scripts/bib-merge.js"));
+}
 
 function notePathFromTitle(title) {
   const safe = title.replace(/[\\/:*?"<>|]/g, "").trim();
@@ -81,21 +84,9 @@ function buildBibEntry(key, author, title, pubDate, url) {
 `;
 }
 
-/** Rebuild all.bib so Pandoc Reference List / Quartz see new sources.bib entries. */
 async function mergeAllBib(app) {
-  const zotero = app.vault.getAbstractFileByPath(ZOTERO_BIB);
-  const sources = app.vault.getAbstractFileByPath(BIB_FILE);
-  if (!sources) return;
-  const parts = [];
-  if (zotero) parts.push(await app.vault.read(zotero));
-  parts.push(await app.vault.read(sources));
-  const merged = parts.join("\n").trim() + "\n";
-  const out = app.vault.getAbstractFileByPath(MERGED_BIB);
-  if (out) await app.vault.modify(out, merged);
-  else {
-    await app.vault.adapter.mkdir("Bibliography").catch(() => {});
-    await app.vault.create(MERGED_BIB, merged);
-  }
+  const { mergeAllBib: merge } = loadBibMerge(app);
+  await merge(app);
 }
 
 function buildNoteContent(title, citeKey, url) {
@@ -264,6 +255,7 @@ module.exports = async (params) => {
   }
 
   await mergeAllBib(app);
+  const { MERGED_BIB } = loadBibMerge(app);
   if (citeKey) bibNote += ` · ${MERGED_BIB} updated`;
 
   await app.vault.adapter.mkdir(NOTES_DIR).catch(() => {});

@@ -1058,8 +1058,22 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 199,
         "charCountStart": 1760,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -37,
+            "c": -328
+          }
+        ],
         "id": 64
+      },
+      {
+        "date": "2026-07-09",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 96,
+        "charCountStart": 682,
+        "changes": [],
+        "id": 65
       }
     ]
   }

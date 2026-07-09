@@ -2,22 +2,47 @@
 tags:
   - astro-notes/research
   - POSYDON_FireProject
+aliases:
+  - Olympus
 ---
-# To-do
+# To-do ^4b46a5
+---
+- [ ] Differences in galaxy modeling and evolution between scripts
+- [ ] Derive (or find) the likelyhood of kicked BHs in the early mw to be ejected 
+## Analytical
+---
+- [ ] how is it sampling from POSYDON 
+- [ ] late type vs early type
+- [x] how is SFH calculated/dealt with 
+	- Uses POSYDON grid for SFR 
+- [x] how do they distribute the posydon grid *onto* the galaxy model 
+	- Sampling from a simplified galaxy model 
+## Olympus
 ---
 - [ ] Better potentials
 - [ ] setup with slurm
 - [ ] verify everything is resonable-ish
-- [ ] proper posydon grids
+- [ ] More accurate posydon grids
 - [ ] figure out if galaxy center should be inferred or if its actually stored somewhere
 - [ ] setup final data output (i.e. locations, velocities, + posydon history)
 - [ ] do the star particles die?
-- [x] proper sfampling of the stars to get 100k (figure out what bs i gotta do to read headers) 
+- [ ] metallicity distribution from FIRE snapshot 300
+- [ ] if disrupted, "ignore" the kick
+- [x] proper sampling of the stars to get 100k (figure out what i gotta do to read headers) 
 - [x] dont return full orbits, have as a toggle with default False
 
+# FIRE Questions 
+---
+- How should I use the EXP potentials? Tried recompiling gala to work with it, but it kept spitting out results that were off by a factor of $10^{11}$
+- How should I get galaxy centers?
+- Is there any dataset that provides the initial positions and velocities of star particles? [@lamberts2018] references this value being in the m12i simulations, but I'm pretty sure it isn't.
+- 
+# Assumptions / Current Simplifications 
+---
+- Only *one* integration, treats initial 
 # Abstract  
 ---
-With the launch of roman in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
+With the launch of [[Roman]] in September (and upcoming Gaia data releases) there will be a lot more detected BHs. Figuring out how these BHs evolved (and in the case of [[natal-kick|natal kicks]], where they came from) as promptly as possible with regards to the data releases is important for yk research, and also politics.
 
 Figure out a sort of pipeline/framework for broad (yet accurate) analysis of where and how binary BHs (and possibly disrupted BHs) originate.  
 
@@ -25,11 +50,11 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 
 # Ideas
 ---
-- Take the stellar particles, map them each as posydon solar populations based off of the particles total mass
+- Take the stellar particles, map them each as POSYDON solar populations based off of the particles total mass
 
 ## Possible final demo/results
 ---
-- Synthetic catalog of BHs in the MW, with regions where microlensing is more probable 
+- Synthetic catalog of [[black hole|BHs]] in the MW, with regions where [[Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025)#Microlensing!|microlensing]] is more probable 
 - 3d heatmap of BHs in the MW
 - some type of script or tool where you plug in some parameters about the system and it returns the most similar simulated candidates  
 - firefly(?) visualization of all the disrupted bhs and their vectors 
@@ -42,10 +67,13 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 - [x] Lecture
 # Current questions 
 ---
-- Should we take a sub-sample of fire sim particles, or, does it make more sense to instead treat each particle as one system?
+- Match metallicity in linear space or log space?
 - Should we really evolve from the entire POSY grid? we really only need a couple of select columns, so it feels like a bit of io overkill to do the entire thing
 - Do we want to use the previous script? I'm really tempted to tear it down and start over, as a class based system using np.arrays would probably be much faster on a larger scale (and easier to track), and restarting might be easier then trying to morph the code
-- what FIRE dataset provides the actual initial velocities and positions?
+~~- what [[FIRE]] dataset provides the actual initial velocities and positions?~~
+	- None of them!, m12i should be used and then we find init vels and positions
+- ~~- Should we take a sub-sample of fire sim particles, or, does it make more sense to instead treat each particle as one system?
+	- Each particle as a system
 # Pipeline Possibilities
 ---
 ## POSYDON to FIRE 
@@ -60,8 +88,8 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 - Very very very parallelizable  
 **Cons**
 - Hell of a lot of star particles...
-	- Could use some type of binning method to low the resolution of the FIRE sim (or only select 1% of them)
-		- Gizmo Read has sub-sampling function already :)
+	- Could use some type of binning method to low thbse resolution of the FIRE sim (or only select 1% of them)
+		- [[Gizmo Read]] has sub-sampling function already :)
 	- 
 - The middle "mean" interpretation for where the BH SNe happened may be a little too inaccurate?
 ![[Drawing 2026-06-08 14.35.12.excalidraw|16000]]

@@ -48,7 +48,7 @@ tags:
 - $$\frac{dM}{dt} = 4\pi r^2 \frac{dr}{dt} \rho$$
 - $$\dot{M} = 4\pi r^2 v \rho$$
 - $$\dot{M} ∼ 10^8 kgs^{-1}; t_m ∼ 10^{14}$$
-- Maybe try this myself with various sizes of stars?? Seems easy to verify large stars ejecting large amounts of wind
+- Maybe try this myself with various sizes of stars?? Seems easy to verify large stars ejecting large amounts of [[winds]]
 
 #### Magnetic Fields
 

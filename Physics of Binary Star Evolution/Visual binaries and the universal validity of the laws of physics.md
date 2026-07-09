@@ -73,7 +73,7 @@ Binaries where one star passes in front of the other at some point during its pe
 
 ## 
 
-- Brightest sources of x-rays were found to be CV accreting systems
+- Brightest sources of x-rays were found to be [[CV]] accreting systems
 
 ## 
 
@@ -104,7 +104,7 @@ Binaries where one star passes in front of the other at some point during its pe
 - Generally remnants of LMXBs
 - Systems with [[MSP]]s generally have WD partners
 - Mass-transfer through evolution, or through orbital momentum loss through or [[GWR]]
-- The NS is greatly accelerated through accretion
+- The [[NS]] is greatly accelerated through accretion
 - Old NSs which evolved through this process are called *[[Recycled Pulsar]]s*
 
 ## Results of evolution in binaries
@@ -119,7 +119,7 @@ Binaries where one star passes in front of the other at some point during its pe
 
 \item due to the fact that [[TIb-SNe]] and [[TIc-SNe]] are stripped cores, it is incredibly likely that they result from binary systems
 \item We may also observe both [[TIb-SNe]] and [[TIc-SNe]] in [[WR-star]], however, we have **not** yet
-\item WD SNe (section [[#WD-SNe]]) *require* some sort of mass transfer process
+\item WD SNe (section [[#WD-SNe]]) *require* some sort of [[mass transfer]] process
 \item The companion donor can be either a standard star ([[SD]]), or another WD ([[DD]])
 \end{list}
 

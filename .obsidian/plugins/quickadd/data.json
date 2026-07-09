@@ -1,6 +1,26 @@
 {
   "choices": [
     {
+      "id": "choice-rebuild-all-bib",
+      "name": "Rebuild Bibliography",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "macro-rebuild-all-bib",
+        "name": "Rebuild Bibliography",
+        "commands": [
+          {
+            "id": "cmd-rebuild-all-bib",
+            "name": "Merge AstroNotes + sources → all.bib",
+            "type": "UserScript",
+            "path": "Scripts/rebuild-all-bib.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
       "id": "6681661f-1069-4ef0-8def-5678905232be",
       "name": "New Astrobite Note",
       "type": "Macro",

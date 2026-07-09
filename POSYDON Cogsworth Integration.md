@@ -57,6 +57,6 @@ POSYDON_EVENT_TO_EVOL_TYPE = {
 ```
 ## Full Backend Rework
 ---
-This involves finding every tim
+This involves finding every time where 
 # Key Things 
 --- 

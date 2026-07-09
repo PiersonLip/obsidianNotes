@@ -12,16 +12,13 @@ tags:
 With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this  
 ## Interpolation Layer 
 --- 
-This works by converting the POSYDON
+This works by converting the POSYDON data in a comsic like faximile 
 
-## State Conversions 
+## State Conversions  
 ---
-
 There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration. 
 
-### Cosmic Properties 
----
-![[cosmic#Properties]]
+![[cosmic#Cosmic Data Properties]]
 ```Python
 ### NEED TO VERIFY, AI ATM
 

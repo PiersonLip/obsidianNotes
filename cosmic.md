@@ -5,7 +5,7 @@ tags:
 ---
 [docs](https://cosmic-popsynth.github.io/COSMIC/)
 
-# Properties 
+# Cosmic Data Properties 
 ---
 Cosmic uses ***integers*** for evo states, this means that the final results are more compressed, but also way trickier to work with [^1]
 

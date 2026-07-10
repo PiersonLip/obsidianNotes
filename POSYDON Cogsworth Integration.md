@@ -58,6 +58,7 @@ POSYDON_EVENT_TO_EVOL_TYPE = {
 ## Full Backend Rework
 ---
 This involves finding every time where 
+<<<<<<< HEAD
 
 # Key Things 
 --- 
@@ -106,3 +107,7 @@ This involves finding every time where
 | 15 | supernova of primary |
 | 16 | supernova of secondary |
 | 100 | RLOF interpolation timeout error |
+=======
+# Key Things 
+--- 
+>>>>>>> origin/master

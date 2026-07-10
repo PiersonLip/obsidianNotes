@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cogsworth Galaxy Modeling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cogsworth Galaxy Modeling"
             }
           }
         ]
@@ -273,9 +277,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "Cogsworth Galaxy Modeling.md",
     "POSYDON Cogsworth Integration.md",
     "W27 Ilia Meeting.md",
-    "Dashboard/Home.md",
     "conflict-files-obsidian-git.md",
     "henry plate.md",
     "cosmic.md",
@@ -314,7 +319,6 @@
     "Pasted image 20260630170004.png",
     "Pasted image 20260630165929.png",
     "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
-    "symlink.md",
     "Dashboard/_cache/apod-2026-06-30.json",
     "Dashboard/_cache/apod-2026-06-29.json",
     "Scripts/rebuild-all-bib.sh",

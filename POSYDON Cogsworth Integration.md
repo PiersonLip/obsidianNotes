@@ -5,7 +5,10 @@ tags:
 ---
 # To-do 
 ---
-- [ ] . 
+- [ ] Save index and filename 
+- [ ] make full doc of how it splits up mw and how each component is modeled 
+- [ ] fix -100 bug 
+- [ ] 
 
 # Approach Types
 ---

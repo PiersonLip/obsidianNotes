@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSYDON Cogsworth Integration.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON Cogsworth Integration"
+              "title": "Home"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AstroBites/Astrobites.md",
     "POSYDON Cogsworth Integration.md",
+    "AstroBites/Astrobites.md",
     "AstroBites/A Wandering SMBH Eating a Star.md",
     "General Notes/black hole.md",
     "AstroBites/What happens when you poke a black hole.md",

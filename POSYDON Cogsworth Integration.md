@@ -7,11 +7,18 @@ tags:
 ---
 - [ ] . 
 
-# Key Things 
+# Approach Types
+---
+With Cogsworth, all of its functionality is built *around* and *for* [[cosmic]], meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this  
+## Interpolation Layer 
 --- 
-There's a couple different ways to approach this, but I think the easiest one is to just add an interpolation layer for POSYDON to COSMIC for the critical parts that COSMIC needs for integration. 
+This works by converting the POSYDON data in a comsic like facsimile, which probably will works fine for the kinematic stuff (as all of the kinematics can be handled and then passed *back* to POSYDON using the POSYDON indexes), but this most likely makes compromises with a couple of key functions. 
 
+
+![[cosmic#Cosmic Data Properties]]
 ```Python
+### NEED TO VERIFY, AI ATM
+
 POSYDON_STATE_TO_KSTAR = {
     "H-rich_Core_H_burning": 1,
     "H-rich_Shell_H_burning": 1,
@@ -48,6 +55,12 @@ POSYDON_EVENT_TO_EVOL_TYPE = {
     "FAILED": 10,
 }
 ```
+## Full Backend Rework
+---
+This involves finding every time where 
+
+# Key Things 
+--- 
 
 ## Evolutionary State of the Star
 ---

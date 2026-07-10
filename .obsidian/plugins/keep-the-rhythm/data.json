@@ -3897,8 +3897,8 @@
         "changes": [
           {
             "timeKey": "11:30",
-            "w": 147,
-            "c": 1157
+            "w": 227,
+            "c": 1710
           }
         ],
         "id": 228
@@ -3918,9 +3918,28 @@
         "charCountStart": 1135,
         "changes": [],
         "id": 230
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "conflict-files-obsidian-git.md",
+        "wordCountStart": 107,
+        "charCountStart": 781,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": -107,
+            "c": -781
+          },
+          {
+            "timeKey": "11:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 231
       }
     ],
-    "wholeVaultWordCount": 23379,
-    "wholeVaultCharCount": 162255
+    "wholeVaultWordCount": 23459,
+    "wholeVaultCharCount": 162808
   }
 }

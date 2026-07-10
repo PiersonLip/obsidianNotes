@@ -9,6 +9,7 @@ tags:
 - [ ] make full doc of how it splits up mw and how each component is modeled 
 - [ ] fix -100 bug 
 - [ ] have all of the code locations saved 
+- [ ] only bhs
 
 # Approach Types
 ---

@@ -3899,6 +3899,11 @@
             "timeKey": "11:30",
             "w": 227,
             "c": 1710
+          },
+          {
+            "timeKey": "11:40",
+            "w": -8,
+            "c": -84
           }
         ],
         "id": 228
@@ -3942,9 +3947,17 @@
           }
         ],
         "id": 231
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "W27 Ilia Meeting.md",
+        "wordCountStart": 8,
+        "charCountStart": 113,
+        "changes": [],
+        "id": 232
       }
     ],
-    "wholeVaultWordCount": 23459,
-    "wholeVaultCharCount": 162808
+    "wholeVaultWordCount": 23451,
+    "wholeVaultCharCount": 162724
   }
 }

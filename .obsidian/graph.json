@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#astro-notes  ",
+      "query": "tag:#astro-notes/research  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5260
       }
     },
     {
-      "query": "tag:#glossary  ",
+      "query": "tag:#astro210  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16429394
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3954813187418745,
-  "close": true
+  "scale": 0.36548107826253845,
+  "close": false
 }

@@ -3989,9 +3989,95 @@
           }
         ],
         "id": 233
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+        "wordCountStart": 874,
+        "charCountStart": 5807,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "General Notes/mass transfer.md",
+        "wordCountStart": 239,
+        "charCountStart": 1586,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "General Notes/Proper Motion.md",
+        "wordCountStart": 44,
+        "charCountStart": 288,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "college panel.md",
+        "wordCountStart": 3,
+        "charCountStart": 9,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "General Notes/black hole.md",
+        "wordCountStart": 78,
+        "charCountStart": 507,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "POSYDON Cogsworth Integration.md",
+        "wordCountStart": 366,
+        "charCountStart": 2913,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "cosmic.md",
+        "wordCountStart": 225,
+        "charCountStart": 2365,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "bns-offsets vs PosyFIRE vs Cogsworth.md",
+        "wordCountStart": 1196,
+        "charCountStart": 7697,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
+        "wordCountStart": 384,
+        "charCountStart": 11216,
+        "changes": [],
+        "id": 243
       }
     ],
-    "wholeVaultWordCount": 23495,
-    "wholeVaultCharCount": 162964
+    "wholeVaultWordCount": 23496,
+    "wholeVaultCharCount": 162971
   }
 }

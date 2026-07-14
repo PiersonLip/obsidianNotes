@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -19,6 +19,20 @@
       "color": {
         "a": 1,
         "rgb": 16429394
+      }
+    },
+    {
+      "query": "[\"book\":physics-of-binary-star-evolution]",
+      "color": {
+        "a": 1,
+        "rgb": 16384082
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431413
       }
     }
   ],

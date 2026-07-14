@@ -8,31 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a4fd6ee4345cb57",
+            "id": "6228921721f20dfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSYDON Cogsworth Integration.md",
+                "file": "bns-offsets vs PosyFIRE vs Cogsworth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POSYDON Cogsworth Integration"
+              "title": "bns-offsets vs PosyFIRE vs Cogsworth"
             }
           },
           {
-            "id": "1592df82e9e897b9",
+            "id": "7cd81b39b6f9672e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Dashboard/Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "excalidraw-icon",
+              "title": "bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw"
             }
           }
         ],
@@ -195,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "POSYDON + FIRE BH Prediction Pipeline.md"
+                "file": "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for POSYDON + FIRE BH Prediction Pipeline"
+              "title": "File properties for bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw"
             }
           },
           {
@@ -264,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -290,40 +288,41 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "1592df82e9e897b9",
+  "active": "7cd81b39b6f9672e",
   "lastOpenFiles": [
-    "Dashboard/_cache/apod-2026-07-13.json",
+    "bns-offsets vs PosyFIRE vs Cogsworth.md",
+    "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
     "POSYDON Cogsworth Integration.md",
+    "cosmic.md",
     "Dashboard/Home.md",
+    "Excalidraw/Drawing 2026-06-06 20.05.41.excalidraw.md",
+    "General Notes/black hole.md",
+    "General Notes/mass transfer.md",
+    "college panel.md",
+    "General Notes/Proper Motion.md",
+    "Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
+    "Dashboard/_cache/apod-2026-07-13.json",
     "Cogsworth Galaxy Modeling.md",
     "W27 Ilia Meeting.md",
     "conflict-files-obsidian-git.md",
     "henry plate.md",
-    "cosmic.md",
     "Dashboard/_cache/apod-2026-07-09.json",
     "Cosmic web.md",
     "W26 Ilia Meeting.md",
     "Dashboard/_cache/apod-2026-07-10.json",
     "AstroBites/Astrobites.md",
     "AstroBites/A Wandering SMBH Eating a Star.md",
-    "General Notes/black hole.md",
     "AstroBites/What happens when you poke a black hole.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
-    "bns-offsets vs PosyFIRE vs Cogsworth.md",
     "Dashboard/_cache/apod-2026-07-07.json",
     "FIRE.md",
     "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
-    "Excalidraw/bns-offset vs PosyFIRE 2026-06-25 12.38.28.excalidraw.md",
     "Dashboard/_cache/apod-2026-07-06.json",
     "General Notes/winds.md",
     "General Notes/White Dwarf.md",
     "General Notes/SNe.md",
-    "Glossary/TIb-SNe.md",
-    "General Notes/compact object.md",
-    "General Notes/GW.md",
     "Dashboard/_cache/apod-2026-07-03.json",
     "Pasted image 20260701150229.png",
-    "Excalidraw/bns-offsets vs PosyFIRE vs Cogsworth 2026-06-30 17.05.37.excalidraw.md",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Pasted image 20260701145626.png",
@@ -337,7 +336,6 @@
     "Dashboard/_cache/apod-2026-06-30.json",
     "Dashboard/_cache/apod-2026-06-29.json",
     "Scripts/rebuild-all-bib.sh",
-    "Scripts/rebuild-all-bib.js",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

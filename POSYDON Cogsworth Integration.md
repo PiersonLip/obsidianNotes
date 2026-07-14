@@ -11,6 +11,9 @@ tags:
 - [ ] have all of the code locations saved 
 - [ ] only bhs
 
+
+# 
+
 # Approach Types
 ---
 With [[Cogsworth]], all of its functionality is built *around* and *for* [[cosmic]], meaning that theres a bunch of things that need too be adapted for it to work with cosmic, and theres a couple different ways to approach this  

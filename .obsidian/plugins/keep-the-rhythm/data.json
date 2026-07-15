@@ -4170,9 +4170,36 @@
         "charCountStart": 1432,
         "changes": [],
         "id": 252
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 237,
+        "charCountStart": 1667,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Excalidraw/Drawing 2026-07-15 15.03.04.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 254
       }
     ],
     "wholeVaultWordCount": 23554,
-    "wholeVaultCharCount": 163328
+    "wholeVaultCharCount": 163329
   }
 }

@@ -6,7 +6,7 @@ aliases:
 tags:
   - astro-notes/paper
 ---
-# Isolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025]
+ # Isolated Black Holes in the Milky Way [@luIsolatedBlackHoles2025]
 ---
 Important Properties 
 - Mass

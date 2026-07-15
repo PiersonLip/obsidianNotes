@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Paper note",
-      "outputPathTemplate": "Paper Notes/{{title | safe}} ({{citekey}}).md",
+      "outputPathTemplate": "Research/Paper Notes/{{title | safe}} ({{citekey}}).md",
       "imageOutputPathTemplate": "Attachments/Zotero/{{citekey}}",
       "imageBaseNameTemplate": "image",
       "templatePath": "templates/zotero-paper-note.md",

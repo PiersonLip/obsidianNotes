@@ -25,8 +25,8 @@ Astro Notes/
 │   └── Physics of Binary Star Evolution/   # book hub + chapter notes
 ├── Research/
 │   ├── Meetings/           # weekly research meetings
+│   ├── Paper Notes/        # one note per paper
 │   └── POSYDON/            # POSYDON tooling / docs
-├── Paper Notes/            # one note per paper
 ├── Class Notes/            # [[Class Notes/Class Notes]] course index
 ├── Class Notes/Astro210/   # [[Class Notes/Astro210/Astro210]] topic index
 ├── Programming/            # python / bash notes
@@ -64,7 +64,7 @@ Body pattern:
 
 **Create:** QuickAdd macro **New Astrobite Note** (see below).
 
-### Paper notes (`Paper Notes/<Title> (<short>).md`)
+### Paper notes (`Research/Paper Notes/<Title> (<short>).md`)
 
 ```yaml
 category: paper
@@ -247,7 +247,7 @@ Papers and class notes: duplicate an existing note or add a QuickAdd script late
 | Goal | Action |
 |------|--------|
 | New Astrobite | QuickAdd **New Astrobite Note** |
-| New paper | New note in `Paper Notes/` + Zotero item / bib entry |
+| New paper | New note in `Research/Paper Notes/` + Zotero item / bib entry |
 | New glossary term | QuickAdd **New Glossary Term**, or manual note in `Astronomy/Astro Glossary/` |
 | New Astro210 topic | New note in `Class Notes/Astro210/` + link on [[Class Notes/Astro210/Astro210]] |
 | New book chapter | New note in `Astronomy/Physics of Binary Star Evolution/` + link on hub |
@@ -332,5 +332,5 @@ Quartz is intentionally not kept in the vault working tree. To preview locally, 
 
 - **Links:** `[[Note title]]` or `[[path/to/note|label]]` for hubs
 - **Cites:** Zotero BBT keys `auth.lower + year` (e.g. `green2025`, `fragos2023`; clashes get `a`/`b` suffix). Refresh keys in Zotero after formula changes; update `citekey` + `[@…]` in notes.
-- **Titles:** Astrobites use full article titles as filenames; **Paper note** import uses `Paper Notes/<title> (<citekey>).md` (wikilink `[[citekey]]` via alias)
+- **Titles:** Astrobites use full article titles as filenames; **Paper note** import uses `Research/Paper Notes/<title> (<citekey>).md` (wikilink `[[citekey]]` via alias)
 - **Edit here:** this vault is the working notes system; keep `memory.md` in sync when structure changes

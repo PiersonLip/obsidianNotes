@@ -10,7 +10,7 @@ After changing plugin settings, run **Reload app without saving** (`Ctrl+R`) so 
 
 | Command | Use for |
 |---------|---------|
-| **Paper note** | Full paper note; saved as `Paper Notes/{{title}} ({{citekey}}).md` (same style as your older paper notes) |
+| **Paper note** | Full paper note; saved as `Research/Paper Notes/{{title}} ({{citekey}}).md` (same style as your older paper notes) |
 | **Pandoc** (citation format) | Insert `[@citekey]` at cursor |
 | **Data explorer** | Debug template variables for one Zotero item |
 

@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.startsWith("Paper Notes")
+    - file.folder.startsWith("Research/Paper Notes")
     - category == "paper"
 formulas:
   category: category

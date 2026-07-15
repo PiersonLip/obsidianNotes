@@ -49117,7 +49117,7 @@
       "path": "Wikipedia/Hydrostatic Equilibrium.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784155866093,
+      "mtime": 1784156175991,
       "sourceText": "Hydrostatic Equilibrium\nWikipedia article Hydrostatic equilibrium [@Hydrostaticequilibrium2026] --- This is a state in fluid mechanics where a system that is either plastic or fluid is stable due to an outwards pressure being equalized by an inwards force (ex. gravity). Notably both of these forces a...",
       "summary": "Wikipedia article Hydrostatic equilibrium [@Hydrostaticequilibrium2026] --- This is a state in fluid mechanics where a system that is either plastic or fluid is stable due to an outwards pressure being equalized by an inwards force (ex. gravity). Notably both of these forces a...",
       "embedding": [
@@ -49506,7 +49506,7 @@
         0,
         0
       ],
-      "updatedAt": 1784155867491
+      "updatedAt": 1784156180041
     }
   },
   "vaultAnalysisSnapshot": null,

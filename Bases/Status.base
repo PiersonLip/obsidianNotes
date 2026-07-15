@@ -1,0 +1,46 @@
+filters:
+  and:
+    - or:
+        - file.tags.contains("status/stub")
+        - file.tags.contains("status/draft")
+        - file.tags.contains("status/wip")
+        - file.tags.contains("status/done")
+properties:
+  file.name:
+    displayName: Note
+  file.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: By status
+    order:
+      - file.name
+      - file.tags
+  - type: table
+    name: Stub
+    filters:
+      and:
+        - file.tags.contains("status/stub")
+    order:
+      - file.name
+  - type: table
+    name: Draft
+    filters:
+      and:
+        - file.tags.contains("status/draft")
+    order:
+      - file.name
+  - type: table
+    name: WIP
+    filters:
+      and:
+        - file.tags.contains("status/wip")
+    order:
+      - file.name
+  - type: table
+    name: Done
+    filters:
+      and:
+        - file.tags.contains("status/done")
+    order:
+      - file.name

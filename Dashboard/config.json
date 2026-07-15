@@ -15,6 +15,15 @@
       "public/",
       ".quartz-cache/"
     ],
-    "createFolder": "General Notes"
+    "createFolder": "Astronomy/General Notes"
+  },
+  "recentlyOpened": {
+    "limit": 12,
+    "excludePaths": [
+      "Dashboard/",
+      "Dashboard/Home.md",
+      "memory.md",
+      ".trash/"
+    ]
   }
 }

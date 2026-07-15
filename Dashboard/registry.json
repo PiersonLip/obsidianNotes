@@ -7,6 +7,20 @@
       "column": "left"
     },
     {
+      "id": "recently-opened",
+      "title": "Recently opened",
+      "view": "Dashboard/views/recently-opened",
+      "column": "right"
+    },
+    {
+      "id": "stubs",
+      "title": "Stubs",
+      "subtitle": "#status/stub",
+      "type": "base",
+      "embed": "![[Bases/Stubs.base#Stubs]]",
+      "column": "right"
+    },
+    {
       "id": "daily",
       "title": "Daily note",
       "view": "Dashboard/views/daily-checkin",

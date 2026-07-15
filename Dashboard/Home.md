@@ -11,6 +11,7 @@ custom-width: 93
 
 ```dataviewjs
 (async () => {
+const { MarkdownRenderer, Component } = require("obsidian");
 const registry = JSON.parse(await dv.io.load("Dashboard/registry.json"));
 const root = dv.container.createDiv({ cls: "dash-root" });
 const header = root.createDiv({ cls: "dash-header" });
@@ -22,6 +23,19 @@ const layout = root.createDiv({ cls: "dash-layout" });
 const leftCol = layout.createDiv({ cls: "dash-col dash-col-left" });
 const rightCol = layout.createDiv({ cls: "dash-col dash-col-right" });
 
+async function renderBaseEmbed(parent, embedMarkdown) {
+  const host = new Component();
+  host.load();
+  parent.addClass("dash-base-embed");
+  await MarkdownRenderer.render(
+    app,
+    embedMarkdown,
+    parent,
+    "Dashboard/Home.md",
+    host
+  );
+}
+
 async function mountWidget(widget, parent) {
   const box = parent.createDiv({ cls: "dash-box" });
   const titleRow = box.createDiv({ cls: "dash-box-title" });
@@ -31,7 +45,11 @@ async function mountWidget(widget, parent) {
   }
   const body = box.createDiv({ cls: "dash-box-body" });
   try {
-    await dv.view(widget.view, { container: body });
+    if (widget.type === "base" && widget.embed) {
+      await renderBaseEmbed(body, widget.embed);
+    } else {
+      await dv.view(widget.view, { container: body });
+    }
   } catch (err) {
     body.createEl("p", {
       cls: "dash-error",
@@ -46,5 +64,3 @@ for (const widget of registry.widgets) {
 }
 })();
 ```
-
-

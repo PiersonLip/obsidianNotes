@@ -469,3 +469,21 @@
   outline: 1px solid var(--interactive-accent);
   outline-offset: 1px;
 }
+
+/* Embedded Bases inside dashboard widgets */
+.dashboard-home .dash-base-embed {
+  overflow: auto;
+  max-height: 22rem;
+}
+
+.dashboard-home .dash-base-embed .internal-embed,
+.dashboard-home .dash-base-embed .markdown-embed {
+  border: none;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+}
+
+.dashboard-home .dash-base-embed .markdown-embed-title {
+  display: none;
+}

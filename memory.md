@@ -146,6 +146,12 @@ Use **Bases → Glossary** or `tag:#glossary` / `path:"Astronomy/Astro Glossary"
 | `#astro-notes/physics-of-binary-star-evolution` | Binary star book |
 | `#glossary` | All glossary terms |
 | `#astro-notes/index` | Home |
+| `#status/stub` | Empty / placeholder note |
+| `#status/draft` | Started, still skeletal |
+| `#status/wip` | Actively being written |
+| `#status/done` | Finished enough to treat as complete |
+
+Use **one** `status/…` tag per note. Sweep with **Bases → Status**. Change the tag as the note matures (`stub` → `draft` → `wip` → `done`).
 
 ---
 

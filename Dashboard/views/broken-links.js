@@ -13,7 +13,7 @@ const excludePaths = config?.brokenLinks?.excludePaths ?? [
   "public/",
   ".quartz-cache/",
 ];
-const createFolder = config?.brokenLinks?.createFolder ?? "General Notes";
+const createFolder = config?.brokenLinks?.createFolder ?? "Astronomy/General Notes";
 
 function isExcludedPath(filePath) {
   const norm = filePath.replace(/\\/g, "/");

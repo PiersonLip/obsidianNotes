@@ -1,0 +1,19 @@
+---
+filters:
+  and:
+    - file.tags.contains("status/stub")
+properties:
+  file.name:
+    displayName: Note
+  file.folder:
+    displayName: Folder
+views:
+  - type: list
+    name: Stubs
+    order:
+      - file.name
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder

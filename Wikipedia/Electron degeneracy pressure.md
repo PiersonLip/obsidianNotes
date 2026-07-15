@@ -2,7 +2,7 @@
 wikipedia-url: https://en.wikipedia.org/wiki/Electron_degeneracy_pressure
 citekey: Electrondegeneracy2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - electron degeneracy pressure
 ---

@@ -111,14 +111,13 @@ function buildNoteContent(title, citeKey, url) {
   return `---
 wikipedia-url: "${url}"
 ${yamlCite}tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
 ${aliasLines}
 ---
+[Wikipedia article](${url})
 # ${title}${citeLine}
 ---
-
-[Wikipedia article](${url})
 
 `;
 }

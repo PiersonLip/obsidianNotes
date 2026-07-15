@@ -15,7 +15,7 @@
     {
       "id": "stubs",
       "title": "Stubs",
-      "subtitle": "#status/stub",
+      "subtitle": "status: stub",
       "type": "base",
       "embed": "![[Bases/Stubs.base#Stubs]]",
       "column": "right"

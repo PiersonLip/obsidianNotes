@@ -83,10 +83,10 @@ Body: `# Title [@citekey]`, then `---`, then sections (`## Abstract`, bullets, �
 wikipedia-url: "https://en.wikipedia.org/wiki/..."
 citekey: Electrondegeneracy2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 ```
 
-Body: `# Title [@citekey]`, then `---`, then Wikipedia link. Bib: `@online{…}` in `sources.bib`; **QuickAdd → New Wikipedia Note** also rebuilds `Bibliography/all.bib` for Pandoc Reference List.
+Body: Wikipedia link first, then `# Title [@citekey]`, then `---`. Bib: `@online{…}` in `sources.bib`; **QuickAdd → New Wikipedia Note** also rebuilds `Bibliography/all.bib` for Pandoc Reference List.
 
 ### General notes (`Astronomy/General Notes/<Topic>.md`)
 
@@ -146,12 +146,25 @@ Use **Bases → Glossary** or `tag:#glossary` / `path:"Astronomy/Astro Glossary"
 | `#astro-notes/physics-of-binary-star-evolution` | Binary star book |
 | `#glossary` | All glossary terms |
 | `#astro-notes/index` | Home |
-| `#status/stub` | Empty / placeholder note |
-| `#status/draft` | Started, still skeletal |
-| `#status/wip` | Actively being written |
-| `#status/done` | Finished enough to treat as complete |
 
-Use **one** `status/…` tag per note. Sweep with **Bases → Status**. Change the tag as the note matures (`stub` → `draft` → `wip` → `done`).
+### Note status (property)
+
+Use a frontmatter property, **not** a tag:
+
+```yaml
+status: stub   # stub | draft | wip | done
+```
+
+| Value | Meaning |
+|-------|---------|
+| `stub` | Empty / placeholder |
+| `draft` | Started, still skeletal |
+| `wip` | Actively being written |
+| `done` | Finished enough to treat as complete |
+
+Obsidian will autocomplete those values once you've used them (click the `status` property and pick from suggestions). Browse with **Bases → Status** / **Bases → Stubs**.
+
+New notes get `status: stub` automatically via Templater (`personalTemplates/auto-status-stub.md`).
 
 ---
 

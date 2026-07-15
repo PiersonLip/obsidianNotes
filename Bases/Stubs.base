@@ -1,12 +1,13 @@
----
 filters:
   and:
-    - file.tags.contains("status/stub")
+    - status == "stub"
 properties:
   file.name:
     displayName: Note
   file.folder:
     displayName: Folder
+  status:
+    displayName: Status
 views:
   - type: list
     name: Stubs
@@ -17,3 +18,4 @@ views:
     order:
       - file.name
       - file.folder
+      - status

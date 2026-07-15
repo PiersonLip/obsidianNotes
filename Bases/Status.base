@@ -1,13 +1,15 @@
 filters:
   and:
     - or:
-        - file.tags.contains("status/stub")
-        - file.tags.contains("status/draft")
-        - file.tags.contains("status/wip")
-        - file.tags.contains("status/done")
+        - status == "stub"
+        - status == "draft"
+        - status == "wip"
+        - status == "done"
 properties:
   file.name:
     displayName: Note
+  status:
+    displayName: Status
   file.tags:
     displayName: Tags
 views:
@@ -15,32 +17,36 @@ views:
     name: By status
     order:
       - file.name
-      - file.tags
+      - status
   - type: table
     name: Stub
     filters:
       and:
-        - file.tags.contains("status/stub")
+        - status == "stub"
     order:
       - file.name
+      - status
   - type: table
     name: Draft
     filters:
       and:
-        - file.tags.contains("status/draft")
+        - status == "draft"
     order:
       - file.name
+      - status
   - type: table
     name: WIP
     filters:
       and:
-        - file.tags.contains("status/wip")
+        - status == "wip"
     order:
       - file.name
+      - status
   - type: table
     name: Done
     filters:
       and:
-        - file.tags.contains("status/done")
+        - status == "done"
     order:
       - file.name
+      - status

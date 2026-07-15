@@ -2,7 +2,7 @@
 wikipedia-url: https://en.wikipedia.org/wiki/Degenerate_matter
 citekey: Degeneratematter2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - degenerate matter
   - degeneracy pressure

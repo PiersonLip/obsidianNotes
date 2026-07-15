@@ -2,7 +2,7 @@
 wikipedia-url: "https://en.wikipedia.org/wiki/Rossiter%E2%80%93McLaughlin_effect"
 citekey: RossiterMcLaughlineffect2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - Rossiter–McLaughlin effect
 ---

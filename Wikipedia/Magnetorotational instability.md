@@ -2,7 +2,7 @@
 wikipedia-url: "https://en.wikipedia.org/wiki/Magnetorotational_instability"
 citekey: Magnetorotationalinstability2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - Magnetorotational instability
 ---

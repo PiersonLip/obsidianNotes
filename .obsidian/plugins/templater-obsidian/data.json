@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "personalTemplates/auto-status-stub.md"
     }
   ],
   "enable_file_templates": false,
@@ -36,8 +36,14 @@
   ],
   "intellisense_render": 1,
   "ignore_folders_on_creation": [
-    {
-      "folder": ""
-    }
+    { "folder": ".trash" },
+    { "folder": "personalTemplates" },
+    { "folder": "templates" },
+    { "folder": "Attachments" },
+    { "folder": "Dashboard/_cache" },
+    { "folder": "Excalidraw" },
+    { "folder": "Scripts" },
+    { "folder": "Bases" },
+    { "folder": "Bibliography" }
   ]
 }

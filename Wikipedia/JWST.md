@@ -2,7 +2,7 @@
 wikipedia-url: https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
 citekey: JamesWebb2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
   - astro-notes/telescope
   - astro-notes/satellite
 aliases:

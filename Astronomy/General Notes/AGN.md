@@ -1,7 +1,5 @@
 ---
-
 aliases:
   - AGNs
-tags:
-  - status/stub
+status: stub
 ---

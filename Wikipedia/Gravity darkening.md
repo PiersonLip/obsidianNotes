@@ -2,7 +2,7 @@
 wikipedia-url: "https://en.wikipedia.org/wiki/Gravity_darkening"
 citekey: Gravitydarkening2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - Gravity darkening
 ---

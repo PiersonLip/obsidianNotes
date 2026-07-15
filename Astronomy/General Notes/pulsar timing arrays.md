@@ -1,5 +1,5 @@
 ---
+status: stub
 tags:
   - astro-notes
-  - status/stub
 ---

@@ -2,7 +2,7 @@
 wikipedia-url: https://en.wikipedia.org/wiki/Cataclysmic_variable_star
 citekey: Cataclysmicvariable2026
 tags:
-  - astro-notes/wikipedia
+  - wikipedia
 aliases:
   - Cataclysmic variable star
   - novae

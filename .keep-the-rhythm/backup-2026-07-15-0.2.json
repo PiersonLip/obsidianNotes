@@ -4143,9 +4143,108 @@
           }
         ],
         "id": 250
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "W28 Ilia meeting.md",
+        "wordCountStart": 32,
+        "charCountStart": 213,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 23,
+            "c": 124
+          },
+          {
+            "timeKey": "13:30",
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "17:20",
+            "w": -58,
+            "c": -352
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 162,
+        "charCountStart": 1432,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 41,
+            "c": 435
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
+        "wordCountStart": 237,
+        "charCountStart": 1667,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "15:40",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "17:25",
+            "w": -237,
+            "c": -1667
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Excalidraw/Drawing 2026-07-15 15.03.04.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 566,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Wikipedia/Hydrostatic equilibrium.md",
+        "wordCountStart": 27,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:45",
+            "w": 29,
+            "c": 171
+          }
+        ],
+        "id": 255
       }
     ],
-    "wholeVaultWordCount": 23528,
-    "wholeVaultCharCount": 163189
+    "wholeVaultWordCount": 23624,
+    "wholeVaultCharCount": 163931
   }
 }

@@ -3297,7 +3297,7 @@
       "path": "Dashboard/Home.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1783355521747,
+      "mtime": 1784154861828,
       "sourceText": "Home",
       "summary": "",
       "embedding": [
@@ -3686,7 +3686,7 @@
         0,
         0
       ],
-      "updatedAt": 1784154064863
+      "updatedAt": 1784154863381
     },
     "Class Notes/Class Notes.md": {
       "path": "Class Notes/Class Notes.md",

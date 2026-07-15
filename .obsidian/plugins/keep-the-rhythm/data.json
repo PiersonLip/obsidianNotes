@@ -4218,9 +4218,23 @@
         "charCountStart": 566,
         "changes": [],
         "id": 254
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Wikipedia/Hydrostatic equilibrium.md",
+        "wordCountStart": 27,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 255
       }
     ],
     "wholeVaultWordCount": 23595,
-    "wholeVaultCharCount": 163763
+    "wholeVaultCharCount": 163761
   }
 }

@@ -15,7 +15,7 @@ tags:
 
 ## Why stars do stuff *(trying to focus on some of the math here, cause while i conceptually understand it, the math is really neat)*
 
-- A globe of monatomic gas without energy sources and in [[HSEq]] follows
+- A globe of monatomic gas without energy sources and in [[Hydrostatic Equilibrium]] follows
 - $$2E_{th} + E_{pot} = 0$$
 - $E_{th}$ is given by
 - $$E_{th} = \frac{3}{2}Nk\bar{T} = \frac{3}{2}M(\mathcal{R}/\mu)\bar{T}$$
@@ -33,7 +33,7 @@ tags:
 - This means as the star (or cloud of gas) radius heat away, it actually gets hotter, leading to more radiation, and thus more shrinking
 - This applies to the star from the moment it is a gas to the end of its life as BH, [[NS]], WD, etc
 - These equations work well for [[antibiotic-index]] of  $\gamma = C_p/C_V = 5/3$, which is great for globes of ionized hydrogen and helium. However, generalized forms can be found with eqs 8.6-8.8
-- if $\gamma \leq 4/3$, the star **cannot** reach [[HSEq]], and thus must collapse or explode
+- if $\gamma \leq 4/3$, the star **cannot** reach [[Hydrostatic Equilibrium]], and thus must collapse or explode
 - Stars of very high mass have very high luminosities, which mean their interior pressure is dominated by [[photon-gas]], which has $\gamma = 4/3$. This sets an upper limit for the mass of a star, also called the [[Eddington Luminosity Limit]]
 
 ## Stellar Timescales

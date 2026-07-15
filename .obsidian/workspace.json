@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Wikipedia/Hydrostatic Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Hydrostatic Equilibrium"
             }
           }
         ]
@@ -277,9 +277,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Wikipedia/Hydrostatic equilibrium.md",
-    "personalTemplates/auto-status-stub.md",
     "Dashboard/Home.md",
+    "Wikipedia/Hydrostatic Equilibrium.md",
+    "Wikipedia/Gravity darkening.md",
+    "personalTemplates/auto-status-stub.md",
     "Bases/Stubs.base",
     "Bases/Status.base",
     "Dashboard/views/recently-opened.js",
@@ -308,7 +309,6 @@
     "Research/Vicky Group People.md",
     "Research/questions for FIRE people.md",
     "Research/LatteREADME.md",
-    "Research/Gizmo Read.md",
     "Attachments/Scott_Gaudi__single_lens_animation.gif",
     "Attachments/Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Attachments/Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",

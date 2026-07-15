@@ -4221,7 +4221,7 @@
       },
       {
         "date": "2026-07-15",
-        "filePath": "Wikipedia/Hydrostatic equilibrium.md",
+        "filePath": "Wikipedia/Hydrostatic Equilibrium.md",
         "wordCountStart": 27,
         "charCountStart": 321,
         "changes": [
@@ -4239,12 +4239,31 @@
             "timeKey": "17:45",
             "w": 29,
             "c": 171
+          },
+          {
+            "timeKey": "17:50",
+            "w": 39,
+            "c": 223
           }
         ],
         "id": 255
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Wikipedia/Gravity darkening.md",
+        "wordCountStart": 74,
+        "charCountStart": 551,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 256
       }
     ],
-    "wholeVaultWordCount": 23624,
-    "wholeVaultCharCount": 163931
+    "wholeVaultWordCount": 23665,
+    "wholeVaultCharCount": 164178
   }
 }

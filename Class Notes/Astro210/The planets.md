@@ -47,7 +47,7 @@ polar caps of $CO_2$ form and melt in winter and summer
 
 ### Jupiter and Saturn
 --- 
-- they are in [[HSEq|hydrostatic equilibrium]]
+- they are in [[Hydrostatic Equilibrium|hydrostatic equilibrium]]
 - $\frac{dP}{dr} = -\frac{GM_r \phi}{r^2}$
 - $M_r$ is the mass within radius $r$ assuming constant density $\phi$
 - $\int_{P_c}^{0} dP = \frac{4\pi}{3} \phi^2 G \int_{0}^{R}$

@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 5431413
       }
+    },
+    {
+      "query": "tag:#astro-notes",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.288423310091366,
+  "scale": 0.24625342637678876,
   "close": false
 }

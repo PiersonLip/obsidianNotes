@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-  - python
+  - programming/python
 ---
 [Documentation](https://docs.python.org/3/library/multiprocessing.html)
 

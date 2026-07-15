@@ -146,6 +146,7 @@ Use **Bases → Glossary** or `tag:#glossary` / `path:"Astronomy/Astro Glossary"
 | `#astro-notes/physics-of-binary-star-evolution` | Binary star book |
 | `#glossary` | All glossary terms |
 | `#astro-notes/index` | Home |
+| `#programming/python` | Python notes |
 
 ### Note status (property)
 

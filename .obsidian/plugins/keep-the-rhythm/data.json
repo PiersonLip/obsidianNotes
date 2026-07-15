@@ -4178,6 +4178,11 @@
             "timeKey": "17:30",
             "w": 41,
             "c": 435
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 252
@@ -4247,8 +4252,8 @@
           },
           {
             "timeKey": "17:55",
-            "w": 16,
-            "c": 74
+            "w": 30,
+            "c": 165
           }
         ],
         "id": 255
@@ -4266,9 +4271,23 @@
           }
         ],
         "id": 256
+      },
+      {
+        "date": "2026-07-15",
+        "filePath": "Astronomy/General Notes/Confidence Bands.md",
+        "wordCountStart": 123,
+        "charCountStart": 820,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 20
+          }
+        ],
+        "id": 257
       }
     ],
-    "wholeVaultWordCount": 23681,
-    "wholeVaultCharCount": 164252
+    "wholeVaultWordCount": 23697,
+    "wholeVaultCharCount": 164363
   }
 }

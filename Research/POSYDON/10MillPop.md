@@ -1,7 +1,7 @@
 ---
 tags:
   - POSYDON
-  - python
+  - programming/python
   - BHSolProject
 ---
 # Notes on the 10 Mill pop 

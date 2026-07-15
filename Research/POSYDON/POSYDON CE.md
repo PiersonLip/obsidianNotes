@@ -1,7 +1,7 @@
 ---
 tags:
   - POSYDON
-  - python
+  - programming/python
 ---
 ## POSYDON [[Common Envelope]] step
 ---

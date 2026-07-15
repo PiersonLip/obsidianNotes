@@ -1,6 +1,6 @@
 ---
 tags:
-  - python
+  - programming/python
   - POSYDON
 ---
 # Commands for POSYDON

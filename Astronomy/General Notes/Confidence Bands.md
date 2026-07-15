@@ -1,7 +1,7 @@
 ---
 tags:
-  - graphing
   - stats
+  - programming/graphing
 ---
 ## Confidence Bands
 ---
@@ -13,4 +13,4 @@ The band, and its associated confidence level (denoted as a percent), is the pro
 Note that very often most of the points graphed will lie *outside* of the confidence band, this is because it it assumed that said points have noise. I.e. its more-so the percentage chance of a new point (that *doesn't* have noise) lands within the band. 
 
 Whereas a [[prediction band]] is is a prediction of where the points will actually "land" on the graph
-![[Pasted image 20260526161800.png]]
+![[Pasted image 20260526161800.png# screen]]

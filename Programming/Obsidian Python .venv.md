@@ -1,6 +1,6 @@
 ---
 tags:
-  - python
+  - programming/python
 ---
 To update .venv
 ```bash

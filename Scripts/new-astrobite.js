@@ -1,11 +1,11 @@
 /**
  * QuickAdd: New Astrobite Note (URL → scraped metadata → vault note)
  *
- * Matches AstroBites/*.md frontmatter in this vault (see memory.md).
+ * Matches Astronomy/AstroBites/*.md frontmatter in this vault (see memory.md).
  * Bib entries go to Bibliography/sources.bib; merged into all.bib for Pandoc Reference List.
  */
 
-const NOTES_DIR = "AstroBites";
+const NOTES_DIR = "Astronomy/AstroBites";
 const BIB_FILE = "Bibliography/sources.bib";
 const path = require("path");
 

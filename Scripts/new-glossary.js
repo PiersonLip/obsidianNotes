@@ -1,10 +1,10 @@
 /**
  * QuickAdd: New Glossary Term
  *
- * Creates Glossary/<term>.md with tag #glossary and optional aliases (see memory.md).
+ * Creates Astronomy/Astro Glossary/<term>.md with tag #glossary and optional aliases (see memory.md).
  */
 
-const GLOSSARY_DIR = "Glossary";
+const GLOSSARY_DIR = "Astronomy/Astro Glossary";
 
 function safeFilename(term) {
   return term.replace(/[\\/:*?"<>|]/g, "").trim();
@@ -74,7 +74,7 @@ module.exports = async (params) => {
 
   const path = notePath(stem);
   if (app.vault.getAbstractFileByPath(path)) {
-    new Notice(`Glossary note already exists: ${path}`, 5000);
+    new Notice(`Astro Glossary note already exists: ${path}`, 5000);
     await app.workspace.openLinkText(path, "", false);
     return;
   }

@@ -17,20 +17,24 @@ Canonical reference for this vault’s layout, tags, frontmatter, and macros. Up
 
 ```
 Astro Notes/
-├── Home.md                 # index (map of content)
 ├── memory.md               # this file
-├── SETUP.md                # short onboarding
-├── AstroBites/             # one note per article; [[AstroBites/Astrobites]] = index
+├── Astronomy/
+│   ├── AstroBites/         # one note per article; [[Astronomy/AstroBites/Astrobites]] = index
+│   ├── Astro Glossary/     # one note per term (wikilink targets)
+│   ├── General Notes/      # misc topic notes
+│   └── Physics of Binary Star Evolution/   # book hub + chapter notes
+├── Research/
+│   ├── Meetings/           # weekly research meetings
+│   └── POSYDON/            # POSYDON tooling / docs
 ├── Paper Notes/            # one note per paper
-├── General Notes/          # misc topic notes
 ├── Class Notes/            # [[Class Notes/Class Notes]] course index
 ├── Class Notes/Astro210/   # [[Class Notes/Astro210/Astro210]] topic index
-├── Physics of Binary Star Evolution/   # book hub + chapter notes
-├── Glossary/               # one note per term (wikilink targets)
+├── Programming/            # python / bash notes
+├── Wikipedia/              # Wikipedia article notes
 ├── Bibliography/           # AstroNotes.bib (Zotero) + sources.bib (manual/Astrobites)
 ├── Attachments/            # figures (PNG)
 ├── Scripts/                # QuickAdd user scripts
-└── Bases/                  # Glossary, Papers, Astrobites, Binary book, Astro210, Class Notes
+└── Bases/                  # Astro Glossary, Papers, Astrobites, Binary book, Astro210, Class Notes
 ```
 
 ---
@@ -39,7 +43,7 @@ Astro Notes/
 
 Every note gets `category` plus auto-style tags `astro-notes/<category>`. Add extra tags in YAML when useful (e.g. `#astro210`).
 
-### Astrobites (`AstroBites/<Article title>.md`)
+### Astrobites (`Astronomy/AstroBites/<Article title>.md`)
 
 ```yaml
 astrobites-url: "https://astrobites.org/..."
@@ -56,7 +60,7 @@ Body pattern:
 - Body starts after the link line; add your own sections as needed.
 - Wikilinks to glossary: `[[TESS]]`, `[[PISN]]`
 
-**Index:** [[AstroBites/Astrobites]] — inline **Bases** list (updates automatically; new notes appear when you open the hub).
+**Index:** [[Astronomy/AstroBites/Astrobites]] — inline **Bases** list (updates automatically; new notes appear when you open the hub).
 
 **Create:** QuickAdd macro **New Astrobite Note** (see below).
 
@@ -84,7 +88,7 @@ tags:
 
 Body: `# Title [@citekey]`, then `---`, then Wikipedia link. Bib: `@online{…}` in `sources.bib`; **QuickAdd → New Wikipedia Note** also rebuilds `Bibliography/all.bib` for Pandoc Reference List.
 
-### General notes (`General Notes/<Topic>.md`)
+### General notes (`Astronomy/General Notes/<Topic>.md`)
 
 ```yaml
 category: general
@@ -104,11 +108,11 @@ Standalone topics (WD SNe, Pauli Exclusion Principle, Gravitational Waves, etc.)
 
 ### Book — Physics of Binary Star Evolution
 
-**Hub:** [[Physics of Binary Star Evolution/Physics of Binary Star Evolution]] — short intro + inline **Bases** chapter list (automatic).
+**Hub:** [[Astronomy/Physics of Binary Star Evolution/Physics of Binary Star Evolution]] — short intro + inline **Bases** chapter list (automatic).
 
 **Chapter notes:** one file per chapter in the same folder.
 
-### Glossary (`Glossary/<Term>.md`)
+### Astro Glossary (`Astronomy/Astro Glossary/<Term>.md`)
 
 One note per term. Link in prose with `[[TESS]]`, `[[kilonova]]`, etc. (filename = link target).
 
@@ -122,9 +126,9 @@ tags:
 - **`aliases`** — only when the link text differs from the filename (e.g. `TESS.md` + alias for the spelled-out name) or for alternate spellings.
 - **No** `glossary-key`, `latex-glossary-key`, `ac:…`, or acronym/observatory sub-tags.
 
-Use **Bases → Glossary** or `tag:#glossary` / `path:Glossary`.
+Use **Bases → Glossary** or `tag:#glossary` / `path:"Astronomy/Astro Glossary"`.
 
-**Create:** new file in `Glossary/`; `#` heading matches how you want the term to read; add `aliases` if needed for extra link targets.
+**Create:** new file in `Astronomy/Astro Glossary/`; `#` heading matches how you want the term to read; add `aliases` if needed for extra link targets.
 
 ### Meta
 
@@ -173,7 +177,7 @@ Astrobites URLs: store in note YAML as `astrobites-url` and as `[Astrobites post
 **Does:**
 
 1. Prompt for Astrobites URL; scrape title/author when possible
-2. Create `AstroBites/<Article title>.md` with standard frontmatter
+2. Create `Astronomy/AstroBites/<Article title>.md` with standard frontmatter
 3. Append `@online{…}` to `Bibliography/sources.bib` when author + dated URL exist
 4. Open the new note
 
@@ -181,16 +185,16 @@ Astrobites URLs: store in note YAML as `astrobites-url` and as `[Astrobites post
 
 Duplicate script copy may exist under `templates/` — **QuickAdd should use `Scripts/new-astrobite.js` only.**
 
-### Folder indexes (automatic, like Glossary)
+### Folder indexes (automatic, like Astro Glossary)
 
 Hub notes use an inline `base` code block — Obsidian rebuilds the list from the folder whenever you open the note. No refresh commands.
 
 | Hub | Folder |
 |-----|--------|
-| [[AstroBites/Astrobites]] | `AstroBites/*.md` (except hub) |
+| [[Astronomy/AstroBites/Astrobites]] | `Astronomy/AstroBites/*.md` (except hub) |
 | [[Class Notes/Class Notes]] | `Class Notes/<Course>/<Course>.md` |
 | [[Class Notes/Astro210/Astro210]] | `Class Notes/Astro210/*.md` (except hub) |
-| [[Physics of Binary Star Evolution/Physics of Binary Star Evolution]] | book chapters |
+| [[Astronomy/Physics of Binary Star Evolution/Physics of Binary Star Evolution]] | book chapters |
 
 **New course:** create `Class Notes/<Name>/<Name>.md` — it appears under [[Class Notes/Class Notes]] automatically.
 
@@ -210,7 +214,7 @@ Hub notes use an inline `base` code block — Obsidian rebuilds the list from th
 3. **Alias** — optional full phrase (e.g. `Asymptotic Giant Branch` for `AGB.md`).
 4. **Definition** — multiline; can leave blank and write after the note opens.
 
-**Creates:** `Glossary/<term>.md` with `tags: [glossary]` and optional `aliases`, then opens the note.
+**Creates:** `Astronomy/Astro Glossary/<term>.md` with `tags: [glossary]` and optional `aliases`, then opens the note.
 
 ### Other note types
 
@@ -244,10 +248,10 @@ Papers and class notes: duplicate an existing note or add a QuickAdd script late
 |------|--------|
 | New Astrobite | QuickAdd **New Astrobite Note** |
 | New paper | New note in `Paper Notes/` + Zotero item / bib entry |
-| New glossary term | QuickAdd **New Glossary Term**, or manual note in `Glossary/` |
+| New glossary term | QuickAdd **New Glossary Term**, or manual note in `Astronomy/Astro Glossary/` |
 | New Astro210 topic | New note in `Class Notes/Astro210/` + link on [[Class Notes/Astro210/Astro210]] |
-| New book chapter | New note in `Physics of Binary Star Evolution/` + link on hub |
-| New general topic | New note in `General Notes/` |
+| New book chapter | New note in `Astronomy/Physics of Binary Star Evolution/` + link on hub |
+| New general topic | New note in `Astronomy/General Notes/` |
 | Update Home index | Edit [[Home]] when you add a major section |
 
 ---
@@ -288,9 +292,8 @@ First deploy on a combined checkout: the script **moves** `quartz/`, `package.js
 
 ### Graph & tags on the site
 
-- Sidebar graph: tags off, `excludePrefixes: ["Glossary/", "Home"]`, hidden on `index` slug (`quartz.layout.ts`).
-- Tag chips: `astro-notes/astrobite` links to [[AstroBites/Astrobites]] hub, not `/tags/…` (`TagList.tsx`).
-- Astrobites hub **Bases** filter: `file.tags.contains("astro-notes/astrobite")` (not folder-only).
+- Sidebar graph: tags off, `excludePrefixes: ["Astronomy/Astro Glossary/", "Home"]`, hidden on `index` slug (`quartz.layout.ts`).
+- Tag chips: `astro-notes/astrobite` links to [[Astronomy/AstroBites/Astrobites]] hub, not `/tags/…` (`TagList.tsx`).- Astrobites hub **Bases** filter: `file.tags.contains("astro-notes/astrobite")` (not folder-only).
 
 ### Citations build
 

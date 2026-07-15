@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.startsWith("Glossary")
+    - file.folder.startsWith("Astronomy/Astro Glossary")
     - file.tags.contains("glossary")
 properties:
   file.name:
@@ -9,7 +9,7 @@ properties:
     displayName: Aliases
 views:
   - type: table
-    name: Glossary
+    name: Astro Glossary
     order:
       - file.name
       - aliases

@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Physics of Binary Star Evolution")
+    - file.inFolder("Astronomy/Physics of Binary Star Evolution")
     - file.name != "Physics of Binary Star Evolution.md"
 properties:
   file.name:

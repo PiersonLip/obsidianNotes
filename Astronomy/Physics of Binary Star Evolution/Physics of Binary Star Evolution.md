@@ -17,7 +17,7 @@ tags:
 ```base
 filters:
   and:
-    - file.inFolder("Physics of Binary Star Evolution")
+    - file.inFolder("Astronomy/Physics of Binary Star Evolution")
     - file.name != "Physics of Binary Star Evolution.md"
 views:
   - type: list

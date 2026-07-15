@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W28 Ilia meeting.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W28 Ilia meeting"
+              "title": "Home"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "W27 Ilia Meeting.md",
     "W28 Ilia meeting.md",
+    "W27 Ilia Meeting.md",
     "POSYDON Cogsworth Integration.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-07-14.json",

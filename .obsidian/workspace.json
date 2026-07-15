@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "W28 Ilia meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "W28 Ilia meeting"
             }
           }
         ]
@@ -277,10 +277,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-07-15.json",
     "W28 Ilia meeting.md",
     "W27 Ilia Meeting.md",
     "POSYDON Cogsworth Integration.md",
-    "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-07-14.json",
     "Cogsworth Galaxy Modeling.md",
     "POSYDON + FIRE BH Prediction Pipeline.md",
@@ -308,7 +309,6 @@
     "Excalidraw/bns-offsets vs PosyFIRE 2026-06-25 13.55.42.excalidraw.md",
     "Dashboard/_cache/apod-2026-07-06.json",
     "General Notes/winds.md",
-    "General Notes/White Dwarf.md",
     "Dashboard/_cache/apod-2026-07-03.json",
     "Pasted image 20260701150229.png",
     "Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",
@@ -322,7 +322,6 @@
     "Pasted image 20260630170004.png",
     "Pasted image 20260630165929.png",
     "Dashboard/_cache/apod-2026-06-30.json",
-    "Dashboard/_cache/apod-2026-06-29.json",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

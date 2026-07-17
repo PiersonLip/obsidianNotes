@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "65a3786f6f0d8620",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5078125
+    "width": 542.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -282,10 +276,10 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "65a3786f6f0d8620",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Astronomy/General Notes/Confidence Bands.md",
     "Dashboard/Home.md",
+    "Astronomy/General Notes/Confidence Bands.md",
     "Wikipedia/Hydrostatic Equilibrium.md",
     "Wikipedia/Gravity darkening.md",
     "personalTemplates/auto-status-stub.md",

@@ -4397,7 +4397,13 @@
         "filePath": "Wikipedia/Hydrostatic Equilibrium.md",
         "wordCountStart": 125,
         "charCountStart": 877,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 267
       },
       {
@@ -4441,14 +4447,14 @@
           },
           {
             "timeKey": "14:00",
-            "w": 3,
-            "c": 31
+            "w": 5,
+            "c": 39
           }
         ],
         "id": 270
       }
     ],
-    "wholeVaultWordCount": 23833,
-    "wholeVaultCharCount": 165161
+    "wholeVaultWordCount": 23835,
+    "wholeVaultCharCount": 165169
   }
 }

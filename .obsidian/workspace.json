@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIM/JupyVim.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JupyVim"
+              "title": "Home"
             }
           }
         ]
@@ -278,11 +278,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
+    "Wikipedia/Hydrostatic Equilibrium.md",
     "NVIM/JupyVim.md",
+    "Dashboard/Home.md",
     "NVIM",
     "Dashboard/_cache/apod-2026-07-22.json",
-    "Wikipedia/Hydrostatic Equilibrium.md",
     "Research/POSYDON/POSYDON Export Selection.md",
     "AstroNotes.bib",
     "Dashboard/_cache/apod-2026-07-21.json",

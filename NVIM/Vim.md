@@ -18,4 +18,7 @@ To toggle text wrapping in Vim, ==enter normal mode and type== **`:set wrap!`**
 
 # go-to line
 :num
+
+## go to end of line
+$ 
  

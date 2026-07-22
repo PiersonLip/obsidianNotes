@@ -20,5 +20,10 @@ To toggle text wrapping in Vim, ==enter normal mode and type== **`:set wrap!`**
 :num
 
 ## go to end of line
-$ 
- 
+$
+
+## spellcheck 
+`]s` /  `[s`  :  next  / previous typo 
+`z=`            : suggestions 
+`zg`            : add to dic 
+`zw`            : mark as wrong

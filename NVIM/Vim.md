@@ -1,7 +1,7 @@
 ---
 status: stub
 tags:
-  - nvim
+  - vim
 ---
 # Man this is a horrid idea
 
@@ -13,6 +13,6 @@ Tab :P
  <leader> nB  - run all below
  <leader> nR  - run all
 
-## Search
- 
+## Search 
+
  

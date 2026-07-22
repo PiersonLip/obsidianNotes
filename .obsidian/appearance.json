@@ -4,5 +4,6 @@
     "dashboard",
     "image-inversion"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 16
 }

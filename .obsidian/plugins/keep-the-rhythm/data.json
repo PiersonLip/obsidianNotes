@@ -4416,6 +4416,11 @@
             "timeKey": "12:20",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": -5
           }
         ],
         "id": 268
@@ -4430,13 +4435,18 @@
             "timeKey": "12:20",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": -5
           }
         ],
         "id": 269
       },
       {
         "date": "2026-07-22",
-        "filePath": "NVIM/JupyVim.md",
+        "filePath": "NVIM/Vim.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4462,14 +4472,14 @@
           },
           {
             "timeKey": "17:20",
-            "w": -96,
-            "c": -629
+            "w": -95,
+            "c": -620
           }
         ],
         "id": 270
       }
     ],
-    "wholeVaultWordCount": 23852,
-    "wholeVaultCharCount": 165287
+    "wholeVaultWordCount": 23853,
+    "wholeVaultCharCount": 165291
   }
 }

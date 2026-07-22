@@ -4364,11 +4364,36 @@
         "filePath": "Dashboard/Home.md",
         "wordCountStart": 203,
         "charCountStart": 1867,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": 4
+          }
+        ],
         "id": 265
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Wikipedia/Hydrostatic Equilibrium.md",
+        "wordCountStart": 125,
+        "charCountStart": 878,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "19:05",
+            "w": 0,
+            "c": -4
+          }
+        ],
+        "id": 266
       }
     ],
     "wholeVaultWordCount": 23819,
-    "wholeVaultCharCount": 164987
+    "wholeVaultCharCount": 164990
   }
 }

@@ -3297,9 +3297,9 @@
       "path": "Dashboard/Home.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784156407445,
-      "sourceText": "Home",
-      "summary": "",
+      "mtime": 1784678640035,
+      "sourceText": "Home\n****",
+      "summary": "****",
       "embedding": [
         0,
         0,
@@ -3686,7 +3686,7 @@
         0,
         0
       ],
-      "updatedAt": 1784655362382
+      "updatedAt": 1784678640438
     },
     "Class Notes/Class Notes.md": {
       "path": "Class Notes/Class Notes.md",
@@ -49117,7 +49117,7 @@
       "path": "Wikipedia/Hydrostatic Equilibrium.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784156383313,
+      "mtime": 1784678663996,
       "sourceText": "Hydrostatic Equilibrium\nWikipedia article Hydrostatic equilibrium [@Hydrostaticequilibrium2026] --- This is a state in fluid mechanics where a system that is either plastic or fluid is stable due to an outwards pressure being equalized by an inwards force (ex. gravity). Notably both of these forces a...",
       "summary": "Wikipedia article Hydrostatic equilibrium [@Hydrostaticequilibrium2026] --- This is a state in fluid mechanics where a system that is either plastic or fluid is stable due to an outwards pressure being equalized by an inwards force (ex. gravity). Notably both of these forces a...",
       "embedding": [
@@ -49506,7 +49506,7 @@
         0,
         0
       ],
-      "updatedAt": 1784655362368
+      "updatedAt": 1784678691810
     },
     "Astronomy/General Notes/Confidence Bands.md": {
       "path": "Astronomy/General Notes/Confidence Bands.md",

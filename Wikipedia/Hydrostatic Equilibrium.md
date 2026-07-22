@@ -19,5 +19,4 @@ $$
 dP = -\rho(P)g(h)dh
 $$
 
-
 This wikipedia article is absolute heat holy shit, thank you wikipedia math autists <3 

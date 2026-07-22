@@ -69657,7 +69657,7 @@
       "path": "NVIM/Vim.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784760707487,
+      "mtime": 1784760795167,
       "sourceText": "Vim\nMan this is a horrid idea Selecting dropdown options Tab :P Running stuff leader nA - run all above leader nB - run all below leader nR - run all Search To toggle text wrapping in Vim, ==enter normal mode and type== ** ** go-to line :num go to end of line $ spellcheck / : next...",
       "summary": "Man this is a horrid idea Selecting dropdown options Tab :P Running stuff leader nA - run all above leader nB - run all below leader nR - run all Search To toggle text wrapping in Vim, ==enter normal mode and type== ** ** go-to line :num go to end of line $ spellcheck / : next...",
       "embedding": [
@@ -70046,7 +70046,7 @@
         0,
         0
       ],
-      "updatedAt": 1784760708148
+      "updatedAt": 1784760797043
     }
   },
   "vaultAnalysisSnapshot": null,

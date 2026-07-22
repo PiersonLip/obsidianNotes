@@ -27,3 +27,6 @@ $
 `z=`            : suggestions 
 `zg`            : add to dic 
 `zw`            : mark as wrong
+
+## quickfix menu 
+`leader xq` | show hide 

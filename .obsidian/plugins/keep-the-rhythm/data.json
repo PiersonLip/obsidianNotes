@@ -4459,12 +4459,17 @@
             "timeKey": "14:20",
             "w": 96,
             "c": 630
+          },
+          {
+            "timeKey": "17:20",
+            "w": -96,
+            "c": -629
           }
         ],
         "id": 270
       }
     ],
-    "wholeVaultWordCount": 23947,
-    "wholeVaultCharCount": 165906
+    "wholeVaultWordCount": 23852,
+    "wholeVaultCharCount": 165287
   }
 }

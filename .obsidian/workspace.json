@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "NVIM/JupyVim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "JupyVim"
             }
           }
         ]
@@ -278,10 +278,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
+    "NVIM/JupyVim.md",
+    "NVIM",
     "Dashboard/_cache/apod-2026-07-22.json",
     "Wikipedia/Hydrostatic Equilibrium.md",
     "Research/POSYDON/POSYDON Export Selection.md",
-    "Dashboard/Home.md",
     "AstroNotes.bib",
     "Dashboard/_cache/apod-2026-07-21.json",
     "Dashboard/_cache/apod-2026-07-20.json",
@@ -301,9 +303,7 @@
     "Research/Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
     "Research/Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
     "Research/Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
-    "Research/Paper Notes",
     "Excalidraw/Drawing 2026-07-15 15.03.04.excalidraw.md",
-    "Scripts/requirements.txt",
     "Research/Solar BHs Research.md",
     "Programming/Obsidian Python .venv.md",
     "Programming/symlink.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SN BH Mass Gap.md",
+                "file": "SN BH Mass Peaj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SN BH Mass Gap"
+              "title": "SN BH Mass Peaj"
             }
           }
         ]
@@ -279,7 +279,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Astronomy/Astro Glossary/PISN.md",
-    "SN BH Mass Gap.md",
+    "SN BH Mass Peaj.md",
     "Dashboard/Home.md",
     "Dashboard/_cache/apod-2026-07-23.json",
     "NVIM/Vim.md",

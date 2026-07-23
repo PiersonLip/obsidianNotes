@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIM/Vim.md",
+                "file": "Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim"
+              "title": "Home"
             }
           }
         ]
@@ -278,8 +278,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard/Home.md",
     "NVIM/Vim.md",
+    "Dashboard/Home.md",
     "Wikipedia/Hydrostatic Equilibrium.md",
     "NVIM",
     "Dashboard/_cache/apod-2026-07-22.json",

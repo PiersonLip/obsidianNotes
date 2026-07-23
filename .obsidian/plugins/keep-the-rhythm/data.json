@@ -4510,9 +4510,37 @@
         "charCountStart": 1867,
         "changes": [],
         "id": 271
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Astronomy/Astro Glossary/PISN.md",
+        "wordCountStart": 59,
+        "charCountStart": 388,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 272
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "SN BH Mass Gap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 23,
+            "c": 143
+          }
+        ],
+        "id": 273
       }
     ],
-    "wholeVaultWordCount": 23899,
-    "wholeVaultCharCount": 165599
+    "wholeVaultWordCount": 23922,
+    "wholeVaultCharCount": 165742
   }
 }

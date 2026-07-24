@@ -31,3 +31,5 @@ $
 
 ## quickfix menu 
 `leader xq` | show hide 
+
+To replace all occurrences of a word or pattern in Vim, use the command **`:%s/old/new/g`**

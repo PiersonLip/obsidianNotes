@@ -4554,11 +4554,17 @@
         "filePath": "NVIM/Vim.md",
         "wordCountStart": 78,
         "charCountStart": 527,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 19,
+            "c": 94
+          }
+        ],
         "id": 274
       }
     ],
-    "wholeVaultWordCount": 23854,
-    "wholeVaultCharCount": 165274
+    "wholeVaultWordCount": 23873,
+    "wholeVaultCharCount": 165368
   }
 }

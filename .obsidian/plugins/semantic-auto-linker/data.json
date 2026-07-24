@@ -69657,7 +69657,7 @@
       "path": "NVIM/Vim.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784760801061,
+      "mtime": 1784857701247,
       "sourceText": "Vim\nMan this is a horrid idea Selecting dropdown options Tab :P Running stuff leader nA - run all above leader nB - run all below leader nR - run all Search To toggle text wrapping in Vim, ==enter normal mode and type== ** ** go-to line :num go to end of line $ spellcheck / : next...",
       "summary": "Man this is a horrid idea Selecting dropdown options Tab :P Running stuff leader nA - run all above leader nB - run all below leader nR - run all Search To toggle text wrapping in Vim, ==enter normal mode and type== ** ** go-to line :num go to end of line $ spellcheck / : next...",
       "embedding": [
@@ -70046,7 +70046,7 @@
         0,
         0
       ],
-      "updatedAt": 1784841560549
+      "updatedAt": 1784857704761
     },
     "SN BH Mass Peak.md": {
       "path": "SN BH Mass Peak.md",

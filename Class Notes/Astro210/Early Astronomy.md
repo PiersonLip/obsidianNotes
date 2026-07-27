@@ -65,7 +65,7 @@ tags:
 
 \item def publication of early results 1610 *"starry messenger"*
 \item - Moon is cratered; not a perfect Sphere
-- [[milkyway]] is made out of stars
+- [[Milkyway]] is made out of stars
 - [[Jupiter]] has moons (or as he thought, stars)
 - measured phases of [[Venus]]
 

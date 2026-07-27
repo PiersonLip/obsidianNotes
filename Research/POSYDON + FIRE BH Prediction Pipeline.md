@@ -62,7 +62,7 @@ Using [[FIRE]] to make a map of the milkyway and combining that with kinematics 
 # Things to work on/look into 
 --- 
 - [ ] Familiarize myself with [[Roman]], how it works, data format, etc etc
-- [x] Look into FIRE, specifically [[milkyway]] models 
+- [x] Look into FIRE, specifically [[Milkyway]] models 
 - [ ] Gaia BH1-2 paper.
 - [x] Lecture
 # Current questions 

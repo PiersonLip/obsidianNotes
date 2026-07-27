@@ -79,7 +79,9 @@
       "2026-06-02",
       "2026-05-28",
       "2026-06-06",
-      "2026-06-25"
+      "2026-06-25",
+      "2026-07-25",
+      "2026-07-27"
     ],
     "dailyActivity": [
       {
@@ -4592,14 +4594,263 @@
           },
           {
             "timeKey": "13:25",
-            "w": 10,
-            "c": 42
+            "w": 89,
+            "c": 498
+          },
+          {
+            "timeKey": "13:30",
+            "w": 27,
+            "c": 177
+          },
+          {
+            "timeKey": "13:35",
+            "w": 35,
+            "c": 215
+          },
+          {
+            "timeKey": "14:05",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 277
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "W30 Ilia Meeting.md",
+        "wordCountStart": 177,
+        "charCountStart": 1073,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 203,
+        "charCountStart": 1867,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "Spotify TUI.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 644,
+            "c": 9816
+          },
+          {
+            "timeKey": "16:30",
+            "w": 5,
+            "c": 45
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 203,
+        "charCountStart": 1867,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Dashboard/Home.md",
+        "wordCountStart": 203,
+        "charCountStart": 1867,
+        "changes": [],
+        "id": 282
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Astronomy/GalacticDynamicsTB.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Intro.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 16,
+            "c": 142
+          },
+          {
+            "timeKey": "16:35",
+            "w": 6,
+            "c": 37
+          },
+          {
+            "timeKey": "16:50",
+            "w": 34,
+            "c": 193
+          },
+          {
+            "timeKey": "16:55",
+            "w": 27,
+            "c": 159
+          },
+          {
+            "timeKey": "17:00",
+            "w": 30,
+            "c": 199
+          },
+          {
+            "timeKey": "17:05",
+            "w": -11,
+            "c": -85
+          },
+          {
+            "timeKey": "17:10",
+            "w": 36,
+            "c": 198
+          },
+          {
+            "timeKey": "17:15",
+            "w": 18,
+            "c": 89
+          },
+          {
+            "timeKey": "17:20",
+            "w": 90,
+            "c": 499
+          },
+          {
+            "timeKey": "17:25",
+            "w": 87,
+            "c": 573
+          },
+          {
+            "timeKey": "17:30",
+            "w": 3,
+            "c": 33
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Astronomy/General Notes/stellar system.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "16:35",
+            "w": 70,
+            "c": 478
+          }
+        ],
+        "id": 285
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Milkyway.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 34,
+            "c": 219
+          },
+          {
+            "timeKey": "16:40",
+            "w": 113,
+            "c": 615
+          },
+          {
+            "timeKey": "16:45",
+            "w": 103,
+            "c": 574
+          },
+          {
+            "timeKey": "16:50",
+            "w": 2,
+            "c": 15
+          }
+        ],
+        "id": 286
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Astronomy/Usefull Conversions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 5,
+            "c": 56
+          },
+          {
+            "timeKey": "16:50",
+            "w": 27,
+            "c": 121
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Equations/Mean Free Path.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 27,
+            "c": 210
+          },
+          {
+            "timeKey": "17:20",
+            "w": 7,
+            "c": 62
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Untitled.md",
+        "wordCountStart": 2,
+        "charCountStart": 22,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": -2,
+            "c": -22
+          }
+        ],
+        "id": 289
       }
     ],
-    "wholeVaultWordCount": 23909,
-    "wholeVaultCharCount": 165587
+    "wholeVaultWordCount": 25427,
+    "wholeVaultCharCount": 180731
   }
 }

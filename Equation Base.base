@@ -1,0 +1,13 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("equation")
+    order:
+      - file.name
+    sort:
+      - property: formula.Untitled
+        direction: ASC

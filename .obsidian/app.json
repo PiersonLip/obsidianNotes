@@ -6,5 +6,5 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": false
 }

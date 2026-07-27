@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "be53cf6eac0927db",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ec69eea2ee18eb30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "W30 Ilia Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W30 Ilia Meeting"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "76290e47f04b9c61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,16 +236,6 @@
             }
           },
           {
-            "id": "cc54a5607bacaedc",
-            "type": "leaf",
-            "state": {
-              "type": "semantic-auto-linker-view",
-              "state": {},
-              "icon": "git-branch",
-              "title": "Semantic auto-linker"
-            }
-          },
-          {
             "id": "31e450c0dedb9803",
             "type": "leaf",
             "state": {
@@ -247,14 +244,23 @@
               "icon": "quote-glyph",
               "title": "References"
             }
+          },
+          {
+            "id": "a7b072027a02328f",
+            "type": "leaf",
+            "state": {
+              "type": "semantic-auto-linker-view",
+              "state": {},
+              "icon": "git-branch",
+              "title": "Semantic auto-linker"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,9 +281,24 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "76290e47f04b9c61",
   "lastOpenFiles": [
+    "Astronomy/GalacticDynamicsTB/Galactic Dynamics Intro.md",
+    "Equations/Mean Free Path.md",
+    "Milkyway.md",
     "Dashboard/Home.md",
+    "Untitled.md",
+    "Equation Base.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Equations",
+    "Astronomy/General Notes/stellar system.md",
+    "Astronomy/Usefull Conversions.md",
+    "Astronomy/GalacticDynamicsTB.md",
+    "Astronomy/GalacticDynamicsTB",
+    "Dashboard/_cache/apod-2026-07-27.json",
+    "Spotify TUI.md",
+    "Dashboard/_cache/apod-2026-07-25.json",
     "W30 Ilia Meeting.md",
     "Dashboard/_cache/apod-2026-07-24.json",
     "NVIM/Vim.md",
@@ -286,33 +307,17 @@
     "Dashboard/_cache/apod-2026-07-23.json",
     "Wikipedia/Hydrostatic Equilibrium.md",
     "NVIM",
-    "Dashboard/_cache/apod-2026-07-22.json",
     "Research/POSYDON/POSYDON Export Selection.md",
-    "AstroNotes.bib",
-    "Dashboard/_cache/apod-2026-07-21.json",
-    "Dashboard/_cache/apod-2026-07-20.json",
     "2026 classes.md",
-    "Dashboard/_cache/apod-2026-07-17.json",
     "Astronomy/General Notes/Confidence Bands.md",
     "Wikipedia/Gravity darkening.md",
     "personalTemplates/auto-status-stub.md",
-    "Bases/Stubs.base",
-    "Bases/Status.base",
     "Research/Paper Notes/Second public data release of the FIRE-2 cosmological zoom-in simulations of galaxy formation (wetzel2025).md",
     "Research/Paper Notes/POSYDON - A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations (fragosPOSYDONGeneralPurposePopulation2023).md",
     "Research/Paper Notes/Isolated Black Holes in the Milky Way (luIsolatedBlackHoles2025).md",
     "Research/Paper Notes/Elusive hot stripped helium stars (Yungelson).md",
     "Research/Paper Notes/Binary evolution in a nutshell (zotero-item-102).md",
     "Research/Paper Notes/An upper limit on short-period BH companions (greenUpper).md",
-    "Research/Paper Notes/A Sun-like star orbiting a black hole (el-badry).md",
-    "Excalidraw/Drawing 2026-07-15 15.03.04.excalidraw.md",
-    "Research/Solar BHs Research.md",
-    "Programming/Obsidian Python .venv.md",
-    "Programming/symlink.md",
-    "Programming/Python multiprocessing.md",
-    "Programming/Object.md",
-    "Programming/class.md",
-    "Research/Meetings/W28 Ilia meeting.md",
     "Attachments/Scott_Gaudi__single_lens_animation.gif",
     "Attachments/Animation_of_the_Rossiter-Mclaughlin_(RM)_effect 1.gif",
     "Attachments/Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif",

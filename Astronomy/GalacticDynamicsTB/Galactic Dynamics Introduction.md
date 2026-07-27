@@ -1,5 +1,5 @@
 ---
-status: stub
+status: wip
 section: book-chapter
 tags:
   - astro-notes/GalacticDynamics
@@ -11,7 +11,7 @@ the study of [[stellar system]]s is a crucial part of Galactic dynamics, specifi
 
 Because our MW is in a steady state (i.e. most stars have had near circular stabilized orbits for a prolonged period of time,) we can analyze the present day equilibrium and structure of the galaxy instead of trying to figure out the much more complicated issue of the formation of our galaxy.
 
-By using the formulae for [[Mean Free Path]] we can derive the probability and rate of a stellar collision, we can prove that stellar collisions can be almost entirely ignored, as they are incredibly rare (see [[Galactic Dynamics Intro#Rate of Collision]] for a proof). Similar to this, hydrodynamic interactions between gas and stars have a minimal impact on orbits.
+By using the formulae for [[Mean Free Path]] we can derive the probability and rate of a stellar collision, we can prove that stellar collisions can be almost entirely ignored, as they are incredibly rare (see [[Galactic Dynamics Introduction#Rate of Collision]] for a proof). Similar to this, hydrodynamic interactions between gas and stars have a minimal impact on orbits.
 
 Thus, each stars motion is soley determined based on its gravitational interactions with other sources of mass. Because dark matter positions are also determined soley by gravity, the tools established in this textbook apply to both dark matter and stars, despite the approximately 70 magnitude difference.
 

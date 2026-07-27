@@ -4687,7 +4687,7 @@
       },
       {
         "date": "2026-07-27",
-        "filePath": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Intro.md",
+        "filePath": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4745,6 +4745,11 @@
             "timeKey": "17:30",
             "w": 3,
             "c": 33
+          },
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 6
           }
         ],
         "id": 284
@@ -4799,7 +4804,7 @@
       },
       {
         "date": "2026-07-27",
-        "filePath": "Astronomy/Usefull Conversions.md",
+        "filePath": "Astronomy/Astornomy Useful Conversions.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4851,6 +4856,6 @@
       }
     ],
     "wholeVaultWordCount": 25427,
-    "wholeVaultCharCount": 180731
+    "wholeVaultCharCount": 180737
   }
 }

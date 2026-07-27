@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be53cf6eac0927db",
+        "id": "cd69159e885ff2df",
         "type": "tabs",
         "children": [
           {
-            "id": "ec69eea2ee18eb30",
+            "id": "0d67dddb00283d13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "76290e47f04b9c61",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Galactic Dynamics Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,19 +275,19 @@
       "semantic-auto-linker:Semantic auto-linker": false
     }
   },
-  "active": "76290e47f04b9c61",
+  "active": "0d67dddb00283d13",
   "lastOpenFiles": [
-    "Astronomy/GalacticDynamicsTB/Galactic Dynamics Intro.md",
+    "Astronomy/Astornomy Useful Conversions.md",
+    "Dashboard/Home.md",
+    "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
     "Equations/Mean Free Path.md",
     "Milkyway.md",
-    "Dashboard/Home.md",
     "Untitled.md",
     "Equation Base.base",
     "Untitled 2.base",
     "Untitled.base",
     "Equations",
     "Astronomy/General Notes/stellar system.md",
-    "Astronomy/Usefull Conversions.md",
     "Astronomy/GalacticDynamicsTB.md",
     "Astronomy/GalacticDynamicsTB",
     "Dashboard/_cache/apod-2026-07-27.json",

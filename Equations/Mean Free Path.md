@@ -12,4 +12,4 @@ tags:
 
 # Examples 
 ---
-![[Galactic Dynamics Intro#Rate of Collision]]
+![[Galactic Dynamics Introduction#Rate of Collision]]

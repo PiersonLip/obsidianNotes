@@ -9,3 +9,4 @@
 - spin orbit tilt 
 - compare ones with dt Myr 
 - save both ids 
+- luminosity *not* using last oneline col, instead use current time 

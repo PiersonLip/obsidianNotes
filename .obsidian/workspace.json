@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
+                "file": "w31 ilia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galactic Dynamics Introduction"
+              "title": "w31 ilia"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Astronomy/Astro Glossary/bolometric luminosity.md",
     "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
+    "Astronomy/Astro Glossary/bolometric luminosity.md",
     "Dashboard/Home.md",
     "w31 ilia.md",
     "Pasted image 20260728131559.png",

@@ -4859,7 +4859,18 @@
         "filePath": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
         "wordCountStart": 336,
         "charCountStart": 2043,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 4,
+            "c": 19
+          },
+          {
+            "timeKey": "13:30",
+            "w": 32,
+            "c": 199
+          }
+        ],
         "id": 290
       },
       {
@@ -4890,7 +4901,7 @@
         "id": 292
       }
     ],
-    "wholeVaultWordCount": 25436,
-    "wholeVaultCharCount": 180802
+    "wholeVaultWordCount": 25472,
+    "wholeVaultCharCount": 181020
   }
 }

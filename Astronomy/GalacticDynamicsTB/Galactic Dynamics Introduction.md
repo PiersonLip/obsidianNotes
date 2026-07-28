@@ -15,6 +15,9 @@ By using the formulae for [[Mean Free Path]] we can derive the probability and r
 
 Thus, each stars motion is soley determined based on its gravitational interactions with other sources of mass. Because dark matter positions are also determined soley by gravity, the tools established in this textbook apply to both dark matter and stars, despite the approximately 70 magnitude difference.
 
+While we can apply this independent model to the *stars* in galaxies, we cannot apply this to the galaxies themselves, as hierarchical formation and interaction is a key part in the formation and evolution of them. 
+
+
 
 ## Rate of Collision 
 ---

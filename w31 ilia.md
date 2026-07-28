@@ -8,3 +8,4 @@
 - add v_sys 
 - spin orbit tilt 
 - compare ones with dt Myr 
+- save both ids 

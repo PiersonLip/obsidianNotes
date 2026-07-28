@@ -73607,7 +73607,7 @@
       "path": "w31 ilia.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1785262644734,
+      "mtime": 1785262874735,
       "sourceText": "w31 ilia\n! 1200",
       "summary": "! 1200",
       "embedding": [
@@ -73996,7 +73996,7 @@
         0,
         0
       ],
-      "updatedAt": 1785262647080
+      "updatedAt": 1785262875792
     }
   },
   "vaultAnalysisSnapshot": null,

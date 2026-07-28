@@ -72817,7 +72817,7 @@
       "path": "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1785263452685,
+      "mtime": 1785263576543,
       "sourceText": "Galactic Dynamics Introduction\nGround Rule Info --- the study of stellar systems is a crucial part of Galactic dynamics, specifically the stellar systems in our MW. Because our MW is in a steady state (i.e. most stars have had near circular stabilized orbits for a prolonged period of time,) we can analyze t...",
       "summary": "Ground Rule Info --- the study of stellar systems is a crucial part of Galactic dynamics, specifically the stellar systems in our MW. Because our MW is in a steady state (i.e. most stars have had near circular stabilized orbits for a prolonged period of time,) we can analyze t...",
       "embedding": [
@@ -73206,7 +73206,7 @@
         0,
         0
       ],
-      "updatedAt": 1785263454699
+      "updatedAt": 1785263579449
     },
     "Astronomy/Astornomy Useful Conversions.md": {
       "path": "Astronomy/Astornomy Useful Conversions.md",

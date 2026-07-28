@@ -4867,8 +4867,8 @@
           },
           {
             "timeKey": "13:30",
-            "w": 32,
-            "c": 199
+            "w": 41,
+            "c": 270
           }
         ],
         "id": 290
@@ -4899,9 +4899,17 @@
           }
         ],
         "id": 292
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Astronomy/Astro Glossary/bolometric luminosity.md",
+        "wordCountStart": 16,
+        "charCountStart": 130,
+        "changes": [],
+        "id": 293
       }
     ],
-    "wholeVaultWordCount": 25472,
-    "wholeVaultCharCount": 181020
+    "wholeVaultWordCount": 25481,
+    "wholeVaultCharCount": 181091
   }
 }

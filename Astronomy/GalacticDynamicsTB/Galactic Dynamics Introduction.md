@@ -17,7 +17,11 @@ Thus, each stars motion is soley determined based on its gravitational interacti
 
 While we can apply this independent model to the *stars* in galaxies, we cannot apply this to the galaxies themselves, as hierarchical formation and interaction is a key part in the formation and evolution of them. 
 
-
+# Observation Overview 
+---
+## Stars
+---
+Because it is hard to measure 
 
 ## Rate of Collision 
 ---

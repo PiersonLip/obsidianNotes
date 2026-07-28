@@ -4,4 +4,6 @@
 
 # To-do
 ---
-- BH filtering 
+- BH filtering script, extra current time col 
+- add v_sys 
+- spin orbit tilt 

@@ -4,6 +4,7 @@
 
 # To-do
 ---
-- BH filtering script, extra current time col 
+- BH filtering script, extra current time key 
 - add v_sys 
 - spin orbit tilt 
+- compare ones with dt Myr 

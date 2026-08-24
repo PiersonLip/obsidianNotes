@@ -4989,7 +4989,13 @@
         "filePath": "NVIM/Vim.md",
         "wordCountStart": 97,
         "charCountStart": 621,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 3,
+            "c": 16
+          }
+        ],
         "id": 299
       },
       {

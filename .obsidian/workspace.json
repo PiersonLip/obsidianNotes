@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "NVIM/Vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Vim"
             }
           }
         ],
@@ -289,8 +289,8 @@
   },
   "active": "c1700a70d9b024bb",
   "lastOpenFiles": [
-    "Spotify TUI.md",
     "Dashboard/Home.md",
+    "Spotify TUI.md",
     "Equations/Biot-Savart Law.md",
     "Equations/Capacitance for Parallel Plates.md",
     "Equations/Capacitance.md",

@@ -4967,7 +4967,13 @@
         "filePath": "Spotify TUI.md",
         "wordCountStart": 649,
         "charCountStart": 9861,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 2
+          }
+        ],
         "id": 297
       },
       {
@@ -5033,6 +5039,78 @@
         "charCountStart": 279,
         "changes": [],
         "id": 305
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Superposition Principle.md",
+        "wordCountStart": 24,
+        "charCountStart": 227,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Electric Field.md",
+        "wordCountStart": 37,
+        "charCountStart": 275,
+        "changes": [],
+        "id": 307
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Potential of a Capacitor.md",
+        "wordCountStart": 38,
+        "charCountStart": 292,
+        "changes": [],
+        "id": 308
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Energy density of a capacitor.md",
+        "wordCountStart": 28,
+        "charCountStart": 253,
+        "changes": [],
+        "id": 309
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Coulomb's Law.md",
+        "wordCountStart": 79,
+        "charCountStart": 477,
+        "changes": [],
+        "id": 310
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Biot-Savart Law for an Infinite Straight Wire.md",
+        "wordCountStart": 35,
+        "charCountStart": 294,
+        "changes": [],
+        "id": 311
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Capacitance.md",
+        "wordCountStart": 31,
+        "charCountStart": 259,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Capacitance for Parallel Plates.md",
+        "wordCountStart": 26,
+        "charCountStart": 256,
+        "changes": [],
+        "id": 313
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Biot-Savart Law.md",
+        "wordCountStart": 73,
+        "charCountStart": 473,
+        "changes": [],
+        "id": 314
       }
     ]
   }

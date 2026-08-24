@@ -106,6 +106,12 @@ Standalone topics (WD SNe, Pauli Exclusion Principle, Gravitational Waves, etc.)
 
 **Section notes:** `Early Astronomy.md`, … — tag `#astro210`; optional back-link to the hub.
 
+### Class — Physics212 (`Class Notes/Physics212/`)
+
+**Physics212 hub:** [[Class Notes/Physics212/Physics212]] — auto-lists topic notes in that folder.
+
+**Section notes:** one per LaTeX `\section` (Coulomb's Law, Capacitors, …) plus discussion/example notes — tag `#physics212`; back-link to the hub. Equation boxes → `[!equation]` / `[!constant]` callouts; TikZ figures in `Attachments/physics212-*.png`.
+
 ### Book — Physics of Binary Star Evolution
 
 **Hub:** [[Astronomy/Physics of Binary Star Evolution/Physics of Binary Star Evolution]] — short intro + inline **Bases** chapter list (automatic).
@@ -141,6 +147,7 @@ Use **Bases → Glossary** or `tag:#glossary` / `path:"Astronomy/Astro Glossary"
 | Tag | Use |
 |-----|-----|
 | `#astro210` | All Astro210 hub + section notes |
+| `#physics212` | All Physics212 hub + section notes |
 | `#astro-notes/astrobite` | Astrobites |
 | `#astro-notes/paper` | Papers |
 | `#astro-notes/physics-of-binary-star-evolution` | Binary star book |

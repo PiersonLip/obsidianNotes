@@ -18,14 +18,14 @@ A monochromatic laser beam of intensity $I_0 = 548 \text{ W/m}^2$ is polarized i
 
 ### Questions and Solutions for Setup 1
 
-**1) What is $I_{\text{mid**}$, the intensity of the beam immediately following the polarizer whose transmission axis is aligned with the $x$-axis?}
+\textbf{1) What is $I_{\text{mid}}$, the intensity of the beam immediately following the polarizer whose transmission axis is aligned with the $x$-axis?}
 
 **Answer:** $274 \text{ W/m}^2$
 
 **Derivation:** The quarter-wave plate converts the linearly polarized incident beam into a circularly polarized beam. The total intensity remains $I_0 = 548 \text{ W/m}^2$. When circularly polarized light passes through a linear polarizer (regardless of its transmission axis angle), exactly half of the intensity is transmitted.
 $$I_{\text{mid}} = \frac{1}{2} I_0 = \frac{548}{2} = 274 \text{ W/m}^2$$
 
-**2) What is $I_{\text{final**}$, the intensity of the beam immediately following the last polarizer?}
+\textbf{2) What is $I_{\text{final}}$, the intensity of the beam immediately following the last polarizer?}
 
 **Answer:** $13.8 \text{ W/m}^2$
 
@@ -33,7 +33,7 @@ $$I_{\text{mid}} = \frac{1}{2} I_0 = \frac{548}{2} = 274 \text{ W/m}^2$$
 $$I_{\text{final}} = I_{\text{mid}} \cos^2(\theta_1)$$
 $$I_{\text{final}} = 274 \cos^2(77^\circ) \approx 274 (0.22495)^2 \approx 13.86 \text{ W/m}^2$$
 
-**3) What is the ratio of $E_{y,\text{final**}$, the maximum value of the $y$-component of the electric field immediately following the last polarizer, to $E_0$, the amplitude of the electric field oscillations in the incident polarized beam?}
+\textbf{3) What is the ratio of $E_{y,\text{final}}$, the maximum value of the $y$-component of the electric field immediately following the last polarizer, to $E_0$, the amplitude of the electric field oscillations in the incident polarized beam?}
 
 **Answer:** $0.155$
 

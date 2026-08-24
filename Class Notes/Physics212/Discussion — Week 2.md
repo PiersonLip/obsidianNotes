@@ -14,65 +14,53 @@ tags:
 
 ### q1
 
-> [!example] Example
+> [!example] P1) Find magnitude
 >
 > The configuration below shows some points
->     around a positive charge Q. If a positive test charge q
->     is placed at point A, at a distance rA from Q, calculate
->     the magnitude of the force between the charges in
->     terms the given variables. \\
+> around a positive charge Q. If a positive test charge q
+> is placed at point A, at a distance rA from Q, calculate
+> the magnitude of the force between the charges in
+> terms the given variables. 
 >
->
->     
 >
 > > [!warning] Figure
-> > TikZ figure `discussion-week-2-1` could not be exported; see LaTeX source.
->
->
->
->
->
+> TikZ figure `discussion-week-2-1` could not be exported.
+
 >
 >
 > ![[physics212-discussion-week-2-2.png]]
 >
 >
->
->
 > ---
->  \\ **P1) Find magnitude**
->
->     Because we're finding a charge diff, we use [(eq:CoulombsLaw)](#eq:CoulombsLaw)
+> >
+> Because we're finding a charge diff, we use [(eq:CoulombsLaw)](#eq:CoulombsLaw)
 >
 > $$
 > \vec{F_{12}} = k \frac{Qq}{r_A^2}
 > $$
 >
 >
->
 > ---
->  \\ **P2) Force strength**
+> **P2) Force strength**
 >
->     Based on distance to the *field* of Q  
+> Based on distance to the *field* of Q  
 >
 > $$
 > F_B > F_A > F_C > F_D
 > $$
 >
 >
->
 > ---
->  \\ **P4) Electric Field Mag**
+> **P4) Electric Field Mag**
 >
->     Because a test charge placed in a field exerts doesn't have any force of its own, we use a modified version of [(eq:ElectricField)](#eq:ElectricField)
+> Because a test charge placed in a field exerts doesn't have any force of its own, we use a modified version of [(eq:ElectricField)](#eq:ElectricField)
 >
 >
 > $$
 > E = k \frac{Q}{r_a^2}
 > $$
 >
->
->     Based on above… 
+> Based on above… 
 >
 > $$
 > 2Q \propto 2E,   2q \cancel{\propto} 2E
@@ -84,15 +72,11 @@ tags:
 >
 > Four point charges 2q, q, q, and q are placed at the corners of a rectangle of dimensions a and 3a as shown in the figure. A fifth charge Q is placed at the center of the rectangle. Our task is to compute the electric field at the center of the rectangle, and then determine the force on Q.
 >
->
->
 > ![[physics212-discussion-week-2-3.png]]
 >
 >
->
->
 > ---
->  \\ **P1) Find the mag of field charges**
+> **P1) Find the mag of field charges**
 >
 > $$
 > r = \sqrt{\left(\frac{3a}{2}\right)^2 + \frac{1}{(2a)^2}}
@@ -119,6 +103,5 @@ tags:
 > $$
 >
 >
->
 > ---
->   \\ **P3) Find X and Y components**
+> **P3) Find X and Y components**

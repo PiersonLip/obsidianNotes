@@ -24,26 +24,34 @@ There is a lorentz force pushing the bar in the *oppisite* direction of travel.
 >
 > ![[physics212-motional-emf-1.png]]
 
-\begin{eqboxed}{eq:barThroughMagField}{E field of a bar moving through B field}
-{}
+> [!equation] E field of a bar moving through B field
+> <a id="eq:barThroughMagField"></a>
+>
+
+$$
 E = vB
-\end{eqboxed}
+$$
 
 If this bar is attached to rails that connect to a circuit, it will drive current through said current.
 
-\begin{eqboxed}{eq:potDiffOfBarMovingInBfield}{Potential Difference of Bar in B field}
-{}
-\upvarepsilon = vBL
-\end{eqboxed}
+> [!equation] Potential Difference of Bar in B field
+> <a id="eq:potDiffOfBarMovingInBfield"></a>
+>
 
-\begin{eqboxed}{eq:motionalEMFGenerator}{Motional EMF of a generator}
-{}
+$$
+\upvarepsilon = vBL
+$$
+
+> [!equation] Motional EMF of a generator
+> <a id="eq:motionalEMFGenerator"></a>
+>
+
+$$
 \upvarepsilon = \omega AB\cos(\omega t)
-\end{eqboxed}
+$$
 
 > [!example] Example
 >
 > test
->
 >
 > ![[physics212-motional-emf-2.png]]

@@ -25,32 +25,29 @@ tags:
 > ---
 >
 >
->
->
 > ![[physics212-conductors-and-capacitance-1.png]]
 >
 >
+> $$
+>
+> V_A = - \int_{\infty}^{R_A} \vec{E}_A \cdot \vec{dl},
+>
+> V_B = - \int_{\infty}^{R_B} \vec{E}_B \cdot \vec{dl}
 >
 > $$
 >
->       V_A = - \int_{\infty}^{R_A} \vec{E}_A \cdot \vec{dl},
->
->       V_B = - \int_{\infty}^{R_B} \vec{E}_B \cdot \vec{dl}
+> Given a point charge …
 >
 > $$
 >
->       Given a point charge …
+> \vec{E} = k\frac{Q}{r^2} 
+> \rightarrow 
+> -\int_{\infty}^{r} k \frac{Q}{r^2} = k \frac{Q}{r}
+> \rightarrow 
 >
 > $$
 >
->       \vec{E} = k\frac{Q}{r^2} 
->       \rightarrow 
->       -\int_{\infty}^{r} k \frac{Q}{r^2} = k \frac{Q}{r}
->       \rightarrow 
->
-> $$
->
->       For a point charge…
+> For a point charge…
 >
 > $$
 > V = k \frac{Q}{r}
@@ -59,49 +56,54 @@ tags:
 >
 > $$
 >
->       V_A = k \frac{Q}{R_A},
+> V_A = k \frac{Q}{R_A},
 >
->       V_B = k \frac{Q}{4 R_B}
->
-> $$
->
->
-> $$
->
->       4 \times V_A = V_B 
->
-> $$
->
->       Once connected, become a single conductor which wishes to reach equipotential. To find final charges …
->
-> $$
->
->       V_A = V_B 
->       \rightrightarrows
->       k \frac{Q_A}{R_A} = k \frac{Q_B}{R_B}
+> V_B = k \frac{Q}{4 R_B}
 >
 > $$
 >
 >
 > $$
 >
->       \cancel{k} \frac{Q_A}{R_A} = \cancel{k} \frac{Q_B}{4 R_A}
+> 4 \times V_A = V_B 
+>
+> $$
+>
+> Once connected, become a single conductor which wishes to reach equipotential. To find final charges …
+>
+> $$
+>
+> V_A = V_B 
+> \rightrightarrows
+> k \frac{Q_A}{R_A} = k \frac{Q_B}{R_B}
 >
 > $$
 >
 >
 > $$
 >
->       4Q_A = Q_B
+> \cancel{k} \frac{Q_A}{R_A} = \cancel{k} \frac{Q_B}{4 R_A}
+>
+> $$
+>
+>
+> $$
+>
+> 4Q_A = Q_B
 >
 > $$
 
 ### Capacitance
 
-\begin{eqboxed}{eq:Capacitance}{Capacitance}
-{Units of Farads, or Coulombs per volt}
+> [!equation] Capacitance
+> <a id="eq:Capacitance"></a>
+> Units of Farads, or Coulombs per volt
+>
+
+$$
 C \equiv \frac{Q}{\Delta V}
-\end{eqboxed}
+$$
+
 - Measure of field between to oppositely charged objects
 - Ex. A plate of Q and -Q placed a distance d away from one another
 - Stores the energy *in* the magnetic field induced between said objects
@@ -111,145 +113,145 @@ C \equiv \frac{Q}{\Delta V}
 > ---
 >
 >
->
->
 > ![[physics212-conductors-and-capacitance-2.png]]
 >
->
->
->     To calculate E field between plates …
+> To calculate E field between plates …
 >
 > $$
 >
->     E_{bot} = \frac{1}{2} \frac{\sigma}{\epsilon_0},
+> E_{bot} = \frac{1}{2} \frac{\sigma}{\epsilon_0},
 >
->     E_{top} = \frac{1}{2} \frac{\sigma}{\epsilon_0}
->
-> $$
->
->
-> $$
->
->     \sigma = \frac{Q}{A}
+> E_{top} = \frac{1}{2} \frac{\sigma}{\epsilon_0}
 >
 > $$
 >
 >
 > $$
 >
->     E_{bot} = \frac{1}{2} \frac{Q}{\epsilon_0 A },
->
->     E_{top} = \frac{1}{2} \frac{Q}{\epsilon_0 A}
->
-> $$
->
->     Since field lines are the same direction…
->
-> $$
->
->     E_{tot} = \frac{Q}{\epsilon_0 A}
->
-> $$
->
->
->     To find capacitance…
->
-> $$
->
->     C \equiv \frac{Q}{\Delta V}
+> \sigma = \frac{Q}{A}
 >
 > $$
 >
 >
 > $$
 >
->     \left|\Delta V\right| = \int_{bot}^{top} \vec{E} \cdot dl 
->     \rightrightarrows
->     \Delta V = \frac{Q}{\epsilon_0 A} \int_{bot}^{top} dl 
+> E_{bot} = \frac{1}{2} \frac{Q}{\epsilon_0 A },
+>
+> E_{top} = \frac{1}{2} \frac{Q}{\epsilon_0 A}
+>
+> $$
+>
+> Since field lines are the same direction…
+>
+> $$
+>
+> E_{tot} = \frac{Q}{\epsilon_0 A}
+>
+> $$
+>
+>
+> To find capacitance…
+>
+> $$
+>
+> C \equiv \frac{Q}{\Delta V}
 >
 > $$
 >
 >
 > $$
 >
->     \Delta V = \frac{Q}{\epsilon_0 A} d
+> \left|\Delta V\right| = \int_{bot}^{top} \vec{E} \cdot dl 
+> \rightrightarrows
+> \Delta V = \frac{Q}{\epsilon_0 A} \int_{bot}^{top} dl 
 >
 > $$
 >
 >
 > $$
 >
->     C = \frac{\epsilon_0 A}{d}
+> \Delta V = \frac{Q}{\epsilon_0 A} d
+>
+> $$
+>
+>
+> $$
+>
+> C = \frac{\epsilon_0 A}{d}
 >
 > $$
 
-\begin{eqboxed}{eq:capacitance_for_parrel_plates}{Capacitance for Parrel Plates}
-{}
+> [!equation] Capacitance for Parrel Plates
+> <a id="eq:capacitance_for_parrel_plates"></a>
+>
+
+$$
 C = \frac{\epsilon_0 A}{d}
-\end{eqboxed}
+$$
 
 > [!example] Parallel Plate Capacitor
 >
 > ---
 >
 >
->
->
 > ![[physics212-conductors-and-capacitance-3.png]]
 >
->
->
->     To calculate the work needed to move a particle from the bottom plate to the top plate 
+> To calculate the work needed to move a particle from the bottom plate to the top plate 
 >
 > $$
 > dW = dq E d
 > $$
 >
->     Since we know that the energy from the electric field is equal to $\frac{V}{d}$…
+> Since we know that the energy from the electric field is equal to $\frac{V}{d}$…
 >
 > $$
 >
->     dW = dq \frac{V}{\cancel{d}} \cancel{d}
->
-> $$
->
->
-> $$
->
->     dU = V dq
->
-> $$
->
->     This holds true for *any system*. Note that dU is *not* constant because for each particle moved, it becomes requires more work for the next. 
->
->     To calculate potential of a capacitor…
->
->
-> $$
->
->     U = \int_{0}^{Q} V dq 
->     \rightrightarrows
->     U = \int_{0}^{Q} \frac{q}{c} dq
+> dW = dq \frac{V}{\cancel{d}} \cancel{d}
 >
 > $$
 >
 >
->     Thus …
+> $$
+>
+> dU = V dq
 >
 > $$
 >
->     U = \frac{1}{2} \frac{Q^2}{C}
+> This holds true for *any system*. Note that dU is *not* constant because for each particle moved, it becomes requires more work for the next. 
+>
+> To calculate potential of a capacitor…
+>
+>
+> $$
+>
+> U = \int_{0}^{Q} V dq 
+> \rightrightarrows
+> U = \int_{0}^{Q} \frac{q}{c} dq
+>
+> $$
+>
+> Thus …
+>
+> $$
+>
+> U = \frac{1}{2} \frac{Q^2}{C}
 >
 > $$
 
-\begin{eqboxed}{eq:Capacitor_potential}{Potential of a Capacitor}
-{}
+> [!equation] Potential of a Capacitor
+> <a id="eq:Capacitor_potential"></a>
+>
+
+$$
 U = \frac{1}{2} \frac{Q^2}{C}   
 U = \frac{1}{2} CV^2   
 U = \frac{1}{2} QV
-\end{eqboxed}
+$$
 
-\begin{eqboxed}{eq:capacitor_energy_density}{Energy density of a capacitor}
-{}
+> [!equation] Energy density of a capacitor
+> <a id="eq:capacitor_energy_density"></a>
+>
+
+$$
 u = \frac{1}{2} \epsilon_0 E^2
-\end{eqboxed}
+$$

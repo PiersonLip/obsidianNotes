@@ -16,20 +16,31 @@ tags:
 
 - Measure of electric field lines over an area
 
-\begin{eqboxed}{eq:ElectricField}{Electric Field}
-{Measure of the energy in an electric field at a point}
+> [!equation] Electric Field
+> <a id="eq:ElectricField"></a>
+> Measure of the energy in an electric field at a point
+>
+
+$$
 E = k \frac{q}{r^2}
-\end{eqboxed}
+$$
 
-\begin{eqboxed}{eq:fieldlineDensity}{Density of Field Lines}
-{used when plotting}
+> [!equation] Density of Field Lines
+> <a id="eq:fieldlineDensity"></a>
+> used when plotting
+>
+
+$$
 D = \frac{N}{4 \pi r^2}
-\end{eqboxed}
+$$
 
-\begin{eqboxed}{eq:numberOfLines}{Number of Graphed Field Lines }
-{}
+> [!equation] Number of Graphed Field Lines
+> <a id="eq:numberOfLines"></a>
+>
+
+$$
 N \equiv \frac{q}{\epsilon_0},   E = \frac{N}{A}
-\end{eqboxed}
+$$
 
 ### Flux
 

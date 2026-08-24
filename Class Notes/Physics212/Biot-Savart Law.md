@@ -12,17 +12,28 @@ tags:
 
 ---
 
-\begin{eqboxed}{eq:BiotSavartLaw}{Biot-Savart Law}
-{Where $d\vec{s}$ is a length of the wire, and r is the distance from said length segment. $\hat{r}$ is a vector from the wire to the point. $\mu_0 =$ [(const:muNaught)](#const:muNaught). ds takes direction of current. }
+> [!equation] Biot-Savart Law
+> <a id="eq:BiotSavartLaw"></a>
+> Where $d\vec{s}$ is a length of the wire, and r is the distance from said length segment. $\hat{r}$ is a vector from the wire to the point. $\mu_0 =$ [(const:muNaught)](#const:muNaught). ds takes direction of current.
+>
+
+$$
 d\vec{B} = \frac{\mu_0 I}{4\pi}\frac{d\vec{s} \times \hat{r}}{r^2}
-\end{eqboxed}
+$$
 
-\begin{constboxed}{const:muNaught}{$\mu_0$}
-{}
-\mu_0 = 4\pi \times 10^{-7}  \frac{\text{T}\cdot \text{m}}{\text{A}} 
-\end{constboxed}
+> [!constant] $\mu_0$
+> <a id="const:muNaught"></a>
+>
 
-\begin{eqboxed}{eq:infStraightWireBiotSavartLaw}{Biot-Savart Law for a infinite straight wire}
-{where R is perpendicular distance}
+$$
+\mu_0 = 4\pi \times 10^{-7}  \frac{\text{T}\cdot \text{m}}{\text{A}}
+$$
+
+> [!equation] Biot-Savart Law for a infinite straight wire
+> <a id="eq:infStraightWireBiotSavartLaw"></a>
+> where R is perpendicular distance
+>
+
+$$
 B = \frac{\mu_0 I}{2\pi R}
-\end{eqboxed}
+$$

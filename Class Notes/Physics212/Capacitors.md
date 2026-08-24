@@ -41,12 +41,7 @@ $$
 > ---
 >
 >
->
->
->
 > ![[physics212-capacitors-1.png]]
->
->
 >
 > - Capacitance increases
 > - $V_c = V_b$
@@ -74,21 +69,13 @@ $$
 > ---
 >
 >
->
->
->
->
 > ![[physics212-capacitors-2.png]]
->
->
->
 >
 > Simply into single capacitors 
 >
 > $$
 > C_2, C_3 \rightarrow \frac{1}{C_{23}} = \frac{1}{C_2} + \frac{1}{C_3} = 1.2\text{mF}
 > $$
->
 >
 > $$
 > C_1, C_{23} \rightarrow C_1 + C_{23} = C_{123}= 2.2\text{mF}

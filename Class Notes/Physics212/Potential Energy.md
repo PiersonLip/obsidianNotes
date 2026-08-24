@@ -12,17 +12,26 @@ tags:
 
 ---
 
-\begin{eqboxed}{eq:GausssLaw}{Guass's Law}
-{}
+> [!equation] Guass's Law
+> <a id="eq:GausssLaw"></a>
+>
+
+$$
 \int E dS = \frac{Q_{enclosed}}{\epsilon_0}
-\end{eqboxed}
+$$
 
-\begin{eqboxed}{eq:Change_in_Potential}{Change in potential in const E field}
-{}
+> [!equation] Change in potential in const E field
+> <a id="eq:Change_in_Potential"></a>
+>
+
+$$
 \Delta U = q \vec{E} \ell
-\end{eqboxed}
+$$
 
-\begin{eqboxed}{eq:Change_in_pot_in_non_static}{Change in potential in non static field}
-{}
-\Delta U = Q\int_a^b \vec{E} dr 
-\end{eqboxed}
+> [!equation] Change in potential in non static field
+> <a id="eq:Change_in_pot_in_non_static"></a>
+>
+
+$$
+\Delta U = Q\int_a^b \vec{E} dr
+$$

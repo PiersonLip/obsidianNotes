@@ -110,7 +110,7 @@ Standalone topics (WD SNe, Pauli Exclusion Principle, Gravitational Waves, etc.)
 
 **Physics212 hub:** [[Class Notes/Physics212/Physics212]] — auto-lists topic notes in that folder.
 
-**Section notes:** one per LaTeX `\section` (Coulomb's Law, Capacitors, …) plus discussion/example notes — tag `#physics212`; back-link to the hub. Equation boxes → `[!equation]` / `[!constant]` callouts; TikZ figures in `Attachments/physics212-*.png`.
+**Section notes:** one per LaTeX `\section` (Coulomb's Law, Capacitors, …) plus discussion/example notes — tag `#physics212`; back-link to the hub. Equation boxes → `[!equation]` / `[!constant]` callouts linking to `Equations/<name>`; TikZ figures in `Attachments/physics212-*.png`. Canonical equations live in `Equations/` (tag `#equation` + `#physics212`) with an Examples link back to the class note.
 
 ### Book — Physics of Binary Star Evolution
 

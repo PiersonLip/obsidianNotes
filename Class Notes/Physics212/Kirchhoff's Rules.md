@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> [!equation] Kirchhoff Voltage Rule
+> [!equation] [[Equations/Kirchhoff Voltage Rule|Kirchhoff Voltage Rule]]
 > <a id="eq:KirchhoffVoltageRule"></a>
 > In a ***closed*** circuit, if you return to the same location, no matter what path you take, the change in voltage will be 0. Very similar to conservation of energy in a magnetic field.
 >
@@ -21,7 +21,7 @@ $$
 \sum\Delta V_n = 0
 $$
 
-> [!equation] Kirchhoff Current Rule
+> [!equation] [[Equations/Kirchhoff Current Rule|Kirchhoff Current Rule]]
 > <a id="eq:KirchhoffCurrentRule"></a>
 > At any node (location where two or more paths/wires meet), the current in must be equal to the current out (of said node)
 >

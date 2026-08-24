@@ -10,7 +10,7 @@ tags:
 
 [[Class Notes/Physics212/Physics212|← Physics212]]
 
-> [!equation] Coulomb's Law
+> [!equation] [[Equations/Coulomb's Law|Coulomb's Law]]
 > <a id="eq:CoulombsLaw"></a>
 > Gives a force along the line of two charges. If $q_1$ and $q_2$ have the same sign (i.e. charge) then the force must be repulsive. But if they have the *same* sign, then it must be attractive. Because of Newton's second law, $F_{12} = -F_{21}$
 >
@@ -38,7 +38,7 @@ $$
 
 ![[physics212-coulombs-law-3.png]]
 
-> [!equation] Superpostion Principle
+> [!equation] [[Equations/Superposition Principle|Superposition Principle]]
 > <a id="eq:SuperpostionPrinciple"></a>
 >
 

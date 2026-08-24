@@ -4985,6 +4985,54 @@
         "charCountStart": 621,
         "changes": [],
         "id": 299
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Class Notes/Physics212/Kirchhoff's Rules.md",
+        "wordCountStart": 245,
+        "charCountStart": 1776,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Class Notes/Physics212/Coulomb's Law.md",
+        "wordCountStart": 253,
+        "charCountStart": 1692,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Class Notes/Physics212/Forces and Torques on Currents.md",
+        "wordCountStart": 569,
+        "charCountStart": 3898,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Class Notes/Physics212/Electric Flux and Field Lines.md",
+        "wordCountStart": 146,
+        "charCountStart": 975,
+        "changes": [],
+        "id": 303
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Class Notes/Physics212/Potential Energy.md",
+        "wordCountStart": 75,
+        "charCountStart": 579,
+        "changes": [],
+        "id": 304
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Equations/Mean Free Path.md",
+        "wordCountStart": 34,
+        "charCountStart": 279,
+        "changes": [],
+        "id": 305
       }
     ]
   }

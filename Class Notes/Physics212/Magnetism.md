@@ -19,7 +19,7 @@ tags:
 - the field *looks* like a dipole setup when measuring the field, howver it is not
 - if the magnet is split in half it becomes two more bar magnets
 
-> [!equation] Magnetic Force
+> [!equation] [[Equations/Magnetic Force|Magnetic Force]]
 > <a id="eq:MagneticForce"></a>
 > Movement of a particle in a magnetic field
 >

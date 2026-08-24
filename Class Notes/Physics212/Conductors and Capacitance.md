@@ -95,7 +95,7 @@ tags:
 
 ### Capacitance
 
-> [!equation] Capacitance
+> [!equation] [[Equations/Capacitance|Capacitance]]
 > <a id="eq:Capacitance"></a>
 > Units of Farads, or Coulombs per volt
 >
@@ -181,7 +181,7 @@ $$
 >
 > $$
 
-> [!equation] Capacitance for Parrel Plates
+> [!equation] [[Equations/Capacitance for Parallel Plates|Capacitance for Parallel Plates]]
 > <a id="eq:capacitance_for_parrel_plates"></a>
 >
 
@@ -238,7 +238,7 @@ $$
 >
 > $$
 
-> [!equation] Potential of a Capacitor
+> [!equation] [[Equations/Potential of a Capacitor|Potential of a Capacitor]]
 > <a id="eq:Capacitor_potential"></a>
 >
 
@@ -248,7 +248,7 @@ U = \frac{1}{2} CV^2
 U = \frac{1}{2} QV
 $$
 
-> [!equation] Energy density of a capacitor
+> [!equation] [[Equations/Energy density of a capacitor|Energy density of a capacitor]]
 > <a id="eq:capacitor_energy_density"></a>
 >
 

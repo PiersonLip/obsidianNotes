@@ -16,7 +16,7 @@ tags:
 
 - Measure of electric field lines over an area
 
-> [!equation] Electric Field
+> [!equation] [[Equations/Electric Field|Electric Field]]
 > <a id="eq:ElectricField"></a>
 > Measure of the energy in an electric field at a point
 >

@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> [!equation] Guass's Law
+> [!equation] [[Equations/Gauss's Law|Gauss's Law]]
 > <a id="eq:GausssLaw"></a>
 >
 
@@ -20,7 +20,7 @@ $$
 \int E dS = \frac{Q_{enclosed}}{\epsilon_0}
 $$
 
-> [!equation] Change in potential in const E field
+> [!equation] [[Equations/Change in Potential in Constant E Field|Change in Potential in Constant E Field]]
 > <a id="eq:Change_in_Potential"></a>
 >
 
@@ -28,7 +28,7 @@ $$
 \Delta U = q \vec{E} \ell
 $$
 
-> [!equation] Change in potential in non static field
+> [!equation] [[Equations/Change in Potential in Non-Static Field|Change in Potential in Non-Static Field]]
 > <a id="eq:Change_in_pot_in_non_static"></a>
 >
 

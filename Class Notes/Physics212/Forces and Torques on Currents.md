@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> [!equation] Force on a Current Carrying Wire
+> [!equation] [[Equations/Force on a Current-Carrying Wire|Force on a Current-Carrying Wire]]
 > <a id="eq:ForceOnACurentCarryingWire"></a>
 >
 
@@ -33,7 +33,7 @@ $$
 > - which is the same thing after finding the length between the start and end point (denoted as $L$) and taking the cross product of it with the field
 > - This gives us the final equation of $F_{wire} = I\vec{L}\times \vec{B}$
 
-> [!equation] Torque On Current Loop
+> [!equation] [[Equations/Torque on Current Loop|Torque on Current Loop]]
 > <a id="eq:TorqueOnCurrentLoop"></a>
 >
 
@@ -41,7 +41,7 @@ $$
 \tau_{loop} = IAB\sin\theta
 $$
 
-> [!equation] Magnetic Dipole Moment
+> [!equation] [[Equations/Magnetic Dipole Moment|Magnetic Dipole Moment]]
 > <a id="eq:MagneticDipoleMoment"></a>
 > Where N is number of coils
 >
@@ -50,7 +50,7 @@ $$
 \mu = NI\vec{A}
 $$
 
-> [!equation] Torque on a Loop
+> [!equation] [[Equations/Torque on a Loop|Torque on a Loop]]
 > <a id="eq:TorqueOnAloop"></a>
 >
 
@@ -58,7 +58,7 @@ $$
 \vec{\tau} = \vec{\mu} \times \vec{B}
 $$
 
-> [!equation] Torque Work
+> [!equation] [[Equations/Torque Work|Torque Work]]
 > <a id="eq:TorqueWork"></a>
 >
 
@@ -66,7 +66,7 @@ $$
 W = \int \tau d\theta
 $$
 
-> [!equation] Potential Energy of Dipole in B Field
+> [!equation] [[Equations/Potential Energy of Dipole in B Field|Potential Energy of Dipole in B Field]]
 > <a id="eq:PotentialEnergyofDipoleinBField"></a>
 >
 
@@ -74,7 +74,7 @@ $$
 U(\theta) = -\vec{\mu} \cdot \vec{B}
 $$
 
-> [!equation] Work on a Current Carrying Loop in a Mangetic Field
+> [!equation] [[Equations/Work on a Current Carrying Loop in a Magnetic Field|Work on a Current Carrying Loop in a Magnetic Field]]
 > <a id="eq:workOnCurrentCarryingLoop"></a>
 >
 

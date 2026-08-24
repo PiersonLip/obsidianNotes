@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> [!equation] Biot-Savart Law
+> [!equation] [[Equations/Biot-Savart Law|Biot-Savart Law]]
 > <a id="eq:BiotSavartLaw"></a>
 > Where $d\vec{s}$ is a length of the wire, and r is the distance from said length segment. $\hat{r}$ is a vector from the wire to the point. $\mu_0 =$ [(const:muNaught)](#const:muNaught). ds takes direction of current.
 >
@@ -29,7 +29,7 @@ $$
 \mu_0 = 4\pi \times 10^{-7}  \frac{\text{T}\cdot \text{m}}{\text{A}}
 $$
 
-> [!equation] Biot-Savart Law for a infinite straight wire
+> [!equation] [[Equations/Biot-Savart Law for an Infinite Straight Wire|Biot-Savart Law for an Infinite Straight Wire]]
 > <a id="eq:infStraightWireBiotSavartLaw"></a>
 > where R is perpendicular distance
 >

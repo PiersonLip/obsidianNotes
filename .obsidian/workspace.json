@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:graphing",
+                "query": "tag:#astro-notes/research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,8 +278,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Spotify TUI.md",
     "Dashboard/Home.md",
+    "NVIM/Vim.md",
+    "Dashboard/_cache/apod-2026-08-24.json",
+    "Spotify TUI.md",
     "Dashboard/_cache/apod-2026-08-18.json",
     "w31 ilia.md",
     "Astronomy/GalacticDynamicsTB/Galactic Dynamics Introduction.md",
@@ -299,8 +302,6 @@
     "Dashboard/_cache/apod-2026-07-27.json",
     "Dashboard/_cache/apod-2026-07-25.json",
     "W30 Ilia Meeting.md",
-    "Dashboard/_cache/apod-2026-07-24.json",
-    "NVIM/Vim.md",
     "SN BH Mass Peak.md",
     "Astronomy/Astro Glossary/PISN.md",
     "Wikipedia/Hydrostatic Equilibrium.md",

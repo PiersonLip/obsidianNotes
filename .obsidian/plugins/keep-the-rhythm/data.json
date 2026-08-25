@@ -5133,6 +5133,20 @@
         "charCountStart": 1867,
         "changes": [],
         "id": 316
+      },
+      {
+        "date": "2026-08-25",
+        "filePath": "Class Notes/Stat207/Lecture1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 317
       }
     ]
   }

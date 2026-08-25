@@ -36,3 +36,6 @@ To replace all occurrences of a word or pattern in Vim, use the command **`:%s/o
 
 copy all
 ggVGy
+
+Latex compiling 
+\ll  : start contiunous 

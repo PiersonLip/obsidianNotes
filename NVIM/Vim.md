@@ -38,4 +38,4 @@ copy all
 ggVGy
 
 Latex compiling 
-\ll  : start contiunous 
+\ll  : start contiunous 1

@@ -278,9 +278,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Astronomy/Astronomy Useful Conversions.md",
+    "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-09-03.json",
     "NVIM/Vim.md",
     "Class Notes/Stat207/Lecture1.md",
-    "Dashboard/Home.md",
     "Class Notes/Stat207",
     "Dashboard/_cache/apod-2026-08-25.json",
     "Spotify TUI.md",
@@ -305,7 +307,6 @@
     "Equations/Kirchhoff Voltage Rule.md",
     "Equations/Work on a Current Carrying Loop in a Magnetic Field.md",
     "Equations/Potential Energy of Dipole in B Field.md",
-    "Equations/Torque Work.md",
     "Attachments/physics212-discussion-d4-1.png",
     "Attachments/physics212-discussion-week-2-3.png",
     "Attachments/physics212-discussion-week-2-2.png",
@@ -323,7 +324,6 @@
     "Equation Base.base",
     "Untitled 2.base",
     "Untitled.base",
-    "Equations",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

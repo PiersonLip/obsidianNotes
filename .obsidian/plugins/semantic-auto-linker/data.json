@@ -3686,7 +3686,7 @@
         0,
         0
       ],
-      "updatedAt": 1787682686824
+      "updatedAt": 1788459691438
     },
     "Class Notes/Class Notes.md": {
       "path": "Class Notes/Class Notes.md",
@@ -90592,7 +90592,7 @@
       "path": "Class Notes/Class Notes/Stat207/Violinplots.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1788458602880,
+      "mtime": 1788459704519,
       "sourceText": "Violinplots\nUsed for plotting both a number and a boolean/logical statement",
       "summary": "Used for plotting both a number and a boolean/logical statement",
       "embedding": [
@@ -90981,7 +90981,7 @@
         0.3132424984350101,
         0
       ],
-      "updatedAt": 1788458606459
+      "updatedAt": 1788459706107
     }
   },
   "vaultAnalysisSnapshot": null,

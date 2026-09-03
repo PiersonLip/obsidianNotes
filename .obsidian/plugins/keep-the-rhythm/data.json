@@ -5188,6 +5188,20 @@
           }
         ],
         "id": 320
+      },
+      {
+        "date": "2026-09-03",
+        "filePath": "Class Notes/Class Notes/Stat207/Violinplots.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 20,
+            "c": 126
+          }
+        ],
+        "id": 321
       }
     ]
   }

@@ -278,7 +278,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "NVIM/Vim.md",
     "Dashboard/Home.md",
+    "Dashboard/_cache/apod-2026-11-22.json",
     "Dashboard/_cache/apod-2026-09-30.json",
     "uias.md",
     "Astronomy/Physics of Binary Star Evolution/Visual binaries and the universal validity of the laws of physics.md",
@@ -287,7 +289,6 @@
     "Research/POSYDON + FIRE BH Prediction Pipeline.md",
     "Class Notes/Physics212/Physics212.md",
     "Class Notes/Physics212/Discussion — Pset 1.md",
-    "NVIM/Vim.md",
     "Class Notes/Class Notes/Stat207",
     "Class Notes/Class Notes",
     "Astronomy/Astronomy Useful Conversions.md",
@@ -322,7 +323,6 @@
     "Attachments/physics212-forces-and-torques-on-currents-1.png",
     "Class Notes/Physics212",
     "Dashboard/_cache/apod-2026-08-24.json",
-    "Dashboard/_cache/apod-2026-08-18.json",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

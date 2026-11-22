@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 658.5078125,
-    "collapsed": true
+    "width": 658.5078125
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -278,8 +277,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "NVIM/Vim.md",
     "Dashboard/Home.md",
+    "NVIM/Vim.md",
     "Dashboard/_cache/apod-2026-11-22.json",
     "Dashboard/_cache/apod-2026-09-30.json",
     "uias.md",

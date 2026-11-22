@@ -63337,7 +63337,7 @@
       "path": "Astronomy/General Notes/gravitational lensing.md",
       "providerId": "local-fallback",
       "modelId": "local-fallback:hash-384:v1",
-      "mtime": 1784154169323,
+      "mtime": 1795368548762,
       "sourceText": "gravitational lensing\nGravitational Lensing --- Warping of light due to the effects of gravity in accordance with GR. This is most prominent in very high mass regions, such as galaxy clusters. Produces **MUCH** stronger signal then if the object wasn't being \"lensed\", hence allowing us to look fart...",
       "summary": "Gravitational Lensing --- Warping of light due to the effects of gravity in accordance with GR. This is most prominent in very high mass regions, such as galaxy clusters. Produces **MUCH** stronger signal then if the object wasn't being \"lensed\", hence allowing us to look fart...",
       "embedding": [
@@ -63726,7 +63726,7 @@
         0,
         0
       ],
-      "updatedAt": 1795350746456
+      "updatedAt": 1795368551381
     },
     "Astronomy/General Notes/college panel.md": {
       "path": "Astronomy/General Notes/college panel.md",

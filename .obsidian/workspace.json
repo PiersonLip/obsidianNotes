@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Home.md",
+                "file": "Astronomy/General Notes/Confidence Bands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Confidence Bands"
             }
           }
         ]
@@ -277,6 +277,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Astronomy/General Notes/gravitational lensing.md",
     "Dashboard/Home.md",
     "NVIM/Vim.md",
     "Dashboard/_cache/apod-2026-11-22.json",

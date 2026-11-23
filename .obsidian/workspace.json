@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 658.5078125
+    "width": 658.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1bcd45af517f7612",
@@ -277,9 +278,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard/Home.md",
     "Astronomy/General Notes/Confidence Bands.md",
     "Astronomy/General Notes/gravitational lensing.md",
-    "Dashboard/Home.md",
     "NVIM/Vim.md",
     "Dashboard/_cache/apod-2026-11-22.json",
     "Dashboard/_cache/apod-2026-09-30.json",

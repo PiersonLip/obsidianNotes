@@ -5313,6 +5313,34 @@
         "charCountStart": 681,
         "changes": [],
         "id": 332
+      },
+      {
+        "date": "2026-11-22",
+        "filePath": "Astronomy/General Notes/gravitational lensing.md",
+        "wordCountStart": 77,
+        "charCountStart": 543,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 333
+      },
+      {
+        "date": "2026-11-22",
+        "filePath": "Astronomy/General Notes/Confidence Bands.md",
+        "wordCountStart": 125,
+        "charCountStart": 840,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 334
       }
     ]
   }
